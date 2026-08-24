@@ -11,30 +11,13 @@
             "id": "a3b7316c5df68a52",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Ativo/Pasted Image 20260714151622_098.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20260714151622_098"
-            }
-          },
-          {
-            "id": "2cb4a7071d0ed887",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DIREITO ADMINISTRATIVO/Aula 7/DIR.ADM.A.7/DIR.ADM.A.7.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "DIR.ADM.A.7"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 683.2
   },
   "right": {
     "id": "1f21ed8ca2632c5a",
@@ -198,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 447.7215576171875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,8 +197,9 @@
       "pencil:New whiteboard": false
     }
   },
-  "active": "2cb4a7071d0ed887",
+  "active": "3698bc30449052bd",
   "lastOpenFiles": [
+    "DIREITO ADMINISTRATIVO/Aula 7/DIR.ADM.A.7.md",
     "PORTUGUES/MAPAS MENTAIS PORTUGUÊS/PORT - Anotações.pdf",
     "PORTUGUES/MAPAS MENTAIS PORTUGUÊS",
     "PORTUGUES/pasta sem título",
@@ -242,7 +226,6 @@
     "VADE MECUM",
     "Direito Processual Civil/AULA 4/Petição Inicial-/Efeitos/05 - Excalidraw",
     "Direito Processual Civil/AULA 4/Petição Inicial-/Efeitos/Efeitos.md",
-    "Direito Processual Civil/AULA 4/Petição Inicial-/Efeitos/04 - Material",
     "Direito Processual Civil/AULA 4/Petição Inicial-/Conceito/Conceito.md",
     "Direito Processual Civil/AULA 4/Petição Inicial-/Requisitos/Requisitos.md",
     "Direito Processual Civil/AULA 3/=====AULA 3======.md",

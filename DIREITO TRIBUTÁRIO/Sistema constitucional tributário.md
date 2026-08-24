@@ -35,7 +35,7 @@ data: 2026-03-31
 > > Explicação do porquê está certo ou errado.
 > 
 > **SUA RESPOSTA:** Certo
-> **Conceitos:** [[DIREITO TRIBUTÁRIO]] | [[Sistema constitucional tributário]]
+> **Conceitos:** [[DIREITO TRIBUTÁRIO]] | [[DIREITO TRIBUTÁRIO/Sistema constitucional tributário]]
 
 ---
 ## 🗺️ 4. Mapa Mental (Arquitetura)
