@@ -23,12 +23,14 @@
             "id": "2cb4a7071d0ed887",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "DIREITO ADMINISTRATIVO/blocoIIAdm.pdf"
+                "file": "DIREITO ADMINISTRATIVO/Aula 7/DIR.ADM.A.7/DIR.ADM.A.7.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "blocoIIAdm"
+              "icon": "lucide-file",
+              "title": "DIR.ADM.A.7"
             }
           }
         ],
@@ -110,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIREITO ADMINISTRATIVO/blocoIIAdm.pdf",
+                "file": "DIREITO ADMINISTRATIVO/Aula 7/DIR.ADM.A.7/DIR.ADM.A.7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,22 +214,54 @@
       "pencil:New whiteboard": false
     }
   },
-  "active": "3698bc30449052bd",
+  "active": "2cb4a7071d0ed887",
   "lastOpenFiles": [
-    "Ativo/PASTA TESTE OBSIDIAN/TESTE.md",
-    "DIREITO ADMINISTRATIVO/blocoIIAdm.pdf",
-    "Ativo/PASTA TESTE OBSIDIAN",
-    "DIREITO ADMINISTRATIVO/BlocoIIIAdm.md",
-    "Ativo/Pasted image 20260706165114.png",
-    "Ativo/Pasted Image 20260714135743_498.png",
-    "Ativo/Pasted Image 20260714151622_098.png",
-    "Ativo/Pasted image 20260706170807.png",
-    "Ativo/VADE MECUM/Vade_mecum_Senado_Federal_3ed.pdf",
-    "Ativo/VADE MECUM/Vade_mecum_Senado_Federal_3ed-2.md",
-    "Ativo/VADE MECUM/Vade_mecum_Senado_Federal_3ed.md",
-    "DIREITO ADMINISTRATIVO/BlocoIIIAdm.pdf",
-    "DIREITO ADMINISTRATIVO/adm 6.pdf",
-    "DIREITO ADMINISTRATIVO/adm 7.pdf",
-    "00_inbox/vavilov_sliconst3.md"
+    "PORTUGUES/MAPAS MENTAIS PORTUGUÊS/PORT - Anotações.pdf",
+    "PORTUGUES/MAPAS MENTAIS PORTUGUÊS",
+    "PORTUGUES/pasta sem título",
+    "PORTUGUES/PORT - Anotações.pdf",
+    "PORTUGUES/verbo de ligação.md",
+    "PORTUGUES/Drawing 2026-07-08 13.39.49.excalidraw.md",
+    "images/Vavilov_Terraform_PARA.sh",
+    "images/Pasted Image 20260714151622_098.png",
+    "images/Pasted Image 20260714135743_498.png",
+    "images/Pasted Image 20260714123742_715.png",
+    "images/Pasted Image 20260708173602_923.png",
+    "images/Pasted Image 20260708164531_338.png",
+    "images/Pasted Image 20260708142317_438.png",
+    "images/Pasted image 20260706170807.png",
+    "images/Pasted image 20260706165114.png",
+    "images/Pasted Image 20260514115802_002.png",
+    "images/Pasted Image 20260428130948_358.png",
+    "images/Sem título.canvas",
+    "images/Sem título.base",
+    "images",
+    "VADE MECUM/Vade_mecum_Senado_Federal_3ed.pdf",
+    "VADE MECUM/Vade_mecum_Senado_Federal_3ed-2.md",
+    "VADE MECUM/Lei.md",
+    "VADE MECUM",
+    "Direito Processual Civil/AULA 4/Petição Inicial-/Efeitos/05 - Excalidraw",
+    "Direito Processual Civil/AULA 4/Petição Inicial-/Efeitos/Efeitos.md",
+    "Direito Processual Civil/AULA 4/Petição Inicial-/Efeitos/04 - Material",
+    "Direito Processual Civil/AULA 4/Petição Inicial-/Conceito/Conceito.md",
+    "Direito Processual Civil/AULA 4/Petição Inicial-/Requisitos/Requisitos.md",
+    "Direito Processual Civil/AULA 3/=====AULA 3======.md",
+    "DIREITO PREVIDENCIÁRIO/AULA 2/Princípios e Regras da Previdência Social/Princípios e Regras da Previdência Social.md",
+    "DIREITO PREVIDENCIÁRIO/AULA 2/Da Previdência Social (RGPS)/Da Previdência Social (RGPS).md",
+    "DIREITO PREVIDENCIÁRIO/AULA 2/Beneficiários da Previdência Social – RGPS./Beneficiários da Previdência Social – RGPS..md",
+    "DIREITO PENAL MILITAR/AULA 3/===========AULA 3=========.md",
+    "DIREITO PENAL MILITAR/AULA 5/Parte Especial (Código Penal Militar)-/Crimes que atentam contra o dever e o serviço militar/Crimes que atentam contra o dever e o serviço militar.md",
+    "DIREITO PENAL MILITAR/AULA 5/Parte Especial (Código Penal Militar)-/Crimes contra a autoridade ou disciplina militar/Crimes contra a autoridade ou disciplina militar.md",
+    "DIREITO PENAL MILITAR/AULA 4/Penas/Penas.md",
+    "DIREITO PENAL MILITAR/AULA 4/Concurso de pessoas-agentes/Concurso de pessoas-agentes.md",
+    "DIREITO PENAL/AULA 6/Teoria do Crime – Culpabilidade (elemento do crime) II-/Teorias da culpabilidade/Teorias da culpabilidade.md",
+    "DIREITO PENAL/AULA 6/Teoria do Crime – Culpabilidade (elemento do crime) II-/Natureza jurídica/Natureza jurídica.md",
+    "DIREITO PENAL/AULA 6/Teoria do Crime – Culpabilidade (elemento do crime) II-/Elementos da culpabilidade/Elementos da culpabilidade.md",
+    "DIREITO PENAL/AULA 6/Teoria do Crime – Culpabilidade (elemento do crime) II-/Conceito/Conceito.md",
+    "DIREITO PENAL/AULA 6/Teoria do Crime – Culpabilidade (elemento do crime) II-/Causas excludentes de culpabilidade (causas dirimentes)./Causas excludentes de culpabilidade (causas dirimentes)..md",
+    "DIREITO PENAL/AULA 6/Iter criminis-/Teorias sobre a distinção entre atos preparatórios e executórios./Teorias sobre a distinção entre atos preparatórios e executórios..md",
+    "DIREITO PENAL/AULA 6/Iter criminis-/Tentativa (art. 14, II, e parágrafo único, do CP)/Tentativa (art. 14, II, e parágrafo único, do CP).md",
+    "DIREITO PENAL/AULA 6/Iter criminis-/Desistência voluntária e arrependimento eficaz (art.15 do CP)/Desistência voluntária e arrependimento eficaz (art.15 do CP).md",
+    "DIREITO PENAL/AULA 6/Iter criminis-/Conceito de iter criminis/Conceito de iter criminis.md"
   ]
 }
