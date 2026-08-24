@@ -1,0 +1,57 @@
+=================================================================
+DIREITO DO CONSUMIDOR - AULA 2 (Prof. Rafael Costa - G7 Jurídico)
+TÓPICO 4: DIREITO DE REGRESSO E DENUNCIAÇÃO DA LIDE
+Estilo FGV - Questões de Múltipla Escolha (5 alternativas)
+=================================================================
+
+QUESTÃO 1
+Nos termos do art. 88 do CDC, na hipótese do art. 13, parágrafo único, a ação
+de regresso:
+
+(A) somente pode ser ajuizada nos mesmos autos da ação principal, sendo
+    obrigatória a denunciação da lide.
+(B) poderá ser ajuizada em processo autônomo, facultada a possibilidade de
+    prosseguir-se nos mesmos autos, sendo vedada a denunciação da lide.
+(C) é vedada em qualquer hipótese, não podendo o comerciante voltar-se contra
+    o fabricante.
+(D) somente pode ser exercida pelo comerciante, e não pelos demais
+    fornecedores da cadeia.
+(E) depende de prévia autorização do consumidor lesado.
+
+QUESTÃO 2
+Embora o art. 13, parágrafo único, do CDC mencione expressamente o
+comerciante, é correto afirmar, conforme destacado na aula, que o direito de
+regresso:
+
+(A) é exclusivo do comerciante, não podendo ser exercido pelos demais
+    fornecedores.
+(B) pode ser exercido por todos os fornecedores da cadeia, não apenas pelo
+    comerciante.
+(C) somente pode ser exercido pelo fabricante contra o importador.
+(D) depende de cláusula contratual expressa entre os fornecedores.
+(E) prescreve no mesmo prazo da pretensão do consumidor contra o fornecedor.
+
+QUESTÃO 3
+Segundo entendimento do STJ (REsp 1.165.279/SP, 3ª Turma) e reafirmado em
+julgado mais recente sobre erro médico (REsp 2.160.516-CE, 3ª Turma,
+1º/4/2025), a vedação à denunciação da lide prevista no art. 88 do CDC:
+
+(A) restringe-se exclusivamente às hipóteses de responsabilidade do
+    comerciante por fato do produto (art. 13).
+(B) aplica-se também às demais hipóteses de responsabilidade civil por
+    acidente de consumo, incluindo o fato do serviço (art. 14), não podendo
+    o hospital denunciar a lide aos médicos por erro médico, ainda que possa
+    propor ação regressiva autônoma comprovando culpa.
+(C) impede qualquer ação de regresso do hospital contra o médico, mesmo que
+    autônoma.
+(D) aplica-se apenas a relações envolvendo produtos importados.
+(E) foi revogada pela jurisprudência mais recente do STJ, admitindo-se agora
+    a denunciação da lide em qualquer hipótese de acidente de consumo.
+
+=================================================================
+GABARITO
+=================================================================
+1 - B
+2 - B
+3 - B
+=================================================================

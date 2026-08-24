@@ -1,0 +1,66 @@
+=================================================================
+DIREITO DO CONSUMIDOR - AULA 2 (Prof. Rafael Costa - G7 Jurídico)
+TÓPICO 8: RESPONSABILIDADE POR VÍCIO DO PRODUTO E DO SERVIÇO
+Estilo FGV - Questões de Múltipla Escolha (5 alternativas)
+=================================================================
+
+QUESTÃO 1
+No tocante à natureza da responsabilidade por vício do produto e do serviço,
+o CDC estabelece que:
+
+(A) é subjetiva e individual do fornecedor imediato.
+(B) é objetiva e solidária de todos os que integram a cadeia de produção,
+    distribuição e comercialização, sendo que, nos termos do art. 23, a
+    ignorância do fornecedor sobre os vícios não o exime de responsabilidade.
+(C) depende de prova de dolo do fabricante.
+(D) somente se aplica a produtos duráveis, não abrangendo os não duráveis.
+(E) exclui-se automaticamente quando o produto ainda estiver na garantia
+    contratual.
+
+QUESTÃO 2
+Sobre o ônus da prova do vício, é correto afirmar que:
+
+(A) cabe sempre e exclusivamente ao fornecedor, sem qualquer exceção.
+(B) em regra, cabe ao consumidor (CPC, art. 331, I; CDC, art. 6º, VIII),
+    podendo o juiz, excepcionalmente, inverter esse ônus.
+(C) cabe sempre ao Ministério Público, por se tratar de direito difuso.
+(D) inexiste regra sobre ônus da prova em relação a vícios no CDC.
+(E) cabe ao consumidor de forma absoluta, sendo vedada qualquer inversão.
+
+QUESTÃO 3
+Segundo o STJ, são hipóteses de reconhecimento de solidariedade pelo vício
+entre integrantes de cadeias distintas de fornecimento, EXCETO:
+
+(A) incorporador e construtor por vícios e defeitos de construção surgidos no
+    empreendimento imobiliário.
+(B) instituição financeira vinculada à montadora, a montadora e a
+    concessionária de veículos por vícios do veículo.
+(C) franqueadoras e franqueados por vícios nos produtos e serviços da
+    franquia.
+(D) seguradora e oficina indicada ou credenciada por vícios nos serviços
+    executados no automóvel do consumidor.
+(E) corretora de imóveis e empresa de pagamentos (pagadoria), por atrasos na
+    obra do empreendimento imobiliário (STJ, REsp 2.155.898-SP).
+
+QUESTÃO 4
+Constituem exceções à regra da solidariedade na responsabilidade por vício,
+respondendo apenas o fornecedor imediato, os casos de:
+
+(A) fornecimento de produto in natura sem identificação clara do produtor; e
+    vício de quantidade decorrente de produto pesado ou medido com
+    instrumento não aferido segundo os padrões oficiais.
+(B) qualquer vício de qualidade em produto industrializado, ainda que o
+    fabricante seja identificável.
+(C) vício em produtos vendidos por meio de e-commerce, independentemente de
+    sua natureza.
+(D) vício de qualidade em serviços bancários.
+(E) fornecimento de produtos com selo do INMETRO.
+
+=================================================================
+GABARITO
+=================================================================
+1 - B
+2 - B
+3 - E
+4 - A
+=================================================================

@@ -1,0 +1,79 @@
+=================================================================
+DIREITO DO CONSUMIDOR - AULA 2 (Prof. Rafael Costa - G7 Jurídico)
+TÓPICO 15: SUJEITOS RESPONSÁVEIS PELA OFERTA
+Estilo FGV - Questões de Múltipla Escolha (5 alternativas)
+=================================================================
+
+QUESTÃO 1
+Nos termos do art. 34 do CDC, o fornecedor do produto ou serviço é
+solidariamente responsável pelos atos de:
+
+(A) apenas seus empregados diretos, com vínculo trabalhista formal.
+(B) seus prepostos ou representantes autônomos.
+(C) exclusivamente terceiros totalmente estranhos à cadeia de fornecimento.
+(D) apenas seus sócios administradores.
+(E) apenas fornecedores concorrentes que utilizem publicidade semelhante.
+
+QUESTÃO 2
+Quanto à oferta de componentes e peças de reposição (art. 32 do CDC), os
+fabricantes e importadores deverão assegurar tal oferta:
+
+(A) apenas durante o período de garantia contratual do produto.
+(B) enquanto não cessar a fabricação ou importação do produto e, cessada a
+    produção, por período razoável de tempo (correspondente, segundo o
+    Decreto 2.181/97, à vida útil do produto).
+(C) por prazo indeterminado, mesmo após o produto se tornar obsoleto.
+(D) apenas mediante solicitação expressa do consumidor em até 30 dias após a
+    compra.
+(E) apenas em relação a produtos de linha branca.
+
+QUESTÃO 3
+A chamada "obsolescência programada" - redução artificial da durabilidade de
+produtos ou de seus componentes para forçar a recompra prematura - é
+considerada:
+
+(A) prática lícita, decorrente da livre iniciativa do fornecedor.
+(B) prática abusiva, por ofender a boa-fé objetiva, o dever de qualidade-
+    adequação e o dever de informação.
+(C) mera estratégia de marketing, sem relevância jurídica.
+(D) hipótese de vício de quantidade do produto.
+(E) prática admitida desde que informada em letras pequenas no manual do
+    produto.
+
+QUESTÃO 4
+São exemplos de obsolescência programada mencionados na aula, com base no
+STJ (REsp 984.106/SC), EXCETO:
+
+(A) reduzida vida útil de componentes eletrônicos associada a preço abusivo
+    do componente de reposição.
+(B) incompatibilidades propositais entre componentes antigos e novos.
+(C) lançamento de linha nova com cessação precoce das peças da linha antiga.
+(D) concessão de garantia contratual superior à garantia legal mínima.
+(E) Nenhuma das alternativas anteriores, pois A, B e C são efetivamente
+    exemplos citados.
+
+QUESTÃO 5
+Segundo o STJ, no citado REsp 984.106/SC, quanto ao prazo para reclamar de
+vício oculto de fabricação relativo a projeto, cálculo estrutural ou
+resistência de materiais, é correto afirmar que:
+
+(A) o prazo se esgota necessariamente ao término da garantia contratual,
+    ainda que o vício só se manifeste depois.
+(B) o prazo se inicia no momento em que o defeito se evidenciar, ainda que
+    depois de expirado o prazo contratual de garantia, devendo-se considerar
+    o critério da vida útil do bem.
+(C) inexiste qualquer prazo para reclamação de vícios ocultos.
+(D) o critério aplicável é sempre o da garantia contratual, e nunca o da
+    vida útil do bem.
+(E) o fornecedor é responsável ad aeternum pelo produto colocado em
+    circulação.
+
+=================================================================
+GABARITO
+=================================================================
+1 - B
+2 - B
+3 - B
+4 - D
+5 - B
+=================================================================

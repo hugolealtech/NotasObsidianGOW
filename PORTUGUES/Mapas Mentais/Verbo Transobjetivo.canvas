@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"ac9f0c13cb771c05","type":"text","text":"Tornar","x":-225,"y":-180,"width":127,"height":54,"color":"3"},
+		{"id":"599093d9e929dfc2","type":"text","text":"Considerar","x":-225,"y":-52,"width":132,"height":60,"color":"3"},
+		{"id":"facf1ef46e119bc8","type":"text","text":"Esses verbos forçam a mudança de estado do objeto direto","x":20,"y":-90,"width":209,"height":88,"color":"5"},
+		{"id":"307515b909124e62","type":"text","text":"\"O juiz julgou o réu culpado\"","x":260,"y":-72,"width":267,"height":53,"color":"4"},
+		{"id":"94be65c58483237c","type":"text","text":"Culpado = Predicativo do objeto = mudança de estado","x":560,"y":-94,"width":211,"height":98,"color":"5"},
+		{"id":"2def80e09ac6200a","type":"text","text":"O juiz julgou o réu = O.D.","x":269,"y":10,"width":250,"height":60,"color":"4"},
+		{"id":"2cd1523205f234be","type":"text","text":"[[verbo transobjetivo]]","x":-540,"y":-77,"width":220,"height":50,"color":"3"},
+		{"id":"64c29d53b7e61bf9","type":"text","text":"Julgar","x":-225,"y":-117,"width":131,"height":54,"color":"3"},
+		{"id":"561b01070e52207e","type":"text","text":"Deixar","x":-224,"y":15,"width":130,"height":50,"color":"3"},
+		{"id":"d3665614f063e66d","type":"text","text":"Mnemônico: \"Verbo trans, torno a te Julgar, mas considero te Deixar\"","x":-311,"y":100,"width":304,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"59968b0ff5049d89","fromNode":"2cd1523205f234be","fromSide":"right","toNode":"ac9f0c13cb771c05","toSide":"left"},
+		{"id":"01d764412e5c0cd0","fromNode":"2cd1523205f234be","fromSide":"right","toNode":"64c29d53b7e61bf9","toSide":"left"},
+		{"id":"9b080f9dd0a5d274","fromNode":"2cd1523205f234be","fromSide":"right","toNode":"599093d9e929dfc2","toSide":"left"},
+		{"id":"311ce644e4d15bd7","fromNode":"2cd1523205f234be","fromSide":"right","toNode":"561b01070e52207e","toSide":"left"},
+		{"id":"9e1a2f890e1b1f27","fromNode":"ac9f0c13cb771c05","fromSide":"right","toNode":"facf1ef46e119bc8","toSide":"left"},
+		{"id":"d3c75f8e106d1589","fromNode":"64c29d53b7e61bf9","fromSide":"right","toNode":"facf1ef46e119bc8","toSide":"left"},
+		{"id":"10a66f274a56ca02","fromNode":"599093d9e929dfc2","fromSide":"right","toNode":"facf1ef46e119bc8","toSide":"left"},
+		{"id":"aac798384b90c8e9","fromNode":"561b01070e52207e","fromSide":"right","toNode":"facf1ef46e119bc8","toSide":"left"},
+		{"id":"0bd9f6b0c22eed5e","fromNode":"facf1ef46e119bc8","fromSide":"right","toNode":"307515b909124e62","toSide":"left"},
+		{"id":"d96f59741b483da0","fromNode":"307515b909124e62","fromSide":"bottom","toNode":"2def80e09ac6200a","toSide":"top"},
+		{"id":"65096bb3209fb042","fromNode":"307515b909124e62","fromSide":"right","toNode":"94be65c58483237c","toSide":"left"},
+		{"id":"475bd3b195c98aa3","fromNode":"561b01070e52207e","fromSide":"bottom","toNode":"d3665614f063e66d","toSide":"top"}
+	]
+}

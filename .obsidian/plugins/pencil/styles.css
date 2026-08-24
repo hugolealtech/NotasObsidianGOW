@@ -1,0 +1,175 @@
+.pencil-root {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	background-color: #1a1a1a;
+	color: #e6e6e6;
+	padding: 0;
+}
+
+.pencil-toolbar {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 6px;
+	align-items: center;
+	padding: 6px 8px;
+	background-color: #232323;
+	border-bottom: 1px solid #2f2f2f;
+	user-select: none;
+	-webkit-user-select: none;
+	touch-action: manipulation;
+}
+
+.pencil-toolbar .pencil-btn {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	height: 32px;
+	width: 32px;
+	padding: 0;
+	border: 1px solid transparent;
+	border-radius: 6px;
+	background-color: transparent;
+	color: #e6e6e6;
+	cursor: pointer;
+}
+
+.pencil-toolbar .pencil-btn:hover {
+	background-color: #2e2e2e;
+}
+
+.pencil-toolbar .pencil-btn.is-active {
+	background-color: #3b3b3b;
+	border-color: #5b9dff;
+	color: #ffffff;
+}
+
+/* Ensure the SVG icon inside a button always has a real size. WebKit (e.g. the
+   iPad's Safari build) applies intrinsic/aspect sizing to an inline <svg> that
+   is a flex child and ignores the CSS size, collapsing it to zero (blank icon).
+   Explicit dimensions plus min-width:0 / flex-shrink:0 defeat that. See
+   flexbugs#184. The width/height attributes set in JS reinforce this. */
+.pencil-toolbar .pencil-btn svg.svg-icon,
+.pencil-toolbar .pencil-btn svg {
+	width: 18px;
+	height: 18px;
+	min-width: 18px;
+	flex: 0 0 auto;
+	stroke: currentColor;
+	fill: none;
+	display: block;
+}
+
+/* Fallback: when an icon fails to render, a short text label is used. */
+.pencil-toolbar .pencil-btn-text {
+	width: auto;
+	min-width: 32px;
+	padding: 0 10px;
+	font-size: 13px;
+	font-weight: 500;
+}
+
+.pencil-toolbar .pencil-sep {
+	width: 1px;
+	height: 24px;
+	background-color: #3a3a3a;
+	margin: 0 4px;
+}
+
+.pencil-toolbar .pencil-swatch {
+	width: 22px;
+	height: 22px;
+	border-radius: 50%;
+	border: 2px solid transparent;
+	cursor: pointer;
+	box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.4);
+}
+
+.pencil-toolbar .pencil-swatch.is-active {
+	border-color: #5b9dff;
+}
+
+.pencil-toolbar .pencil-swatch-add {
+	position: relative;
+	background-color: transparent;
+	color: #e6e6e6;
+	font-size: 18px;
+	line-height: 1;
+	font-weight: 600;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	box-shadow: inset 0 0 0 1px #4a4a4a;
+}
+
+.pencil-toolbar .pencil-swatch-add:hover {
+	background-color: #2e2e2e;
+}
+
+.pencil-color-input {
+	position: absolute;
+	inset: 0;
+	width: 100%;
+	height: 100%;
+	opacity: 0;
+	cursor: pointer;
+	border: none;
+	padding: 0;
+	margin: 0;
+}
+
+.pencil-toolbar .pencil-size {
+	height: 32px;
+	min-width: 32px;
+	padding: 0 6px;
+	border-radius: 6px;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	cursor: pointer;
+}
+
+.pencil-toolbar .pencil-size:hover {
+	background-color: #2e2e2e;
+}
+
+.pencil-toolbar .pencil-size.is-active {
+	background-color: #3b3b3b;
+	box-shadow: inset 0 0 0 1px #5b9dff;
+}
+
+.pencil-toolbar .pencil-size-dot {
+	background-color: #e6e6e6;
+	border-radius: 50%;
+}
+
+.pencil-canvas-wrap {
+	position: relative;
+	flex: 1 1 auto;
+	min-height: 0;
+	overflow: hidden;
+	background-color: #1a1a1a;
+	touch-action: none;
+}
+
+.pencil-canvas {
+	position: absolute;
+	inset: 0;
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+
+.pencil-overlay {
+	pointer-events: none;
+}
+
+.pencil-status {
+	padding: 4px 10px;
+	font-size: 11px;
+	color: #9a9a9a;
+	background-color: #1f1f1f;
+	border-top: 1px solid #2a2a2a;
+	user-select: none;
+	-webkit-user-select: none;
+}

@@ -1,0 +1,93 @@
+=================================================================
+DIREITO DO CONSUMIDOR - AULA 2 (Prof. Rafael Costa - G7 Jurídico)
+TÓPICO 3: RESPONSABILIDADE CIVIL PELO FATO DO PRODUTO
+Estilo FGV - Questões de Múltipla Escolha (5 alternativas)
+=================================================================
+
+QUESTÃO 1
+Nos termos do art. 12 do CDC, respondem, independentemente da existência de
+culpa, pela reparação dos danos causados aos consumidores por defeitos do
+produto:
+
+(A) apenas o comerciante e o transportador.
+(B) o fabricante, o produtor, o construtor, nacional ou estrangeiro, e o
+    importador.
+(C) somente o importador, quando o fabricante for estrangeiro.
+(D) exclusivamente o fabricante, excluindo-se o construtor e o produtor.
+(E) apenas quem tiver agido com dolo ou culpa grave.
+
+QUESTÃO 2
+Um produto é considerado defeituoso, segundo o art. 12, § 1º, do CDC, quando:
+
+(A) apresenta qualquer imperfeição estética, ainda que não afete a segurança.
+(B) não oferece a segurança que dele legitimamente se espera, consideradas
+    sua apresentação, o uso e riscos razoavelmente esperados e a época em
+    que foi colocado em circulação.
+(C) seu preço é superior ao praticado pela concorrência.
+(D) não corresponde exatamente à quantidade anunciada na embalagem.
+(E) é lançado no mercado após produto de tecnologia mais recente.
+
+QUESTÃO 3
+Assinale a alternativa que identifica corretamente as espécies de defeito do
+produto, segundo a classificação doutrinária estudada:
+
+(A) defeito de concepção, defeito de fabricação e defeito de comercialização.
+(B) defeito de origem, defeito de destino e defeito de trânsito.
+(C) defeito aparente, defeito oculto e defeito continuado.
+(D) defeito primário, defeito secundário e defeito terciário.
+(E) defeito objetivo, defeito subjetivo e defeito misto.
+
+QUESTÃO 4
+Sobre a responsabilidade do comerciante pelo fato do produto (art. 13 do
+CDC), é correto afirmar que ele responde de forma equiparada ao fabricante
+quando, EXCETO:
+
+(A) o fabricante, o construtor, o produtor ou o importador não puderem ser
+    identificados.
+(B) o produto for fornecido sem identificação clara de seu fabricante,
+    produtor, construtor ou importador.
+(C) não conservar adequadamente produtos perecíveis.
+(D) o fabricante identificado recusar-se, extrajudicialmente, a indenizar o
+    consumidor.
+(E) Nenhuma das alternativas anteriores está correta (todas as hipóteses A,
+    B e C são efetivamente causas de responsabilização do comerciante).
+
+QUESTÃO 5
+Segundo entendimento consolidado no STJ acerca da atuação de corretoras de
+imóveis na cadeia de fornecimento (AgInt no AREsp 2.539.221-RJ, 4ª Turma,
+j. 07/10/2025), é correto afirmar que:
+
+(A) a corretora sempre responde solidariamente por qualquer inadimplemento
+    da incorporadora, por integrar a cadeia de consumo.
+(B) a corretora não integra, em regra, a cadeia de fornecimento do imóvel,
+    somente respondendo solidariamente quando sua atuação extrapolar a mera
+    intermediação (falha específica na corretagem, participação na
+    incorporação ou vínculo societário com a incorporadora).
+(C) a corretora nunca pode ser responsabilizada, ainda que tenha participado
+    diretamente da incorporação.
+(D) a responsabilidade da corretora é sempre subjetiva e depende de dolo.
+(E) a responsabilidade da corretora somente existe em contratos de compra e
+    venda de imóveis comerciais, não residenciais.
+
+QUESTÃO 6
+São causas de exclusão da responsabilidade do fabricante, construtor, produtor
+ou importador pelo fato do produto (art. 12, § 3º, do CDC), EXCETO:
+
+(A) que não colocou o produto no mercado.
+(B) que, embora haja colocado o produto no mercado, o defeito inexiste.
+(C) a culpa exclusiva do consumidor ou de terceiro.
+(D) a mera alegação de caso fortuito interno, ligado à própria atividade
+    empresarial.
+(E) Todas as alternativas anteriores (A, B e C) estão corretas como causas
+    excludentes previstas no CDC, sendo apenas a hipótese "D" estranha ao rol.
+
+=================================================================
+GABARITO
+=================================================================
+1 - B
+2 - B
+3 - A
+4 - D
+5 - B
+6 - D
+=================================================================

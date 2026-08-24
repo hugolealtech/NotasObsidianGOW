@@ -1,0 +1,77 @@
+=================================================================
+DIREITO DO CONSUMIDOR - AULA 2 (Prof. Rafael Costa - G7 Jurídico)
+TÓPICO 2: RESPONSABILIDADE CIVIL NAS RELAÇÕES DE CONSUMO
+Estilo FGV - Questões de Múltipla Escolha (5 alternativas)
+=================================================================
+
+QUESTÃO 1
+A responsabilidade civil objetiva, regra geral no Direito do Consumidor,
+prescinde da demonstração de culpa, sendo suficiente, para sua caracterização:
+
+(A) apenas o dano e a conduta.
+(B) o dano, a conduta, o nexo causal e o descumprimento do dever de
+    qualidade/segurança.
+(C) exclusivamente a prova do nexo de causalidade.
+(D) o dolo específico do fornecedor.
+(E) a culpa presumida do consumidor.
+
+QUESTÃO 2
+O fundamento da responsabilidade objetiva no CDC é a chamada teoria do risco
+da atividade, segundo a qual:
+
+(A) somente responde quem agiu com culpa grave.
+(B) aquele que desenvolve atividade no mercado de consumo com finalidade
+    econômica responde pelos riscos que essa atividade gera.
+(C) a responsabilidade recai exclusivamente sobre o Estado fiscalizador.
+(D) o risco é sempre repartido igualitariamente entre fornecedor e consumidor,
+    independentemente das circunstâncias.
+(E) somente os fabricantes respondem, excluindo-se comerciantes e prestadores
+    de serviço.
+
+QUESTÃO 3
+Segundo entendimento do STJ (REsp 2.173.636-MT, 4ª Turma, j. 10/12/2024), em
+caso de cirurgia plástica estética não reparadora (embelezadora) cujo
+resultado não agrade o paciente, a responsabilidade do profissional:
+
+(A) é objetiva, independentemente do resultado obtido.
+(B) é subjetiva, somente se presumindo a culpa do profissional, com inversão
+    do ônus da prova, se o resultado for desarmonioso segundo o senso comum.
+(C) é sempre excluída, por se tratar de obrigação de meio.
+(D) depende exclusivamente de perícia judicial, sendo vedada qualquer
+    presunção de culpa.
+(E) é objetiva apenas quando o hospital integra a cadeia de fornecimento.
+
+QUESTÃO 4
+Consoante a teoria da qualidade adotada pelo CDC, a jurisprudência do STJ
+(REsp 967.623/RJ) bipartiu a responsabilidade pela qualidade em dois grandes
+regimes. Assinale a alternativa que os identifica corretamente:
+
+(A) responsabilidade contratual e responsabilidade extracontratual.
+(B) responsabilidade pelo fato do produto/serviço (defeitos de segurança) e
+    responsabilidade por vício do produto/serviço (defeitos de adequação).
+(C) responsabilidade subjetiva e responsabilidade objetiva pura.
+(D) responsabilidade solidária e responsabilidade subsidiária.
+(E) responsabilidade civil e responsabilidade administrativa.
+
+QUESTÃO 5
+Sobre os conceitos de vício e defeito no sistema do CDC, é correto afirmar:
+
+(A) são conceitos excludentes: um produto defeituoso jamais pode, ao mesmo
+    tempo, apresentar vício.
+(B) vício e defeito não são conceitos excludentes, podendo um mesmo produto
+    ser defeituoso e, simultaneamente, apresentar vício de quantidade, por
+    exemplo.
+(C) o defeito sempre pressupõe a existência prévia de vício de qualidade.
+(D) somente os serviços podem apresentar defeito; produtos apenas vício.
+(E) a distinção entre vício e defeito foi abolida pelo CDC, que unificou os
+    regimes em um único instituto.
+
+=================================================================
+GABARITO
+=================================================================
+1 - B
+2 - B
+3 - B
+4 - B
+5 - B
+=================================================================

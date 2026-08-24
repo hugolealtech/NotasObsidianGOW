@@ -1,0 +1,105 @@
+=================================================================
+DIREITO DO CONSUMIDOR - AULA 2 (Prof. Rafael Costa - G7 Jurídico)
+TÓPICO 6: RESPONSABILIDADE CIVIL PELO FATO DO SERVIÇO
+Estilo FGV - Questões de Múltipla Escolha (5 alternativas)
+=================================================================
+
+QUESTÃO 1
+Nos termos do art. 14 do CDC, a responsabilidade do fornecedor de serviços
+pelos danos causados aos consumidores por defeitos relativos à prestação dos
+serviços é:
+
+(A) subjetiva e individual.
+(B) objetiva e solidária entre todos os que participam da cadeia de
+    fornecimento.
+(C) subjetiva, admitida apenas mediante prova de dolo.
+(D) objetiva, mas limitada ao prestador direto do serviço, excluindo-se os
+    demais integrantes da cadeia.
+(E) inexistente, salvo estipulação contratual expressa em contrário.
+
+QUESTÃO 2
+Um serviço é considerado defeituoso, conforme o art. 14, § 1º, do CDC, quando
+não oferece a segurança que o consumidor dele pode esperar, considerando-se,
+entre outras circunstâncias:
+
+(A) apenas o preço cobrado pelo serviço.
+(B) o modo de seu fornecimento, o resultado e os riscos razoavelmente
+    esperados e a época em que foi fornecido.
+(C) exclusivamente a reputação do fornecedor no mercado.
+(D) o tempo de existência da empresa prestadora do serviço.
+(E) unicamente a existência de reclamações anteriores no Procon.
+
+QUESTÃO 3
+No julgamento do REsp 2.166.023-PR (4ª Turma, 4/2/2025), o STJ decidiu que,
+em caso de falha no dever de informar o horário de embarque em cruzeiro:
+
+(A) somente a empresa de cruzeiro responde, isentando-se a agência de
+    turismo, que apenas vende passagens.
+(B) a agência de turismo e a empresa de cruzeiro respondem solidariamente,
+    pois integrantes da mesma cadeia de fornecimento, havendo dever de
+    informação adequada mesmo por parte de quem apenas comercializa a
+    passagem.
+(C) a responsabilidade é exclusivamente subjetiva, dependendo de prova de
+    dolo da agência.
+(D) a vedação à denunciação da lide impede qualquer responsabilização
+    solidária nesses casos.
+(E) trata-se de hipótese de caso fortuito externo, excludente de
+    responsabilidade.
+
+QUESTÃO 4
+Segundo o julgado sobre o chamado "golpe do motoboy" (STJ, REsp 2.155.065-MG,
+11/3/2025), a responsabilidade da instituição financeira por fraude praticada
+por terceiro é excluída quando:
+
+(A) a fraude ocorrer por qualquer meio, independentemente da conduta do
+    correntista.
+(B) a compra, realizada em loja física, tiver sido feita com a entrega
+    voluntária do cartão original e da senha pessoal pelo correntista,
+    configurando culpa exclusiva do consumidor ou de terceiro.
+(C) o valor da fraude for inferior a determinado limite estabelecido pelo
+    Banco Central.
+(D) o correntista notificar o banco em até 24 horas após o ocorrido.
+(E) a instituição financeira comprovar apenas a existência de sistema de
+    segurança digital, independentemente da conduta do consumidor.
+
+QUESTÃO 5
+Sobre a distinção entre fortuito interno e fortuito externo no âmbito da
+responsabilidade pelo fato do serviço, assinale a alternativa correta:
+
+(A) o fortuito interno, por não guardar relação com a atividade do
+    fornecedor, exclui o nexo de causalidade.
+(B) o fortuito externo, por ser conexo à atividade do fornecedor, não exclui
+    o nexo de causalidade.
+(C) o roubo ocorrido no interior de veículo de transporte coletivo de
+    passageiros é, em regra, considerado fortuito externo, apto a excluir a
+    responsabilidade do transportador.
+(D) o roubo em estacionamento de agência bancária é sempre considerado
+    fortuito externo, pois não se relaciona à atividade bancária.
+(E) o fortuito interno sempre exclui a responsabilidade do fornecedor, por
+    força de disposição expressa do CDC.
+
+QUESTÃO 6
+De acordo com o STJ (REsp nº 1.833.722/SP), quanto à responsabilidade das
+concessionárias de transporte coletivo em casos de assédio sexual praticado
+por outro passageiro no interior do veículo:
+
+(A) há responsabilidade objetiva da concessionária, por se tratar de risco
+    inerente à atividade de transporte de pessoas.
+(B) não há responsabilidade da empresa de transporte coletivo, por ser o
+    evento considerado fortuito externo.
+(C) a responsabilidade é sempre subjetiva, dependendo de prova de negligência
+    específica de segurança.
+(D) há responsabilidade solidária entre a concessionária e o agressor,
+    independentemente de qualquer análise de nexo causal.
+(E) trata-se de hipótese de vício do serviço, e não de fato do serviço.
+
+=================================================================
+GABARITO
+=================================================================
+1 - B
+2 - B
+3 - B
+4 - B
+5 - C
+6 - B
+=================================================================

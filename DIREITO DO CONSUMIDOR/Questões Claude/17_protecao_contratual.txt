@@ -1,0 +1,103 @@
+=================================================================
+DIREITO DO CONSUMIDOR - AULA 2 (Prof. Rafael Costa - G7 Jurídico)
+TÓPICO 17: PROTEÇÃO CONTRATUAL
+Estilo FGV - Questões de Múltipla Escolha (5 alternativas)
+=================================================================
+
+QUESTÃO 1
+São pilares da teoria contratual clássica, mitigados pelo CDC como novo marco
+de renovação teórica contratual:
+
+(A) autonomia da vontade (liberdade contratual), força vinculante e
+    obrigatória dos contratos (pacta sunt servanda) e relatividade dos
+    efeitos contratuais.
+(B) função social do contrato, boa-fé objetiva e equilíbrio econômico, todos
+    já previstos desde o Código Civil de 1916.
+(C) responsabilidade objetiva, solidariedade e inversão do ônus da prova.
+(D) transparência, informação e vulnerabilidade, criados exclusivamente pelo
+    CDC sem qualquer relação com a teoria clássica.
+(E) taxatividade das cláusulas contratuais e vedação à interpretação
+    extensiva.
+
+QUESTÃO 2
+Nos termos do art. 46 do CDC (princípio da transparência), os contratos que
+regulam relações de consumo não obrigarão os consumidores se:
+
+(A) não lhes for dada oportunidade de tomar conhecimento prévio do conteúdo,
+    ou se os instrumentos forem redigidos de modo a dificultar a compreensão
+    de seu sentido e alcance.
+(B) o contrato for celebrado por meio eletrônico.
+(C) o valor do contrato for superior a determinado limite.
+(D) o consumidor não tiver contratado advogado para revisão prévia.
+(E) o contrato não contiver cláusula arbitral.
+
+QUESTÃO 3
+O princípio da interpretação mais favorável ao consumidor está previsto no:
+
+(A) art. 46 do CDC.
+(B) art. 47 do CDC, segundo o qual as cláusulas contratuais serão
+    interpretadas de maneira mais favorável ao consumidor.
+(C) art. 48 do CDC.
+(D) art. 51 do CDC.
+(E) art. 6º do CDC, exclusivamente.
+
+QUESTÃO 4
+Nos termos do art. 48 do CDC (princípio da vinculação do fornecedor), as
+declarações de vontade constantes de escritos particulares, recibos e
+pré-contratos relativos às relações de consumo:
+
+(A) não vinculam o fornecedor, por ausência de forma contratual solene.
+(B) vinculam o fornecedor, ensejando inclusive execução específica.
+(C) somente vinculam se registradas em cartório.
+(D) vinculam apenas o consumidor, jamais o fornecedor.
+(E) dependem de homologação judicial para produzir efeitos.
+
+QUESTÃO 5
+Segundo o art. 34 do CDC, o orçamento realizado por preposto do fornecedor:
+
+(A) não vincula o fornecedor, por ausência de poderes de representação.
+(B) vincula o fornecedor, dada a solidariedade pelos atos de seus prepostos
+    e representantes autônomos.
+(C) somente vincula se o preposto for sócio da empresa.
+(D) vincula apenas se ratificado por escrito pelo fornecedor em até 10 dias.
+(E) depende de confirmação do consumidor para produzir efeitos.
+
+QUESTÃO 6
+Sobre a nulidade de cláusula contratual abusiva (art. 51, § 2º, do CDC), é
+correto afirmar que:
+
+(A) invalida sempre a integralidade do contrato, por força do princípio da
+    indivisibilidade contratual.
+(B) não invalida o contrato, como regra geral (princípio da preservação dos
+    contratos), exceto quando de sua ausência, apesar dos esforços de
+    integração, decorrer ônus excessivo a qualquer das partes.
+(C) somente pode ser declarada de ofício pelo juiz, sendo vedado ao
+    consumidor arguir a nulidade.
+(D) depende de ação autônoma, sendo vedado o reconhecimento incidental em
+    ação de cobrança.
+(E) gera automaticamente a rescisão contratual com multa em favor do
+    fornecedor.
+
+QUESTÃO 7
+No exemplo trabalhado em aula sobre a integração subsidiária do contrato,
+sendo abusiva uma multa moratória de 10% do valor do contrato, e considerando
+o percentual máximo previsto no CDC, a multa deve ser fixada, em
+substituição, em:
+
+(A) 1%.
+(B) 2%.
+(C) 5%.
+(D) 8%.
+(E) 15%.
+
+=================================================================
+GABARITO
+=================================================================
+1 - A
+2 - A
+3 - B
+4 - B
+5 - B
+6 - B
+7 - B
+=================================================================

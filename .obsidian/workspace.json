@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "1eb894142d8ac77c",
+    "type": "split",
+    "children": [
+      {
+        "id": "348fd328b672e355",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3b7316c5df68a52",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Ativo/Pasted Image 20260714151622_098.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted Image 20260714151622_098"
+            }
+          },
+          {
+            "id": "2cb4a7071d0ed887",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Ativo/Pasted image 20260706165114.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260706165114"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5b1bb43d582ca2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "74c1e78e23f8d24f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ec4419ac0785747",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "852ba6336bd37f1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "a3fccecef657fd51",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f21ed8ca2632c5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "04929d166371288f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3baadaed74d1394",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "e65ea973e54b531b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "a4a3ab0efbbe6958",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "f29fa06b3b946711",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "80da7cdc62f22ec3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "pencil:New whiteboard": false
+    }
+  },
+  "active": "2cb4a7071d0ed887",
+  "lastOpenFiles": [
+    "Ativo/Pasted Image 20260714135743_498.png",
+    "Ativo/Pasted Image 20260714151622_098.png",
+    "Ativo/Pasted image 20260706170807.png",
+    "Ativo/Pasted image 20260706165114.png",
+    "Ativo/VADE MECUM/Vade_mecum_Senado_Federal_3ed.pdf",
+    "Ativo/VADE MECUM/Vade_mecum_Senado_Federal_3ed-2.md",
+    "Ativo/VADE MECUM/Vade_mecum_Senado_Federal_3ed.md",
+    "DIREITO ADMINISTRATIVO/BlocoIIIAdm.md",
+    "DIREITO ADMINISTRATIVO/BlocoIIIAdm.pdf",
+    "DIREITO ADMINISTRATIVO/adm 6.pdf",
+    "DIREITO ADMINISTRATIVO/adm 7.pdf",
+    "00_inbox/vavilov_sliconst3.md"
+  ]
+}

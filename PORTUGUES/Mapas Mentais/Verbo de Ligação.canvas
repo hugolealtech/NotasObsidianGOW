@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"3c669c870bad2bc8","x":-562,"y":-112,"width":182,"height":60,"color":"3","type":"text","text":"[[verbo de ligação]]"},
+		{"id":"6c7615d66b44c724","x":-347,"y":-202,"width":180,"height":241,"color":"3","type":"text","text":"- Continuar;\n- Andar;\n- Ficar;\n- Estar;\n- Ser;\n- Parecer;\n- Permanecer;\n"},
+		{"id":"5c26be952d712ecb","x":-320,"y":-300,"width":126,"height":60,"color":"5","type":"text","text":"CAFES P2"},
+		{"id":"c94490daf9bde004","x":-140,"y":-137,"width":230,"height":111,"color":"3","type":"text","text":"\"Só é verbo de ligação se houver um predicativo do sujeito  na frase\""},
+		{"id":"447954d080d6aae3","x":140,"y":-137,"width":190,"height":112,"color":"5","type":"text","text":"\"O réu ==está== calmo\".\nLiga o réu ao estado calmo."},
+		{"id":"2b56e5efc76104fe","x":140,"y":0,"width":238,"height":160,"color":"1","type":"text","text":"\"O réu ==está== no tribunal\".\nAqui não há verbo de ligação, já que no tribunal é um adjunto adverbial de lugar"}
+	],
+	"edges":[
+		{"id":"36ce96e955f7833c","fromNode":"3c669c870bad2bc8","fromSide":"right","toNode":"6c7615d66b44c724","toSide":"left"},
+		{"id":"2db77c5430821cec","fromNode":"5c26be952d712ecb","fromSide":"bottom","toNode":"6c7615d66b44c724","toSide":"top"},
+		{"id":"3ea8a0d4870bed09","fromNode":"6c7615d66b44c724","fromSide":"right","toNode":"c94490daf9bde004","toSide":"left"},
+		{"id":"b7eee6e435868a1f","fromNode":"c94490daf9bde004","fromSide":"right","toNode":"447954d080d6aae3","toSide":"left"},
+		{"id":"501fb1865daf146c","fromNode":"c94490daf9bde004","fromSide":"right","toNode":"2b56e5efc76104fe","toSide":"left"}
+	]
+}

@@ -1,0 +1,73 @@
+=================================================================
+DIREITO DO CONSUMIDOR - AULA 2 (Prof. Rafael Costa - G7 Jurídico)
+BANCO DE QUESTÕES ESTILO FGV - ÍNDICE DE ARQUIVOS
+=================================================================
+
+01_protecao_saude_seguranca.txt
+    -> Proteção à saúde e segurança / Recall (4 questões)
+
+02_responsabilidade_civil_relacoes_consumo.txt
+    -> Responsabilidade civil nas relações de consumo / Teoria da
+       qualidade (5 questões)
+
+03_responsabilidade_fato_produto.txt
+    -> Responsabilidade civil pelo fato do produto (6 questões)
+
+04_direito_regresso_denunciacao_lide.txt
+    -> Direito de regresso e denunciação da lide (3 questões)
+
+05_risco_desenvolvimento.txt
+    -> Risco do desenvolvimento (3 questões)
+
+06_responsabilidade_fato_servico.txt
+    -> Responsabilidade civil pelo fato do serviço (6 questões)
+
+06b_profissional_liberal_hospitais.txt
+    -> Responsabilidade do profissional liberal e dos hospitais
+       (4 questões)
+
+07_acidentes_consumo_internet.txt
+    -> Acidentes de consumo na internet (5 questões)
+
+08_responsabilidade_vicio_produto_servico.txt
+    -> Responsabilidade por vício do produto e do serviço (4 questões)
+
+09_vicio_qualidade_produto.txt
+    -> Vício de qualidade do produto (7 questões)
+
+10_vicio_quantidade_produto.txt
+    -> Vício de quantidade do produto (4 questões)
+
+11_vicio_qualidade_servico.txt
+    -> Vício de qualidade do serviço (5 questões)
+
+12_vicio_quantidade_servico.txt
+    -> Vício de quantidade do serviço (3 questões)
+
+13_perda_tempo_produtivo.txt
+    -> Responsabilidade civil pela perda do tempo produtivo do
+       consumidor (4 questões)
+
+14_praticas_comerciais_oferta.txt
+    -> Práticas comerciais - oferta (5 questões)
+
+15_sujeitos_responsaveis_oferta.txt
+    -> Sujeitos responsáveis pela oferta / peças de reposição /
+       obsolescência programada (5 questões)
+
+16_praticas_abusivas.txt
+    -> Práticas abusivas - art. 39 do CDC (9 questões)
+
+17_protecao_contratual.txt
+    -> Proteção contratual (7 questões)
+
+=================================================================
+TOTAL: 17 tópicos / 18 arquivos / 89 questões estilo FGV, cada uma
+com 5 alternativas (A a E) e gabarito ao final do respectivo arquivo.
+=================================================================
+
+OBSERVAÇÃO: os arquivos estão nomeados com prefixo numérico seguindo
+a ordem do sumário original da apostila, facilitando a importação
+ordenada em sistemas de flashcards/questões (Anki, Notion, Quizlet,
+plataformas de questões, etc.). Cada arquivo é autocontido (questões
++ gabarito), podendo ser importado individualmente por tópico.

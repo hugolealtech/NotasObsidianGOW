@@ -1,0 +1,93 @@
+=================================================================
+DIREITO DO CONSUMIDOR - AULA 2 (Prof. Rafael Costa - G7 Jurídico)
+TÓPICO 7: ACIDENTES DE CONSUMO NA INTERNET
+Estilo FGV - Questões de Múltipla Escolha (5 alternativas)
+=================================================================
+
+QUESTÃO 1
+Sobre a distinção entre provedor de informação e provedor de conteúdo (ou
+aplicações), assinale a alternativa correta:
+
+(A) provedor de informação é aquele que apenas disponibiliza espaço para
+    postagem de conteúdo de terceiros, como o YouTube.
+(B) provedor de informação é aquele que produz informações divulgadas na
+    internet (ex.: portais jornalísticos); provedor de conteúdo disponibiliza
+    informações criadas por seus usuários, sem ingerência sobre o material
+    postado.
+(C) ambos os conceitos são sinônimos no sistema do CDC.
+(D) apenas o provedor de conteúdo pode ser responsabilizado por danos, jamais
+    o provedor de informação.
+(E) provedor de conteúdo é sinônimo de provedor de acesso à internet.
+
+QUESTÃO 2
+Segundo o STJ (REsp 1.352.053/AL, Info 558), tratando-se de empresa
+jornalística que disponibiliza espaço para comentários de leitores, a
+ausência de qualquer controle, prévio ou posterior, sobre o potencial
+ofensivo dos comentários:
+
+(A) não gera qualquer responsabilidade, por se tratar de conduta de terceiro.
+(B) configura defeito do serviço, respondendo a empresa solidariamente pelos
+    danos causados à vítima das ofensas morais, ainda que bystander.
+(C) somente gera responsabilidade se a empresa tiver conhecimento prévio e
+    específico de cada comentário ofensivo individualmente.
+(D) exclui a incidência do CDC, por não haver relação de consumo direta.
+(E) transfere a responsabilidade exclusivamente ao autor do comentário, sem
+    qualquer solidariedade da empresa.
+
+QUESTÃO 3
+Quanto à responsabilidade civil dos provedores de aplicações de internet
+(provedores de conteúdo) por danos decorrentes de conteúdo gerado por
+terceiros, o STF (RE 1.037.396) fixou entendimento no sentido de que, após a
+entrada em vigor do Marco Civil da Internet (Lei 12.965/2014):
+
+(A) o provedor responde automaticamente, independentemente de qualquer
+    notificação.
+(B) o termo inicial da responsabilidade solidária do provedor é o momento da
+    notificação judicial que ordena a retirada do conteúdo.
+(C) o provedor nunca pode ser responsabilizado, ainda que descumpra ordem
+    judicial de retirada.
+(D) basta a notificação extrajudicial do ofendido para configurar a
+    responsabilidade solidária do provedor.
+(E) a responsabilidade do provedor prescreve em 24 horas contadas da
+    publicação do conteúdo ofensivo.
+
+QUESTÃO 4
+Excepcionalmente, segundo o STJ (REsp 1.783.269/MG, j. 14/12/2021), em razão
+do princípio da proteção integral consagrado no direito infantojuvenil, é
+dever do provedor de aplicação retirar do ar, independentemente de ordem
+judicial, conteúdo:
+
+(A) meramente crítico a produtos ou serviços de empresas.
+(B) envolvendo menor de idade relacionado à acusação de que seu genitor teria
+    praticado crimes de natureza sexual, logo após formal comunicação da
+    publicação ofensiva.
+(C) de natureza exclusivamente política, ainda que não envolva menores.
+(D) publicado por perfis verificados, independentemente do teor.
+(E) relativo a qualquer conteúdo protegido por direitos autorais.
+
+QUESTÃO 5
+Sobre a responsabilidade dos editores de blogs por conteúdo gerado por
+terceiros, é correto afirmar que:
+
+(A) quando o blog assume natureza de provedoria de informação (o próprio
+    titular produz ou publica a informação ofensiva), ele responde
+    diretamente pelos danos decorrentes.
+(B) o editor de blog nunca responde, independentemente da origem do
+    conteúdo.
+(C) aplica-se sempre a mesma regra do provedor de conteúdo, ainda que o
+    próprio editor tenha escrito o artigo ofensivo.
+(D) a Súmula 221 do STJ, aplicada por analogia, afasta a responsabilidade do
+    proprietário do veículo de divulgação quando o escrito for de autoria de
+    terceiro.
+(E) quando a atividade do blog é de provedoria de conteúdo (comentários de
+    leitores), é sempre possível responsabilizar diretamente o editor.
+
+=================================================================
+GABARITO
+=================================================================
+1 - B
+2 - B
+3 - B
+4 - B
+5 - A
+=================================================================
