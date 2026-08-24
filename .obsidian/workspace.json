@@ -23,12 +23,12 @@
             "id": "2cb4a7071d0ed887",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "Ativo/Pasted image 20260706165114.png"
+                "file": "DIREITO ADMINISTRATIVO/blocoIIAdm.pdf"
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260706165114"
+              "icon": "lucide-file-text",
+              "title": "blocoIIAdm"
             }
           }
         ],
@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DIREITO ADMINISTRATIVO/blocoIIAdm.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DIREITO ADMINISTRATIVO/blocoIIAdm.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -170,7 +172,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
+                "file": "DIREITO ADMINISTRATIVO/blocoIIAdm.pdf",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -182,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,16 +201,18 @@
       "pencil:New whiteboard": false
     }
   },
-  "active": "2cb4a7071d0ed887",
+  "active": "e3baadaed74d1394",
   "lastOpenFiles": [
+    "Ativo/PASTA TESTE OBSIDIAN",
+    "DIREITO ADMINISTRATIVO/BlocoIIIAdm.md",
+    "DIREITO ADMINISTRATIVO/blocoIIAdm.pdf",
+    "Ativo/Pasted image 20260706165114.png",
     "Ativo/Pasted Image 20260714135743_498.png",
     "Ativo/Pasted Image 20260714151622_098.png",
     "Ativo/Pasted image 20260706170807.png",
-    "Ativo/Pasted image 20260706165114.png",
     "Ativo/VADE MECUM/Vade_mecum_Senado_Federal_3ed.pdf",
     "Ativo/VADE MECUM/Vade_mecum_Senado_Federal_3ed-2.md",
     "Ativo/VADE MECUM/Vade_mecum_Senado_Federal_3ed.md",
-    "DIREITO ADMINISTRATIVO/BlocoIIIAdm.md",
     "DIREITO ADMINISTRATIVO/BlocoIIIAdm.pdf",
     "DIREITO ADMINISTRATIVO/adm 6.pdf",
     "DIREITO ADMINISTRATIVO/adm 7.pdf",
