@@ -23,14 +23,12 @@
             "id": "2cb4a7071d0ed887",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Ativo/PASTA TESTE OBSIDIAN/TESTE.md",
-                "mode": "source",
-                "source": false
+                "file": "DIREITO ADMINISTRATIVO/blocoIIAdm.pdf"
               },
-              "icon": "lucide-file",
-              "title": "TESTE"
+              "icon": "lucide-file-text",
+              "title": "blocoIIAdm"
             }
           }
         ],
@@ -112,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ativo/PASTA TESTE OBSIDIAN/TESTE.md",
+                "file": "DIREITO ADMINISTRATIVO/blocoIIAdm.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,10 +212,10 @@
       "pencil:New whiteboard": false
     }
   },
-  "active": "3ec4419ac0785747",
+  "active": "3698bc30449052bd",
   "lastOpenFiles": [
-    "DIREITO ADMINISTRATIVO/blocoIIAdm.pdf",
     "Ativo/PASTA TESTE OBSIDIAN/TESTE.md",
+    "DIREITO ADMINISTRATIVO/blocoIIAdm.pdf",
     "Ativo/PASTA TESTE OBSIDIAN",
     "DIREITO ADMINISTRATIVO/BlocoIIIAdm.md",
     "Ativo/Pasted image 20260706165114.png",
