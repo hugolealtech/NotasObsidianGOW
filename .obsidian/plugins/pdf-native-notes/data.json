@@ -1,0 +1,18 @@
+{
+  "sourceAction": "keep",
+  "moveFolder": "PDF Archive",
+  "assetLocation": "note-folder",
+  "extractImages": true,
+  "imageFormat": "webp",
+  "imageQuality": 0.82,
+  "maxImageDimension": 2200,
+  "minImageDimension": 96,
+  "renderImageOnlyPages": true,
+  "detectTables": false,
+  "tableOutput": "markdown",
+  "tableMinConfidence": 0.68,
+  "includePageHeadings": true,
+  "removeRepeatedMargins": true,
+  "updateLinks": true,
+  "openAfterConversion": true
+}

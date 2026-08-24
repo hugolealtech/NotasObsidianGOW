@@ -1,3 +1,7 @@
 {
-  "cssTheme": "Abate"
+  "cssTheme": "Abate",
+  "enabledCssSnippets": [
+    "justificar"
+  ],
+  "theme": "moonstone"
 }
