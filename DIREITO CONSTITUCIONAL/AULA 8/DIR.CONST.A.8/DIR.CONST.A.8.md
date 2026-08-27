@@ -10,12 +10,11 @@ assunto: |-
   4- Efeitos das Decisões Definitivas
 caminho:
 ---
-
+![[DIR.CONST.A.8-img1-pg1.png]]
   - [[2- Legitimidade]]
   - [[3- Objeto]]
   - [[4- Efeitos das Decisões Definitivas]]
 
-![[DIR.CONST.A.8-img1-pg1.png]]
 
 **ANALISTA DOS TRIBUNAIS** NATHALIA MASSON DIREITO CONSTITUCIONAL AULA 8 ROTEIRO DE AULA
 
@@ -31,11 +30,13 @@ caminho:
 
 **(c) CHEFES DO PODER EXECUTIVO**
 
--“Eventual sanção da lei questionada não obsta, pois, à admissibilidade da ação direta proposta pelo Chefe do Executivo, mormente se se demonstrar que não era manifesta, ao tempo da sanção, a ilegitimidade suscitada”.
+>[!WARNING] O CHEFE PODE SANSIONAR LEI QUE ELE MESMO TENHA COOPERADO PARA CRIÁ-LA
+>
+>-“Eventual sanção da lei questionada não obsta, pois, à admissibilidade da ação direta proposta pelo Chefe do Executivo, mormente se se demonstrar que não era manifesta, ao tempo da sanção, a ilegitimidade suscitada”.
 
--Insta recordar que a legitimação conferida às autoridades pelo art. 103, CF foi estabelecida em caráter _intuito_ _personae,_ razão pela qual a própria autoridade deve subscrever a petição inicial (isoladamente ou em conjunto com
+-Insta recordar que a legitimação conferida às autoridades pelo art. 103, CF foi estabelecida em caráter _intuito_ _personae,_ razão pela qual a ==própria autoridade deve subscrever a petição inicia==l (isoladamente ou em conjunto com
 
-  - AGU/PGE ou outro advogado habilitado). Assim, o STF não conhecerá petição inicial subscrita só por AGU ou PGE em nome do Chefe do Executivo, em razão da ilegitimidade ativa do autor para a causa.
+  - AGU/PGE ou outro advogado habilitado). Assim, ==o STF não conhecerá petição inicial subscrita só por AGU ou PGE em nome do Chefe do Executivo, em razão da ilegitimidade ativa do autor para a causa==.
 
 - **“ADI 5.084-DF, Rel. Min. Rosa Weber:** Trata-se de ação direta de inconstitucionalidade, com pedido de medida cautelar, ajuizada, em nome do Governador do Estado de Rondônia, pelo Procurador-Geral do Estado
 
@@ -44,11 +45,11 @@ caminho:
 
 ---
 
-(...). O art. 103, V, da Lei Maior, em particular, refere-se ao Governador de Estado ou do Distrito Federal, e não ao ente federado. Trata-se, pois, de legitimação conferida pela norma constitucional ao Chefe do Poder Executivo local em caráter _intuitu personae_, razão pela qual a eles se reconhece, inclusive, excepcional _jus_ _postulandi_, como decorrência do exercício da função pública. É o que ficou assentado no julgamento da ADI 127 MC-QO/AL (Relator Ministro Celso de Mello, DJ 04.12.1992): “(...) o Governador do Estado e as demais autoridades e entidades referidas no art. 103, incisos I a VII, da Constituição Federal, além de ativamente legitimados à instauração do controle concentrado de constitucionalidade das leis e atos normativos, federais e estaduais, mediante ajuizamento da ação direta perante o Supremo Tribunal Federal, possuem capacidade processual plena e dispõe, _ex vi_ da própria norma constitucional, de capacidade postulatória”. Ante o exposto, forte nos arts. 267, VI, e 295, II, do CPC e 4º, caput, da Lei nº 9.868/1999, nego seguimento à presente ação direta de inconstitucionalidade, restando prejudicado o exame do pedido de liminar.”
+(...). O art. 103, V, da Lei Maior, em particular, refere-se ao Governador de Estado ou do Distrito Federal, e não ao ente federado. ==Trata-se, pois, de legitimação conferida pela norma constitucional ao Chefe do Poder Executivo local em caráter _intuitu personae_, razão pela qual a eles se reconhece, inclusive, excepcional _jus_ _postulandi_, como decorrência do exercício da função pública.== É o que ficou assentado no julgamento da ADI 127 MC-QO/AL (Relator Ministro Celso de Mello, DJ 04.12.1992): “(...) ==o Governador do Estado e as demais autoridades e entidades referidas no art. 103, incisos I a VII, da Constituição Federal, além de ativamente legitimados à instauração do controle concentrado de constitucionalidade das leis e atos normativos, federais e estaduais, mediante ajuizamento da ação direta perante o Supremo Tribunal Federal, possuem capacidade processual plena e dispõe, _ex vi_ da própria norma constitucional, de capacidade postulatória”.== Ante o exposto, forte nos arts. 267, VI, e 295, II, do CPC e 4º, caput, da Lei nº 9.868/1999, nego seguimento à presente ação direta de inconstitucionalidade, restando prejudicado o exame do pedido de liminar.”
 
 - Na linha deste mesmo raciocínio, a jurisprudência do STF também não admite que o Procurador-Geral do Estado interponha por conta própria recurso no âmbito das ações diretas ajuizadas pelo Governador sem que haja a participação dessa autoridade na prática do ato (ADI 4420 ED-AgR, Rel. Min. Roberto Barroso)
 
-*** Legitimidade ativa dos Governadores**
+## **Legitimidade ativa dos Governadores**
 
 -Governador é legitimado especial e pode impugnar lei editada em outra esfera da Federação, desde que comprove a pertinência temática.
 
@@ -61,16 +62,16 @@ caminho:
 
 3. Agravo regimental a que se nega provimento.
 
--O chefe do poder executivo (Presidente ou Governador) pode ajuizar ADI para impugnar uma lei, ainda que ele tenha apresentado ou sancionado o projeto que a originou.
+>[!TIP] O chefe do poder executivo (Presidente ou Governador) pode ajuizar ADI para impugnar uma lei, ainda que ele tenha apresentado ou sancionado o projeto que a originou.
 
 ---
 *p. 2*
 
 ---
 
--O Estado-membro não possui legitimidade para recorrer contra decisões proferidas em sede de controle concentrado de constitucionalidade, ainda que a ADI tenha sido ajuizada pelo respectivo Governador. “A legitimidade para recorrer, nestes casos, é do próprio Governador (previsto como legitimado pelo art. 103 da CF/88). Os Estados-membros não se incluem no rol dos legitimados a agir como sujeitos processuais em sede de controle concentrado de constitucionalidade.” STF. Plenário. ADI 4420 ED-AgR, Rel. Min. Roberto Barroso, julgado em 05/04/2018.
+-==O Estado-membro não possui legitimidade para recorrer contra decisões proferidas em sede de controle concentrado de constitucionalidade, ainda que a ADI tenha sido ajuizada pelo respectivo Governador.== “A legitimidade para recorrer, nestes casos, ___é do próprio Governador (previsto como legitimado pelo art. 103 da CF/88).___ Os [[Estados-membros]] não se incluem no rol dos legitimados a agir como sujeitos processuais em sede de controle concentrado de constitucionalidade.” STF. Plenário. ADI 4420 ED-AgR, Rel. Min. Roberto Barroso, julgado em 05/04/2018.
 
-**(d) PARTIDOS POLÍTICOS**
+#### **(d) PARTIDOS POLÍTICOS**
 
 -O partido político estará representado no CN quando possuir, ao menos, um representante, **ou** na CD **ou** no SF.
 
@@ -82,13 +83,16 @@ caminho:
 
 - Mesmo que a lei impugnada seja local, será o diretório nacional que irá apresentar a ação
 
-- Momento da aferição da legitimidade:
+##### Momento da aferição da legitimidade:
 
--Partido político. Legitimidade ativa. Aferição no momento da sua propositura. Perda superveniente de representação parlamentar. Não desqualificação para permanecer no polo ativo da relação processual. Objetividade e indisponibilidade da ação. [ADI 2.618 AgR-AgR, rel. min. Gilmar Mendes, j. 12-8-2004, P, DJ de 31-3 2006.] = ADI 2.427, rel. min. Eros Grau, j. 30-8-2006, P, DJ de 10-11-2006
+-Partido político. Legitimidade ativa. ==Aferição no momento da sua propositura. Perda superveniente de representação parlamentar.== Não desqualificação para permanecer no polo ativo da relação processual. Objetividade e indisponibilidade da ação. [ADI 2.618 AgR-AgR, rel. min. Gilmar Mendes, j. 12-8-2004, P, DJ de 31-3 2006.] = ADI 2.427, rel. min. Eros Grau, j. 30-8-2006, P, DJ de 10-11-2006
 
 -Se no curso da ação o partido político perder sua representação parlamentar no CN, a ação direta não ficará prejudicada, pois a legitimidade do partido será verificada no momento da propositura da ação e não na hora do julgamento. Tal conclusão se sustenta na objetividade e indisponibilidade da ação no controle concentrado.
 
-- **“ADI-AgR-2.618 PR, Rel. Min. Carlos Velloso:** Agravo Regimental em Ação Direta de Inconstitucionalidade. 2. Partido político. 3. Legitimidade ativa. Aferição no momento da sua propositura. 4. Perda superveniente de representação parlamentar. Não desqualificação para permanecer no pólo ativo da relação processual. 5. Objetividade e indisponibilidade da ação. 6. Agravo provido”
+>[!SUCCESS]  Momento de aferição da propositura
+>**“ADI-AgR-2.618 PR, Rel. Min. Carlos Velloso:** Agravo Regimental em Ação Direta de Inconstitucionalidade. 2. Partido político. 3. Legitimidade ativa. Aferição no momento da sua propositura. 4. Perda superveniente de representação parlamentar. Não desqualificação para permanecer no pólo ativo da relação processual. 5. Objetividade e indisponibilidade da ação. 6. Agravo provido”
+
+
 
 - Atento para a diferença do MS impetrado por parlamentar para defender o devido processo legislativo. Nesse caso a legitimidade é exclusiva do PARLAMENTAR, se perder essa condição a ação mandamental ficará prejudicada (processo de natureza subjetiva)
 
@@ -99,7 +103,7 @@ caminho:
 
 **(e) MESAS**
 
--Segundo o STF, a ADI pode ser proposta pela Mesa da Assembleia Legislativa, ainda que seja para a impugnação de lei ou de ato normativo do poder que ela integra e dirige.
+>[!bug] Segundo o STF, a ADI pode ser proposta pela Mesa da Assembleia Legislativa, ainda que seja para a impugnação de lei ou de ato normativo do poder que ela integra e dirige.
 
 - **“ADI 91-SE, Rel. Min. Sydney Sanches:** A Ação Direta de Inconstitucionalidade pode ser proposta pela Mesa da Assembleia Legislativa, ainda que impugne lei ou ato normativo do Poder por ela integrado e dirigido, em face do que conjugadamente dispõem o art. 102, I, a, e 103, IV, da Constituição Federal, sendo certo que este último não excepciona a hipótese em que a lei ou ato normativo emanam da própria Assembleia. 2. De resto, não se pode negar ao órgão diretor dos trabalhos do Poder Legislativo interesse legítimo em ver declarados inconstitucionais atos deste que, de alguma forma, violem a Constituição. Até porque também esse órgão diretor dos trabalhos da Casa tem o dever de zelar pela inocorrência de vícios dessa natureza na elaboração de seus atos normativos”
 
@@ -130,17 +134,16 @@ caminho:
 
 - "Essa orientação jurisprudencial, hoje consagrada no enunciado constante da Súmula 677/STF, nada mais reflete senão o reconhecimento de que, embora a entidade sindical possa constituir-se independentemente de prévia autorização governamental - eis que é plena a sua autonomia jurídico-institucional em face do Estado (CF, art. 8º, I) -, a Constituição não vedou a participação estatal no procedimento administrativo de efetivação, mediante ato vinculado, do registro sindical." ( **ADI 5034** AgR, Ministro Relator Celso de Mello, Tribunal Pleno, julgamento em 1.8.2014, DJe de 3.9.2014)
 
-**(g) ENTIDADES DE CLASSE DE ÂMBITO NACIONAL**
+##### **(g) ENTIDADES DE CLASSE DE ÂMBITO NACIONAL**
 
--As Associações de Classe de âmbito nacional são compreendidas como aquelas que se dedicam, estatutariamente, à defesa dos interesses de uma categoria econômica em todo o território nacional.
+>[!bug] As Associações de Classe de âmbito nacional são compreendidas como aquelas que se dedicam, estatutariamente, à defesa dos interesses de uma categoria econômica em todo o território nacional.
 
-- **“ADPF 264-AgR, Rel. Min. Dias Toffoli:** Agravo regimental em arguição de descumprimento de preceito fundamental. Conselho Federal de Corretores de Imóveis - COFECI. Entidade que não se enquadra ao conceito de entidade de classe. Ilegitimidade ativa. Agravo a que se nega provimento. 1. A jurisprudência do Supremo Tribunal Federal fixou-se no sentido de que os Conselhos de Fiscalização Profissional não detêm legitimidade ativa para as ações de controle concentrado de constitucionalidade, por não se enquadrarem no conceito de entidade de classe de âmbito nacional (art. 103, inc. IX, da Constituição Federal). 2. Não há razão para se revisar a jurisprudência sedimentada da Corte. Os conselhos de fiscalização profissional têm como função precípua o controle e a fiscalização do exercício das profissões regulamentadas, exercendo, portanto, poder de polícia, atividade típica de Estado, razão pela qual detêm personalidade jurídica de direito público, na forma de autarquias. Sendo assim, tais conselhos não se ajustam à noção de entidade de classe, **expressão que designa**
+- **“ADPF 264-AgR, Rel. Min. Dias Toffoli:** Agravo regimental em arguição de descumprimento de preceito fundamental. Conselho Federal de Corretores de Imóveis - COFECI. Entidade que não se enquadra ao conceito de entidade de classe. Ilegitimidade ativa. Agravo a que se nega provimento. 1. A jurisprudência do Supremo Tribunal Federal fixou-se no sentido de que os Conselhos de Fiscalização Profissional não detêm legitimidade ativa para as ações de controle concentrado de constitucionalidade, por não se enquadrarem no conceito de entidade de classe de âmbito nacional (art. 103, inc. IX, da Constituição Federal). 2. Não há razão para se revisar a jurisprudência sedimentada da Corte. Os conselhos de fiscalização profissional têm como função precípua o controle e a fiscalização do exercício das profissões regulamentadas, exercendo, portanto, poder de polícia, atividade típica de Estado, razão pela qual detêm personalidade jurídica de direito público, na forma de autarquias. Sendo assim, tais conselhos não se ajustam à noção de entidade de classe,
+>[!bug] **expressão que designa** **tão somente aquelas entidades vocacionadas à defesa dos interesses dos membros da respectiva categoria**** ou classe de profissionais.”
 
-**tão somente aquelas entidades vocacionadas à defesa dos interesses dos membros da respectiva categoria**
+- Os [[conselhos de fiscalização profissional]] têm como função precípua o controle e a fiscalização do exercício das profissões regulamentadas, exercendo, portanto, poder de polícia, atividade típica de Estado, razão pela qual detêm personalidade jurídica de direito público, na forma de autarquias. Sendo assim, tais conselhos ==**não**== se ajustam à noção de entidade de classe, segundo o STF. Segundo a Corte, ‘entidade de classe’ é uma expressão que designa, tão somente, aquelas entidades vocacionadas à defesa dos interesses dos membros da respectiva categoria ou classe de profissionais.
 
-**ou classe de profissionais.”**
-
-- Os conselhos de fiscalização profissional têm como função precípua o controle e a fiscalização do exercício das profissões regulamentadas, exercendo, portanto, poder de polícia, atividade típica de Estado, razão pela qual detêm personalidade jurídica de direito público, na forma de autarquias. Sendo assim, tais conselhos **não** se ajustam à noção de entidade de classe, segundo o STF. Segundo a Corte, ‘entidade de classe’ é uma expressão que designa, tão somente, aquelas entidades vocacionadas à defesa dos interesses dos membros da respectiva categoria ou classe de profissionais.
+[[PENC.DIR.CONS.A.8.N.1.pencil]]
 
 ---
 *p. 5*
@@ -154,17 +157,13 @@ caminho:
 > [!warning] Jurisprudência
 > **ADI 4.462 MC, Rel. Min.** Cármen Lúcia. A Associação Nacional dos Magistrados Estaduais (ANAMAGES) não tem legitimidade para propor ação direta de inconstitucionalidade contra norma de interesse de toda a magistratura. É legítima, todavia, para a propositura de ação direta contra norma de interesse da magistratura de determinado Estado-membro da Federação.
 
-- É pacífica a jurisprudência da Corte no que se refere à inexistência de legitimidade para a propositura das ações do controle concentrado das associações não-homogêneas (ADI 108-QI, Rel. Min Celso de Mello, Plenário, DJ de 5/6/1992; ADI 146, Rel. Min. Maurício Corrêa, Plenário, DJ de 19/12/2002). Frise-se, no entanto, que este é um requisito que sofreu elastecimento progressivo nos julgados da Corte: o entendimento prevalente hoje é o de que não é necessário que se constate uma identificação total dos associados, e sim um **índice de intencionalidade**
-
-**comum** (STF, ADI 6621/TO, junho de 2021).
+- É pacífica a jurisprudência da Corte no que se refere à inexistência de legitimidade para a propositura das ações do controle concentrado das associações ==não-homogêneas== (ADI 108-QI, Rel. Min Celso de Mello, Plenário, DJ de 5/6/1992; ADI 146, Rel. Min. Maurício Corrêa, Plenário, DJ de 19/12/2002). Frise-se, no entanto, que este é um requisito que sofreu elastecimento progressivo nos julgados da Corte: o entendimento prevalente hoje é o de que não é necessário que se constate uma identificação total dos associados, e sim um **índice de intencionalidade** **comum** (STF, ADI 6621/TO, junho de 2021).
 
 -As associações que representam fração de categoria profissional não são legitimadas para instaurar controle concentrado de constitucionalidade de norma que extrapole o universo de seus representados.
 
 - **“ADPF 254 AgR/DF, Rel. Min. Luiz Fux:** As associações que representam fração de categoria profissional não são legitimadas para instaurar controle concentrado de constitucionalidade de norma que extrapole o universo de seus representados. Com base nessa orientação, o Plenário, em conclusão de julgamento e por maioria, desproveu agravo regimental em arguição de descumprimento de preceito fundamental, na qual se discutia a legitimidade ativa da Associação Nacional dos Magistrados Estaduais (Anamages). Na espécie, a referida associação questionava dispositivo da LC 35/1979 (Lei Orgânica da Magistratura Nacional). A Corte assentou a ilegitimidade ativa da mencionada associação. Manteve o entendimento firmado na decisão agravada de que, se o ato normativo impugnado repercute sobre a esfera jurídica de toda uma classe, não seria legítimo permitir-se que associação representativa de apenas uma parte dos membros dessa mesma classe impugnasse a norma, pela via abstrata da ação direta. “
 
--Carece de legitimação para propor ação direta de inconstitucionalidade a entidade de classe que, embora de âmbito estatutário nacional, não tenha representação em, pelo menos, nove Estados da Federação, **nem**
-
-**represente toda a categoria profissional** , cujos interesses pretenda tutelar. [ADI 3.617 AgR, rel. min. Cezar Peluso, j. 25-5-2011, P, DJE de 1º-7-2011.] = ADI 4.230 AgR, rel. min. Dias Toffoli, j. 1º-8-2011, P, DJE de 14-9-2011.
+- Carece de legitimação para propor ação direta de inconstitucionalidade a entidade de classe que, embora de âmbito estatutário nacional, não tenha representação em, pelo menos, nove Estados da Federação, **nem **represente toda a categoria profissional** , cujos interesses pretenda tutelar. [ADI 3.617 AgR, rel. min. Cezar Peluso, j. 25-5-2011, P, DJE de 1º-7-2011.] = ADI 4.230 AgR, rel. min. Dias Toffoli, j. 1º-8-2011, P, DJE de 14-9-2011.
 
 -A Associação dos Delegados de Polícia do Brasil tem legitimidade para a propositura da ação direta, pois constitui entidade de classe de âmbito nacional, congregadora de "todos os delegados de polícia de carreira do País, para defesa de suas prerrogativas, direitos e interesses" (inciso IX do art. 103 da CF). [ADI 3.288, rel. min. Ayres Britto, j. 13-10-2010, P, DJE de 24-2-2011.] = ADI 3.469, rel. min. Gilmar Mendes, j. 16-9-2010, P, DJE de 28-2-201.
 
@@ -188,7 +187,8 @@ caminho:
 
 - **“ADI 79-DF, Rel. Min. Celso de Mello:** no que concerne ao requisito da especialidade, o caráter nacional de entidade de classe não decorre de mera declaração formal, consubstanciada em seus estatutos ou atos constitutivos. Essa característica de índole espacial pressupõe, além da atuação trans regional da instituição, a existência de associados ou membros em pelo menos nove Estados da Federação. Trata-se de critério objetivo, fundado na aplicação analógica da Lei Orgânica dos Partidos, que supõe, ordinariamente, atividades ou profissionais amplamente disseminadas no território nacional.”
 
-- **“ADI 2.866 RN, Rel. Min. Gilmar Mendes:** Legitimidade ativa.3. Inaplicabilidade, no caso, do critério adotado para a definição do caráter nacional dos partidos políticos (Lei nº 9.096, de 19.9.1995: art. 7º), haja vista a relevância nacional da atividade dos associados da ABERSAL, não obstante a produção de sal ocorrer em poucas unidades da federação.9.0964. Plausibilidade da arguição de inconstitucionalidade.” Em **agosto de 2025**, na ADI 7719, o STF novamente abrandou esse requisito, admitindo uma ADI ajuizada pela Associação Brasileira dos Atacadistas de Autosserviço (ABAAS), entidade de possuidora de associados em 8 (oito) unidades da federação (sete estados e o Distrito Federal). Segundo o Min. Dias Toffoli, relator da ação: “Embora a
+>[!note] 
+>**“ADI 2.866 RN, Rel. Min. Gilmar Mendes:** Legitimidade ativa.3. Inaplicabilidade, no caso, do critério adotado para a definição do caráter nacional dos partidos políticos (Lei nº 9.096, de 19.9.1995: art. 7º), haja vista a relevância nacional da atividade dos associados da ABERSAL, não obstante a produção de sal ocorrer em poucas unidades da federação.9.0964. Plausibilidade da arguição de inconstitucionalidade.” Em **agosto de 2025**, na ADI 7719, o STF novamente abrandou esse requisito, admitindo uma ADI ajuizada pela Associação Brasileira dos Atacadistas de Autosserviço (ABAAS), entidade de possuidora de associados em 8 (oito) unidades da federação (sete estados e o Distrito Federal). Segundo o Min. Dias Toffoli, relator da ação: “Embora a
 
 ---
 *p. 7*
@@ -211,9 +211,7 @@ requerente não tenha membros em pelo menos 9 (nove) unidades da federação, co
 > [!warning] Jurisprudência
 > **ADI 4.462 MC, Rel. Min.** Cármen Lúcia. A Associação Nacional dos Magistrados Estaduais (ANAMAGES) não tem legitimidade para propor ação direta de inconstitucionalidade contra norma de interesse de toda a magistratura. É legítima, todavia, para a propositura de ação direta contra norma de interesse da magistratura de determinado Estado-membro da Federação.
 
-- Carece de legitimação para propor ação direta de inconstitucionalidade a entidade de classe que, embora de âmbito estatutário nacional, não tenha representação em, pelo menos, nove Estados da Federação, **nem**
-
-**represente toda a categoria profissional** , cujos interesses pretenda tutelar. [ADI 3.617 AgR, rel. min. Cezar Peluso, j. 25-5-2011, P, DJE de 1º-7-2011.] = ADI 4.230 AgR, rel. min. Dias Toffoli, j. 1º-8-2011, P, DJE de 14-9-2011. A Associação dos Delegados de Polícia do Brasil tem legitimidade para a propositura da ação direta, pois constitui entidade de classe de âmbito nacional, congregadora de "todos os delegados de polícia de carreira do País, para defesa de suas prerrogativas, direitos e interesses" (inciso IX do art. 103 da CF). [ADI 3.288, rel. min. Ayres Britto, j. 13-10-2010, P, DJE de 24-2-2011.] = ADI 3.469, rel. min. Gilmar Mendes, j. 16-9-2010, P, DJE de 28-2-201.
+- Carece de legitimação para propor ação direta de inconstitucionalidade a entidade de classe que, embora de âmbito estatutário nacional, não tenha representação em, pelo menos, nove Estados da Federação, **nem **represente toda a categoria profissional** , cujos interesses pretenda tutelar. [ADI 3.617 AgR, rel. min. Cezar Peluso, j. 25-5-2011, P, DJE de 1º-7-2011.] = ADI 4.230 AgR, rel. min. Dias Toffoli, j. 1º-8-2011, P, DJE de 14-9-2011. A Associação dos Delegados de Polícia do Brasil tem legitimidade para a propositura da ação direta, pois constitui entidade de classe de âmbito nacional, congregadora de "todos os delegados de polícia de carreira do País, para defesa de suas prerrogativas, direitos e interesses" (inciso IX do art. 103 da CF). [ADI 3.288, rel. min. Ayres Britto, j. 13-10-2010, P, DJE de 24-2-2011.] = ADI 3.469, rel. min. Gilmar Mendes, j. 16-9-2010, P, DJE de 28-2-201.
 
 ---
 *p. 8*
@@ -224,7 +222,7 @@ requerente não tenha membros em pelo menos 9 (nove) unidades da federação, co
 
 **comum** (STF, ADI 6621/TO, junho de 2021).
 
-- O STF admite que as entidades de classe sejam de segundo grau, ou seja, formadas por outras pessoas jurídicas menores.
+#### - O STF admite que as entidades de classe sejam de segundo grau, ou seja, formadas por outras pessoas jurídicas menores.
 
 > [!warning] Jurisprudência
 > **ADI 3153-AgR, Min. Rel. Pertence:** Ação direta de inconstitucionalidade: legitimação ativa: "entidade de classe de âmbito nacional" : compreensão da "associação de associações" de classe: revisão da jurisprudência do Supremo Tribunal. 1. O conceito de entidade de classe é dado pelo objetivo institucional classista, pouco importando que a eles diretamente se filiem os membros da respectiva categoria social ou agremiações que os congreguem, com a mesma finalidade, em âmbito territorial mais restrito. 2. É entidade de classe de âmbito nacional - como tal legitimada à propositura da ação direta de inconstitucionalidade (CF, art 103, IX) - aquela na qual se congregam associações regionais correspondentes a cada unidade da Federação, a fim de perseguirem, em todo o País, o mesmo objetivo institucional de defesa dos interesses de uma determinada classe. 3. Nesse sentido, altera o Supremo Tribunal sua jurisprudência, de modo a admitir a legitimação das "associações de associações de classe", de âmbito nacional, para a ação direta de inconstitucionalidade.
@@ -239,14 +237,11 @@ requerente não tenha membros em pelo menos 9 (nove) unidades da federação, co
 *p. 9*
 
 ---
-
-1) Possuir caráter nacional, comprovado pela presença de associados em, pelo menos, nove estados da Federação;
-
-2) Homogeneidade entre os membros integrantes da entidade que ajuíza a ação;
-
-3) Representação de toda a categoria; e,
-
-4) Comprovação de “pertinência temática” entre os objetivos institucionais e estatuários da entidade e a norma objeto de impugnação.
+>[!abstract] Em resumo...
+>1) Possuir caráter nacional, comprovado pela presença de associados em, pelo menos, nove estados da Federação; 
+>2) Homogeneidade entre os membros integrantes da entidade que ajuíza a ação;
+>3) Representação de toda a categoria; e,
+>4) Comprovação de “pertinência temática” entre os objetivos institucionais e estatuários da entidade e a norma objeto de impugnação.
 
 **Bloco 2**
 
@@ -254,17 +249,13 @@ requerente não tenha membros em pelo menos 9 (nove) unidades da federação, co
 
 > [!quote] 
 > LEI
-> **Art. 125, § 2º, CF/88:** Cabe aos Estados a instituição de representação de inconstitucionalidade de leis ou atos normativos estaduais ou municipais em face da Constituição Estadual, vedada a atribuição da legitimação para agir a um único órgão.
+> **Art. 125, § 2º, CF/88:** Cabe aos Estados a instituição de ==representação de inconstitucionalidade== [^1] de leis ou atos normativos estaduais ou municipais em face da Constituição Estadual, vedada a atribuição da legitimação para agir a um único órgão.
 
--O STF já se manifestou no sentido de que o art. 103, CF/88, não é norma de repetição obrigatória para as demais entidades Federadas. Desta forma, a constituição do estado é que vai definir seu rol de legitimados aptos a ajuizar no TJ respectivo as ações do controle concentrado estadual. A constituição estadual, todavia, deverá observar uma única condição quando estiver criando seu rol: de acordo com o art. 125, §2º, CF não se pode entregar a legitimação para agir a apenas um único órgão.
+-O STF já se manifestou no sentido de que o art. 103, CF/88, não é [[norma de repetição obrigatória]] para as demais entidades Federadas. Desta forma, a constituição do estado é que vai definir seu rol de legitimados aptos a ajuizar no TJ respectivo as ações do controle concentrado estadual. A constituição estadual, todavia, deverá observar uma única condição quando estiver criando seu rol: de acordo com o art. 125, §2º, CF não se pode entregar a legitimação para agir a apenas um único órgão.
 
 - **“ADI 119, Rel. Min. Dias Toffoli:** Não é inconstitucional norma da Constituição do Estado que atribui ao procurador da Assembleia Legislativa ou, alternativamente, ao procurador-geral do Estado, a incumbência de defender a constitucionalidade de ato normativo estadual questionado em controle abstrato de constitucionalidade na esfera de competência do Tribunal de Justiça. Previsão que não afronta a CF, já que ausente o dever de simetria para com o modelo federal, que impõe apenas a pluralidade de legitimados para a propositura da ação (art. 125, § 2º, CF/1988).”
 
-- Para o rol estar constitucionalmente adequado é necessário que o documento constitucional estadual apresente, de início, dois entes como legitimados ativos para a propositura das ações, não havendo obrigatoriedade de simetria com o modelo federal. É importante destacar, todavia, que no julgamento da ADI 5693 (em novembro de 2021), o STF decidiu que **a**
-
-**previsão de dois legitimados, por si só,** **não** **satisfaz as disposições da Constituição Federal quando ela é**
-
-**interpretada globalmente**, sendo necessário realizar uma análise qualitativa dos legitimados para aferir a conformidade com a Constituição. Nessa ação nossa Corte Suprema enfrentou um relevante questionamento: pode a Constituição do Estado, não obstante elencar mais de um legitimado para iniciar o processo de fiscalização normativa abstrata, excluir o Chefe do Ministério Público estadual de referido rol? Como o Ministério Público tem, em nosso sistema constitucional,
+- Para o rol estar constitucionalmente adequado é necessário que o documento constitucional estadual apresente, de início, dois entes como legitimados ativos para a propositura das ações, não havendo obrigatoriedade de simetria com o modelo federal. É importante destacar, todavia, que no julgamento da ADI 5693 (em novembro de 2021), o STF decidiu que **a previsão de dois legitimados, por si só,** **não** **satisfaz as disposições da Constituição Federal quando ela é** **interpretada globalmente**, sendo necessário realizar uma análise qualitativa dos legitimados para aferir a conformidade com a Constituição. Nessa ação nossa Corte Suprema enfrentou um relevante questionamento: pode a Constituição do Estado, não obstante elencar mais de um legitimado para iniciar o processo de fiscalização normativa abstrata, excluir o Chefe do Ministério Público estadual de referido rol? Como o Ministério Público tem, em nosso sistema constitucional,
 
 ---
 *p. 10*
@@ -277,7 +268,7 @@ papel central na proteção do Estado de democrático, da supremacia da Constitu
 
 -O STF já reconheceu como constitucional a previsão da constituição estadual que estabelece como legitimados entidades / autoridades que não encontram paralelo em âmbito federal (como, por exemplo, os deputados estaduais – já que em âmbito federal os deputados federais e os senadores não são listados pelo o art. 103, CF como legitimados, somente as mesas diretoras das casas é que são assim qualificadas).
 
-- **“RE 261.677, Rel. Min. Sepúlveda Pertence:** Legitimação ativa de deputado estadual para propor ação direta de inconstitucionalidade de normas locais em face da Constituição do Estado, à vista do art. 125, § 2º, da CF.”
+- **“RE 261.677, Rel. Min. Sepúlveda Pertence:** ==Legitimação ativa de deputado estadual para propor ação direta de inconstitucionalidade de normas locais em face da Constituição do Estado, à vista do art. 125, § 2º, da CF.”==
 
 > [!quote] 
 > LEI
@@ -322,11 +313,11 @@ VI - as federações sindicais e as entidades de classe de âmbito estadual;
 
 VII - o Deputado Estadual.
 
-**Competência**
+#### **Competência**
 
 - Artigos: 97 e 93, XI, CF/88; 948 e 949, CPC; Súmula Vinculante nº 10.
 
-> [!quote] 
+> [!quote]  Cláusula de Reserva de Plenário
 > LEI
 > **Art. 97, CF/88:** Somente pelo voto da maioria absoluta de seus membros ou dos membros do respectivo órgão especial poderão os tribunais declarar a inconstitucionalidade de lei ou ato normativo do Poder Público.
 
@@ -932,3 +923,5 @@ que ela é cabível contra os atos em geral do poder público, desde que essas o
 - Inicialmente, por maioria, rejeitou-se a preliminar de não cabimento da ação. Reputou-se atendido o princípio da subsidiariedade, tendo em conta a pendência **de múltiplas ações judiciais** , nos diversos graus de jurisdição, inclusive no Supremo, nas quais há interpretações e decisões divergentes sobre a matéria, o que tem gerado situação de **insegurança jurídica, não havendo outro meio hábil a solucionar a polêmica sob exame** . Obs.: Reforçando essa hipótese de cabimento da ADPF, veja a decisão do STF (de agosto de 2023), na ADPF 995:
 
 - Registro que a jurisprudência desta Corte reconhece o cabimento da arguição de preceito fundamental para impugnar um conjunto de decisões judiciais tidas como violadoras de preceitos fundamentais.
+
+[^1]: Nome antigo de ADIN. Mudaram no âmbito federal mas esqueceram de atualizar no âmbito estadual

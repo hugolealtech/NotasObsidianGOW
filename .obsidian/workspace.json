@@ -11,10 +11,14 @@
             "id": "a3b7316c5df68a52",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/DIR.CONST.A.8.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "DIR.CONST.A.8"
             }
           }
         ]
@@ -79,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 683.2
+    "width": 329.68701171875,
+    "collapsed": true
   },
   "right": {
     "id": "1f21ed8ca2632c5a",
@@ -181,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.7215576171875
+    "width": 447.7215576171875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,10 +203,13 @@
       "pencil:New whiteboard": false
     }
   },
-  "active": "3ec4419ac0785747",
+  "active": "a3b7316c5df68a52",
   "lastOpenFiles": [
-    "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8.pdf",
+    "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/PENC.DIR.CONS.A.8.N.1.pencil",
     "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/DIR.CONST.A.8.md",
+    "DIREITO ADMINISTRATIVO/AULA 8/DIR.ADM.A.8/images/DIR.ADM.A.8-img1-pg1.png",
+    "DIREITO ADMINISTRATIVO/AULA 8/DIR.ADM.A.8/DIR.ADM.A.8.md",
+    "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8.pdf",
     "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/images/DIR.CONST.A.8-img5-pg27.png",
     "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/images/DIR.CONST.A.8-img4-pg27.png",
     "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/images/DIR.CONST.A.8-img3-pg27.png",
@@ -219,10 +228,7 @@
     "DIREITO PROCESSUAL CIVIL/A13/DIR.PROC.CIVIL.A.13.pdf",
     "DIREITO PROCESSUAL CIVIL/A13/DIR.PROC.CIVIL.A.13",
     "DIREITO PROCESSUAL CIVIL/A13",
-    "DIREITO PROCESSUAL CIVIL/A12/DIR.PROC.CIVIL.A.12/images/DIR.PROC.CIVIL.A.12-img8-pg38.png",
-    "DIREITO PROCESSUAL CIVIL/A12/DIR.PROC.CIVIL.A.12/images",
     "DIREITO PROCESSUAL CIVIL/A12/DIR.PROC.CIVIL.A.12/DIR.PROC.CIVIL.A.12.md",
-    "DIREITO PROCESSUAL CIVIL/A12/DIR.PROC.CIVIL.A.12.pdf",
     "DIREITO PROCESSUAL CIVIL/A11/DIR.PROC.CIVIL.A.11/DIR.PROC.CIVIL.A.11.md",
     "DIREITO PROCESSUAL CIVIL/A10/DIR.PROC.CIVIL.A.10/DIR.PROC.CIVIL.A.10.md",
     "DIREITO PROCESSUAL CIVIL/A9/DIR.PROC.CIVIL.A.9/DIR.PROC.CIVIL.A.9.md",
@@ -244,7 +250,6 @@
     "DIREITO PROCESSUAL CIVIL/itens específicos/Jurisdição-/Finalidades/Finalidades.md",
     "DIREITO PROCESSUAL CIVIL/itens específicos/Jurisdição-/Equivalentes Jurisdicionais./Equivalentes Jurisdicionais..md",
     "DIREITO PROCESSUAL CIVIL/itens específicos/Jurisdição-/Conceito/Conceito.md",
-    "DIREITO PROCESSUAL CIVIL/itens específicos/Jurisdição-/Equidade/Equidade.md",
     "images/Sem título.canvas"
   ]
 }
