@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 375">
+	<line x1="100" y1="150" x2="1900" y2="150" stroke="#888888" stroke-opacity="0.5" class="ink-type-writing-line ink-color-writing-line"/>
+	<line x1="100" y1="300" x2="1900" y2="300" stroke="#888888" stroke-opacity="0.5" class="ink-type-writing-line ink-color-writing-line"/>
+	<metadata>
+		<ink plugin-version="0.5.6" file-type="inkWriting"/>
+		<ink-canvas version="0.5.0">
+			{
+  "version": 1,
+  "strokes": [],
+  "gridEnabled": false,
+  "writingLineHeight": 150
+}
+		</ink-canvas>
+	</metadata>
+</svg>

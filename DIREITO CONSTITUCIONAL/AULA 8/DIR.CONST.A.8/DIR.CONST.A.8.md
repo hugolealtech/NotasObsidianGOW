@@ -327,19 +327,23 @@ VII - o Deputado Estadual.
 
 - Nos tribunais que tenham mais de 25 julgadores poderá ser constituído o órgão especial (“mini-pleno”). Este órgão receberá, por delegação, atribuições administrativas e jurisdicionais do Tribunal Pleno.
 
-> [!quote] 
+> [!info] 
 > LEI
-> **Art. 93, CF/88:** Lei complementar, de iniciativa do Supremo Tribunal Federal, disporá sobre o Estatuto da Magistratura, observados os seguintes princípios: XI nos tribunais com número superior a vinte e cinco julgadores, poderá ser constituído órgão especial, com o mínimo de onze e o máximo de vinte e cinco membros, para o exercício das atribuições administrativas e jurisdicionais delegadas da competência do tribunal pleno, provendo-se metade das vagas por antiguidade e a outra metade por eleição pelo tribunal pleno; (Redação dada pela Emenda Constitucional nº 45, de 2004)
+> **Art. 93, CF/88:** [[Lei complementar]], de iniciativa do Supremo Tribunal Federal, disporá sobre o Estatuto da Magistratura, observados os seguintes princípios: 
+> 
+> XI nos tribunais com número superior a vinte e cinco julgadores, ==poderá== ser constituído **órgão especial**, com o mínimo de onze e o máximo de vinte e cinco membros, para o exercício das atribuições administrativas e jurisdicionais delegadas da competência do tribunal pleno, provendo-se metade das vagas por antiguidade e a outra metade por eleição pelo tribunal pleno; (Redação dada pela Emenda Constitucional nº 45, de 2004)
+
+
+ ![InkWriting](<Ink/Writing/2026.8.27 - 16.02pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=2.051)
+
 
 - Nos termos do art. 97, CF/88, a cláusula:
 
-- Só precisa ser observada em Tribunais;
-
-- Por isso, a cláusula não se aplica em decisões de turmas recursais ou de juiz monocrático;
-
-- Não precisa ser observada quando o Tribunal for declarar a constitucionalidade do ato normativo, ou a recepção ou não recepção de um ato normativo pré-constitucional;
-
-- Também não será observada quando o Tribunal utilizar a técnica de interpretação conforme à constituição (pois neste caso estaremos diante de uma declaração de constitucionalidade).
+ >[!abstract] 
+ >- Só precisa ser observada em Tribunais;
+ >- Por isso, a cláusula não se aplica em decisões de turmas recursais ou de juiz monocrático;
+ >- Não precisa ser observada quando o Tribunal for declarar a constitucionalidade do ato normativo, ou a recepção ou não recepção de um ato normativo pré-constitucional;
+ >- Também não será observada quando o Tribunal utilizar a técnica de interpretação conforme à constituição (pois neste caso estaremos diante de uma declaração de constitucionalidade).
 
 ---
 *p. 12*
@@ -361,23 +365,25 @@ VII - o Deputado Estadual.
 >
 > I - rejeitada, prosseguirá o julgamento;
 >
-> II - acolhida, a questão será submetida ao plenário do tribunal ou ao seu órgão especial, onde houver. Parágrafo único. Os órgãos fracionários dos tribunais não submeterão ao plenário ou ao órgão especial a arguição de inconstitucionalidade quando já houver pronunciamento destes ou do plenário do Supremo Tribunal Federal sobre a questão.
+> II - acolhida, a questão será submetida ao plenário do tribunal ou ao seu órgão especial, onde houver. 
+> Parágrafo único. Os órgãos fracionários dos tribunais não submeterão ao plenário ou ao órgão especial a arguição de inconstitucionalidade quando já houver pronunciamento destes ou do plenário do Supremo Tribunal Federal sobre a questão.
 
-1) Quando o processo, na via difusa, é distribuído para o órgão fracionário (turma/câmara), o relator, após oitiva do MP e das partes, submete a questão ao órgão em uma votação preliminar.
 
-1.1) Se o órgão fracionário rejeitar a arguição, declarando a norma constitucional, o julgamento vai prosseguir e o pedido principal/mérito já poderá ser julgado.
+ ![InkWriting](<Ink/Writing/2026.8.27 - 16.10pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=1.569)
 
-1.2) Por outro lado, se nesta votação preliminar o órgão fracionário acolher a arguição, se decidindo pela inconstitucionalidade nesse juízo preliminar, a questão será remetida ao Plenário (ou ao órgão especial, se houver).
 
-2) No caso do item 1.2, o Plenário (ou órgão especial) vai avaliar somente a arguição de inconstitucionalidade, de forma abstrata e desvinculada do caso concreto que originou o processo (é uma hipótese excepcional de controle difuso realizado em abstrato).
 
-3) Depois que o Plenário ou órgão especial decidiu a arguição (pela constitucionalidade ou inconstitucionalidade) o órgão fracionário (turma/câmara) vai decidir o pedido principal/mérito.
+>[!abstract]
+>1) Quando o processo, na via difusa, é distribuído para o órgão fracionário (turma/câmara), o relator, após oitiva do MP e das partes, submete a questão ao órgão em uma votação preliminar.
+>>>>1.1) Se o órgão fracionário rejeitar a arguição, declarando a norma constitucional, o julgamento vai prosseguir e o pedido principal/mérito já poderá ser julgado.
+>>>>
+>>>>1.2) Por outro lado, se nesta votação preliminar o órgão fracionário acolher a arguição, se decidindo pela inconstitucionalidade nesse juízo preliminar, a questão será remetida ao Plenário (ou ao órgão especial, se houver).
+>2) No caso do item 1.2, o Plenário (ou órgão especial) vai avaliar somente a arguição de inconstitucionalidade, de forma abstrata e desvinculada do caso concreto que originou o processo (é uma hipótese excepcional de controle difuso realizado em abstrato).
+>3) Depois que o Plenário ou órgão especial decidiu a arguição (pela constitucionalidade ou inconstitucionalidade) o órgão fracionário (turma/câmara) vai decidir o pedido principal/mérito.
+>4) Como o Plenário ou órgão especial decidiu o incidente (a questão prejudicial acerca da constitucionalidade) e o órgão fracionário decidiu o pedido principal (o mérito) estamos diante da chamada cisão funcional de competência.
+>5) O parágrafo único do art. 949, CPC mitiga a cláusula de reserva de plenário ao determinar que ela só deve ser aplicada quando a matéria estiver sendo discutida no Tribunal pela primeira vez e não houver pronunciamento anterior do Plenário do STF sobre a questão. Assim, quando o processo no controle difuso for distribuído no Tribunal, - órgão fracionário deverá, como primeira postura, verificar se já há um precedente firmado pelo Tribunal ou pelo Plenário do STF sobre aquela questão. Se houver, o precedente será aplicado. Se não houver, seguiremos o procedimento do art. 949, CPC.
 
-4) Como o Plenário ou órgão especial decidiu o incidente (a questão prejudicial acerca da constitucionalidade) e o órgão fracionário decidiu o pedido principal (o mérito) estamos diante da chamada cisão funcional de competência.
 
-5) O parágrafo único do art. 949, CPC mitiga a cláusula de reserva de plenário ao determinar que ela só deve ser aplicada quando a matéria estiver sendo discutida no Tribunal pela primeira vez e não houver pronunciamento anterior do Plenário do STF sobre a questão. Assim, quando o processo no controle difuso for distribuído no Tribunal,
-
-- órgão fracionário deverá, como primeira postura, verificar se já há um precedente firmado pelo Tribunal ou pelo Plenário do STF sobre aquela questão. Se houver, o precedente será aplicado. Se não houver, seguiremos o procedimento do art. 949, CPC.
 
 ---
 *p. 13*
@@ -388,19 +394,23 @@ VII - o Deputado Estadual.
 
 (iii) Objeto
 
-**(A) No controle difuso**
+#### **(A) No controle difuso**
 
--Qualquer norma pode ter sua compatibilidade com a Constituição verificada na via difusa.
+- Qualquer norma pode ter sua compatibilidade com a Constituição verificada na via difusa.
 
--Não importa se a norma é federal, estadual, distrital ou municipal: pode ser objeto.
+- Não importa se a norma é federal, estadual, distrital ou municipal: pode ser objeto.
 
--Também não importa se a norma está em vigor ou se já foi revogada.
+- Também não importa se a norma está em vigor ou se já foi revogada.
 
--A norma também pode ser pré-constitucional (caso em que será analisada quanto à sua recepção) ou pós constitucional (caso em que será analisada quanto à sua constitucionalidade).
+- A norma também pode ser pré-constitucional (caso em que será analisada quanto à sua recepção) ou pós constitucional (caso em que será analisada quanto à sua constitucionalidade).
 
 **(B) No controle concentrado**
 
 ![[DIR.CONST.A.8-img2-pg14.png]]
+
+
+
+ ![InkWriting](<Ink/Writing/2026.8.27 - 16.31pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
 
 **(i) ADO**
 
@@ -455,7 +465,7 @@ VII - o Deputado Estadual.
 
 § 1o Em caso de omissão imputável a órgão administrativo, as providências deverão ser adotadas no prazo de 30 (trinta) dias, ou em prazo razoável a ser estipulado excepcionalmente pelo Tribunal, tendo em vista as circunstâncias específicas do caso e o interesse público envolvido. (Incluído pela Lei nº 12.063, de 2009). § 2o Aplica-se à decisão da ação direta de inconstitucionalidade por omissão, no que couber, o disposto no Capítulo IV desta Lei. (Incluído pela Lei nº 12.063, de 2009).”
 
-- O objeto é a omissão total ou parcial:
+#### O objeto é a omissão total ou parcial:
 
   - Omissão Total: Quando não há nenhum resquício de regulamentação da norma constitucional.
 
@@ -467,7 +477,7 @@ VII - o Deputado Estadual.
 
 - De forma precisa, o Min. Celso de Mello relata a essência do desafio de superar a inefetividade de alguns dos dispositivos do documento constitucional:
 
-- A inércia estatal em adimplir as imposições constitucionais traduz inaceitável gesto de desprezo pela autoridade da Constituição e configura, por isso mesmo, comportamento que deve ser evitado. É que nada se revela mais nocivo, perigoso e ilegítimo do que elaborar uma Constituição, sem a vontade de fazê-la cumprir integralmente, ou, então, de apenas executá-la com o propósito subalterno de torná-la aplicável somente nos pontos que se mostrarem ajustados à conveniência e aos desígnios dos governantes, em detrimento dos interesses maiores dos cidadãos.
+- ==A inércia estatal em adimplir as imposições constitucionais traduz inaceitável gesto de desprezo pela autoridade da Constituição e configura, por isso mesmo, comportamento que deve ser evitado.== É que nada se revela mais nocivo, perigoso e ilegítimo do que elaborar uma Constituição, sem a vontade de fazê-la cumprir integralmente, ou, então, de apenas executá-la com o propósito subalterno de torná-la aplicável somente nos pontos que se mostrarem ajustados à conveniência e aos desígnios dos governantes, em detrimento dos interesses maiores dos cidadãos.
 
 - Na ADO 38, julgada em agosto de 2023, o STF (em decisão unânime) declarou procedente a ação direta para declarar a mora do Congresso Nacional quanto à edição da Lei Complementar prevista na segunda parte do §1º do art. 45 da CF (revisão periódica da proporcionalidade na relação deputado/população). No caso, a Corte fixou um prazo até 30 de junho de 2025 para que seja sanada a omissão, pela redistribuição proporcional das cadeiras hoje existentes, e entendeu que, após esse prazo, e na hipótese de persistência da omissão inconstitucional, caberá ao Tribunal Superior Eleitoral determinar, até 1º de outubro de 2025, o número de Deputados Federais de cada Estado e do Distrito Federal para a legislatura que se iniciará em 2027, bem como
 
@@ -485,7 +495,7 @@ VII - o Deputado Estadual.
 
 > [!quote] 
 > LEI
-> **Art. 1º, CF/88:** A República Federativa do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos: (...)
+> **Art. 1º, CF/88:** A República Federativa do Brasil, formada pela união ==indissolúvel== dos Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos: (...)
 
 **Redação anterior:**
 
@@ -495,7 +505,7 @@ VII - o Deputado Estadual.
 
 > [!quote] 
 > LEI
-> **Art. 18, § 4º, CF/88:** A criação, a incorporação, a fusão e o desmembramento de Municípios, far-se-ão por lei estadual, dentro do período determinado por Lei Complementar Federal, e dependerão de consulta prévia, mediante plebiscito, às populações dos Municípios envolvidos, após divulgação dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei. (Redação dada pela Emenda Constitucional nº 15, de 1996)
+> **Art. 18, § 4º, CF/88:** A criação, a incorporação, a fusão e o desmembramento de Municípios, far-se-ão por lei estadual, dentro do período determinado por ==Lei Complementar Federal==, e dependerão de consulta prévia, mediante plebiscito, às populações dos Municípios envolvidos, após divulgação dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei. (Redação dada pela Emenda Constitucional nº 15, de 1996)
 
 -A jurisprudência do STF mudou e passou a reconhecer que não há violação à separação dos Poderes nos casos em que a Corte determina um prazo para o Congresso editar norma que vise resolver uma omissão constitucional.
 
@@ -503,17 +513,17 @@ VII - o Deputado Estadual.
 
   - Isso porque a omissão inconstitucional ocorre quando o Poder Legislativo não atua, não discute e não delibera sobre o tema, frustrando o cumprimento de uma norma constitucional de eficácia limitada. No entanto, no caso concreto do art. 18, § 4°, isso agora já não se verifica – afinal, entre os anos de 2013 e 2014, o Congresso Nacional aprovou três projetos de lei complementar com o objetivo de regulamentar o dispositivo constitucional, mas todos foram vetados integralmente pela Presidência da República.
 
-  - Destarte, o STF entendeu na ADO 70 que não mais podemos atribuir omissão ao Congresso Nacional pois este, efetivamente, atuou dentro de sua competência legislativa, aprovando projetos de lei que cumpriam a determinação constitucional, mas que não chegaram a virar norma jurídica em razão de veto presidencial, ato igualmente legítimo dentro do processo legislativo. Firmou-se, portanto, o entendimento de que a inércia legislativa que justifica a declaração de omissão inconstitucional é aquela caracterizada pela ausência de deliberação por parte do Parlamento, o que a Corte denomina de _inertia deliberandi_ .
+  - Destarte, o STF entendeu na ADO 70 que não mais podemos atribuir omissão ao Congresso Nacional pois este, efetivamente, atuou dentro de sua competência legislativa, aprovando projetos de lei que cumpriam a determinação constitucional, mas que não chegaram a virar norma jurídica em razão de veto presidencial, ato igualmente legítimo dentro do processo legislativo. Firmou-se, portanto, o entendimento de que a ==inércia legislativa que justifica a declaração de omissão inconstitucional é aquela caracterizada pela ausência de deliberação por parte do Parlamento, o que a Corte denomina de _[[inertia deliberandi]] .==
 
 > [!warning] Jurisprudência
-> **ADO 70/PA, Rel. Min. Dias Toffoli:** Não há inércia legislativa quando sua atuação resulta em projetos de lei integralmente vetados pelo Presidente da República. Por essa razão, o Congresso Nacional não está em mora na
+> **ADO 70/PA, Rel. Min. Dias Toffoli:** Não há inércia legislativa quando sua atuação resulta em projetos de lei integralmente vetados pelo Presidente da República. Por essa razão, o Congresso Nacional não está em mora na edição da lei complementar atinente à criação, incorporação, fusão e desmembramento de municípios (art. 18, § 4º, CF/88).
 
 ---
 *p. 17*
 
 ---
 
-edição da lei complementar atinente à criação, incorporação, fusão e desmembramento de municípios (art. 18, § 4º, CF/88).
+
 
 > [!attention] Atenção!
 > - **Obs.2: Participação dos trabalhadores urbanos e rurais na gestão da empresa**
@@ -522,7 +532,7 @@ edição da lei complementar atinente à criação, incorporação, fusão e des
 > LEI
 > **Art. 7º, CF/88:** São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social:
 >
-> XI - participação nos lucros, ou resultados, desvinculada da remuneração, e, excepcionalmente, participação na gestão da empresa, conforme definido em lei;
+> XI - participação nos lucros, ou resultados, desvinculada da remuneração, e, *excepcionalmente, participação na gestão da empresa, conforme definido em lei;*
 
   - Em fevereiro de 2025, no julgamento da ADO 85, o STF (em decisão unânime) reconheceu que há mora do Congresso Nacional na regulamentação deste inciso XI do art. 7°, no ponto em que prevê a excepcional participação dos trabalhadores urbanos e rurais na gestão da empresa (já existe lei regulamentando a participação dos trabalhadores nos lucros ou resultados da empresa – Lei n° 10.101/2000). Nossa Corte Suprema concedeu o prazo de 24 meses para que referida omissão seja sanada.
 
@@ -544,9 +554,7 @@ edição da lei complementar atinente à criação, incorporação, fusão e des
 
   - Em outubro de 2025, na ADO 73, o STF decidiu, por unanimidade, que o Congresso Nacional foi omisso ao não editar a lei que visa proteger os trabalhadores urbanos e rurais dos impactos da automação.
 
-  - A Corte concedeu um prazo de 24 meses ao Poder Legislativo para que elabore norma sobre a matéria. Segundo
-
-  - relator da ação, Min. Barroso, não se trata de interromper o avanço tecnológico, mas de assegurar a capacitação dos trabalhadores para a nova economia e de criar redes de proteção social em uma eventual transição.
+  - ==A Corte concedeu um prazo de 24 meses ao Poder Legislativo para que elabore norma sobre a matéria.== Segundo  - relator da ação, Min. Barroso, não se trata de interromper o avanço tecnológico, mas de assegurar a capacitação dos trabalhadores para a nova economia e de criar redes de proteção social em uma eventual transição.
 
   - Ao acompanhar o relator, o ministro Flávio Dino reforçou que uma lei sobre o tema é ainda mais prioritária em razão do fenômeno do desemprego tecnológico, que exige a concordância prática entre a livre iniciativa e os valores sociais do trabalho.
 
@@ -582,11 +590,14 @@ edição da lei complementar atinente à criação, incorporação, fusão e des
 > [!warning] Jurisprudência
 > **ADO 82/DF, Rel. Min. Dias Toffoli:** O Congresso Nacional está em mora na edição da lei regulamentadora referente à tipificação penal da retenção dolosa do salário dos trabalhadores urbanos e rurais (art. 7º, X, CF/88).
 
-**[FGV - 2026 - MPE-GO - Promotora e Promotor de Justiça Substituto] Assinale a opção que indica conduta**
+>[!question]
+> **[FGV - 2026 - MPE-GO - Promotora e Promotor de Justiça Substituto] Assinale a opção que indica conduta** **expressamente criminalizada pela Constituição da República de 1988.**
+a) A constituição de organização criminosa.
+==**b) A retenção dolosa do salário.**== 
+c) A lavagem de dinheiro. 
+d) A violência doméstica e familiar contra a mulher. 
+e) A redução à condição análoga à de escravo.
 
-**expressamente criminalizada pela Constituição da República de 1988.** a) A constituição de organização criminosa.
-
-**b) A retenção dolosa do salário.** c) A lavagem de dinheiro. d) A violência doméstica e familiar contra a mulher. e) A redução à condição análoga à de escravo.
 
 ---
 *p. 19*
