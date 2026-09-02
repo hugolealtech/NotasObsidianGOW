@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.68701171875,
-    "collapsed": true
+    "width": 329.68701171875
   },
   "right": {
     "id": "1f21ed8ca2632c5a",
@@ -186,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.7215576171875
+    "width": 447.7215576171875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,7 +202,7 @@
       "pencil:New whiteboard": false
     }
   },
-  "active": "2e465c9fd992a5f6",
+  "active": "3ec4419ac0785747",
   "lastOpenFiles": [
     "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/DIR.CONST.A.8.md",
     "DIREITO CONSTITUCIONAL/AULA 2/05 - Excalidraw/Inertia Deliberandi.md",
