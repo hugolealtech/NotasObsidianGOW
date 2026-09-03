@@ -18,11 +18,7 @@ caminho:
 
 **ANALISTA DOS TRIBUNAIS** NATHALIA MASSON DIREITO CONSTITUCIONAL AULA 8 ROTEIRO DE AULA
 
-- [[Sumário]]
-- [[Controle Difuso e Concentrado]]
-  - [[2- Legitimidade]]
-  - [[3- Objeto]]
-  - [[4- Efeitos das Decisões Definitivas]]
+-obsidian://open?vault=GOW&file=DIREITO%20CONSTITUCIONAL%2FAULA%208%2FDIR.CONST.A.8%2FDIR.CONST.A.8
 
 **(CONTINUAÇÃO) Controle de constitucionalidade** (continuação) (ii) Legitimidade
 
