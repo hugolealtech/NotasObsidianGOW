@@ -83,14 +83,22 @@ caminho:
 
 -Partido político. Legitimidade ativa. ==Aferição no momento da sua propositura. Perda superveniente de representação parlamentar.== Não desqualificação para permanecer no polo ativo da relação processual. Objetividade e indisponibilidade da ação. [ADI 2.618 AgR-AgR, rel. min. Gilmar Mendes, j. 12-8-2004, P, DJ de 31-3 2006.] = ADI 2.427, rel. min. Eros Grau, j. 30-8-2006, P, DJ de 10-11-2006
 
--Se no curso da ação o partido político perder sua representação parlamentar no CN, a ação direta não ficará prejudicada, pois a legitimidade do partido será verificada no momento da propositura da ação e não na hora do julgamento. Tal conclusão se sustenta na objetividade e indisponibilidade da ação no controle concentrado.
+-==Se no curso da ação o partido político perder sua representação parlamentar no CN, a ação direta não ficará prejudicada, pois a legitimidade do partido será verificada no momento da propositura da ação e não na hora do julgamento.== Tal conclusão se sustenta na objetividade e indisponibilidade da ação no controle concentrado.
 
 >[!SUCCESS]  Momento de aferição da propositura
->**“ADI-AgR-2.618 PR, Rel. Min. Carlos Velloso:** Agravo Regimental em Ação Direta de Inconstitucionalidade. 2. Partido político. 3. Legitimidade ativa. Aferição no momento da sua propositura. 4. Perda superveniente de representação parlamentar. Não desqualificação para permanecer no pólo ativo da relação processual. 5. Objetividade e indisponibilidade da ação. 6. Agravo provido”
+>**“ADI-AgR-2.618 PR, Rel. Min. Carlos Velloso:** Agravo Regimental em Ação Direta de Inconstitucionalidade. 2. Partido político. 3. Legitimidade ativa. Aferição no momento da sua propositura. 4.<mark> Perda superveniente de representação parlamentar. Não desqualificação para permanecer no pólo ativo da relação processual. 5. Objetividade e indisponibilidade da ação. 6. Agravo provido”</mark>
 
 
 
 - Atento para a diferença do MS impetrado por parlamentar para defender o devido processo legislativo. Nesse caso a legitimidade é exclusiva do PARLAMENTAR, se perder essa condição a ação mandamental ficará prejudicada (processo de natureza subjetiva)
+>[!note] Nota Pessoal
+>O Mandado de segurança <mark>está estreitamente ligado à legislatura </mark> , por que a norma ainda não foi editada, sendo apenas uma ameaça abstrata à Constituição Federal e o STF entende que os processos naturais de controle de Constitucionalidade prévios deve prevalecer.
+
+
+
+
+
+
 
 ---
 *p. 3*
@@ -111,7 +119,8 @@ caminho:
 
 - **“ADI-MC 334 DF, Rel. Moreira Alves** : Ação direta de inconstitucionalidade. Confederação Geral dos Trabalhadores - C.G.T. Ilegitimidade " _ad causam_ " - não tem a Confederação Geral dos Trabalhadores - C.G.T. legitimidade para propor ação direta de inconstitucionalidade. Sendo ela constituída por pessoas jurídicas de natureza varia e que representam categorias profissionais diversas, não se enquadra na expressão "entidade de classe" contida no artigo 103, XI, da Constituição; Ademais, não é ela Confederação sindical. Ação direta de inconstitucionalidade não conhecida por falta de " _legitimatio ad causam_ " da autora. “
 
--Somente as confederações sindicais são legitimadas (de acordo com art. 535 da CLT elas são organizadas com o mínimo de 3 federações e terão sede na capital da República).
+>[!bug] Somente as confederações sindicais são legitimadas (de acordo com art. 535 da CLT elas são organizadas com o mínimo de 3 federações e terão sede na capital da República).
+
 
 > [!quote] 
 > LEI
