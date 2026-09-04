@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/DIR.CONST.A.8.md",
+                "file": "DIREITO CONSTITUCIONAL/AULA 9/DIR.CONST.A.9/DIR.CONST.A.9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DIR.CONST.A.8"
+              "title": "DIR.CONST.A.9"
             }
           }
         ]
@@ -186,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.7215576171875,
-    "collapsed": true
+    "width": 447.7215576171875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,7 +204,10 @@
   },
   "active": "2e465c9fd992a5f6",
   "lastOpenFiles": [
+    "Ink/Writing/2026.9.4 - 10.14am.svg",
+    "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8.pdf",
     "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/DIR.CONST.A.8.md",
+    "NotasObsidianGOW",
     "DIREITO CONSTITUCIONAL/AULA 2/05 - Excalidraw/Inertia Deliberandi.md",
     "Ink/Writing/2026.8.27 - 16.31pm.svg",
     "Ink/Writing/2026.8.27 - 16.10pm.svg",
@@ -213,7 +215,6 @@
     "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/PENC.DIR.CONS.A.8.N.1.pencil",
     "DIREITO ADMINISTRATIVO/AULA 8/DIR.ADM.A.8/images/DIR.ADM.A.8-img1-pg1.png",
     "DIREITO ADMINISTRATIVO/AULA 8/DIR.ADM.A.8/DIR.ADM.A.8.md",
-    "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8.pdf",
     "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/images/DIR.CONST.A.8-img5-pg27.png",
     "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/images/DIR.CONST.A.8-img4-pg27.png",
     "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/images/DIR.CONST.A.8-img3-pg27.png",
@@ -228,7 +229,6 @@
     "DIREITO PROCESSUAL CIVIL/A13/DIR.PROC.CIVIL.A.13/DIR.PROC.CIVIL.A.13.md",
     "DIREITO PROCESSUAL CIVIL/A13/DIR.PROC.CIVIL.A.13.pdf",
     "DIREITO PROCESSUAL CIVIL/A13/DIR.PROC.CIVIL.A.13",
-    "DIREITO PROCESSUAL CIVIL/A13",
     "DIREITO PROCESSUAL CIVIL/A12/DIR.PROC.CIVIL.A.12/DIR.PROC.CIVIL.A.12.md",
     "DIREITO PROCESSUAL CIVIL/A11/DIR.PROC.CIVIL.A.11/DIR.PROC.CIVIL.A.11.md",
     "DIREITO PROCESSUAL CIVIL/A10/DIR.PROC.CIVIL.A.10/DIR.PROC.CIVIL.A.10.md",
@@ -250,7 +250,6 @@
     "DIREITO PROCESSUAL CIVIL/itens específicos/Jurisdição-/Jurisdição Voluntária/Jurisdição Voluntária.md",
     "DIREITO PROCESSUAL CIVIL/itens específicos/Jurisdição-/Finalidades/Finalidades.md",
     "DIREITO PROCESSUAL CIVIL/itens específicos/Jurisdição-/Equivalentes Jurisdicionais./Equivalentes Jurisdicionais..md",
-    "DIREITO PROCESSUAL CIVIL/itens específicos/Jurisdição-/Conceito/Conceito.md",
     "images/Sem título.canvas"
   ]
 }

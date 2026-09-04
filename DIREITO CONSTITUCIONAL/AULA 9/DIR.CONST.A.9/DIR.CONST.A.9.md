@@ -49,13 +49,15 @@ caminho:
 
 (iv) Efeitos das Decisões Definitivas
 
-**(A) No controle difuso**
+## **(A) No controle difuso**
 
 -Em regra, os efeitos das decisões proferidas em sede de controle difuso de constitucionalidade serão:
 
-- _Inter partes_
+>[!Regra]
+>- _Inter partes_
+>- _Ex tunc_ (retroativo)
 
-- _Ex tunc_ (retroativo)
+
 
 ![[DIR.CONST.A.9-img2-pg2.png]]
 
@@ -66,10 +68,17 @@ caminho:
 - O STF, utilizando por analogia o art. 27, da Lei nº 9.868/1999, determina a modulação temporal de efeitos nas suas decisões de inconstitucionalidade no controle difuso.
 
 > [!quote] 
-> LEI
-> - **“Art. 27, Lei nº 9.868/1999:** Ao declarar a inconstitucionalidade de lei ou ato normativo, e tendo em vista razões de segurança jurídica ou de excepcional interesse social, poderá o Supremo Tribunal Federal, por maioria de dois terços de seus membros, restringir os efeitos daquela declaração ou decidir que ela só tenha eficácia a partir de seu trânsito em julgado ou de outro momento que venha a ser fixado. “
+> LEI DE INCONSTITUCIONALIDADE CONCENTRADO MAS USADO NA DIFUSA
+> - **“Art. 27, Lei nº 9.868/1999:** 
+> - Ao declarar a inconstitucionalidade de lei ou ato normativo, e tendo em vista razões de segurança jurídica ou de excepcional interesse social, poderá o Supremo Tribunal Federal, por maioria de dois terços de seus membros, restringir os efeitos daquela declaração ou decidir que ela só tenha eficácia a partir de seu trânsito em julgado ou de outro momento que venha a ser fixado. “
 
-- **“AI 641.798-RJ, STF, Rel. Min. Joaquim Barbosa:** Em princípio, a técnica da modulação temporal dos efeitos de decisão reserva-se ao controle concentrado de constitucionalidade, em face de disposição legal expressa. Não obstante, e embora em pelo menos duas oportunidades o Supremo Tribunal Federal tenha aplicado a técnica da modulação dos efeitos da declaração de inconstitucionalidade no controle difuso da constitucionalidade das leis, é imperioso ter presente que a Corte o fez em situações extremas, caracterizadas inequivocamente pelo risco à segurança jurídica ou ao interesse social.”
+
+
+
+ ![InkWriting](<Ink/Writing/2026.9.4 - 10.14am.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
+
+- **“AI 641.798-RJ, STF, Rel. Min. Joaquim Barbosa:** Em princípio, a técnica da modulação temporal dos efeitos de decisão reserva-se ao controle concentrado de constitucionalidade, em face de disposição legal expressa. Não obstante, e embora em pelo menos duas oportunidades o Supremo Tribunal Federal tenha aplicado a técnica da modulação dos efeitos da declaração de inconstitucionalidade no controle difuso da constitucionalidade das leis, <mark>é imperioso ter presente que a Corte o fez em situações extremas, caracterizadas inequivocamente pelo risco à segurança jurídica ou ao interesse social.”</mark>
+- 
 
 - O STF tem entendimento no sentido de que o quórum de 2/3 (previsto no art. 27 da Lei nº 9.868/1999) deve ser obedecido somente nos casos em que a Corte houver declarado inconstitucional a lei ou ato normativo.
 
