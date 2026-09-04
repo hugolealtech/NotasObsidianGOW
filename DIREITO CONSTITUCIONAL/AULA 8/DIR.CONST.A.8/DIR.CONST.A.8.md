@@ -652,13 +652,15 @@ e) A redução à condição análoga à de escravo.
 > LEI
 > **Art. 102, CF/88:** Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo lhe:
 >
-> I - processar e julgar, originariamente: ~~❖~~ ~~a) a ação direta de inconstitucionalidade de lei ou ato normativo federal ou estadual;~~ a) a ação direta de inconstitucionalidade de lei ou ato normativo federal ou estadual e a ação declaratória de constitucionalidade de lei ou ato normativo federal; (Redação dada pela Emenda Constitucional nº 3, de 1993)
+> I - processar e julgar, originariamente:
+>  ~~❖~~ ~~a) a ação direta de inconstitucionalidade de lei ou ato normativo federal ou estadual;~~ 
+>  a) a ação direta de inconstitucionalidade de lei ou ato normativo federal ou estadual e a ação declaratória de constitucionalidade de lei ou ato normativo federal; (Redação dada pela Emenda Constitucional nº 3, de 1993)
 
 - Arts. 13 a 21 da Lei 9.868/1999
 
 > [!quote] 
 > LEI
-> - **“Art. 13.** Podem propor a ação declaratória de constitucionalidade de lei ou ato normativo federal: (Vide artigo 103 da Constituição Federal)
+> **“Art. 13.** Podem propor a ação declaratória de constitucionalidade de lei ou ato normativo federal: (Vide artigo 103 da Constituição Federal)
 >
 > I - o Presidente da República;
 >
@@ -719,23 +721,28 @@ III - a existência de controvérsia judicial relevante sobre a aplicação da d
 
 - **“Súmula 642, STF:** Não cabe ação direta de inconstitucionalidade de lei do Distrito Federal derivada da sua competência legislativa municipal.”
 
-- Normas constitucionais originárias (que foram elaboradas pelo Poder Constituinte Originário) não podem ser objeto do Controle de Constitucionalidade (nem difuso, nem concentrado), já que representam o próprio parâmetro para o controle. Por outro lado, as normas constitucionais derivadas (EC) podem ser objeto do controle de constitucionalidade (difuso e, no concentrado, por meio de ADI).
+- Normas constitucionais originárias (que foram elaboradas pelo Poder Constituinte Originário) não podem ser objeto do Controle de Constitucionalidade (nem difuso, nem concentrado), já que representam o próprio parâmetro para o controle.<mark> Por outro lado, as normas constitucionais derivadas (EC) podem ser objeto do controle de constitucionalidade (difuso e, no concentrado, por meio de ADI).</mark>
+
 
 ---
 *p. 22*
 
 ---
 
-- PEC e Projeto de Lei não podem ser objeto de controle concentrado. A constitucionalidade formal dessas proposições só pode ser discutida no Poder Judiciário por meio de MS, impetrado por parlamentar em virtude de desinteligências no processo legislativo.
+>[!bug] PEC e Projeto de Lei não podem ser objeto de controle concentrado.
+> A constitucionalidade formal dessas proposições só pode ser discutida no Poder Judiciário por meio de MS, impetrado por parlamentar em virtude de desinteligências no processo legislativo.
 
-- Sobre a possibilidade de atos normativos secundários serem objeto de controle concentrado em sede de ADI, é bom frisar que a jurisprudência da nossa Suprema Corte orienta-se no sentido de não admitir a instauração do procedimento jurisdicional de fiscalização abstrata de constitucionalidade quando o ato estatal objeto da impugnação não possuir coeficiente de normatividade suficientemente apto a qualificá-lo como ato normativo de caráter primário ou autônomo. Nessas condições, “evidente o descabimento da ação direta quando a pretendida inconstitucionalidade do ato regulamentar, que é meramente ancilar e secundário, representa uma derivação e um efeito consequencial de eventual ilegitimidade constitucional da própria lei em sua condição jurídica de ato normativo primário e principal” (ADI 996/DF, Relator Ministro Celso de Mello, DJ 06.5.1994).
+- Sobre a possibilidade de atos normativos secundários serem objeto de controle concentrado em sede de ADI, é bom frisar que a jurisprudência da nossa Suprema Corte orienta-se no sentido de não admitir a instauração do procedimento jurisdicional de fiscalização abstrata de constitucionalidade quando o ato estatal objeto da impugnação não possuir coeficiente de normatividade suficientemente apto a qualificá-lo como ato normativo de caráter primário ou autônomo. 
+- Nessas condições, “evidente o descabimento da ação direta quando a pretendida inconstitucionalidade do ato regulamentar, que é meramente ancilar e secundário, representa uma derivação e um efeito consequencial de eventual ilegitimidade constitucional da própria lei em sua condição jurídica de ato normativo primário e principal” (ADI 996/DF, Relator Ministro Celso de Mello, DJ 06.5.1994).
 
-- No entanto, a jurisprudência deste Tribunal reconhece a viabilidade do controle abstrato da constitucionalidade de ato normativo de natureza regulamentar quando expressa conteúdo jurídico normativo primário, assumindo grau de abstração, autonomia e impessoalidade.
+- **No entanto, a jurisprudência deste Tribunal reconhece a viabilidade do controle abstrato da constitucionalidade de [[ato normativo]] de natureza regulamentar (secundária) quando expressa conteúdo jurídico normativo primário, assumindo grau de abstração, autonomia e impessoalidade.**
 
-- Conclusão: caberá impugnação via ADI de atos que, ainda que secundários, forem dotados de força normativa genérica e abstrata – tais como atos normativos editados por pessoa jurídica de direito público, resoluções, pareceres aprovados pelo chefe do Executivo, deliberações administrativas de tribunal, instruções normativas etc.
+- Conclusão: <mark>caberá impugnação via ADI de atos que, ainda que secundários, forem dotados de força normativa genérica e abstrata,</mark> – tais como atos normativos editados por pessoa jurídica de direito público, resoluções, pareceres aprovados pelo chefe do Executivo, deliberações administrativas de tribunal, instruções normativas etc.
 
 > [!warning] Jurisprudência
-> **ADI 6749, Rel. Min. Rosa Weber:** A instrução normativa DETRAN/DF n° 34/2021 disciplina a atuação dos despachantes de trânsito, estabelecendo condições, impondo requisitos, fixando impedimentos, delimitando atribuições e cominando penalidades aos integrantes dessa categoria profissional. Compete à União Federal legislar, privativamente, sobre condições para o exercício de profissões (CF, art. 22, XVI), ainda que atividade envolva a prestação eventual de serviços perante órgãos da administração pública local. Ação direta de inconstitucionalidade conhecida. Pedido julgado procedente. Art. 22. Compete privativamente à União legislar sobre: (...)
+> **ADI 6749, Rel. Min. Rosa Weber:** <mark>A instrução normativa DETRAN/DF n° 34/2021 disciplina a atuação dos despachantes de trânsito, estabelecendo condições, impondo requisitos, fixando impedimentos, delimitando atribuições e cominando penalidades aos integrantes dessa categoria profissional.</mark> Compete à União Federal legislar, privativamente, sobre condições para o exercício de profissões (CF, art. 22, XVI), ainda que atividade envolva a prestação eventual de serviços perante órgãos da administração pública local. Ação direta de inconstitucionalidade conhecida. Pedido julgado procedente. Art. 22. Compete privativamente à União legislar sobre: (...)
+
+
 
 XVI - organização do sistema nacional de emprego e condições para o exercício de profissões
 
@@ -758,26 +765,24 @@ Essa ‘forma’ não existe após a edição da CF/88, tendo sido substituída 
 
 **- (iv) Decreto regulamentar:** Editado pelo Presidente da República (artigo 84, IV), é uma espécie normativa secundária, que existe para regulamentar e promover a fiel execução de uma lei. Deste modo, se o decreto regulamentar ofender a CF/88, será de modo indireto / reflexo, por isso, ele não poderá ser objeto de ADI (a ofensa direta atinge a lei).
 
-- Veja um trecho do voto do Min, Fachin, na ADI 6621, julgada em junho de 2021: “O decreto impugnado na presente ação direta apresenta suficiente abstração e generalidade, implicando sua autonomia em relação à legislação ordinária.”
+- Veja um trecho do voto do Min, Fachin, na ADI 6621, julgada em junho de 2021: “<mark>O decreto impugnado na presente ação direta apresenta suficiente abstração e generalidade, implicando sua autonomia em relação à legislação ordinária.</mark>”
 
 - A jurisprudência do STF reconhece, no entanto, a viabilidade do controle abstrato da constitucionalidade de ato normativo de natureza regulamentar quando expressa conteúdo jurídico-normativo primário, assumindo grau de abstração, autonomia e impessoalidade.
 
 - Em outras palavras: cabe ADI para impugnar um decreto secundário, quando este revela suficiente generalidade, abstração e independência normativa para permitir a fiscalização abstrata de sua constitucionalidade. Vale recordar que o decreto regulamentar pode ser considerado inconstitucional em sede de ADI, caso o STF se valha da técnica do arrastamento.
 
-- Glossário Jurídico do STF: **A inconstitucionalidade por arrastamento** ou por atração ocorre quando a declaração de inconstitucionalidade de uma norma impugnada se estende aos dispositivos normativos que apresentam com ela uma relação de conexão ou de interdependência
-
-- Ao adotar o arrastamento, o STF está afastando o princípio do pedido em prol de outros valores que nos são igualmente caros e também estão consagrados no ordenamento, a saber, a segurança jurídica e a
+>[!tip] Glossário Jurídico do STF:
+> **A [[inconstitucionalidade por arrastamento]]** ou por atração ocorre quando a declaração de inconstitucionalidade de uma norma impugnada se estende aos dispositivos normativos que apresentam com ela uma relação de conexão ou de interdependência
+> - Ao adotar o arrastamento, o STF está afastando o princípio do pedido em prol de outros valores que nos são igualmente caros e também estão consagrados no ordenamento, a saber, a segurança jurídica e a coerência/integralidade do sistema. **Mas a regra** ainda é a Corte se manter adstrita ao que foi apresentado como objeto pelo legitimado ativo na petição inicial.
 
 ---
 *p. 24*
 
 ---
 
-coerência/integralidade do sistema. **Mas a regra** ainda é a Corte se manter adstrita ao que foi apresentado como objeto pelo legitimado ativo na petição inicial.
 
-- Em que pese o STF estar vinculado ao pedido, não há vinculação quanto aos fundamentos. **A causa de pedir**
 
-**é aberta** , uma vez que o STF pode decidir a questão por fundamento diverso daquele apresentado pelo legitimado ativo na petição inicial. É dizer, o STF pode considerar a lei impugnada inconstitucional por motivos diversos daqueles apresentados pelo proponente da ADI. Entendimento diverso implicaria reconhecer que uma ADI mal formulada, com argumentos frágeis ou equivocados pela inconstitucionalidade da lei, levando à improcedência da ação e à consequente declaração de constitucionalidade da lei.
+- Em que pese o STF estar vinculado ao pedido, ==não há vinculação quanto aos fundamentos. **A causa de pedir** **é aberta**== , uma vez que o STF pode decidir a questão por fundamento diverso daquele apresentado pelo legitimado ativo na petição inicial. É dizer, o STF pode considerar a lei impugnada inconstitucional por motivos diversos daqueles apresentados pelo proponente da ADI. Entendimento diverso implicaria reconhecer que uma ADI mal formulada, com argumentos frágeis ou equivocados pela inconstitucionalidade da lei, levando à improcedência da ação e à consequente declaração de constitucionalidade da lei.
 
 > [!warning] Jurisprudência
 > **ADI 6621, Rel. Min. Edson Fachin:** Consabido, o Supremo Tribunal Federal, em sede de controle concentrado de constitucionalidade, não se vincula estritamente aos fundamentos jurídicos do pedido nos mesmos termos dos processos de cariz subjetivo.
@@ -804,17 +809,18 @@ coerência/integralidade do sistema. **Mas a regra** ainda é a Corte se manter 
 
 **Bloco 5**
 
-- Não cabe ADI para impugnar norma já revogada ( **ausência de objeto** ).
+>[!tip] Não cabe ADI para impugnar norma já revogada ( **ausência de objeto** ).
 
 - Se a ADI é ajuizada contra lei que está em vigor, mas, no curso da ação, a lei é revogada, a ADI ficará prejudicada e será extinta sem exame de mérito ( **perda de objeto** ).
 
 - A ação direta não ficará prejudicada se estivermos diante de uma revogação fraudulenta (em que a lei revogadora é muito semelhante ou possui idêntico teor da lei revogada), que visa burlar a jurisdição do STF. Neste caso, a petição inicial será aditada, para adequar o objeto.
 
-- Segundo o STF, também não será determinada a perda do objeto da ADI se restar demonstrado que o conteúdo da norma impugnada foi repetido, em sua essência, pelo diploma normativo revogador. Nesta hipótese, a revogação não foi fraudulenta (não visou burlar a jurisdição da Corte), mas como não ocasionou mudança significativa no conteúdo do diploma anterior, não há qualquer obstáculo para o conhecimento da ação.
+>[!attention] Segundo o STF, também não será determinada a perda do objeto da ADI se restar demonstrado que o conteúdo da norma impugnada foi repetido, em sua essência, pelo diploma normativo revogador. Nesta hipótese, a revogação não foi fraudulenta (não visou burlar a jurisdição da Corte), mas como não ocasionou mudança significativa no conteúdo do diploma anterior, não há qualquer obstáculo para o conhecimento da ação.
 
 - O STF determinou que não haveria perda do objeto se proposta uma ação direta contra medida provisória e, antes de a ação ser julgada, a MP for convertida em lei sem alteração do texto impugnado.
 
-- Segundo o STF, é cabível controle jurisdicional dos pressupostos legitimadores para a edição de medida provisória, quais sejam, relevância e urgência. Todavia, este controle só é possível de modo absolutamente excepcional, quando estivermos diante de um notório abuso do poder de legislar ou uma flagrante inocorrência dos pressupostos.
+>[!attention] 
+>Segundo o STF, é cabível controle jurisdicional dos pressupostos legitimadores para a edição de medida provisória, quais sejam, relevância e urgência. Todavia, este controle só é possível de modo absolutamente excepcional, quando estivermos diante de um notório abuso do poder de legislar ou uma flagrante inocorrência dos pressupostos.
 
 - Atualmente, o STF admite o ajuizamento de ADI para impugnação de leis com efeitos concretos (que são as leis em sentido formal, ou seja, passaram pelo processo legislativo, mas são desprovidas de abstração e generalidade).
 
@@ -868,11 +874,11 @@ coerência/integralidade do sistema. **Mas a regra** ainda é a Corte se manter 
 
 - Segundo a ementa da decisão: “1. A relevância e a abrangência da controvérsia, bem como sua urgência, demandam a utilização da ADPF, único mecanismo judicial capaz de sanar a lesividade alegada de forma ampla, geral e imediata”.
 
-- Nessa ação, o STF confirmou que os pressupostos gerais que devem ser cumpridos para a propositura legítima da ADPF são dois:
-
+>[!quote] REQUISITOS DE ADMISSIBILIDADE DA ADPF
+>Nessa ação, o STF confirmou que os pressupostos gerais que devem ser cumpridos para a propositura legítima da ADPF são dois:
 (i) a demonstração de violação em tese de preceito fundamental ( _caput_ do art. 1º da Lei nº 9.882/1999); e
-
 (ii) a ausência de outro meio eficaz para sanar a lesividade arguida na ação, exigência denominada de “princípio da subsidiariedade” (art. 4º, § 1º, da Lei nº 9.882/1999).
+
 
 - Acerca do último pressuposto, disse o Min. Rel. Dias Toffoli: “a jurisprudência do STF assentou que o outro meio eficaz para sanar a lesão, cuja viabilidade torna incabível a ADPF, deve ser compreendido, no contexto da ordem constitucional global, como aquele apto a solver a controvérsia constitucional relevante de forma ampla, geral e imediata (ADPF nº 33/PA, Rel. Min. Gilmar Mendes, DJ de 7/12/05)”.
 
@@ -891,7 +897,7 @@ coerência/integralidade do sistema. **Mas a regra** ainda é a Corte se manter 
 
 ---
 
-*** Importantes decisões acerca do cabimento da ADPF:**
+#### Importantes decisões acerca do cabimento da ADPF:**
 
 (i) A Corte Suprema não admite seu acionamento por ADPF para impugnar veto do Poder Executivo (ADPF-QO 1, relatada pelo Min. Néri da Silveira).
 
@@ -911,19 +917,20 @@ coerência/integralidade do sistema. **Mas a regra** ainda é a Corte se manter 
 
 - Gilmar Mendes, relator da ADPF, disse: "A inusitada situação dos autos — o exercício do poder de veto em uma lei já promulgada e publicada — gera forte insegurança jurídica; dificulta até mesmo a identificação de qual é o direito vigente".
 
-(ii) O objeto da ADPF abrange também as omissões estatais “A arguição de descumprimento de preceito fundamental, como já asseverado, pode ter por objeto as omissões do poder público, quer totais ou parciais, normativas ou não normativas, nas mesmas circunstâncias em que ela é cabível contra os atos em geral do poder público, desde que tais omissões afigurem-se lesivas a preceito fundamental, a ponto de obstar a efetividade de norma constitucional que o consagra. Nesse contexto, a arguição, segundo defendemos, pode se tornar um potencial instrumento de controle das omissões do poder público, quando a inércia dos órgãos políticos e administrativos do Estado infringirem algum preceito fundamental da Constituição.”
+(ii) O objeto da ADPF abrange também as [[omissões estatais]] “A arguição de descumprimento de preceito fundamental, como já asseverado, pode ter por objeto as omissões do poder público, quer totais ou parciais, normativas ou não normativas, nas mesmas circunstâncias em que ela é cabível contra os atos em geral do poder público, desde que tais omissões afigurem-se lesivas a preceito fundamental, a ponto de obstar a efetividade de norma constitucional que o consagra. Nesse contexto, a arguição, segundo defendemos, pode se tornar um potencial instrumento de controle das omissões do poder público, quando a inércia dos órgãos políticos e administrativos do Estado infringirem algum preceito fundamental da Constituição.”
 
 - Tal constatação torna-se ainda mais factível em razão do recente julgamento proferido na ADPF 272, julgada em março de 2021, no qual o Supremo Tribunal Federal admitiu a arguição de descumprimento de preceito fundamental como instrumento eficaz de controle da inconstitucionalidade por omissão de legislação municipal.
 
 > [!warning] Jurisprudência
-> **ADPF 272/DF, Rel. Min. Cármen Lúcia:** A arguição de descumprimento de preceito fundamental (ADPF) é instrumento eficaz de controle da inconstitucionalidade por omissão. Com efeito, a ADPF pode ter por objeto as omissões do poder público, quer totais ou parciais, normativas ou não normativas, nas mesmas circunstâncias em
+> **ADPF 272/DF, Rel. Min. Cármen Lúcia:** A arguição de descumprimento de preceito fundamental (ADPF) é instrumento eficaz de controle da inconstitucionalidade por omissão. Com efeito, a ADPF pode ter por objeto as omissões do poder público, quer totais ou parciais, normativas ou não normativas, nas mesmas circunstâncias em que ela é cabível contra os atos em geral do poder público, desde que essas omissões se afigurem lesivas a preceito fundamental, a ponto de obstar a efetividade de norma constitucional que o consagra.
+
 
 ---
 *p. 29*
 
 ---
 
-que ela é cabível contra os atos em geral do poder público, desde que essas omissões se afigurem lesivas a preceito fundamental, a ponto de obstar a efetividade de norma constitucional que o consagra.
+
 
 (iii) Cabe ADPF nos casos relativos ao controle de legitimidade diante de decisões judiciais construídas a partir de interpretações violadoras de preceitos fundamentais. Assim se manifestou o STF, ao conhecer a ADPF 101-DF:
 
