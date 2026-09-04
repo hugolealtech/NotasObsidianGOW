@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/DIR.CONST.A.8.md",
+                "file": "DIREITO PREVIDENCIÁRIO/A1/DIR.PREV.A.1/DIR.PREV.A.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DIR.CONST.A.8"
+              "title": "DIR.PREV.A.1"
             }
           }
         ]
@@ -51,7 +51,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#Decreto",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -105,7 +105,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "d65556bed1acf049",
@@ -185,8 +185,11 @@
       "pencil:New whiteboard": false
     }
   },
-  "active": "4ed0ef47acd83460",
+  "active": "6bed25922142441d",
   "lastOpenFiles": [
+    "MATERIAIS DE TODAS AS DISCIPLINAS/DIR.PENAL/DIR.PENAL.A.1.pdf",
+    "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/DIR.CONST.A.8.md",
+    "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/PENC.DIR.CONS.A.8.N.1.pencil",
     "DIREITO CONSTITUCIONAL/AULA 9/DIR.CONST.A.9/DIR.CONST.A.9.md",
     "DIREITO PREVIDENCIÁRIO/A1/DIR.PREV.A.1/DIR.PREV.A.1.md"
   ]

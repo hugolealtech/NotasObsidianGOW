@@ -57,15 +57,16 @@ O Direito Previdenciário nasce de um conceito mais amplo, que é o de Seguridad
 
 ---
 
-n. 103/2019. Muitos dispositivos dessas leis não são recepcionados pela regra constitucional e precisamos trabalhar com a hierarquia das normas, vai valer sempre o que está na CF. O Decreto 3048/99, ao contrário disso, foi alterado em 2020 pelo Decreto 10.410/2020, promovendo toda a alteração à luz da Reforma Previdenciária da EC n. 103/2019 e de outras legislações que se sucederam de 2015 para frente, mais especificamente. O Decreto está mais atualizado em razão das regras da Reforma do que as próprias leis, mas existem questões discutíveis porque ele é uma regra regulamentar de legislação e em muitos casos esse Decreto está regulamentando a própria CF e a reforma constitucional.
+n. 103/2019. Muitos dispositivos dessas leis não são recepcionados pela regra constitucional e precisamos trabalhar com a hierarquia das normas, vai valer sempre o que está na CF. O Decreto 3048/99, ao contrário disso, foi alterado em 2020 pelo Decreto 10.410/2020, promovendo toda a alteração à luz da Reforma Previdenciária da EC n. 103/2019 e de outras legislações que se sucederam de 2015 para frente, mais especificamente. 
+
+>[!success]  O Decreto está mais atualizado em relação à Reforma da Previdência. 
+>O #Decreto está mais atualizado em razão das regras da Reforma do que as próprias leis,mas existem questões discutíveis porque ele é uma regra regulamentar de legislação e em muitos casos esse Decreto está regulamentando a própria CF e a reforma constitucional.
 
   - Jurisprudências e Súmulas do STJ/STF/TNU → já consolidadas, traçam um perfil mais seguro da jurisprudência a respeito das temáticas. As questões previdenciárias que são relacionadas a benefícios por acidente de trabalho são de competência da Justiça Estadual, chegando ao Tribunal de Justiça da localidade e depois podem acessar o STJ e até o STF. As demais demandas vão tramitar na Justiça Federal (TRF, STJ e STF), algumas com competência do Juizado Especial Federal, sendo uma competência absoluta pelo valor da causa (até 60 salários-mínimos), sendo definidas pela TNU (Turma Nacional de Uniformização de Jurisprudência), no âmbito dos Juizados. Essa é a legislação básica e a partir desse cenário já se tem uma visão muito ampla do que seria o Direito Previdenciário com suas regras, apesar de que existem outras leis que serão referenciadas ao decorrer de nosso estudo e nossas aulas.
 
 **Conceito**
 
-  - Conceito de seguridade social (artigo 194 CF): um conjunto de princípios, de regras e de instituições destinado a estabelecer um sistema de proteção social aos indivíduos contra contingências que os impeçam de prover as suas necessidades pessoais básicas e de suas famílias, integrado por ações de iniciativa dos Poderes Públicos e da sociedade, visando assegurar os direitos relativos **à saúde, à**
-
-**previdência e à assistência social** .
+  - Conceito de seguridade social (artigo 194 CF): um conjunto de princípios, de regras e de instituições destinado a estabelecer um sistema de proteção social aos indivíduos contra contingências que os impeçam de prover as suas necessidades pessoais básicas e de suas famílias, integrado por ações de iniciativa dos Poderes Públicos e da sociedade, visando assegurar os direitos relativos **à saúde, à previdência e à assistência social** .
 
 ---
 *p. 3*
@@ -78,7 +79,7 @@ n. 103/2019. Muitos dispositivos dessas leis não são recepcionados pela regra 
 
 - Na forma de como dispõe o artigo 194, a Seguridade Social compreende um conjunto integrado de ações, de iniciativa dos Poderes Públicos e da sociedade, objetivando assegurar os direitos relativos à saúde, à previdência e à assistência social.
 
-- A Saúde é direito de todos e dever do Estado, mediante a implementação de políticas que visem diminuição dos riscos de doenças e agravos (prevenção) e que garantam tratamento igualitário (acesso a todos os tipos de tratamento), conforme determina o artigo 196 da Constituição Federal (artigo 196 CF). A Saúde é sistema não contributivo, apesar de ter custeio da seguridade social.
+- A Saúde é direito de todos e dever do Estado, mediante a implementação de políticas que visem diminuição dos riscos de doenças e agravos (prevenção) e que garantam tratamento igualitário (acesso a todos os tipos de tratamento), conforme determina o artigo 196 da Constituição Federal (artigo 196 CF). ==A Saúde é sistema não contributivo, apesar de ter custeio da seguridade social.==
 
 - A Assistência Social é um sistema não contributivo e é prestada pelo Estado a quem dela necessitar (Artigo 203 CF) – Há o auxílio inclusão, pelo qual o beneficiário faz a transição para o mercado de trabalho; note que o benefício, assim como o BPC, não é da previdência, é apenas gerido por esta (é benefício da assistência social)
 
@@ -94,15 +95,21 @@ n. 103/2019. Muitos dispositivos dessas leis não são recepcionados pela regra 
 
 ---
 
-Um dos princípios que traduz isso de uma forma bem clara é o **princípio da preexistência de custeio** ou **princípio**
+Um dos princípios que traduz isso de uma forma bem clara é o 
 
-**da contrapartida** em que nenhum benefício será criado, majorado ou estendido sem a correspondente fonte de custeio total, ou seja, primeiro se cria contribuição para depois criar retribuição, que não estão necessariamente correlacionados. Primeiro se define como o segurado ou terceiros vão fazer contribuição para o sistema para depois trazer benefícios e isso com a finalidade exclusiva de garantir equilíbrio atuarial e financeiro. Filiação obrigatória significa que todas as pessoas que exercem uma atividade remunerada e que não estão vinculadas a um regime próprio de previdência social ou a um regime militar, obrigatoriamente se está vinculado ao INSS e nos confundimos muito porque, na prática, as pessoas não fazem contribuições sempre sobre aquilo que elas recebem em razão do trabalho que elas executam. Existem situações em que a lei não vai atribuir a condição de remuneração para aquilo que você recebe. Exemplo: se você é estagiário, a sua contratação obedece à Lei de Estágio (limitações de horas trabalhadas, dentre outras regras), aquilo que você recebe não é considerado remuneração, é uma ajuda de custo e, portanto, o estagiário não é obrigado a fazer recolhimento previdenciário. Precisamos, ainda, observar regras que garantam equilíbrio atuarial e financeiro. Naturalmente que o sistema trabalha com a teoria do risco, então começamos a contribuir para o INSS sem saber se vamos usar o sistema para receber determinados benefícios e só vai usar o benefício de aposentadoria programada ao final, pode ser que você comece a trabalhar e, depois de 1 ano você precise receber um auxílio doença em razão da necessidade de ser afastado do trabalho porque tem uma incapacidade. Quando trazemos como fundamento da previdência regras que garantam o equilíbrio atuarial e financeiro, é preciso que o sistema se projete de tal maneira que ele tenha condições de se sustentar, porque essas são regras que vão trazer condições de sustentabilidade para o sistema, que precisa ser viável financeiramente.
+>[!note] Princípio da Preexistência de Custeio
+>**princípio da preexistência de custeio** ou **princípio da contrapartida** em que nenhum benefício será criado, majorado ou estendido sem a correspondente fonte de custeio total, ou seja, primeiro se cria contribuição para depois criar retribuição, que não estão necessariamente correlacionados. Primeiro se define como o segurado ou terceiros vão fazer contribuição para o sistema para depois trazer benefícios e isso com a finalidade exclusiva de garantir equilíbrio atuarial e financeiro. 
+
+Filiação obrigatória significa que todas as pessoas que exercem uma atividade remunerada e que não estão vinculadas a um regime próprio de previdência social ou a um regime militar, obrigatoriamente se está vinculado ao INSS e nos confundimos muito porque, na prática, as pessoas não fazem contribuições sempre sobre aquilo que elas recebem em razão do trabalho que elas executam. Existem situações em que a lei não vai atribuir a condição de remuneração para aquilo que você recebe.
+
+>[!example] Exemplo:
+> se você é estagiário, a sua contratação obedece à Lei de Estágio (limitações de horas trabalhadas, dentre outras regras), aquilo que você recebe não é considerado remuneração, é uma ajuda de custo e, portanto, o estagiário não é obrigado a fazer recolhimento previdenciário.
+
+Precisamos, ainda, observar regras que garantam equilíbrio atuarial e financeiro. Naturalmente que o sistema trabalha com a teoria do risco, então começamos a contribuir para o INSS sem saber se vamos usar o sistema para receber determinados benefícios e só vai usar o benefício de aposentadoria programada ao final, pode ser que você comece a trabalhar e, depois de 1 ano você precise receber um auxílio doença em razão da necessidade de ser afastado do trabalho porque tem uma incapacidade. Quando trazemos como fundamento da previdência regras que garantam o equilíbrio atuarial e financeiro, é preciso que o sistema se projete de tal maneira que ele tenha condições de se sustentar, porque essas são regras que vão trazer condições de sustentabilidade para o sistema, que precisa ser viável financeiramente.
 
 **Bloco 2**
 
-**A Previdência Social adota o sistema de repartição simples: todas as contribuições são revertidas para um único**
-
-**fundo, atendendo a um universo de beneficiários (maior proteção social);**
+**A Previdência Social adota o sistema de repartição simples: todas as contribuições são revertidas para um único fundo, atendendo a um universo de beneficiários (maior proteção social);**
 
 ---
 *p. 6*
@@ -132,9 +139,7 @@ O sistema de repartição simples é traduzido da seguinte forma: temos uma cont
 
   - Lei 13.724/19 – Lei de Acidentes do Trabalho, responsabilidade objetiva do empregador. O conceito da proteção acidentária foi sendo alterado até chegarmos ao formato que temos na CF/88;
 
-  - A doutrina considera o marco inicial da previdência social a edição da Lei **Eloy Chaves – Decreto Legislativo**
-
-**4.682, de 24.1.23 →** traz o primeiro modelo do que seria previdência, o embrião do INSS. <mark>É um marco e</mark> <mark>não o primeiro instrumento normativo porque temos legislações anteriores;</mark> A Lei Eloy Chaves criou as **Caixas de Aposentadoria e Pensões nas empresas de estrada de ferro existentes** (cada empresa tinha a sua), com contribuições dos trabalhadores, das empresas e do Estado, sendo o embrião do sistema que temos hoje, o próprio INSS. **TRIPARTITE.** A grosso modo, era como se cada empresa tivesse seu próprio INSS. Os Institutos de Aposentadorias e Pensões
+  - A doutrina considera o marco inicial da previdência social a edição da Lei **Eloy Chaves – Decreto Legislativo 4.682, de 24.1.23 →** traz o primeiro modelo do que seria previdência, o embrião do INSS. <mark>É um marco e</mark> <mark>não o primeiro instrumento normativo porque temos legislações anteriores;</mark> A Lei Eloy Chaves criou as **Caixas de Aposentadoria e Pensões nas empresas de estrada de ferro existentes** (cada empresa tinha a sua), com contribuições dos trabalhadores, das empresas e do Estado, sendo o embrião do sistema que temos hoje, o próprio INSS. **TRIPARTITE.** A grosso modo, era como se cada empresa tivesse seu próprio INSS. Os Institutos de Aposentadorias e Pensões
 
 (IAP) eram organizados por categorias econômicas e os CAP por empresas. Instituto de Aposentadorias e Pensões dos Comerciários, Instituto de Aposentadorias e Pensões dos Industriários, Instituto de Aposentadorias e Pensões dos Bancários, etc. O que difere os Institutos das Caixas é o fato de que a Caixa é organizada por empresas. Organizadas por empresas, de natureza privada, com filiação facultativa. O custeio era peculiar porque vinha por parte dos próprios trabalhadores e dos empregadores, tendo destacamento de uma parte dos impostos arrecadados nas estradas de ferro que também vertia a favor dessas Caixas de Aposentadorias e Pensões.
 
