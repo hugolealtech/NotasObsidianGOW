@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.7215576171875
+    "width": 447.7215576171875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,6 +205,8 @@
   },
   "active": "2e465c9fd992a5f6",
   "lastOpenFiles": [
+    "DIREITO CONSTITUCIONAL/AULA 9/DIR.CONST.A.9/DIR.CONST.A.9.NOT.2.pencil",
+    "DIREITO CONSTITUCIONAL/AULA 9/DIR.CONST.A.9/DIR.CONST.A.9.md",
     "Ink/Writing/2026.9.4 - 10.14am.svg",
     "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8.pdf",
     "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/DIR.CONST.A.8.md",
@@ -224,11 +227,9 @@
     "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8",
     "DIREITO PROCESSUAL CIVIL/A14/DIR.PROC.CIVIL.A.14.pdf",
     "DIREITO PROCESSUAL CIVIL/A14",
-    "DIREITO PROCESSUAL CIVIL/A13/DIR.PROC.CIVIL.A.13/images/DIR.PROC.CIVIL.A.13-img4-pg26.png",
     "DIREITO PROCESSUAL CIVIL/A13/DIR.PROC.CIVIL.A.13/images",
     "DIREITO PROCESSUAL CIVIL/A13/DIR.PROC.CIVIL.A.13/DIR.PROC.CIVIL.A.13.md",
     "DIREITO PROCESSUAL CIVIL/A13/DIR.PROC.CIVIL.A.13.pdf",
-    "DIREITO PROCESSUAL CIVIL/A13/DIR.PROC.CIVIL.A.13",
     "DIREITO PROCESSUAL CIVIL/A12/DIR.PROC.CIVIL.A.12/DIR.PROC.CIVIL.A.12.md",
     "DIREITO PROCESSUAL CIVIL/A11/DIR.PROC.CIVIL.A.11/DIR.PROC.CIVIL.A.11.md",
     "DIREITO PROCESSUAL CIVIL/A10/DIR.PROC.CIVIL.A.10/DIR.PROC.CIVIL.A.10.md",
@@ -249,7 +250,6 @@
     "DIREITO PROCESSUAL CIVIL/itens específicos/Jurisdição-/Inquisitoriedade/Inquisitoriedade.md",
     "DIREITO PROCESSUAL CIVIL/itens específicos/Jurisdição-/Jurisdição Voluntária/Jurisdição Voluntária.md",
     "DIREITO PROCESSUAL CIVIL/itens específicos/Jurisdição-/Finalidades/Finalidades.md",
-    "DIREITO PROCESSUAL CIVIL/itens específicos/Jurisdição-/Equivalentes Jurisdicionais./Equivalentes Jurisdicionais..md",
     "images/Sem título.canvas"
   ]
 }
