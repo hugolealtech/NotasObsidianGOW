@@ -159,14 +159,13 @@ entendimento de que a utilização do amianto, tipo crisotila e outro, ofende po
 > [!quote] 
 > LEI
 > **Art. 102, § 2º, CF/88:** As decisões definitivas de mérito, proferidas pelo Supremo Tribunal Federal, nas ações diretas de inconstitucionalidade e nas ações declaratórias de constitucionalidade produzirão eficácia contra todos e efeito vinculante, relativamente aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal. (Redação dada pela Emenda Constitucional nº 45, de 2004)
+>>[!attention] A ADPF também está contida neste artigo.
 
-- 3 efeitos básicos:
 
-  - 1º: Efeito _erga omnes_
-
-  - 2º: Efeito _ex tunc_
-
-  - 3º: Efeito vinculante
+>[! 3 efeitos básicos:]
+>- 1º: Efeito _erga omnes_
+>- 2º: Efeito _ex tunc_
+>- 3º: Efeito vinculante
 
 ---
 *p. 5*
@@ -183,7 +182,13 @@ entendimento de que a utilização do amianto, tipo crisotila e outro, ofende po
 
 > [!quote] 
 > LEI
-> **Art. 27, Lei nº 9.868/1999:** Ao declarar a inconstitucionalidade de lei ou ato normativo, e tendo em vista razões de segurança jurídica ou de excepcional interesse social, poderá o Supremo Tribunal Federal, por maioria de dois terços de seus membros, restringir os efeitos daquela declaração ou decidir que ela só tenha eficácia a partir de seu trânsito em julgado ou de outro momento que venha a ser fixado. 2º: _Ex tunc_ = Efeito retroativo (REGRA GERAL)
+> **Art. 27, Lei nº 9.868/1999:** Ao declarar a inconstitucionalidade de lei ou ato normativo, e tendo em vista razões de segurança jurídica ou de excepcional interesse social, poderá o Supremo Tribunal Federal, por maioria de dois terços de seus membros, restringir os efeitos daquela declaração ou decidir que ela só tenha eficácia a partir de seu trânsito em julgado ou de outro momento que venha a ser fixado. 
+> 
+> 
+> 
+
+### 2º: _Ex tunc_ = Efeito retroativo (REGRA GERAL)
+
 
 - Ato inconstitucional = nulo (e não anulável)
 
@@ -206,14 +211,13 @@ entendimento de que a utilização do amianto, tipo crisotila e outro, ofende po
 
 ---
 
-- A decisão do STF que declara a constitucionalidade ou a inconstitucionalidade de preceito normativo não tem
-
-- condão de produzir a automática reforma ou rescisão das decisões proferidas em processos anteriores e que tenham adotado entendimento diferente.
+- A decisão do STF que declara a constitucionalidade ou a inconstitucionalidade de preceito normativo <mark>não tem condão de produzir a automática reforma ou rescisão das decisões proferidas em processos anteriores e que tenham adotado entendimento diferente.</mark>
 
 > [!warning] Jurisprudência
 > **RE 730462-SP, Rel. Min. Teori Zavascki:** A eficácia executiva, por decorrer da sentença (e não da vigência da norma examinada), tem como termo inicial a data da publicação do acórdão do Supremo no Diário Oficial (art. 28 da Lei 9.868/1999). É, consequentemente, eficácia que atinge atos administrativos e decisões judiciais supervenientes a essa publicação, não os pretéritos, ainda que formados com suporte em norma posteriormente declarada inconstitucional.
 
-- Assim, para que haja a reforma ou rescisão das decisões proferidas anteriormente, em outros processos, será imprescindível a interposição do recurso próprio ou, se for o caso, a propositura da ação rescisória, nos termos do art. 966, V, CPC), observando-se o prazo decadencial de 2 anos (art. 975, CPC).
+>[!bug] ENQUANTO A EFICÁCIA EXECUTIVA VAI DOS ATOS DA DECISÃO PARA FRENTE. PARA TRÁS, A QUESTÃO AINDA DEVE ESTAR EM ABERTO
+>Assim, para que haja a reforma ou rescisão das decisões proferidas anteriormente, em outros processos, será imprescindível a interposição do recurso próprio ou, se for o caso, a propositura da ação rescisória, nos termos do art. 966, V, CPC), observando-se o prazo decadencial de 2 anos (art. 975, CPC).
 
 - Destaque-se, ainda, que se a sentença foi proferida com base na jurisprudência do STF vigente à época e, em momento posterior, houve alteração do entendimento, não se pode dizer que essa decisão impugnada tenha violado literal disposição de lei (art. 966, V, CPC). Não será cabível, portanto, ação rescisória nessa hipótese, pois à época de sua prolação estava em conformidade com a jurisprudência predominante do STF - AR 2199 SC, Rel. Min. Marco Aurélio, Tribunal Pleno. Veja a tese fixada pela Corte:
 
@@ -230,7 +234,7 @@ entendimento de que a utilização do amianto, tipo crisotila e outro, ofende po
 
 sentença que envolve relações de trato continuado possui, implicitamente, a cláusula rebus sic stantibus. Deve-se ter em mente que os Temas ns.º 881 e 885 têm como pano de fundo a relação jurídico-tributária de trato continuado, aquela que se protrai no tempo e alcança fatos geradores futuros.
 
-- Modulação temporal (art. 27, Lei nº 9.868/99) Requisitos:
+### Modulação temporal (art. 27, Lei nº 9.868/99) Requisitos:
 
 (i) A norma deve ser declarada inconstitucional;
 
@@ -244,7 +248,12 @@ sentença que envolve relações de trato continuado possui, implicitamente, a c
 
 > [!quote] 
 > LEI
-> **Art. 26, Lei nº 9.868/1999:** A decisão que declara a constitucionalidade ou a inconstitucionalidade da lei ou do ato normativo em ação direta ou em ação declaratória é irrecorrível, ressalvada a interposição de embargos declaratórios, não podendo, igualmente, ser objeto de ação rescisória. O STF, na ADI-ED 3.601-DF, passou a admitir o cabimento dos embargos declaratórios com a finalidade exclusiva de alcançar a modulação temporal de efeitos (não existia nenhum pedido anterior de modulação, todavia, a Corte notou que as razões para modular os efeitos temporais estavam presentes, por isso conheceu os embargos com essa finalidade exclusiva, já que eles representam a última fronteira processual anterior ao trânsito em julgado).
+> **Art. 26, Lei nº 9.868/1999:** A decisão que declara a constitucionalidade ou a inconstitucionalidade da lei ou do ato normativo em ação direta ou em ação declaratória é irrecorrível, ressalvada a interposição de embargos declaratórios, não podendo, igualmente, ser objeto de ação rescisória. 
+> 
+> 
+
+>[!success] EMBARGOS PARA MODULAÇÃO TEMPORAL DOS EFEITOS
+O STF, na ADI-ED 3.601-DF, passou a admitir o cabimento dos embargos declaratórios com a finalidade exclusiva de alcançar a modulação temporal de efeitos (não existia nenhum pedido anterior de modulação, todavia, a Corte notou que as razões para modular os efeitos temporais estavam presentes, por isso conheceu os embargos com essa finalidade exclusiva, já que eles representam a última fronteira processual anterior ao trânsito em julgado).
 
 > [!warning] Jurisprudência
 > **ADI 3601 ED/DF, Rel. Min. Dias Toffoli:** Reconheceu-se, de início, a jurisprudência da Corte, no sentido de inadmitir embargos de declaração para fins de modulação de efeitos, sem que tenha havido pedido nesse sentido antes do julgamento da ação. Entendeu-se que, no caso, entretanto, a declaração não deveria ser retroativa, por estarem configurados os requisitos exigidos pela Lei nº 9.868/1999 para a modulação temporal dos efeitos da declaração de inconstitucionalidade, tendo em conta a necessidade de preservação de situações jurídicas formadas com base na lei distrital.
@@ -261,18 +270,23 @@ sentença que envolve relações de trato continuado possui, implicitamente, a c
 
 - Na ADI 1105-ED, o STF confirmou o entendimento de que é incabível a interposição de qualquer espécie de recurso, por quem, embora legitimado para a propositura da ação direta, nela não figure como requerente ou requerido.
 
-- O STF (em abril de 2018, na ADI 4420 ED-AgR) afirmou que o Estado-membro não é legitimado para recorrer contra decisões proferidas em sede de controle concentrado de constitucionalidade, mesmo que a ADI tenha sido ajuizada pelo respectivo Governador. Isso porque os Estados-membros não se incluem no rol de legitimados aptos a agir como sujeitos processuais no controle concentrado, por isso não podem interpor recurso (legitimado do art. 103, CF/88 é o próprio Governador). 3º: vinculante – este efeito torna a decisão do STF obrigatória, atingindo todos os demais órgãos do Poder Judiciário e toda a Administração Pública (direta e indireta), de todas as esferas da Federação (Federal, Estadual e Municipal).
+- O STF (em abril de 2018, na ADI 4420 ED-AgR) afirmou que o Estado-membro não é legitimado para recorrer contra decisões proferidas em sede de controle concentrado de constitucionalidade, mesmo que a ADI tenha sido ajuizada pelo respectivo Governador. Isso porque os Estados-membros não se incluem no rol de legitimados aptos a agir como sujeitos processuais no controle concentrado, por isso não podem interpor recurso (legitimado do art. 103, CF/88 é o próprio Governador). 
+
+### 3º: vinculante – este efeito torna a decisão do STF obrigatória, atingindo todos os demais órgãos do Poder Judiciário e toda a Administração Pública (direta e indireta), de todas as esferas da Federação (Federal, Estadual e Municipal).
 
 ![[DIR.CONST.A.9-img5-pg9.png]]
 
-**- Extensão subjetiva do efeito vinculante:** Efeito vinculante: torna a decisão prolatada pelo STF um precedente de observância obrigatória. O art. 102, § 2º, da CF/88, menciona que o efeito vinculante atinge todos os demais órgãos do Poder Judiciário e toda a administração pública (direta e indireta), de todas as esferas da federação. O Pleno do STF não fica vinculado pelos precedentes fixados na via concentrada, sendo possível que a Corte modifique seu entendimento em ação futura.
+**- Extensão subjetiva do efeito vinculante:** Efeito vinculante: torna a decisão prolatada pelo STF um <mark>precedente de observância obrigatória.</mark> 
+
+* O art. 102, § 2º, da CF/88, menciona que o efeito vinculante atinge todos os demais órgãos do Poder Judiciário e toda a administração pública (direta e indireta), de todas as esferas da federação. 
+* O Pleno do STF não fica vinculado pelos precedentes fixados na via concentrada, sendo possível que a Corte modifique seu entendimento em ação futura.
 
 ---
 *p. 9*
 
 ---
 
-As turmas do STF e os Ministros, em suas manifestações monocráticas, ficam vinculados ao precedente e não podem superá-lo.
+* As turmas do STF e os Ministros, ==em suas manifestações monocráticas, ficam vinculados ao precedente e não podem superá-lo.==
 
 - A possibilidade de o STF julgar uma norma constitucional e, diante de posterior impugnação, declarar sua inconstitucionalidade, existe e decorre de um processo de inconstitucionalização. Este, todavia, deriva de notórias mudanças fáticas (políticas, econômicas e sociais) e jurídicas (sucessivas modificações legislativas), circunstâncias estas que devem ser comprovadas pela parte requerente, sob pena de a Corte não conhecer a ação.
 
@@ -305,25 +319,23 @@ Aduziu-se ser possível que o STF, via julgamento da presente reclamação, pude
 - Neste caso, a decisão proferida no processo individual ganhará, de forma excepcional, eficácia _erga omnes_ e efeito vinculante, uma vez que nela a Corte reinterpretou/superou uma decisão proferida no controle abstrato, que possui tais efeitos. Numa metáfora, é como se a manifestação da Corte no processo individual (na reclamação ou recurso extraordinário) “ocupasse o lugar” do precedente anteriormente firmado no controle concentrado. Assim, em razão de ter “substituído” um entendimento do STF que tinha eficácia _erga omnes_ e efeito vinculante, a nova decisão proferida em sede de controle concreto ganhou os mesmos efeitos. Os Poderes Legislativo e Executivo também ficam vinculados, SALVO quando estão na função de legislar.
 
 > [!warning] Jurisprudência
-> **ADI 5105/DF, Rel. Min. Luiz Fux:** Trata-se de reação legislativa à decisão do STF com o objetivo de obter a reversão jurisprudêncial.
+> **ADI 5105/DF, Rel. Min. Luiz Fux:** Trata-se de reação legislativa à decisão do STF com o objetivo de obter a [[reversão jurisprudêncial.]]
+> 
+> **Rcl 2.617, relatada pelo Min. Cezar Peluso:** (...) entender de forma contrária afetaria a relação de equilíbrio entre o Tribunal constitucional e o legislador, reduzindo o último a papel subordinado perante o poder incontrolável do [[Judiciário]], acarretando prejuízo do espaço democrático-representativo da legitimidade política do órgão legislativo, bem como criando mais um fator de resistência a produzir o inaceitável fenômeno da chamada fossilização da Constituição.
 
-**Rcl 2.617, relatada pelo Min. Cezar Peluso:** (...) entender de forma contrária afetaria a relação de equilíbrio entre o Tribunal constitucional e o legislador, reduzindo o último a papel subordinado perante o poder incontrolável do [Judiciário], acarretando prejuízo do espaço democrático-representativo da legitimidade política do órgão legislativo, bem como criando mais um fator de resistência a produzir o inaceitável fenômeno da chamada fossilização da Constituição
 
-> [!warning] Jurisprudência
-> **ADI 5105, Rel. Min. Luiz Fux:** (...) Os efeitos vinculantes, ínsitos às decisões proferidas em sede de fiscalização abstrata de constitucionalidade, não atingem o Poder Legislativo, _ex vi_ do art. 102, § 2º, e art. 103-A, ambos da Carta da República. 5. Consectariamente, a reversão legislativa da jurisprudência da Corte se revela legítima em linha de princípio, seja pela atuação do constituinte reformador (i.e., promulgação de emendas constitucionais), seja por inovação do legislador infraconstitucional (i.e., edição de leis ordinárias e complementares), circunstância que demanda providências distintas por parte deste Supremo Tribunal Federal. (...) (...) 5.1. A emenda constitucional corretiva da jurisprudência modifica formalmente o texto magno, bem como
 
-- fundamento de validade último da legislação ordinária, razão pela qual a sua invalidação deve ocorrer nas
+> [!warning] Jurisprudência MUITO IMPORTANTE UMA AULA
+> **ADI 5105, Rel. Min. Luiz Fux:** (...) Os efeitos vinculantes, ínsitos às decisões proferidas em sede de fiscalização abstrata de constitucionalidade, não atingem o Poder Legislativo, _ex vi_ do art. 102, § 2º, e art. 103-A, ambos da Carta da República. 5. <mark>Consectariamente, a reversão legislativa da jurisprudência da Corte se revela legítima em linha de princípio, seja pela atuação do constituinte reformador (i.e., promulgação de emendas constitucionais), seja por inovação do legislador infraconstitucional (i.e., edição de leis ordinárias e complementares), circunstância que demanda providências distintas por parte deste Supremo Tribunal Federal.</mark> (...) (...) 5.1. A emenda constitucional corretiva da jurisprudência modifica formalmente o texto magno, bem como fundamento de validade último da legislação ordinária, razão pela qual a sua invalidação deve ocorrer nas hipóteses de descumprimento do art. 60 da CRFB/88 (i.e., limites formais, circunstanciais, temporais e materiais), encampando, neste particular, exegese estrita das cláusulas superconstitucionais. 5.2. A legislação infraconstitucional que colida frontalmente com a jurisprudência (leis _in your face_ ) nasce com presunção iuris tantum de inconstitucionalidade, de forma que caberá ao legislador ordinário o ônus de demonstrar, argumentativamente, que a correção do precedente faz-se necessária, ou, ainda, comprovar, lançando mão de novos argumentos, que as premissas fáticas e axiológicas sobre as quais se fundou o posicionamento jurisprudencial não mais subsistem, em exemplo acadêmico de mutação constitucional pela via legislativa. Nesse caso, a novel legislação se submete a um escrutínio de constitucionalidade mais rigoroso, nomeadamente quando o precedente superado amparar-se em cláusulas pétreas (...). “ **Notícias STF**
+
+**Quinta-feira, 06 de outubro de 2016**
 
 ---
 *p. 11*
 
 ---
 
-hipóteses de descumprimento do art. 60 da CRFB/88 (i.e., limites formais, circunstanciais, temporais e materiais), encampando, neste particular, exegese estrita das cláusulas superconstitucionais.
 
-5.2. A legislação infraconstitucional que colida frontalmente com a jurisprudência (leis _in your face_ ) nasce com presunção iuris tantum de inconstitucionalidade, de forma que caberá ao legislador ordinário o ônus de demonstrar, argumentativamente, que a correção do precedente faz-se necessária, ou, ainda, comprovar, lançando mão de novos argumentos, que as premissas fáticas e axiológicas sobre as quais se fundou o posicionamento jurisprudencial não mais subsistem, em exemplo acadêmico de mutação constitucional pela via legislativa. Nesse caso, a novel legislação se submete a um escrutínio de constitucionalidade mais rigoroso, nomeadamente quando o precedente superado amparar-se em cláusulas pétreas (...). “ **Notícias STF**
-
-**Quinta-feira, 06 de outubro de 2016**
 
 **STF julga inconstitucional lei cearense que regulamenta vaquejada** O Plenário do Supremo Tribunal Federal (STF) julgou procedente a Ação Direta de Inconstitucionalidade (ADI) 4983, ajuizada pelo procurador-geral da República contra a Lei 15.299/2013, do Estado do Ceará, que regulamenta a vaquejada como prática desportiva e cultural no estado. A maioria dos ministros acompanhou
 
@@ -350,14 +362,18 @@ O Fórum Nacional de Proteção e Defesa Animal ajuizou Ação Direta de Inconst
 
 ![[DIR.CONST.A.9-img6-pg13.png]]
 
-- **Extensão objetiva do efeito vinculante** Há duas Teorias sobre a extensão objetiva do efeito vinculante: Teoria Restritiva e Teoria Extensiva Para a Teoria Restritiva, hoje adotada pelo STF (Rcl. 6205; Rcl. 2990) somente o dispositivo da decisão vincula.
+### **Extensão objetiva do efeito vinculante** 
+* Há duas Teorias sobre a extensão objetiva do efeito vinculante: Teoria Restritiva e Teoria Extensiva.
+* Para a Teoria Restritiva, hoje adotada pelo STF (Rcl. 6205; Rcl. 2990) somente o dispositivo da decisão vincula.
 
 ---
 *p. 13*
 
 ---
 
-**Bloco 3** Teoria Extensiva (ou Teoria da Transcendência dos motivos determinantes): preceitua que o efeito vinculante deve alcançar, além do dispositivo, também os motivos determinantes (“Ratio Decidendi”) que sustentam e fundamentam a decisão. O entendimento atual do STF é o de que o efeito vinculante alcança, tão somente, a parte dispositiva da decisão, mas não os seus fundamentos (isto é, as razões de decidir, que foram essenciais para a formatação da decisão). A Corte, portanto, tem adotado a teoria restritiva do efeito vinculante, em claro abandono à teoria da transcendência dos motivos determinantes. “ **Notícias STF**
+**Bloco 3** 
+
+Teoria Extensiva (ou Teoria da Transcendência dos motivos determinantes): preceitua que o efeito vinculante deve alcançar, além do dispositivo, também os motivos determinantes (“Ratio Decidendi”) que sustentam e fundamentam a decisão. O entendimento atual do STF é o de que o efeito vinculante alcança, tão somente, a parte dispositiva da decisão, mas não os seus fundamentos (isto é, as razões de decidir, que foram essenciais para a formatação da decisão). A Corte, portanto, tem adotado a teoria restritiva do efeito vinculante, em claro abandono à teoria da transcendência dos motivos determinantes. “ **Notícias STF**
 
 ![[DIR.CONST.A.9-img7-pg14.png]]
 
@@ -365,7 +381,9 @@ O Fórum Nacional de Proteção e Defesa Animal ajuizou Ação Direta de Inconst
 
 **Improcedente reclamação sobre demissão de empregados públicos aposentados** “O ministro ainda assentou que a jurisprudência do STF é firme quanto ao não cabimento de reclamação quando ela estiver fundada na transcendência dos motivos determinantes do acórdão proferido com efeito vinculante. Não tendo sido aplicado o dispositivo declarado inconstitucional, não há que se cogitar de atender ao pedido da reclamação” (Rcl 8.168-SC, Rel. orig. Min. Ellen Gracie, red. p/ o acórdão Min. Edson Fachin).”
 
-- **Últimas observações**
+>[!attention] **Últimas observações**
+
+
 
 - A declaração de inconstitucionalidade também pode produzir o chamado efeito repristinatório se houver uma lei anterior (que foi revogada pela lei que agora foi declarada inconstitucional na ADI). Sobre este efeito:
 
@@ -374,6 +392,10 @@ O Fórum Nacional de Proteção e Defesa Animal ajuizou Ação Direta de Inconst
 - Está previsto no art. 11, § 2º da Lei 9868/1999. [^2]
 
 - É um efeito tácito, automático. Isso significa que quando o STF declarar a inconstitucionalidade de uma lei, a lei anterior (se existir) voltará automaticamente a produzir seus efeitos.
+
+
+ ![InkWriting](<Ink/Writing/2026.9.4 - 13.50pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
+
 
 ---
 *p. 14*
@@ -386,13 +408,13 @@ O Fórum Nacional de Proteção e Defesa Animal ajuizou Ação Direta de Inconst
 
 ![[DIR.CONST.A.9-img9-pg15.png]]
 
-**(B.2) Efeitos da decisão definitiva na ADO**
+### **(B.2) Efeitos da decisão definitiva na ADO**
 
 > [!quote] 
 > LEI
-> - **“Art. 103, § 2º, CF/88:** Declarada a inconstitucionalidade por omissão de medida para tornar efetiva norma constitucional, será dada ciência ao Poder competente para a adoção das providências necessárias e, em se tratando de órgão administrativo, para fazê-lo em trinta dias.”
+> - **“Art. 103, § 2º, CF/88:** Declarada a inconstitucionalidade por omissão de medida para tornar efetiva norma constitucional, será dada ciência ao <mark>Poder competente para a adoção das providências necessárias e, em se tratando de órgão administrativo, para fazê-lo em [[trinta dias.]]”</mark>
 
-- - Os efeitos da decisão de procedência da ação direta por omissão sempre foram considerados, doutrinariamente, como muito tímidos.
+- - Os efeitos da decisão de procedência da ação direta por omissão sempre foram considerados, doutrinariamente, ==como muito tímidos==.
 
 - - Segundo entendia o STF, a procedência da ação direta de inconstitucionalidade por omissão, importando no reconhecimento judicial de que há inaceitável inércia por parte Poder Público, conferia à Corte, tão somente, o poder de noticiar (ou cientificar) o legislador ou órgão administrativo que incorreria em mora, para que o responsável adotasse as medidas necessárias à concretização do texto constitucional.
 
@@ -400,7 +422,7 @@ O Fórum Nacional de Proteção e Defesa Animal ajuizou Ação Direta de Inconst
 
 - - Em sendo a mora de algum dos Poderes, este seria cientificado de que a norma precisava ser elaborada, não podendo a Corte, sequer, fixar prazo para que a norma fosse editada e a inconstitucionalidade vencida.
 
-- - Por outro lado, se fosse atribuída a um órgão administrativo, seria possível ao STF determinar a elaboração da norma em até 30 dias ou outro prazo que entendesse razoável (art. 103, § 2º, CF/88 e art. 12 H, Lei nº 9.868/1999).
+- - Por outro lado, se fosse atribuída a um órgão administrativo, seria possível ao STF determinar a elaboração da norma em ==até 30 dias ou outro prazo que entendesse razoável (art. 103, § 2º, CF/88 e art. 12 H, Lei nº 9.868/1999)==.
 
 ---
 *p. 15*
@@ -413,26 +435,22 @@ O Fórum Nacional de Proteção e Defesa Animal ajuizou Ação Direta de Inconst
 
 > [!quote] 
 > LEI
-> - **Art. 12-H, Lei nº 9.868/1999:** Declarada a inconstitucionalidade por omissão, com observância do disposto no art. 22, será dada ciência ao Poder competente para a adoção das providências necessárias. (Incluído pela Lei nº 12.063, de 2009).
+>**Art. 12-H, Lei nº 9.868/1999:** Declarada a inconstitucionalidade por omissão, com observância do disposto no art. 22, será dada ciência ao Poder competente para a adoção das providências necessárias. (Incluído pela Lei nº 12.063, de 2009).
+>
+> § 1º Em caso de omissão imputável a órgão administrativo, as providências deverão ser adotadas no prazo de 30 (trinta) dias, ou em prazo razoável a ser estipulado excepcionalmente pelo Tribunal, tendo em vista as circunstâncias específicas do caso e o interesse público envolvido. (Incluído pela Lei nº 12.063, de 2009).
 
-- § 1º Em caso de omissão imputável a órgão administrativo, as providências deverão ser adotadas no prazo de 30 (trinta) dias, ou em prazo razoável a ser estipulado excepcionalmente pelo Tribunal, tendo em vista as circunstâncias específicas do caso e o interesse público envolvido. (Incluído pela Lei nº 12.063, de 2009).
-
-- Essa leitura dos efeitos da ADO sofreu um significativo abalo em novembro de 2016 quando a Corte, no julgamento da ADO 25, por maioria julgou procedente a ação para declarar a mora do Congresso Nacional quanto à edição da Lei Complementar prevista no art. 91 do ADCT, fixando (inicialmente) o prazo de 12 meses para que fosse sanada a omissão, e determinando que, na hipótese de transcorrer in albis o mencionado prazo, caberia ao Tribunal de Contas da União regulamentar o dispositivo constitucional.
+- Essa leitura dos efeitos da ADO sofreu um significativo abalo em novembro de 2016 quando a Corte, no julgamento da ADO 25, por maioria julgou procedente a ação para declarar a mora do Congresso Nacional quanto à edição da Lei Complementar prevista no art. 91 do ADCT, fixando (inicialmente) o prazo de 12 meses para que fosse sanada a omissão, e determinando que, na hipótese de transcorrer _in albis_ o mencionado prazo, <mark>caberia ao Tribunal de Contas da União regulamentar o dispositivo constitucional.</mark>
 
 > [!warning] Jurisprudência
 > - **ADO 25/DF, Rel. Min. Gilmar Mendes:** Ação Direta de Inconstitucionalidade por Omissão. 2. Federalismo fiscal e partilha de recursos. 3. Desoneração das exportações e a Emenda Constitucional 42/2003. Medidas compensatórias. 4. Omissão inconstitucional. Violação do art. 91 do Ato das Disposições Constitucionais Transitórias (ADCT). Edição de lei complementar. 5. Ação julgada procedente para declarar a mora do Congresso Nacional quanto à edição da Lei Complementar prevista no art. 91 do ADCT, fixando o prazo de 12 meses para que seja sanada a omissão. Após esse prazo, caberá ao Tribunal de Contas da União, enquanto não for editada a lei complementar: a) fixar o valor do montante total a ser transferido anualmente aos Estados membros e ao Distrito Federal, considerando os critérios dispostos no art. 91 do ADCT; b) calcular o valor das quotas a que cada um deles fará jus, considerando os entendimentos entre os Estados-membros e o Distrito Federal realizados no âmbito do Conselho Nacional de Política Fazendária – CONFAZ
 
-- - Foi uma verdadeira virada paradigmática pois, pela primeira vez, a Corte inequivocamente tratou de estabelecer um prazo para o legislador editar a norma faltante e impôs uma consequência ao descumprimento deste prazo. Não há dúvidas de que essa decisão representou um passo adiante na natureza meramente recomendatória que se tinha no julgamento das ADOs.
+- - Foi uma verdadeira virada paradigmática pois, ==pela primeira vez, a Corte inequivocamente tratou de estabelecer um prazo para o legislador editar a norma faltante e impôs uma consequência ao descumprimento deste prazo.== Não há dúvidas de que essa decisão representou um passo adiante na natureza meramente recomendatória que se tinha no julgamento das ADOs.
 
-- - De se destacar que, em fevereiro de 2019, o Ministro Gilmar Mendes acolheu parcialmente o pedido da União para prorrogar por 12 meses o prazo para que o Congresso Nacional editasse a lei complementar (regulamentando os repasses de recursos da União para os Estados e o Distrito Federal em decorrência da desoneração das exportações do Imposto sobre Circulação de Mercadorias e Serviços ICMS – entendeu-se que
-
+- - De se destacar que, em fevereiro de 2019, o Ministro Gilmar Mendes acolheu parcialmente o pedido da União para prorrogar por 12 meses o prazo para que o Congresso Nacional editasse a lei complementar (regulamentando os repasses de recursos da União para os Estados e o Distrito Federal em decorrência da desoneração das exportações do Imposto sobre Circulação de Mercadorias e Serviços ICMS – entendeu-se que fatos supervenientes justificariam o abrandamento do termo temporal fixado no julgamento de mérito em 2016).
 ---
 *p. 16*
 
 ---
-
-fatos supervenientes justificariam o abrandamento do termo temporal fixado no julgamento de mérito em 2016).
-
 - **“Notícias STF**
 
 **Quinta-feira, 21 de fevereiro de 2019**
@@ -452,11 +470,14 @@ fatos supervenientes justificariam o abrandamento do termo temporal fixado no ju
 
 ---
 
-Ausente regulamentação quanto a deficiente auditivo, constitui passo demasiado largo fixar prazo, ao legislador, visando a adoção de providências. Mantenho-me fiel ao que venho sustentando, em se tratando de mora de outro Poder. Não cabe ao Supremo, sob pena de desgaste maior, determinar prazo voltado à atuação do Legislativo. É perigoso, em termos de legitimidade institucional, uma vez que, não legislando o Congresso Nacional, a decisão torna-se inócua.
+Ausente regulamentação quanto a deficiente auditivo, constitui passo demasiado largo fixar prazo, ao legislador, visando a adoção de providências. ___Mantenho-me fiel ao que venho sustentando, em se tratando de mora de outro Poder. Não cabe ao Supremo, sob pena de desgaste maior, determinar prazo voltado à atuação do Legislativo. É perigoso, em termos de legitimidade institucional, uma vez que, não legislando o Congresso Nacional, a decisão torna-se inócua___.
 
-- A existência de Projetos de Lei tramitando no CN não impede que o STF conheça a ADO, já que um PL não é capaz de sanar a omissão.
+>[!example] A existência de Projetos de Lei tramitando no CN não impede que o STF conheça a ADO, já que um PL não é capaz de sanar a omissão.
 
 - Segundo o STF não existe fungibilidade entre ADO e MI, pois as ações são muito diferentes (MI: art. 5º, LXXI, CF e Lei 13.300, de junho de 2016; ADO: art. 103, § 2º, CF e arts. 12-A a 12-H da Lei 9.868/1999).
+
+ ![InkWriting](<Ink/Writing/2026.9.4 - 14.15pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
+
 
 - - Em 31 de dezembro de 2021, finalmente, foi editada a Lei nº 14.287, que introduziu profundas alterações nas regras para concessão da isenção de IPI (Imposto sobre produtos industrializados) para pessoas com deficiência ou transtorno do espectro autista previstas na Lei nº 8.989/95. Tais alterações supriram a então omissão inconstitucional em relação aos deficientes auditivos, que a nº Lei 8.989/1995 possuía.
 
@@ -470,7 +491,7 @@ Ausente regulamentação quanto a deficiente auditivo, constitui passo demasiado
 
 (iv) Atuação do PGR e do AGU no controle concentrado de constitucionalidade
 
-**(A) Procuradoria-Geral da República**
+### **(A) Procuradoria-Geral da República**
 
 -Consoante o art. 128 da CF/88, o Ministério Público brasileiro se divide em:
 
@@ -491,11 +512,11 @@ Ausente regulamentação quanto a deficiente auditivo, constitui passo demasiado
 
 > [!quote] 
 > LEI
-> **Art. 128, § 1º, CF/88:** O Ministério Público da União tem por chefe o Procurador-Geral da República, nomeado pelo Presidente da República dentre integrantes da carreira, maiores de trinta e cinco anos, após a aprovação de seu nome pela maioria absoluta dos membros do Senado Federal, para mandato de dois anos, permitida a recondução.
+> **Art. 128, § 1º, CF/88:** O Ministério Público da União tem por chefe o Procurador-Geral da República, nomeado pelo Presidente da República dentre integrantes da carreira, maiores de trinta e cinco anos, após a aprovação de seu nome pela maioria absoluta dos membros do Senado Federal, para ==mandato de dois anos==, permitida a recondução.
 
 > [!quote] 
 > LEI
-> **Art. 128, § 3º, CF/88:** Os Ministérios Públicos dos Estados e o do Distrito Federal e Territórios formarão lista tríplice dentre integrantes da carreira, na forma da lei respectiva, para escolha de seu Procurador-Geral, que será nomeado pelo Chefe do Poder Executivo, para mandato de dois anos, permitida uma recondução.
+> **Art. 128, § 3º, CF/88:** Os Ministérios Públicos dos Estados e o do Distrito Federal e Territórios formarão <mark>lista tríplice dentre integrantes da carreira</mark>, na forma da lei respectiva, para escolha de seu Procurador-Geral, que será nomeado pelo Chefe do Poder Executivo, para mandato de dois anos, <mark>permitida uma recondução.</mark>
 
 - Destituição do PGR e do PGJ
 
@@ -522,7 +543,7 @@ Ausente regulamentação quanto a deficiente auditivo, constitui passo demasiado
 
 -Ao contrário do AGU, que pode ser destituído pelo Presidente da República livremente, o PGR tem mandato fixo, logo, sua destituição, por iniciativa do Presidente da República, deverá ser precedida de autorização da maioria absoluta dos Senadores.
 
-**(B) Atuação do PGR**
+## **(B) Atuação do PGR**
 
 > [!quote] 
 > LEI
@@ -530,23 +551,26 @@ Ausente regulamentação quanto a deficiente auditivo, constitui passo demasiado
 
 -O PGR é legitimado ativo universal e detentor de capacidade postulatória para o ajuizamento das 4 ações do controle concentrado-abstrato (ADI, ADO, ADC e ADPF).
 
--O PGR será ouvido em todos os processos que tramitam no STF (ou seja, em todas as ações do controle concentrado).
+-O PGR será ==__ouvido em todos os processos que tramitam no STF__== (ou seja, em todas as ações do controle concentrado).
 
 -A participação do PGR é livre e desvinculada, já que ele atua como defensor da Constituição. Assim, o PGR tanto pode se manifestar pela constitucionalidade da norma, quanto pela inconstitucionalidade.
 
-**-Participação do PGR na ADI e na ADC**
+### **Participação do PGR na ADI e na ADC**
 
 - Nessas duas ações, o PGR será acionado a se manifestar (após o prazo das informações) mesmo quando for o autor da ação.
 
 > [!quote] 
-> LEI
+> LEI __ADI__
 > - **Art. 8º, Lei nº 9.868/1999:** Decorrido o prazo das informações, serão ouvidos, sucessivamente, o Advogado-Geral da União e o Procurador-Geral da República, que deverão manifestar-se, cada qual, no prazo de quinze dias.
 
 > [!quote] 
-> LEI
+> LEI __ADC__
 > - **Art. 19, Lei nº 9.868/1999:** Decorrido o prazo do artigo anterior, será aberta vista ao Procurador-Geral da República, que deverá pronunciar-se no prazo de quinze dias.
 
-- É possível, inclusive, que o PGR opine pela improcedência da ação por ele ajuizada, afinal sua atuação é livre/desvinculada. Tal postura não importa desistência da ação (até porque a desistência da ação não é admitida em razão do caráter objetivo do processo - arts. 5º e 16, Lei nº 9.868/1999).
+>[!example] Pode ser que a pessoa do PGR queira desisitir da ação proposta por seu antecessor
+>É possível, inclusive, que o PGR opine pela improcedência da ação por ele ajuizada, afinal sua atuação é livre/desvinculada. Tal postura não importa desistência da ação (até porque a desistência da ação não é admitida em razão do caráter objetivo do processo - arts. 5º e 16, Lei nº 9.868/1999).
+
+
 
 > [!quote] 
 > LEI
@@ -556,9 +580,9 @@ Ausente regulamentação quanto a deficiente auditivo, constitui passo demasiado
 > LEI
 > - **“Art. 16, Lei nº 9.868/1999:** Proposta a ação declaratória, não se admitirá desistência.“
 
-**-Participação do PGR na ADO e na ADPF**
+### **-Participação do PGR na ADO e na ADPF**
 
-- Nessas duas ações o PGR irá se manifestar uma única vez: ou como autor ou após o prazo das informações (art. 12-E, § 3º, Lei nº 9.868/1999 e art. 7º, parágrafo único, Lei nº 9.882/1999).
+- Nessas duas ações o PGR irá se manifestar uma ==única vez==: ou como autor ou após o prazo das informações (art. 12-E, § 3º, Lei nº 9.868/1999 e art. 7º, parágrafo único, Lei nº 9.882/1999).
 
 ---
 *p. 20*
@@ -566,16 +590,14 @@ Ausente regulamentação quanto a deficiente auditivo, constitui passo demasiado
 ---
 
 > [!quote] 
-> LEI
-> - **“Art. 12-E, § 3º, Lei nº 9.868/1999:** O Procurador-Geral da República, nas ações em que não for autor, terá vista do processo, por 15 (quinze) dias, após o decurso do prazo para informações. (Incluído pela Lei nº
-
-12.063, de 2009).”
+> LEI __ADO__
+> - **“Art. 12-E, § 3º, Lei nº 9.868/1999:** O Procurador-Geral da República, nas ações em que não for autor, terá vista do processo, por <mark>15 (quinze) dias</mark>, após o decurso do prazo para informações. (Incluído pela Lei nº 12.063, de 2009).”
 
 > [!quote] 
-> LEI
-> - **“Art. 7º, parágrafo único, Lei nº 9.882/1999:** O Ministério Público, nas arguições que não houver formulado, terá vista do processo, por cinco dias, após o decurso do prazo para informações. “
+> LEI __ADPF__
+> - **“Art. 7º, parágrafo único, Lei nº 9.882/1999:** O Ministério Público, nas arguições que não houver formulado, terá vista do processo, <mark>por cinco dias</mark>, após o decurso do prazo para informações. “
 
-**(C) Advocacia-Geral da União (art. 131, CF/88)**
+### **(C) Advocacia-Geral da União (art. 131, CF/88)**
 
 -A Advocacia-Geral da União é a instituição que representa, judicial e extrajudicialmente, a União; compete lhe, ainda, a atividade de consultoria e assessoramento jurídico do Poder Executivo.
 
@@ -587,15 +609,18 @@ Ausente regulamentação quanto a deficiente auditivo, constitui passo demasiado
 
 > [!quote] 
 > LEI
->   - **Art. 131, § 1º, CF/88:** A Advocacia-Geral da União tem por chefe o Advogado-Geral da União, de livre nomeação pelo Presidente da República dentre cidadãos maiores de trinta e cinco anos, de notável saber jurídico e reputação ilibada
+>   - **Art. 131, § 1º, CF/88:** A Advocacia-Geral da União tem por chefe o Advogado-Geral da União, de ==livre== nomeação pelo Presidente da República dentre cidadãos maiores de trinta e cinco anos, de notável saber jurídico e reputação ilibada
+>>[!tip] livre por que não depende do congresso federal
 
-**(D) Atuação do AGU**
+
+### **(D) Atuação do AGU**
 
 > [!quote] 
 > LEI
 > **-“Art. 103, § 3º, CF/88:** Quando o Supremo Tribunal Federal apreciar a inconstitucionalidade, em tese, de norma legal ou ato normativo, citará, previamente, o Advogado-Geral da União, que defenderá o ato ou texto impugnado.”
 
--O AGU não é legitimado ativo para a propositura das ações do controle concentrado de constitucionalidade.
+> [!summary]
+> -O AGU não é legitimado ativo para a propositura das ações do controle concentrado de constitucionalidade.
 
 -Só atua nas ações de inconstitucionalidade, não sendo, portanto, citado para participar das ações declaratórias.
 
@@ -881,13 +906,16 @@ que eu fiquei em dúvida. E o Relator decide se ele quer trazer; e, se o Relator
 > LEI
 > **Art. 138, CPC/15:** O juiz ou o relator, considerando a relevância da matéria, a especificidade do tema objeto da demanda ou a repercussão social da controvérsia, poderá, por decisão irrecorrível, de ofício ou a requerimento das partes ou de quem pretenda manifestar-se, solicitar ou admitir a participação de pessoa natural ou jurídica, órgão ou entidade especializada, com representatividade adequada, no prazo de 15 (quinze) dias de sua intimação. § 1º A intervenção de que trata o _caput_ não implica alteração de competência nem autoriza a interposição de recursos, ressalvadas a oposição de embargos de declaração e a hipótese do § 3º. § 2º Caberá ao juiz ou ao relator, na decisão que solicitar ou admitir a intervenção, definir os poderes do _amicus_ _curiae_ . § 3º O _amicus curiae_ pode recorrer da decisão que julgar o incidente de resolução de demandas repetitivas.
 
-**CONTROLE DE CONSTITUCIONALIDADE EM ÂMBITO ESTADUAL**
+### **CONTROLE DE CONSTITUCIONALIDADE EM ÂMBITO ESTADUAL**
 
 **1. Competência**
 
   - Tribunal de Justiça local
 
-> [!quote] 
+> [!attention]
+>   princípio da simetria e atua na defesa da constituição federal e também estadual
+
+> [!success] 
 > LEI
 > **Art. 125, § 2º, CF/88:** Cabe aos Estados a instituição de representação de inconstitucionalidade de leis ou atos normativos estaduais ou municipais em face da Constituição Estadual, vedada a atribuição da legitimação para agir a um único órgão.
 
@@ -901,22 +929,18 @@ que eu fiquei em dúvida. E o Relator decide se ele quer trazer; e, se o Relator
 
 **- Autônoma:** a norma da CE é assim considerada quando não é repetida (nem por obrigação, nem por faculdade) da CF. É por meio das normas autônomas que a entidade federada atende suas particularidades e peculiaridades locais.
 
-**- Repetição obrigatória:** são as normas que se impõem compulsoriamente como modelos a serem observados, pela aplicação do princípio da simetria, nas demais entidades federadas. Não há uma faculdade para o poder derivado
+**- Repetição obrigatória:** são as normas que se impõem compulsoriamente como modelos a serem observados, pela aplicação do princípio da simetria, nas demais entidades federadas. Não há uma faculdade para o poder derivado decorrente (que é o poder responsável pela elaboração da Constituição estadual), mas sim uma obrigação de reproduzir o preceito escrito na CF.
 
 ---
 *p. 31*
 
 ---
 
-decorrente (que é o poder responsável pela elaboração da Constituição estadual), mas sim uma obrigação de reproduzir o preceito escrito na CF.
-
 **- Mera imitação:** são aquelas normas que foram reproduzidas nos documentos estaduais por liberalidade do poder derivado decorrente (faculdade).
 
 ![[DIR.CONST.A.9-img13-pg32.png]]
 
-- Em fevereiro de 2017, no RE 650.898, o STF decidiu que os tribunais de justiça podem realizar controle concentrado de constitucionalidade em âmbito estadual utilizando como parâmetro normas da CF, desde que sejam normas de repetição obrigatória pelos Estados. Segundo entendeu a Corte, se a norma é de repetição obrigatória, não há nenhuma discricionariedade para o Estado membro em incorporar ou não: a absorção é compulsória e pode se dar
-
-**textualmente** ou **até implicitamente** .
+- Em fevereiro de 2017, no RE 650.898, o STF decidiu que os tribunais de justiça podem realizar controle concentrado de constitucionalidade em âmbito estadual utilizando como parâmetro normas da CF, desde que sejam normas de ==repetição obrigatória== pelos Estados. Segundo entendeu a Corte, se a norma ==é de repetição obrigatória, não há nenhuma __discricionariedade para o Estado membro__ em incorporar ou não: a absorção é compulsória e pode se dar  **textualmente** ou **até implicitamente** .==
 
 **Notícias STF**
 
@@ -931,16 +955,21 @@ decorrente (que é o poder responsável pela elaboração da Constituição esta
 
 O julgamento foi retomado com o voto-vista do ministro Luiz Fux, que seguiu a divergência aberta, em fevereiro de 2016, pelo ministro Barroso. De acordo com a corrente divergente – seguida também pelos ministros Teori Zavascki, Rosa Weber, Dias Toffoli e Gilmar Mendes –, o terço de férias e o 13º são direitos de todos os trabalhadores, inclusive dos agentes políticos. A posição do relator quanto a este tema foi seguida pelos ministros Edson Fachin, Ricardo Lewandowski e Cármen Lúcia. Para eles, prefeitos e vice-prefeitos, ministros e secretários, deputados, senadores e vereadores são agentes políticos, diferentes dos servidores públicos em geral. A decisão foi unânime no outro tema discutido no RE 650898. O município alegava que o TJ, no julgamento de ação direta de inconstitucionalidade contra lei municipal, não poderia verificar a existência de ofensa à Constituição Federal. Nesse ponto, todos os ministros votaram pelo desprovimento do recurso.
 
-**Tese:** Tribunais de Justiça podem exercer controle abstrato de constitucionalidade de leis municipais utilizando como parâmetro a Constituição Federal, _desde que se trate de normas de reprodução obrigatória pelos Estados._
+> [!important]
+> **Tese:** Tribunais de Justiça podem exercer [[controle abstrato de constitucionalidade]] de leis municipais utilizando como parâmetro a Constituição Federal, _desde que se trate de normas de [[reprodução obrigatória]] pelos Estados._
 
   - Em complementação ao tema, veja uma recente decisão do STF:
 
 > [!warning] Jurisprudência
 > **ADI 5647, Rel. Min. Rosa Weber:** Controle concentrado de constitucionalidade, pelo Tribunal de Justiça local, de leis e atos normativos municipais em face da Constituição Federal. Possibilidade, desde que o parâmetro de controle seja de reprodução obrigatória ou quando existir, no âmbito da Constituição estadual, norma de caráter remissivo à Constituição da República.
 
-**4. Legitimidade**
+### **4. Legitimidade**
 
   - O rol de legitimados será livremente estabelecido pela Constituição Estadual, que não precisa reproduzir compulsoriamente o art. 103 da CF.
+  
+
+> [!warning]
+> Não é norma de repetição obrigatória o art. 103 da CF e a constituição Estadual não precisa reproduzir compulsoriamente o art. 103 da CF.
 
   - A Constituição Estadual deve, todavia, obedecer a regra imposta pelo art. 125, § 2º, da CF, qual seja, não se pode entregar a legitimação para agir a um único órgão.
 
@@ -963,7 +992,10 @@ O julgamento foi retomado com o voto-vista do ministro Luiz Fux, que seguiu a di
 
 **RE nº 261.677, Rel. Min. Sepúlveda Pertence:** Legitimação ativa de Deputado Estadual para propor ação direta de inconstitucionalidade de normas locais em face da Constituição do Estado, à vista do art. 125, § 2º, da Constituição Federal. Precedente: ADI 558-9 MC, Pertence, DJ 26.3.93.
 
-- O requisito da **pertinência temática** igualmente se aplica em âmbito estadual, por simetria à construção jurisprudencial que o STF criou para a esfera federal. “Aplicando esta diferenciação para fins de propositura de ação direta de inconstitucionalidade em face da Carta Estadual, perante o Tribunal de Justiça, teríamos como legitimados universais: (i) o Governador do Estado, a Mesa da Assembleia Legislativa; o Procurador-Geral de Justiça, o Conselho Estadual da Ordem dos Advogados do Brasil; e partido político com assento na Assembleia Legislativa; e como legitimados especiais (ii) o Prefeito e a Mesa da Câmara Municipal, as entidades sindicais ou de classe, de atuação estadual ou municipal; e os partidos políticos com assento na respectiva Câmara.” DUTRA, Carlos Roberto de Alckimin. _O Controle Estadual de Constitucionalidade de_ _Leis e Atos Normativos,_ São Paulo: Saraiva, 2005, p. 90.
+- O requisito da **pertinência temática** igualmente se aplica em âmbito estadual, por simetria à construção jurisprudencial que o STF criou para a esfera federal. 
+
+> [!quote]
+> “Aplicando esta diferenciação para fins de propositura de ação direta de inconstitucionalidade em face da Carta Estadual, perante o Tribunal de Justiça, teríamos como legitimados universais: (i) o Governador do Estado, a Mesa da Assembleia Legislativa; o Procurador-Geral de Justiça, o Conselho Estadual da Ordem dos Advogados do Brasil; e partido político com assento na Assembleia Legislativa; e como legitimados especiais (ii) o Prefeito e a Mesa da Câmara Municipal, as entidades sindicais ou de classe, de atuação estadual ou municipal; e os partidos políticos com assento na respectiva Câmara.” [^6]
 
 ---
 *p. 34*
@@ -977,39 +1009,45 @@ O § 3° do art. 103, CF/88 (da mesma forma que o _caput_ e incisos do artigo 10
 > **Art. 103, § 3º, CF/88:** Quando o Supremo Tribunal Federal apreciar a inconstitucionalidade, em tese, de norma legal ou ato normativo, citará, previamente, o Advogado-Geral da União, que defenderá o ato ou texto impugnado.
 
 > [!warning] Jurisprudência
-> **ADI 119/RO, Rel. pelo. Min. Dias Toffoli: Não é inconstitucional** norma da Constituição do Estado que atribui ao procurador da Assembleia Legislativa ou, alternativamente, ao procurador-geral do Estado, a incumbência de defender a constitucionalidade de ato normativo estadual questionado em controle abstrato de constitucionalidade na esfera de competência do Tribunal de Justiça. Previsão que não afronta a Constituição Federal, já que **ausente o**
-
-**dever de simetria** para com o modelo federal, que impõe apenas a pluralidade de legitimados para a propositura da ação (art. 125, § 2º, CF/88). Ausência de ofensa ao art. 132 da Carta Política, que fixa a exclusividade de representação do ente federado pela Procuradoria-Geral do Estado, uma vez que nos feitos de controle abstrato de constitucionalidade nem sequer há partes processuais propriamente ditas, inexistindo litígio na acepção técnica do termo.
+> **ADI 119/RO, Rel. pelo. Min. Dias Toffoli: Não é inconstitucional** norma da Constituição do Estado que atribui ao procurador da Assembleia Legislativa ou, alternativamente, ao procurador-geral do Estado, a incumbência de defender a constitucionalidade de ato normativo estadual questionado em controle abstrato de constitucionalidade na esfera de competência do Tribunal de Justiça. Previsão que não afronta a Constituição Federal, já que **ausente o dever de simetria** para com o modelo federal, que impõe apenas a pluralidade de legitimados para a propositura da ação (art. 125, § 2º, CF/88). Ausência de ofensa ao art. 132 da Carta Política, que fixa a exclusividade de representação do ente federado pela Procuradoria-Geral do Estado, uma vez que nos feitos de controle abstrato de constitucionalidade nem sequer há partes processuais propriamente ditas, inexistindo litígio na acepção técnica do termo.
 
 **Bloco 5**
 
 **5. Cabimento de Recurso Extraordinário**
 
   - Via de regra, a decisão do Tribunal de Justiça no controle concentrado é **soberana** e **irrecorrível**, _salvo_ a interposição de embargos de declaração.
+  - 
+>[!BUG] **Lei 9868/1999, art. 26:** A decisão que declara a constitucionalidade ou a inconstitucionalidade da lei ou do ato normativo em ação direta ou em ação declaratória é #irrecorrível, ressalvada a interposição de embargos declaratórios, não podendo, igualmente, ser objeto de ação rescisória.
 
-**Lei 9868/1999, art. 26:** A decisão que declara a constitucionalidade ou a inconstitucionalidade da lei ou do ato normativo em ação direta ou em ação declaratória é irrecorrível, ressalvada a interposição de embargos declaratórios, não podendo, igualmente, ser objeto de ação rescisória
 
-  - No entanto, da decisão do Tribunal de Justiça no controle concentrado caberá **RE** no **STF**, quando a norma da Constituição Estadual escolhida como parâmetro for de repetição obrigatória da Constituição Federal.
 
-  - Os efeitos da decisão proferida pelo STF no recurso extraordinário serão: **_erga omnes_** e **vinculantes** .
+  >[!ATTENTION] 
+  >No entanto, da decisão do Tribunal de Justiça no controle concentrado caberá **RE** no **STF**, quando a norma da Constituição Estadual escolhida como parâmetro for de repetição obrigatória da Constituição Federal.
+  >* Os efeitos da decisão proferida pelo STF no recurso extraordinário serão: **_erga omnes_** e **vinculantes** .
+  - 
 
 **AI 694.299-AgR, Rel. Min. Dias Toffoli:** Para que seja admissível recurso extraordinário de ação direta de inconstitucionalidade processada no âmbito do Tribunal local, é imprescindível que o parâmetro de controle normativo local corresponda à norma de repetição obrigatória da CF. Inadmissível, em recurso extraordinário, a análise da legislação local. Incidência da Súmula 280 do STF.
 
 > [!warning] Jurisprudência
-> **RE 376.440 ED/DF, Rel. Min. Dias Toffoli:** É possível o julgamento de recurso extraordinário por decisão monocrática do relator nas hipóteses oriundas de ação do controle concentrado de constitucionalidade em âmbito estadual de dispositivo de reprodução obrigatória, quando a decisão impugnada refletir pacífica jurisprudência do STF sobre o tema.
+> **RE 376.440 ED/DF, Rel. Min. Dias Toffoli:** É possível o julgamento de recurso extraordinário por decisão ==monocrática== do relator nas hipóteses oriundas de ação do controle concentrado de constitucionalidade em âmbito estadual de dispositivo de reprodução obrigatória, quando a decisão impugnada refletir pacífica jurisprudência do STF sobre o tema.
 
   - Este recurso extraordinário poderá ser julgado por decisão monocrática do relator, que poderá:
 
----
-*p. 35*
+	(a) negar provimento ao recurso quando a decisão impugnada refletir pacífica jurisprudência do STF sobre o tema;
+	
+	(b) bem como dar provimento ao recurso extraordinário, monocraticamente, se a decisão do Tribunal de Justiça contrariar a jurisprudência pacífica do Supremo Tribunal.
 
----
+- Dessas decisões monocráticas são cabíveis dois recursos: 
+- embargos de declaração e agravo interno –
+	- sendo ambos julgados pelo Plenário, conforme decidiu o STF, em março de 2024, no julgamento do RE 913.517 QO/SP: “Compete ao Plenário do STF processar e julgar agravos internos e embargos de declaração em recursos extraordinários (RE) e em recursos extraordinários com agravos (ARE) interpostos em face de acórdãos proferidos no bojo de ações diretas estaduais, dado o caráter objetivo dessas demandas”. 
+	- 
+	- 
+>[!TIP] Obs.1: 
+>Detalhe importante: como essa decisão de 2024 importou em alteração de entendimento (afinal, antes desse pronunciamento, as Turmas julgavam esses recursos), o STF decidiu modular os efeitos desse novo entendimento, no sentido de que a obrigatoriedade de submissão dos recursos internos ao Plenário vale para todos os julgamentos iniciados a partir da publicação da ata da questão de ordem do RE 913.517, restando preservada, pois, a eficácia das decisões já transitadas em julgado. 
+>>[!TIP] Obs.2: 
+>>Segundo o STF, em processo objetivo, **não se contam em dobro os prazos da Fazenda Pública** (nem mesmo para a interposição de recurso extraordinário).
 
-(a) negar provimento ao recurso quando a decisão impugnada refletir pacífica jurisprudência do STF sobre o tema;
 
-(b) bem como dar provimento ao recurso extraordinário, monocraticamente, se a decisão do Tribunal de Justiça contrariar a jurisprudência pacífica do Supremo Tribunal.
-
-- Dessas decisões monocráticas são cabíveis dois recursos: embargos de declaração e agravo interno – sendo ambos julgados pelo Plenário, conforme decidiu o STF, em março de 2024, no julgamento do RE 913.517 QO/SP: “Compete ao Plenário do STF processar e julgar agravos internos e embargos de declaração em recursos extraordinários (RE) e em recursos extraordinários com agravos (ARE) interpostos em face de acórdãos proferidos no bojo de ações diretas estaduais, dado o caráter objetivo dessas demandas”. Obs.1: Detalhe importante: como essa decisão de 2024 importou em alteração de entendimento (afinal, antes desse pronunciamento, as Turmas julgavam esses recursos), o STF decidiu modular os efeitos desse novo entendimento, no sentido de que a obrigatoriedade de submissão dos recursos internos ao Plenário vale para todos os julgamentos iniciados a partir da publicação da ata da questão de ordem do RE 913.517, restando preservada, pois, a eficácia das decisões já transitadas em julgado. Obs.2: Segundo o STF, em processo objetivo, **não se contam em dobro os prazos da Fazenda Pública** (nem mesmo para a interposição de recurso extraordinário).
 
 **Notícias STF**
 
@@ -1017,11 +1055,7 @@ O § 3° do art. 103, CF/88 (da mesma forma que o _caput_ e incisos do artigo 10
 
 **STF confirma inaplicabilidade do prazo em dobro para recurso em processo de controle de constitucionalidade** O Supremo Tribunal Federal (STF) reafirmou o entendimento de que **a regra que confere prazo em dobro à Fazenda**
 
-**Pública para recorrer não se aplica aos processos objetivos** , que se referem ao controle abstrato de leis e atos normativos. A decisão se deu por maioria durante a primeira sessão de julgamentos do Plenário em 2019 nesta quarta-feira (6). Os ministros julgaram, conjuntamente, dois agravos regimentais interpostos contra decisões monocráticas. Um deles questionava decisão da Presidência do STF que negou seguimento ao Recurso Extraordinário com Agravo (ARE) 830727, do Estado de Santa Catarina, por entender que a interposição ocorreu fora do prazo. O processo teve origem em ação direta de inconstitucionalidade julgada pelo Tribunal de Justiça de Santa Catarina (TJ-SC). (...) (...) No agravo, o estado argumentava tempestividade (observância do prazo) com base no artigo 188 do Código de Processo Civil (CPC) de 1973 – reproduzido no artigo **183 do CPC de 2015 –, que prevê o prazo em dobro para a**
-
-**Fazenda Pública (União, os Estados, o Distrito Federal, os municípios e suas respectivas autarquias e fundações de**
-
-**direito público).** O outro recurso foi apresentado pela Assembleia Legislativa do Estado de Roraima contra decisão do ministro Luís Roberto Barroso que, ao reconhecer a intempestividade, não conheceu de agravo regimental em liminar na Ação Direta de Inconstitucionalidade (ADI) 5814.
+**Pública para recorrer não se aplica aos processos objetivos** , que se referem ao controle abstrato de leis e atos normativos. A decisão se deu por maioria durante a primeira sessão de julgamentos do Plenário em 2019 nesta quarta-feira (6). Os ministros julgaram, conjuntamente, dois agravos regimentais interpostos contra decisões monocráticas. Um deles questionava decisão da Presidência do STF que negou seguimento ao Recurso Extraordinário com Agravo (ARE) 830727, do Estado de Santa Catarina, por entender que a interposição ocorreu fora do prazo. O processo teve origem em ação direta de inconstitucionalidade julgada pelo Tribunal de Justiça de Santa Catarina (TJ-SC). (...) (...) No agravo, o estado argumentava tempestividade (observância do prazo) com base no artigo 188 do Código de Processo Civil (CPC) de 1973 – reproduzido no artigo **183 do CPC de 2015 –, que prevê o prazo em dobro para a **Fazenda Pública (União, os Estados, o Distrito Federal, os municípios e suas respectivas autarquias e fundações de  **direito público).** O outro recurso foi apresentado pela Assembleia Legislativa do Estado de Roraima contra decisão do ministro Luís Roberto Barroso que, ao reconhecer a intempestividade, não conheceu de agravo regimental em liminar na Ação Direta de Inconstitucionalidade (ADI) 5814.
 
 ---
 *p. 36*
@@ -1085,7 +1119,7 @@ para a interposição de recursos, seria necessária a presença da assinatura d
 
 (b) em **novembro de 2022**, no julgamento do RE 774057 AgR-EDv-AgR-ED (relator Min. Nunes Marques), restou firmado que “O Plenário do Supremo Tribunal Federal assentou a desnecessidade de assinatura do legitimado para interpor recurso extraordinário contra decisão proferida em processo de fiscalização abstrata de constitucionalidade perante Tribunal de Justiça, bastando que a peça esteja subscrita por representante jurídico do legitimado”.
 
-**6. Simultaneidade de ADIs**
+### **6. Simultaneidade de ADIs**
 
   - Se são ajuizadas no STF várias ações diretas federais impugnando uma mesma lei X, teremos a **reunião** dos processos e o **julgamento conjunto** de todas as ações.
 
@@ -1098,7 +1132,7 @@ para a interposição de recursos, seria necessária a presença da assinatura d
 
 ---
 
-- A suspensão se justifica em razão de a decisão do STF, qualquer que seja ela (pela constitucionalidade ou pela inconstitucionalidade da lei estadual) prejudicar a do Tribunal local no que se refere às normas constitucionais estaduais que reproduzem as federais.
+- ==A suspensão se justifica em razão de a decisão do STF, qualquer que seja ela (pela constitucionalidade ou pela inconstitucionalidade da lei estadual) prejudicar a do Tribunal local no que se refere às normas constitucionais estaduais que reproduzem as federais.==
 
 - Para exemplificar a importância de os Tribunais de Justiça observarem essa orientação, vamos citar a decisão monocrática do ministro Gilmar Mendes (em novembro de 2024, na ADI 7662), que cassou a decisão do Tribunal de Justiça de São Paulo (TJ-SP) que suspendeu, em caráter liminar (provisório), a lei que instituiu o modelo de escola cívico-militar no estado.
 
@@ -1111,13 +1145,9 @@ para a interposição de recursos, seria necessária a presença da assinatura d
 > [!warning] Jurisprudência
 > **ADI 3.482-DF, STF, Rel. Min. Celso de Mello:** A instauração do processo de fiscalização normativa abstrata, perante
 
-- Supremo Tribunal Federal, em que se postule a invalidação de diploma normativo editado por Estado-membro ou pelo Distrito Federal, questionado em face da Constituição da República (CF, art. 102, I, a), qualifica-se como **causa**
+- Supremo Tribunal Federal, em que se postule a invalidação de diploma normativo editado por Estado-membro ou pelo Distrito Federal, questionado em face da Constituição da República (CF, art. 102, I, a), qualifica-se como **causa de suspensão prejudicial do processo de controle concentrado de constitucionalidade**, que, promovido perante o Tribunal de Justiça local (CF, art.125, § 2º), tenha, por objeto de impugnação, exatamente os mesmos atos normativos emanados do Estado-membro ou do Distrito Federal, contestados, porém, em face da Constituição estadual ou, então, como sucede na espécie, em face da Lei Orgânica do Distrito Federal.
 
-**de suspensão prejudicial do processo de controle concentrado de constitucionalidade**, que, promovido perante o Tribunal de Justiça local (CF, art.125, § 2º), tenha, por objeto de impugnação, exatamente os mesmos atos normativos emanados do Estado-membro ou do Distrito Federal, contestados, porém, em face da Constituição estadual ou, então, como sucede na espécie, em face da Lei Orgânica do Distrito Federal.
-
-- Se o STF declara a lei inconstitucional perante a Constituição Federal, a ação direta no Tribunal de Justiça será
-
-**extinta sem análise de mérito** (perda superveniente do objeto).
+- Se o STF declara a lei inconstitucional perante a Constituição Federal, a ação direta no Tribunal de Justiça será **extinta sem análise de mérito** (perda superveniente do objeto).
 
 - Noutro giro, se o STF declarar que a lei é constitucional perante a Constituição Federal, a ação no Tribunal de Justiça será **sequenciada** . O Tribunal de Justiça poderá declarar a constitucionalidade da norma perante a CE. Poderá, também, entender que a lei estadual viola algum dispositivo autônomo da Constituição Estadual, declarando-a inconstitucional.
 
@@ -1132,13 +1162,15 @@ para a interposição de recursos, seria necessária a presença da assinatura d
 
 - Quando o STF se reuniu para avaliar a ação direta que tramitava na Corte, os Ministros notaram que a lei estadual já havia sido declarada inconstitucional pelo Tribunal de Justiça do Amazonas. Iniciou-se, então, um debate acalorado entre os Ministros, pois alguns (especialmente o Min. Marco Aurélio – atualmente já aposentado – e o Min Dias Toffoli) defendiam que o STF não mais poderia se pronunciar, uma vez que a ADI teria perdido seu objeto (em virtude da declaração de inconstitucionalidade proferida pelo TJAM).
 
-- Nesse julgamento houve pedido de vista, muitos e acalorados debates... e, então, o STF firmou um entendimento que agora nos orienta em situações como a narrada (em que o Tribunal de Justiça não observa a jurisprudência do STF, no sentido de suspender a ação direta que ali tramita, aguardando a decisão do STF na ação direta que lá foi ajuizada): Coexistindo duas ações diretas de inconstitucionalidade, uma ajuizada perante o tribunal de justiça local e outra perante o STF, o julgamento da primeira – estadual – somente prejudica o da segunda – do STF – se preenchidas duas condições cumulativas:
+>[!BUG] EXCEÇÃO INTERESSANTE
+>Nesse julgamento houve pedido de vista, muitos e acalorados debates... e, então, o STF firmou um entendimento que agora nos orienta em situações como a narrada (em que o Tribunal de Justiça não observa a jurisprudência do STF, no sentido de suspender a ação direta que ali tramita, aguardando a decisão do STF na ação direta que lá foi ajuizada): Coexistindo duas ações diretas de inconstitucionalidade, uma ajuizada perante o tribunal de justiça local e outra perante o STF, o julgamento da primeira – estadual – somente prejudica o da segunda – do STF – se preenchidas duas condições cumulativas:
+>1) se a decisão do Tribunal de Justiça for pela procedência da ação e ( é inconstitucional em relação à Constituição Estadual)
+>2) <mark>se a inconstitucionalidade for por incompatibilidade com preceito da Constituição do Estado sem correspondência na Constituição Federal.</mark> Caso o parâmetro do controle de constitucionalidade tenha correspondência na Constituição Federal, subsiste a jurisdição do STF para o controle abstrato de constitucionalidade.
 
-1) se a decisão do Tribunal de Justiça for pela procedência da ação e
 
-2) se a inconstitucionalidade for por incompatibilidade com preceito da Constituição do Estado sem correspondência na Constituição Federal. Caso o parâmetro do controle de constitucionalidade tenha correspondência na Constituição Federal, subsiste a jurisdição do STF para o controle abstrato de constitucionalidade.
 
-- Em outras palavras, para concluirmos: coexistindo ações diretas de inconstitucionalidade de um mesmo preceito normativo estadual, deve haver a suspensão da ADI estadual – para aguardar o pronunciamento do STF na ADI federal.
+>[!tip] EM OUTRAS PALAVRAS...
+>Em outras palavras, para concluirmos: coexistindo ações diretas de inconstitucionalidade de um mesmo preceito normativo estadual, deve haver a suspensão da ADI estadual – para aguardar o pronunciamento do STF na ADI federal.
 
 - No entanto, se o TJ não determinar o sobrestamento da sua ação e julgá-la antes do pronunciamento do STF, essa decisão proferida pelo Tribunal de Justiça somente prejudicará a que está em curso perante o STF se for pela procedência (ou seja, inconstitucionalidade da norma) e desde que a inconstitucionalidade seja por incompatibilidade com dispositivo constitucional estadual tipicamente estadual (= sem similar na Constituição Federal).
 
@@ -1168,3 +1200,6 @@ para a interposição de recursos, seria necessária a presença da assinatura d
 [^3]: CPC, Art. 950 § 3º Considerando a relevância da matéria e a representatividade dos postulantes, o relator poderá admitir, por despacho irrecorrível, a manifestação de outros órgãos ou entidades.
 [^4]: Lei 11.417/06, art. 3º § 2º No procedimento de edição, revisão ou cancelamento de enunciado da súmula vinculante, o relator poderá admitir, por decisão irrecorrível, a manifestação de terceiros na questão, nos termos do Regimento Interno do Supremo Tribunal Federal. CF/88 Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
 [^5]: CF/88, art. 102 § 3º No recurso extraordinário o recorrente deverá demonstrar a repercussão geral das questões constitucionais discutidas no caso, nos termos da lei, a fim de que o Tribunal examine a admissão do recurso, somente podendo recusá-lo pela manifestação de dois terços de seus membros. CPC, art. 1.035 § 4º O relator poderá admitir, na análise da repercussão geral, a manifestação de terceiros, subscrita por procurador habilitado, nos termos do Regimento Interno do Supremo Tribunal Federal.
+
+[^6]: DUTRA, Carlos Roberto de Alckimin. _O Controle Estadual de Constitucionalidade de_ _Leis e Atos Normativos,_ São Paulo: Saraiva, 2005, p. 90.
+	
