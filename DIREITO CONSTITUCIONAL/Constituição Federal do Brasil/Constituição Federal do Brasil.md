@@ -266,7 +266,9 @@ LXXIX - é assegurado, nos termos da lei, o direito à proteção dos dados pess
 
 § 3º Os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às emendas constitucionais. (Incluído pela Emenda Constitucional nº 45, de 2004) (Vide ADIN 3392) (Vide Atos decorrentes do disposto no § 3º do art. 5º da Constituição)
 
-§ 4º O Brasil se submete à jurisdição de Tribunal Penal Internacional a cuja criação tenha manifestado adesão. (Incluído pela Emenda Constitucional nº 45, de 2004) CAPÍTULO II DOS DIREITOS SOCIAIS
+§ 4º O Brasil se submete à jurisdição de Tribunal Penal Internacional a cuja criação tenha manifestado adesão. q(Incluído pela Emenda Constitucional nº 45, de 2004) 
+
+### CAPÍTULO II DOS DIREITOS SOCIAIS
 
 Art. 6º São direitos sociais a educação, a saúde, o trabalho, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.
 
@@ -330,21 +332,21 @@ XXIII - adicional de remuneração para as atividades penosas, insalubres ou per
 
 XXIV - aposentadoria;
 
-XXV - assistência gratuita aos filhos e dependentes desde o nascimento até seis anos de idade em creches e pré-escolas;
+~~XXV - assistência gratuita aos filhos e dependentes desde o nascimento até seis anos de idade em creches e pré-escolas;~~
 
 XXV - assistência gratuita aos filhos e dependentes desde o nascimento até 5 (cinco) anos de idade em creches e pré-escolas; (Redação dada pela Emenda Constitucional nº 53, de 2006)
 
 XXVI - reconhecimento das convenções e acordos coletivos de trabalho;
 
-XXVII - proteção em face da automação, na forma da lei;
+XXVII - proteção em face da #automação, na forma da lei;
 
 XXVIII - seguro contra acidentes de trabalho, a cargo do empregador, sem excluir a indenização a que este está obrigado, quando incorrer em dolo ou culpa;
 
-XXIX - ação, quanto a créditos resultantes das relações de trabalho, com prazo prescricional de:
+~~XXIX - ação, quanto a créditos resultantes das relações de trabalho, com prazo prescricional de:~~
 
-    a) cinco anos para o trabalhador urbano, até o limite de dois anos após a extinção do contrato;
+~~a) cinco anos para o trabalhador urbano, até o limite de dois anos após a extinção do contrato;~~
 
-    b) até dois anos após a extinção do contrato, para o trabalhador rural;
+~~b) até dois anos após a extinção do contrato, para o trabalhador rural;~~
 
 XXIX - ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho; (Redação dada pela Emenda Constitucional nº 28, de 2000)
 
@@ -1190,7 +1192,9 @@ IV - de provimento, pelo Superior Tribunal de Justiça, de representação do Pr
 
 § 3º Nos casos do art. 34, VI e VII, ou do art. 35, IV, dispensada a apreciação pelo Congresso Nacional ou pela Assembléia Legislativa, o decreto limitar-se-á a suspender a execução do ato impugnado, se essa medida bastar ao restabelecimento da normalidade.
 
-§ 4º Cessados os motivos da intervenção, as autoridades afastadas de seus cargos a estes voltarão, salvo impedimento legal. CAPÍTULO VII DA ADMINISTRAÇÃO PÚBLICA Seção I DISPOSIÇÕES GERAIS
+§ 4º Cessados os motivos da intervenção, as autoridades afastadas de seus cargos a estes voltarão, salvo impedimento legal. 
+
+### CAPÍTULO VII DA ADMINISTRAÇÃO PÚBLICA Seção I DISPOSIÇÕES GERAIS
 
 Art. 37. A administração pública direta, indireta ou fundacional, de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e, também, ao seguinte:
 

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0d2ed47a1e759cc7",
+        "id": "d4782c91b4ebc4ba",
         "type": "tabs",
         "children": [
           {
-            "id": "4ed0ef47acd83460",
+            "id": "221a9e0033473b0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIREITO PREVIDENCIÁRIO/A1/DIR.PREV.A.1/DIR.PREV.A.1.md",
+                "file": "DIREITO CONSTITUCIONAL/Constituição Federal do Brasil/Constituição Federal do Brasil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DIR.PREV.A.1"
+              "title": "Constituição Federal do Brasil"
             }
           }
         ]
@@ -105,7 +105,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "d65556bed1acf049",
@@ -185,12 +185,17 @@
       "pencil:New whiteboard": false
     }
   },
-  "active": "6bed25922142441d",
+  "active": "221a9e0033473b0d",
   "lastOpenFiles": [
+    "DIREITO CONSTITUCIONAL/Constituição Federal do Brasil/Constituição Federal do Brasil.md",
+    "autodeterminação dos povos;.md",
+    "DIREITO CONSTITUCIONAL/AULA 10/DIR.CONST.A.10/DIR.CONST.A.10.md",
+    "DIREITO CONSTITUCIONAL/AULA 9/DIR.CONST.A.9/DIR.CONST.A.9.md",
+    "reversão jurisprudêncial..md",
+    "DIREITO CONSTITUCIONAL/AULA 9/DIR.CONST.A.9/DIR.CONST.A.9.NOT.2.pencil",
+    "DIREITO PREVIDENCIÁRIO/A1/DIR.PREV.A.1/DIR.PREV.A.1.md",
     "MATERIAIS DE TODAS AS DISCIPLINAS/DIR.PENAL/DIR.PENAL.A.1.pdf",
     "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/DIR.CONST.A.8.md",
-    "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/PENC.DIR.CONS.A.8.N.1.pencil",
-    "DIREITO CONSTITUCIONAL/AULA 9/DIR.CONST.A.9/DIR.CONST.A.9.md",
-    "DIREITO PREVIDENCIÁRIO/A1/DIR.PREV.A.1/DIR.PREV.A.1.md"
+    "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/PENC.DIR.CONS.A.8.N.1.pencil"
   ]
 }
