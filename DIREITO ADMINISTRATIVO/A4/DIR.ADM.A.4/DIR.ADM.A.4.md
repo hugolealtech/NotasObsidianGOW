@@ -79,10 +79,13 @@ caminho:
 > [!quote] 
 > LEI
 >   - art. 37, XIX da CF
+>   - []
 
   - Controle Finalístico (relação de vinculação)
 
 -Todo ente da Administração Indireta sofre controle finalístico
+
+ ![InkWriting](<Ink/Writing/2026.9.5 - 11.56am.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
 
   - Finalidade Pública
 
