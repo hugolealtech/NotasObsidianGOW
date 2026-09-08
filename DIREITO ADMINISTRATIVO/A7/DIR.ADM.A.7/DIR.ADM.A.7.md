@@ -97,20 +97,17 @@ caminho:
 
 > [!attention] Atenção!
 >   - obs. art. 74 da CF: Art. 74. Os Poderes Legislativo, Executivo e Judiciário manterão, de forma integrada, sistema de controle interno com a finalidade de:
+>   - I - avaliar o cumprimento das metas previstas no plano plurianual, a execução dos programas de governo e dos orçamentos da União;
+>   - II - comprovar a legalidade e avaliar os resultados, quanto à eficácia e eficiência, da gestão orçamentária, financeira e patrimonial nos órgãos e entidades da administração federal, bem como da aplicação de recursos públicos por entidades de direito privado;
+>   - III - exercer o controle das operações de crédito, avais e garantias, bem como dos direitos e haveres da União;
+>   - IV - apoiar o controle externo no exercício de sua missão institucional. 
+>   - § 1º Os responsáveis pelo controle interno, ao tomarem conhecimento de qualquer irregularidade ou ilegalidade, dela darão ciência ao Tribunal de Contas da União, sob pena de responsabilidade solidária. 
+>   - § 2º Qualquer cidadão, partido político, associação ou sindicato é parte legítima para, na forma da lei, denunciar irregularidades ou ilegalidades perante o Tribunal de Contas da União.
 
 ---
 *p. 2*
 
 ---
-
-I - avaliar o cumprimento das metas previstas no plano plurianual, a execução dos programas de governo e dos orçamentos da União;
-
-II - comprovar a legalidade e avaliar os resultados, quanto à eficácia e eficiência, da gestão orçamentária, financeira e patrimonial nos órgãos e entidades da administração federal, bem como da aplicação de recursos públicos por entidades de direito privado;
-
-III - exercer o controle das operações de crédito, avais e garantias, bem como dos direitos e haveres da União;
-
-IV - apoiar o controle externo no exercício de sua missão institucional. § 1º Os responsáveis pelo controle interno, ao tomarem conhecimento de qualquer irregularidade ou ilegalidade, dela darão ciência ao Tribunal de Contas da União, sob pena de responsabilidade solidária. § 2º Qualquer cidadão, partido político, associação ou sindicato é parte legítima para, na forma da lei, denunciar irregularidades ou ilegalidades perante o Tribunal de Contas da União.
-
 **b) Controle Externo**
 
 -Realizado entre Poderes diferentes (estende-se a outro poder do Estado)
@@ -366,7 +363,7 @@ F) Ações ordinárias
 
 1.1. Servidão Administrativa
 
-  - Recairá sempre sobre _imóveis_ determinados e deverá ser registrada em cartório para que produza efeito erga omnes. Trata-se da utilização de um bem imóvel de um particular para a _prestação de um determinado serviço_ _público_ (exemplo: utilização do subsolo de uma fazenda para instalação de tubos para circulação de gás). A servidão tem _caráter perpétuo_ (prazo indeterminado) e atinge o _caráter exclusivo_ da propriedade (já que o proprietário irá dividir a utilização do bem com o Estado).
+  - <mark>Recairá sempre sobre imóveis determinados e deverá ser registrada em cartório para que produza efeito erga omnes</mark>. Trata-se da utilização de um bem imóvel de um particular para a _prestação de um determinado serviço_ _público_ (exemplo: utilização do subsolo de uma fazenda para instalação de tubos para circulação de gás). A servidão tem _caráter perpétuo_ (prazo indeterminado) e atinge o _caráter exclusivo_ da propriedade (já que o proprietário irá dividir a utilização do bem com o Estado).
 
   - ex. colocação de placa com nome da rua em muro de casa
 
