@@ -49,9 +49,9 @@ caminho:
 
 ---
 
-**CONTROLE DA ADMINISTRAÇÃO**
+# **CONTROLE DA ADMINISTRAÇÃO**
 
-**1. Considerações Iniciais**
+#### **1. Considerações Iniciais**
 
 - Estado subordinado à ordem jurídica;
 
@@ -59,13 +59,13 @@ caminho:
 
 - Pode ser quanto a legalidade e quanto a própria conveniência (mérito)
 
-**2. Conceito**
+#### **2. Conceito**
 
-- Trata-se do “conjunto de mecanismos jurídicos e administrativos por meio dos quais se exerce o poder de fiscalização e de revisão da atividade administrativa em qualquer das esferas de Poder”. (José dos Santos Carvalho Filho)
+- Trata-se do “conjunto de ==mecanismos== jurídicos e administrativos por meio dos quais se exerce o poder de ==fiscalização e de revisão== da atividade **administrativa** em qualquer das esferas de Poder”. (José dos Santos Carvalho Filho)
 
-**3. Classificações**
+### **3. Classificações**
 
-3.1. Quanto ao Âmbito
+##### 3.1. Quanto ao Âmbito
 
 **a) Controle Hierárquico**
 
@@ -81,9 +81,12 @@ caminho:
 
 -Direta na indireta
 
+ ![InkWriting](<Ink/Writing/2026.9.8 - 13.56pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
+
+
 **Bloco 2**
 
-3.2. Quanto à Extensão
+##### 3.2. Quanto à Extensão
 
 **a) Controle Interno**
 
@@ -96,7 +99,8 @@ caminho:
   - Trata-se da regra, diante da independência entre os Poderes
 
 > [!attention] Atenção!
->   - obs. art. 74 da CF: Art. 74. Os Poderes Legislativo, Executivo e Judiciário manterão, de forma integrada, sistema de controle interno com a finalidade de:
+>   - obs. art. 74 da CF: Art. 74. 
+>   - Os Poderes Legislativo, Executivo e Judiciário manterão, de forma integrada, sistema de controle interno com a finalidade de:
 >   - I - avaliar o cumprimento das metas previstas no plano plurianual, a execução dos programas de governo e dos orçamentos da União;
 >   - II - comprovar a legalidade e avaliar os resultados, quanto à eficácia e eficiência, da gestão orçamentária, financeira e patrimonial nos órgãos e entidades da administração federal, bem como da aplicação de recursos públicos por entidades de direito privado;
 >   - III - exercer o controle das operações de crédito, avais e garantias, bem como dos direitos e haveres da União;
@@ -137,7 +141,7 @@ caminho:
 
 ![[DIR.ADM.A.7-img3-pg4.png]]
 
-3.3. Quanto à Natureza (aspecto controlado)
+##### 3.3. Quanto à Natureza (aspecto controlado)
 
 **a) Controle de Legalidade**
 
@@ -156,7 +160,7 @@ caminho:
 > [!warning] Jurisprudência
 > - **Súmula 473** “A administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial.”
 
-3.4. Quanto à Iniciativa
+##### 3.4. Quanto à Iniciativa
 
 **a) Controle Provocado**
 
@@ -175,7 +179,7 @@ caminho:
 
   - ex. deputado que instaura CPI
 
-3.5. Quanto ao Momento
+##### 3.5. Quanto ao Momento
 
 **a) Controle Prévio**
 

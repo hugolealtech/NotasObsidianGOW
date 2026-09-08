@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Bolsonaro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,11 +79,13 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 329.68701171875
+    "width": 329.68701171875,
+    "collapsed": true
   },
   "right": {
     "id": "1f21ed8ca2632c5a",
@@ -204,6 +206,7 @@
   },
   "active": "2e465c9fd992a5f6",
   "lastOpenFiles": [
+    "Ink/Writing/2026.9.8 - 13.56pm.svg",
     "DIREITO ADMINISTRATIVO/A4/DIR.ADM.A.4/DIR.ADM.A.4.md",
     "reversão jurisprudêncial..md",
     "autodeterminação dos povos;.md",
@@ -249,7 +252,6 @@
     "DIREITO PROCESSUAL CIVIL/itens específicos/Normas fundamentais-/Conceito/Conceito.md",
     "DIREITO PROCESSUAL CIVIL/itens específicos/Normas fundamentais-/Natureza Jurídica/Natureza Jurídica.md",
     "DIREITO PROCESSUAL CIVIL/itens específicos/Jurisdição-/Princípios da Jurisdição/Princípios da Jurisdição.md",
-    "DIREITO PROCESSUAL CIVIL/itens específicos/Jurisdição-/Natureza Jurídica/Natureza Jurídica.md",
     "images/Sem título.canvas"
   ]
 }
