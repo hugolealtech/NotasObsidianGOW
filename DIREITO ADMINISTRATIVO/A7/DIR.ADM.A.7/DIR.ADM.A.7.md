@@ -49,9 +49,9 @@ caminho:
 
 ---
 
-**CONTROLE DA ADMINISTRAÇÃO**
+# **CONTROLE DA ADMINISTRAÇÃO**
 
-**1. Considerações Iniciais**
+#### **1. Considerações Iniciais**
 
 - Estado subordinado à ordem jurídica;
 
@@ -59,13 +59,13 @@ caminho:
 
 - Pode ser quanto a legalidade e quanto a própria conveniência (mérito)
 
-**2. Conceito**
+#### **2. Conceito**
 
-- Trata-se do “conjunto de mecanismos jurídicos e administrativos por meio dos quais se exerce o poder de fiscalização e de revisão da atividade administrativa em qualquer das esferas de Poder”. (José dos Santos Carvalho Filho)
+- Trata-se do “conjunto de ==mecanismos== jurídicos e administrativos por meio dos quais se exerce o poder de ==fiscalização e de revisão== da atividade **administrativa** em qualquer das esferas de Poder”. (José dos Santos Carvalho Filho)
 
-**3. Classificações**
+### **3. Classificações**
 
-3.1. Quanto ao Âmbito
+##### 3.1. Quanto ao Âmbito
 
 **a) Controle Hierárquico**
 
@@ -81,9 +81,12 @@ caminho:
 
 -Direta na indireta
 
+ ![InkWriting](<Ink/Writing/2026.9.8 - 13.56pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
+
+
 **Bloco 2**
 
-3.2. Quanto à Extensão
+##### 3.2. Quanto à Extensão
 
 **a) Controle Interno**
 
@@ -96,21 +99,19 @@ caminho:
   - Trata-se da regra, diante da independência entre os Poderes
 
 > [!attention] Atenção!
->   - obs. art. 74 da CF: Art. 74. Os Poderes Legislativo, Executivo e Judiciário manterão, de forma integrada, sistema de controle interno com a finalidade de:
+>   - obs. art. 74 da CF: Art. 74. 
+>   - Os Poderes Legislativo, Executivo e Judiciário manterão, de forma integrada, sistema de controle interno com a finalidade de:
+>   - I - avaliar o cumprimento das metas previstas no plano plurianual, a execução dos programas de governo e dos orçamentos da União;
+>   - II - comprovar a legalidade e avaliar os resultados, quanto à eficácia e eficiência, da gestão orçamentária, financeira e patrimonial nos órgãos e entidades da administração federal, bem como da aplicação de recursos públicos por entidades de direito privado;
+>   - III - exercer o controle das operações de crédito, avais e garantias, bem como dos direitos e haveres da União;
+>   - IV - apoiar o controle externo no exercício de sua missão institucional. 
+>   - § 1º Os responsáveis pelo controle interno, ao tomarem conhecimento de qualquer irregularidade ou ilegalidade, dela darão ciência ao Tribunal de Contas da União, sob pena de responsabilidade solidária. 
+>   - § 2º Qualquer cidadão, partido político, associação ou sindicato é parte legítima para, na forma da lei, denunciar irregularidades ou ilegalidades perante o Tribunal de Contas da União.
 
 ---
 *p. 2*
 
 ---
-
-I - avaliar o cumprimento das metas previstas no plano plurianual, a execução dos programas de governo e dos orçamentos da União;
-
-II - comprovar a legalidade e avaliar os resultados, quanto à eficácia e eficiência, da gestão orçamentária, financeira e patrimonial nos órgãos e entidades da administração federal, bem como da aplicação de recursos públicos por entidades de direito privado;
-
-III - exercer o controle das operações de crédito, avais e garantias, bem como dos direitos e haveres da União;
-
-IV - apoiar o controle externo no exercício de sua missão institucional. § 1º Os responsáveis pelo controle interno, ao tomarem conhecimento de qualquer irregularidade ou ilegalidade, dela darão ciência ao Tribunal de Contas da União, sob pena de responsabilidade solidária. § 2º Qualquer cidadão, partido político, associação ou sindicato é parte legítima para, na forma da lei, denunciar irregularidades ou ilegalidades perante o Tribunal de Contas da União.
-
 **b) Controle Externo**
 
 -Realizado entre Poderes diferentes (estende-se a outro poder do Estado)
@@ -140,7 +141,7 @@ IV - apoiar o controle externo no exercício de sua missão institucional. § 1�
 
 ![[DIR.ADM.A.7-img3-pg4.png]]
 
-3.3. Quanto à Natureza (aspecto controlado)
+##### 3.3. Quanto à Natureza (aspecto controlado)
 
 **a) Controle de Legalidade**
 
@@ -159,7 +160,7 @@ IV - apoiar o controle externo no exercício de sua missão institucional. § 1�
 > [!warning] Jurisprudência
 > - **Súmula 473** “A administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial.”
 
-3.4. Quanto à Iniciativa
+##### 3.4. Quanto à Iniciativa
 
 **a) Controle Provocado**
 
@@ -178,13 +179,13 @@ IV - apoiar o controle externo no exercício de sua missão institucional. § 1�
 
   - ex. deputado que instaura CPI
 
-3.5. Quanto ao Momento
+##### 3.5. Quanto ao Momento
 
 **a) Controle Prévio**
 
 -Antes da prática/formação do ato
 
--Controle preventivo; a priori
+-Controle preventivo; *a priori*
 
   - ex. MS preventivo para nomeação em concurso público antes de expirar a validade do certame; aprovação de viagem maior que 15 dias do Presidente da República pelo CN
 
@@ -200,11 +201,11 @@ IV - apoiar o controle externo no exercício de sua missão institucional. § 1�
 
 -Realizado após a prática/formação do ato
 
--Controle repressivo/corretivo; a posteriori; sucessivo
+-Controle repressivo/corretivo; *a posteriori*; sucessivo
 
   - ex. controle financeiro do TCU ou CN
 
-3.6. Quanto ao Órgão Controlador
+##### 3.6. Quanto ao Órgão Controlador
 
 **a) Controle Administrativo**
 
@@ -212,7 +213,11 @@ IV - apoiar o controle externo no exercício de sua missão institucional. § 1�
 
   - Não se confunde com controle da Administração (é gênero para essas três espécies)
 
-  - Autotutela
+  - Autotutela - Princípio implícito na CF onde a administração publica pode rever seus próprios atos independentemente de ser provocada pelo PJud. não precisa para que a administração entendendo ilegal anule o ato, entendendo inoportuno e inconveniente revogue aquele ato.
+	  - Ela deve rever seus próprios atos.
+	  - Fundamenta o controle admnistrativo (a adm rever seus proprios atos)
+	  - Princípio da Autotutela - Controle Administrativo, controlando seus próprios atos. Cuidado para não confundir com Tutela.
+	  - Princípio Tutela, é a administração direta controlando as entidades da indireta à elas vinculadas controle finalístico.
 
 > [!warning] Jurisprudência
 > - **Súmula 473** “A administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial.”
@@ -238,42 +243,63 @@ IV - apoiar o controle externo no exercício de sua missão institucional. § 1�
 
 **Bloco 3**
 
-**4. Controle Administrativo**
+#### **4. Controle Administrativo**
 
 > [!attention] Atenção!
 > - Obs. lembre-se que é fundamentado na autotutela: Administração revendo seus próprios atos
 
-4.1. Características e Enquadramento com as demais classificações
+##### 4.1. Características e Enquadramento com as demais classificações
 
-**a) Princípio da Autotutela** : poder-dever da Administração para rever seus próprios atos - S. 473 do STF
+**a) Princípio da <mark>Autotutela</mark>** : poder-dever da Administração para rever seus próprios atos - S. 473 do STF
+>[!tip] poder-dever. Deve constantemente rever seus atos. Anula atos nulos e revoga aqueles que não mais aderem ao interesse público. 
+>NÃO SE CONFUNDE COM TUTELA EM QUE A ADMINISTRAÇÃO PÚBLICA DIRETA CONTROLANDO A INDIRETA POR VINCULAÇÃO.	
+
 
 **b) Quanto ao âmbito: controle** hierárquico ou finalístico
+
+
+ ![InkWriting](<Ink/Writing/2026.9.10 - 16.24pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
+
 
 **c) Quanto a extensão**, será controle interno;
 
 **d) Quanto a natureza** pode ser controle de legalidade e de mérito;
 
-**e) Quanto ao momento** : pode ser prévio, concomitante ou posterior f **) Quanto a inciativa** : pode ser provocado e de ofício
+**e) Quanto ao momento** : pode ser prévio, concomitante ou posterior 
 
-4.2. Instrumentos de controle administrativo
+f **) Quanto a inciativa** : pode ser provocado e de ofício
+
+##### 4.2. Instrumentos de controle administrativo
 
   - Decorrem do direito de petição
 
 **a) Reclamação administrativa**    - o direito diz respeito àquele que solicita (obs. diferente da reclamação ao STF por violação de súmula –ação judicial)
 
+ ![InkWriting](<Ink/Writing/2026.9.10 - 16.56pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
+
+
 **b) Representação administrativa**    - o direito diz respeito à coletividade
+
+ ![InkWriting](<Ink/Writing/2026.9.10 - 16.53pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
+
 
 **c) Pedido de reconsideração**    - controlador e controlado se confundem
 
+ ![InkWriting](<Ink/Writing/2026.9.10 - 16.34pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
+
+
 **d) Recurso administrativo**    - controlador está acima do controlado
+
+ ![InkWriting](<Ink/Writing/2026.9.10 - 16.36pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
+
 
 **e) Revisão**    - sanção + fatos novos (art. 65 da Lei 9784/99) – não se admite a reforma em prejuízo
 
 4.3. Órgãos de controle interno a) CNJ b) CNMP c) Ouvidorias d) Controladorias e) Corregedorias
 
-**5. Controle Legislativo**
+#### **5. Controle Legislativo**
 
-5.1. Características e Enquadramento com as demais classificações
+##### 5.1. Características e Enquadramento com as demais classificações
 
   - Função típica: fiscalização
 
@@ -284,25 +310,27 @@ IV - apoiar o controle externo no exercício de sua missão institucional. § 1�
 
 ---
 
-  - Controle externo
+  - Quanto à Extensão: <mark>Controle externo</mark>
 
-  - Pode ser de legalidade (ex. CN sustando ato do PR) ou de mérito (ex. Senado aprovando nomeado para dirigente de autarquia)
+  - Quanto a natureza: Pode ser de legalidade (ex. CN sustando ato do PR) ou de mérito (ex. Senado aprovando nomeado para dirigente de autarquia)
 
-  - Pode ser provocado ou de ofício
+  - Quanto a iniciativa: Pode ser provocado ou de ofício
 
-  - Pode ser prévio, concomitante ou posterior
+  - Quanto ao momento: Pode ser prévio, concomitante ou posterior
 
-5.2. Espécies
+##### 5.2. Espécies
 
-  - Controle Parlamentar direto
+  
 
--Controle político
+##### 5.2.1 Controle político
+
+ Controle Parlamentar direto
 
 > [!quote] 
 > LEI
 > -Art. 48 e 49; 51, 52; 58, §3º; todos da CF/88
 
-  - Controle Financeiro
+##### 5.2.2 Controle Financeiro
 
 -Controle com auxílio do TC
 
@@ -311,35 +339,44 @@ IV - apoiar o controle externo no exercício de sua missão institucional. § 1�
 > [!warning] Jurisprudência
 > -Súmula Vinculante 3
 
-**6. Controle Judicial**
+#### **6. Controle Judicial**
 
 6.1. Características e Enquadramento com as demais classificações
 
-  - Decorre da inafastabilidade da jurisdição e da jurisdição una
+  - Decorre da inafastabilidade da jurisdição e da jurisdição una 
+  - 
+  - ***No Brasil a administração não faz coisa julgada. Por isso jurisdição Una, também chamado de sistema inglês***
 
   - Administração Pública não exerce função jurisdicional
 
-  - Não há classificação quanto ao âmbito
+  - Quanto ao âmbito: Não há classificação quanto ao âmbito
 
-  - Controle externo
+  - Quanto ao controle Controle externo
 
-  - **Sempre** será de legalidade (não há controle de mérito)
+  - Quanto a natureza: **Sempre** será de legalidade (não há controle de mérito).
+  
+ ![InkWriting](<Ink/Writing/2026.9.10 - 17.13pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
 
-  - **Sempre** será provocado (não há controle de ofício)
 
-  - Pode ser prévio, concomitante e posterior
+  Quanto a iniciativa: Sempre** será provocado (não há controle de ofício)
 
-6.2. Instrumentos de controle judicial
+ Quanto ao momento: Pode ser prévio, concomitante e posterior
 
-A) Mandado de segurança
+##### 6.2. Instrumentos de controle judicial
+
+A) Mandado de segurança (lei do mandado de segurança)
 
 B) Mandado de injunção
 
 C) Ação popular
 
-D) Habeas corpus E)Habeas data
+D) Habeas corpus 
+
+E)Habeas data
 
 F) Ações ordinárias
+
+G) Ação civil Pública (ler lei de ação civil pública) que também é controle judicial.
 
 ---
 *p. 7*
@@ -348,15 +385,15 @@ F) Ações ordinárias
 
 **Bloco 4**
 
-**INTERVENÇÃO NA PROPRIEDADE PRIVADA**
+#### **INTERVENÇÃO DO ESTADO NA PROPRIEDADE PRIVADA**
 
 > [!attention] Atenção!
-> **obs** . Fundamentado no poder de polícia e na supremacia do interesse público sobre o privado
+> **obs** . Fundamentado no poder de polícia e na ==supremacia do interesse público sobre o privado==
 
 > [!attention] Atenção!
 > **obs.2** Intervenção administrativa é tarefa precípua da Administração
 
-**1. Intervenções Restritivas**
+#### **1. Intervenções Restritivas**
 
 - Proprietário continua com sua propriedade, mas sofre algumas restrições sobre ela
 
@@ -364,25 +401,25 @@ F) Ações ordinárias
 > LEI
 > - **Art. 5º, XXV, CF**  - “no caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano;”
 
-1.1. Servidão Administrativa
+##### 1.1. Servidão Administrativa
 
-  - Recairá sempre sobre _imóveis_ determinados e deverá ser registrada em cartório para que produza efeito erga omnes. Trata-se da utilização de um bem imóvel de um particular para a _prestação de um determinado serviço_ _público_ (exemplo: utilização do subsolo de uma fazenda para instalação de tubos para circulação de gás). A servidão tem _caráter perpétuo_ (prazo indeterminado) e atinge o _caráter exclusivo_ da propriedade (já que o proprietário irá dividir a utilização do bem com o Estado).
+  - <mark>Recairá sempre sobre imóveis DETERMINADOS e deverá ser registrada em cartório para que produza efeito erga omnes</mark>. Trata-se da utilização de um bem imóvel de um particular para a _prestação de um determinado serviço_ _público_ (exemplo: utilização do subsolo de uma fazenda para instalação de tubos para circulação de gás). A servidão tem ==_caráter perpétuo_ (prazo indeterminado) e atinge o _caráter exclusivo_ da propriedade (já que o proprietário irá dividir a utilização do bem com o Estado)==.
 
   - ex. colocação de placa com nome da rua em muro de casa
 
-1.2. Limitação Administrativa
+##### 1.2. Limitação Administrativa
 
-  - Ao contrário da servidão, que atinge o caráter exclusivo da propriedade, a limitação atinge o _caráter absoluto_ . É dizer, o particular não terá que dividir sua propriedade com ninguém, mas não poderá fazer com ela aquilo que bem entender. Ademais, enquanto a servidão é dirigida a bens determinados, a limitação é dirigida a _bens_ _indeterminados_ (exemplo: uma lei municipal proibindo a construção de prédios acima de 4 andares que estejam situados na orla do município).
+  - Ao contrário da servidão, que atinge o caráter exclusivo da propriedade, ==a limitação atinge o _caráter absoluto_== . É dizer, o particular não terá que dividir sua propriedade com ninguém, mas não poderá fazer com ela aquilo que bem entender. Ademais, enquanto a servidão é dirigida a bens determinados, a limitação é dirigida a _bens_ <mark>indeterminados</mark> (exemplo: uma lei municipal proibindo a construção de prédios acima de 4 andares que estejam situados na orla do município).
 
-1.3. Requisição Administrativa
+##### 1.3. Requisição Administrativa
 
   - Ocorre quando o Poder Público utiliza bem móvel, imóvel ou até mesmo um serviço para conter _iminente perigo_ _público_ . É o caso, por exemplo, quando um policial requisita a moto de um entregador para perseguir um assaltante, ou ainda, quando um bombeiro requisita o apartamento de alguém para verificar o estado em que o incêndio se encontra. Há uma situação de iminente perigo público a ser contida. Ademais, apenas haverá _indenização ulterior_ ao proprietário **se houver dano.**
 
 > [!quote] 
 > LEI
->   - **Art. 5º, XXV, CF**    - no caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano;
+>   - **Art. 5º, XXV, CF**    - no caso de ==iminente perigo público==, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ==ulterior==, se **houver dano;**
 
-1.4. Ocupação Temporária
+##### 1.4. Ocupação Temporária
 
 ---
 *p. 8*
@@ -391,56 +428,62 @@ F) Ações ordinárias
 
   - Muito se assemelha com a requisição administrativa, com a ressalva de que aqui _não_ há qualquer _iminente perigo_ _público_ . É o que ocorre, por exemplo, quando o Estado utiliza temporariamente bens vizinhos às obras públicas para alocar seu maquinário ou, ainda, quando o Estado solicita escolas particulares para realizar as eleições.
 
-1.5. Tombamento
+##### 1.5. Tombamento
 
   - Trata-se de intervenção que busca preservar o _patrimônio histórico, artístico e cultural_ . Para parte da doutrina, pode incidir não apenas em bens materiais (móveis ou imóveis), como também em _bens imateriais_ (a prática da capoeira, por exemplo, é bem imaterial tombado). Tem disciplinamento no Decreto-Lei 20/37.
 
-**2. Intervenção Supressiva**
+#### **2. Intervenção Supressiva**
 
 - Há **perda** da propriedade
 
-2.1. Desapropriações Comuns
+##### 2.1. Desapropriações Comuns (necessidade ou utilidade pública não há intuito de punir o administrado)
 
 > [!quote] 
 > LEI
 >   - **Art. 5º, XXIV, CF**    - “a lei estabelecerá o procedimento para desapropriação por necessidade ou utilidade pública, ou por interesse social, mediante justa e prévia indenização em dinheiro, ressalvados os casos previstos nesta Constituição; “
 
-  - **Motivo (** necessidade ou utilidade pública) **+ indenização** (justa, prévia e em dinheiro)
+>[!Atenção!] 
+>Os casos ressalvados e previstos na Constituição tratam-se da desapropriação Especial, quando o administrado não receberá indenização em razão de não cumprimento do interesse social da propriedade, confome [[2.2. Desapropriações Especiais (fim de punir)]] .
+
+  - **Motivo (** necessidade ou utilidade pública) **+ indenização** (justa, <mark>prévia</mark> e em dinheiro)
 
 **A) DECRETO 3.365/41** (desapropriações por utilidade pública)
 
   - Fase declaratória (decreto ou lei) e
 
+
+ ![InkWriting](<Ink/Writing/2026.9.10 - 18.12pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
+
+
   - Fase executória (administrativa ou judicial)
 
--A desapropriação por utilidade pública regular-se-á por esta lei, em todo o território nacional
+- A desapropriação por utilidade pública regular-se-á por esta lei, em todo o território nacional
 
--Os bens do domínio dos Estados, Municípios, Distrito Federal e Territórios poderão ser desapropriados pela União, e os dos Municípios pelos Estados, mas, em qualquer caso, ao ato deverá preceder autorização legislativa.
+- Os bens do domínio dos Estados, Municípios, Distrito Federal e Territórios poderão ser desapropriados pela União, e os dos Municípios pelos Estados, mas, em qualquer caso, ao ato deverá preceder autorização legislativa.
 
--Os concessionários de serviços públicos e os estabelecimentos de caráter público ou que exerçam funções delegadas de poder público poderão promover desapropriações mediante autorização expressa, constante de lei ou contrato.
+- Os concessionários de serviços públicos e os estabelecimentos de caráter público ou que exerçam funções delegadas de poder público poderão promover desapropriações mediante autorização expressa, constante de lei ou contrato.
 
--A desapropriação poderá abranger a área contígua necessária ao desenvolvimento da obra a que se destina, e as zonas que se valorizarem extraordinariamente, em consequência da realização do serviço. Em qualquer caso, a declaração de utilidade pública deverá compreendê-las, mencionando-se quais as indispensáveis à continuação da obra e as que se destinam à revenda. **(desapropriação por zona)**
+- A desapropriação poderá abranger a área contígua necessária ao desenvolvimento da obra a que se destina, e as zonas que se valorizarem extraordinariamente, em consequência da realização do serviço. Em qualquer caso, a declaração de utilidade pública deverá compreendê-las, mencionando-se quais as indispensáveis à continuação da obra e as que se destinam à revenda. **(desapropriação por zona)**
 
--A declaração de utilidade pública far-se-á por decreto do Presidente da República, Governador, Interventor ou Prefeito.
+- A declaração de utilidade pública far-se-á por decreto do Presidente da República, Governador, Interventor ou Prefeito.
 
--Declarada a utilidade pública, ficam as autoridades administrativas autorizadas a penetrar nos prédios compreendidos na declaração, podendo recorrer, em caso de oposição, ao auxílio de força policial. **(força**
-
-**expropriatória do Estado)**
+- Declarada a utilidade pública, ficam as autoridades administrativas autorizadas a penetrar nos prédios compreendidos na declaração, podendo recorrer, em caso de oposição, ao auxílio de força policial. **(força** expropriatória do Estado)**
 
 ---
 *p. 9*
 
 ---
 
--O Poder Legislativo poderá tomar a iniciativa da desapropriação, cumprindo, neste caso, ao Executivo, praticar os atos necessários à sua efetivação.
+- O Poder Legislativo poderá tomar a iniciativa da desapropriação, cumprindo, neste caso, ao Executivo, praticar os atos necessários à sua efetivação.
 
--Ao Poder Judiciário é vedado, no processo de desapropriação, decidir se se verificam ou não os casos de utilidade pública.
+- Ao Poder Judiciário é vedado, no processo de desapropriação, decidir se se verificam ou não os casos de utilidade pública.
 
--A desapropriação deverá efetivar-se mediante acordo ou intentar-se judicialmente, dentro de cinco anos, contados da data da expedição do respectivo decreto e findos os quais este caducará. Neste caso, somente decorrido um ano, poderá ser o mesmo bem objeto de nova declaração.
+- A desapropriação deverá efetivar-se mediante acordo ou intentar-se judicialmente, dentro de cinco anos, contados da data da expedição do respectivo decreto e findos os quais este caducará. Neste caso, somente decorrido um ano, poderá ser o mesmo bem objeto de nova declaração.
 
 **B) LEI 4.132/62** (desapropriações por interesse social)
 
-2.2. Desapropriações Especiais
+#### [[2.2. Desapropriações Especiais (fim de punir)]],
+
 
 **A) Desapropriação Urbana - art. 182**
 
@@ -451,6 +494,8 @@ F) Ações ordinárias
 2) imposto sobre a propriedade predial e territorial urbana progressivo no tempo;
 
 3) desapropriação com pagamento mediante títulos da dívida pública de emissão previamente aprovada pelo Senado Federal, com prazo de resgate de até dez anos, em parcelas anuais, iguais e sucessivas, assegurados o valor real da indenização e os juros legais.
+>[!Atenção]
+>Aqui trata-se de uma gradativa punição, incorrendo desde o aumento do IPTU até a desapropriação de fato, onde o administrado poderá até ser indenizado, porém, não receberá em dinheiro e sim em ==títulos da dívida pública==
 
 **B) Desapropriação Rural - art. 184**
 
@@ -460,7 +505,10 @@ F) Ações ordinárias
 
 **C) Desapropriação Confiscatória - art. 243**
 
--As propriedades rurais e urbanas de qualquer região do País onde forem localizadas culturas ilegais de plantas psicotrópicas ou a exploração de trabalho escravo na forma da lei serão expropriadas e destinadas à reforma agrária e a programas de habitação popular, sem qualquer indenização ao proprietário e sem prejuízo de outras sanções previstas em lei, observado, no que couber, o disposto no art. 5º.
+>[!success] OS MACONHEIROS E ESCRAVAGISTAS SE LASCAM...
+>As propriedades rurais e urbanas de qualquer região do País onde forem localizadas ==culturas ilegais de plantas psicotrópicas ou a exploração de trabalho escravo na forma da lei serão expropriadas== e destinadas à reforma agrária e a programas de habitação popular, sem qualquer indenização ao proprietário e sem prejuízo de outras sanções previstas em lei, observado, no que couber, o disposto no art. 5º.
+
+
 
 -Todo e qualquer bem de valor econômico apreendido em decorrência do tráfico ilícito de entorpecentes e drogas afins e da exploração de trabalho escravo será confiscado e reverterá a fundo especial com destinação específica, na forma da lei.
 
@@ -473,32 +521,39 @@ F) Ações ordinárias
 
 **1. Conceito**
 
-**BENS PÚBLICOS**
+#### **BENS PÚBLICOS**
 
-- São públicos os bens do domínio nacional pertencentes às pessoas jurídicas de direito público interno; todos os outros são particulares, seja qual for a pessoa a que pertencerem. (art. 98, CC/02)
+>[!Conceito de Bens Públicos] 
+>São públicos os bens do domínio nacional pertencentes às pessoas jurídicas de direito público interno; todos os outros são particulares, seja qual for a pessoa a que pertencerem. (art. 98, CC/02)
+
+ ![InkWriting](<Ink/Writing/2026.9.10 - 18.28pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
 
 - Critério da titularidade (não importa a destinação)
 
 - União, estado, municípios, DF, autarquias, fundação pública de direito público
 
-**2. Classificação quanto à Utilidade**
+#### **2. Classificação quanto à Utilidade**
 
 ![[DIR.ADM.A.7-img4-pg11.png]]
 
 ![[DIR.ADM.A.7-img5-pg11.png]]
 
-**3. Afetação X Desafetação**
+>[!attention] Atenção:
+>Podem ser alinenados, desde que respeitem o art. 76 da Lei 14.133/2021 [^1]
+#### **3. Afetação X Desafetação**
 
 ![[DIR.ADM.A.7-img6-pg11.png]]
 
 ![[DIR.ADM.A.7-img7-pg11.png]]
+![[Pasted image 20260910185507.png]]
 
+[[pencil.adm7.1.pencil]]
 ---
 *p. 11*
 
 ---
 
-**4. Regime Jurídico – Garantias**
+#### **4. Regime Jurídico – Garantias**
 
 ![[DIR.ADM.A.7-img8-pg12.png]]
 
@@ -506,3 +561,83 @@ F) Ações ordinárias
 
 > [!attention] Atenção!
 > **- obs.** um bem particular, pertencente a uma EP ou SEM prestadora de serviços público, estando afeto a finalidade pública, pode ter essas mesmas garantias. Ou seja, é possível, excepcionalmente estender as garantias dos bens públicos aos bens particulares de EP ou SEM prestadora de serviço público desde que afetos a essa prestação. Note que não se tornam bens públicos (critério da titularidade), apenas ganham as garantias
+
+[^1]: CAPÍTULO IX
+	
+	DAS ALIENAÇÕES
+	
+	Art. 76. A alienação de bens da Administração Pública, subordinada à existência de interesse público devidamente justificado, será precedida de avaliação e obedecerá às seguintes normas:
+	
+	I - tratando-se de bens imóveis, inclusive os pertencentes às autarquias e às fundações, exigirá autorização legislativa e dependerá de licitação na modalidade leilão, dispensada a realização de licitação nos casos de:
+	
+	a) dação em pagamento;
+	
+	b) doação, permitida exclusivamente para outro órgão ou entidade da Administração Pública, de qualquer esfera de governo, ressalvado o disposto nas alíneas “f”, “g” e “h” deste inciso;
+	
+	c) permuta por outros imóveis que atendam aos requisitos relacionados às finalidades precípuas da Administração, desde que a diferença apurada não ultrapasse a metade do valor do imóvel que será ofertado pela União, segundo avaliação prévia, e ocorra a torna de valores, sempre que for o caso;
+	
+	d) investidura;
+	
+	e) venda a outro órgão ou entidade da Administração Pública de qualquer esfera de governo;
+	
+	f) alienação gratuita ou onerosa, aforamento, concessão de direito real de uso, locação e permissão de uso de bens imóveis residenciais construídos, destinados ou efetivamente usados em programas de habitação ou de regularização fundiária de interesse social desenvolvidos por órgão ou entidade da Administração Pública;
+	
+	g) alienação gratuita ou onerosa, aforamento, concessão de direito real de uso, locação e permissão de uso de bens imóveis comerciais de âmbito local, com área de até 250 m² (duzentos e cinquenta metros quadrados) e destinados a programas de regularização fundiária de interesse social desenvolvidos por órgão ou entidade da Administração Pública;
+	
+	h) alienação e concessão de direito real de uso, gratuita ou onerosa, de terras públicas rurais da União e do Instituto Nacional de Colonização e Reforma Agrária (Incra) onde incidam ocupações até o limite de que trata o [§ 1º do art. 6º da Lei nº 11.952, de 25 de junho de 2009](https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L11952.htm#art6%C2%A71..), para fins de regularização fundiária, atendidos os requisitos legais;
+	
+	i) legitimação de posse de que trata o [art. 29 da Lei nº 6.383, de 7 de dezembro de 1976](https://www.planalto.gov.br/ccivil_03/LEIS/L6383.htm#art29), mediante iniciativa e deliberação dos órgãos da Administração Pública competentes;
+	
+	j) legitimação fundiária e legitimação de posse de que trata a [Lei nº 13.465, de 11 de julho de 2017;](https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Lei/L13465.htm)
+	
+	II - tratando-se de bens móveis, dependerá de licitação na modalidade leilão, dispensada a realização de licitação nos casos de:
+	
+	a) doação, permitida exclusivamente para fins e uso de interesse social, após avaliação de oportunidade e conveniência socioeconômica em relação à escolha de outra forma de alienação;
+	
+	b) permuta, permitida exclusivamente entre órgãos ou entidades da Administração Pública;
+	
+	c) venda de ações, que poderão ser negociadas em bolsa, observada a legislação específica;
+	
+	d) venda de títulos, observada a legislação pertinente;
+	
+	e) venda de bens produzidos ou comercializados por entidades da Administração Pública, em virtude de suas finalidades;
+	
+	f) venda de materiais e equipamentos sem utilização previsível por quem deles dispõe para outros órgãos ou entidades da Administração Pública.
+	
+	§ 1º A alienação de bens imóveis da Administração Pública cuja aquisição tenha sido derivada de procedimentos judiciais ou de dação em pagamento dispensará autorização legislativa e exigirá apenas avaliação prévia e licitação na modalidade leilão.
+	
+	§ 2º Os imóveis doados com base na alínea “b” do inciso I do **caput** deste artigo, cessadas as razões que justificaram sua doação, serão revertidos ao patrimônio da pessoa jurídica doadora, vedada sua alienação pelo beneficiário.
+	
+	§ 3º A Administração poderá conceder título de propriedade ou de direito real de uso de imóvel, admitida a dispensa de licitação, quando o uso destinar-se a:
+	
+	I - outro órgão ou entidade da Administração Pública, qualquer que seja a localização do imóvel;
+	
+	II - pessoa natural que, nos termos de lei, regulamento ou ato normativo do órgão competente, haja implementado os requisitos mínimos de cultura, de ocupação mansa e pacífica e de exploração direta sobre área rural, observado o limite de que trata o [§ 1º do art. 6º da Lei nº 11.952, de 25 de junho de 2009.](https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L11952.htm#art6%C2%A71..)
+	
+	§ 4º A aplicação do disposto no inciso II do § 3º deste artigo será dispensada de autorização legislativa e submeter-se-á aos seguintes condicionamentos:
+	
+	I - aplicação exclusiva às áreas em que a detenção por particular seja comprovadamente anterior a 1º de dezembro de 2004;
+	
+	II - submissão aos demais requisitos e impedimentos do regime legal e administrativo de destinação e de regularização fundiária de terras públicas;
+	
+	III - vedação de concessão para exploração não contemplada na lei agrária, nas leis de destinação de terras públicas ou nas normas legais ou administrativas de zoneamento ecológico-econômico;
+	
+	IV - previsão de extinção automática da concessão, dispensada notificação, em caso de declaração de utilidade pública, de necessidade pública ou de interesse social;
+	
+	V - aplicação exclusiva a imóvel situado em zona rural e não sujeito a vedação, impedimento ou inconveniente à exploração mediante atividade agropecuária;
+	
+	VI - limitação a áreas de que trata o [§ 1º do art. 6º da Lei nº 11.952, de 25 de junho de 2009](https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L11952.htm#art6%C2%A71..), vedada a dispensa de licitação para áreas superiores;
+	
+	VII - acúmulo com o quantitativo de área decorrente do caso previsto na alínea “i” do inciso I do **caput**deste artigo até o limite previsto no inciso VI deste parágrafo.
+	
+	§ 5º Entende-se por investidura, para os fins desta Lei, a:
+	
+	I - alienação, ao proprietário de imóvel lindeiro, de área remanescente ou resultante de obra pública que se tornar inaproveitável isoladamente, por preço que não seja inferior ao da avaliação nem superior a 50% (cinquenta por cento) do valor máximo permitido para dispensa de licitação de bens e serviços previsto nesta Lei;
+	
+	II - alienação, ao legítimo possuidor direto ou, na falta dele, ao poder público, de imóvel para fins residenciais construído em núcleo urbano anexo a usina hidrelétrica, desde que considerado dispensável na fase de operação da usina e que não integre a categoria de bens reversíveis ao final da concessão.
+	
+	§ 6º A doação com encargo será licitada e de seu instrumento constarão, obrigatoriamente, os encargos, o prazo de seu cumprimento e a cláusula de reversão, sob pena de nulidade do ato, dispensada a licitação em caso de interesse público devidamente justificado.
+	
+	§ 7º Na hipótese do § 6º deste artigo, caso o donatário necessite oferecer o imóvel em garantia de financiamento, a cláusula de reversão e as demais obrigações serão garantidas por hipoteca em segundo grau em favor do doador.
+	
+	Art. 77. Para a venda de bens imóveis, será concedido direito de preferência ao licitante que, submetendo-se a todas as regras do edital, comprove a ocupação do imóvel objeto da licitação.
