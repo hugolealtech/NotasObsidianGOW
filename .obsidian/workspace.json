@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "DIR.ADM.A.7"
             }
+          },
+          {
+            "id": "828dfbbb03f5a7ad",
+            "type": "leaf",
+            "state": {
+              "type": "pencil-whiteboard",
+              "state": {
+                "file": "DIREITO ADMINISTRATIVO/A7/DIR.ADM.A.7/pencil.adm7.1.pencil"
+              },
+              "icon": "pencil-pencil",
+              "title": "pencil.adm7.1"
+            }
           }
         ]
       }
@@ -55,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Bolsonaro",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +91,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.7215576171875,
-    "collapsed": true
+    "width": 447.7215576171875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,24 +216,25 @@
   },
   "active": "2e465c9fd992a5f6",
   "lastOpenFiles": [
+    "DIREITO ADMINISTRATIVO/A7/DIR.ADM.A.7/pencil.adm7.1.pencil",
+    "DIREITO ADMINISTRATIVO/A7/DIR.ADM.A.7/DIR.ADM.A.7.md",
+    "Pasted image 20260910185507.png",
+    "VADE MECUM/Lei.md",
+    "Ink/Writing/2026.9.10 - 18.28pm.svg",
+    "Ink/Writing/2026.9.10 - 18.12pm.svg",
     "Ink/Writing/2026.9.10 - 17.13pm.svg",
     "Ink/Writing/2026.9.10 - 16.56pm.svg",
     "Ink/Writing/2026.9.10 - 16.53pm.svg",
     "Ink/Writing/2026.9.10 - 16.36pm.svg",
     "Ink/Writing/2026.9.10 - 16.34pm.svg",
     "Ink/Writing/2026.9.10 - 16.24pm.svg",
-    "DIREITO ADMINISTRATIVO/A7/DIR.ADM.A.7/DIR.ADM.A.7.md",
     "Ink/Writing/2026.9.8 - 13.56pm.svg",
     "DIREITO ADMINISTRATIVO/A4/DIR.ADM.A.4/DIR.ADM.A.4.md",
     "reversão jurisprudêncial..md",
     "autodeterminação dos povos;.md",
     "VADE MECUM/Vade_mecum_Senado_Federal_3ed-2.md",
-    "Ink/Writing/2026.9.5 - 11.56am.svg",
     "DIREITO CONSTITUCIONAL/AULA 9/DIR.CONST.A.9/DIR.CONST.A.9.md",
-    "Ink/Writing/2026.9.4 - 14.15pm.svg",
-    "Ink/Writing/2026.9.4 - 13.50pm.svg",
     "DIREITO CONSTITUCIONAL/AULA 9/DIR.CONST.A.9/DIR.CONST.A.9.NOT.2.pencil",
-    "Ink/Writing/2026.9.4 - 10.14am.svg",
     "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8.pdf",
     "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/DIR.CONST.A.8.md",
     "NotasObsidianGOW",
@@ -236,7 +247,6 @@
     "DIREITO PROCESSUAL CIVIL/A14",
     "DIREITO PROCESSUAL CIVIL/A13/DIR.PROC.CIVIL.A.13/images",
     "DIREITO PROCESSUAL CIVIL/A13/DIR.PROC.CIVIL.A.13/DIR.PROC.CIVIL.A.13.md",
-    "DIREITO PROCESSUAL CIVIL/A13/DIR.PROC.CIVIL.A.13.pdf",
     "DIREITO PROCESSUAL CIVIL/A12/DIR.PROC.CIVIL.A.12/DIR.PROC.CIVIL.A.12.md",
     "DIREITO PROCESSUAL CIVIL/A11/DIR.PROC.CIVIL.A.11/DIR.PROC.CIVIL.A.11.md",
     "DIREITO PROCESSUAL CIVIL/A10/DIR.PROC.CIVIL.A.10/DIR.PROC.CIVIL.A.10.md",
@@ -251,7 +261,6 @@
     "DIREITO PROCESSUAL CIVIL/itens específicos/Sistema Processual Cooperativo construído por Normas Fundamentais/Sistema Processual Cooperativo construído por Normas Fundamentais.md",
     "DIREITO PROCESSUAL CIVIL/itens específicos/Princípios da Jurisdição/Princípios da Jurisdição.md",
     "DIREITO PROCESSUAL CIVIL/itens específicos/Normas fundamentais-/Conceito/Conceito.md",
-    "DIREITO PROCESSUAL CIVIL/itens específicos/Normas fundamentais-/Natureza Jurídica/Natureza Jurídica.md",
     "images/Sem título.canvas"
   ]
 }
