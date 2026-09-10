@@ -185,7 +185,7 @@ caminho:
 
 -Antes da prática/formação do ato
 
--Controle preventivo; a priori
+-Controle preventivo; *a priori*
 
   - ex. MS preventivo para nomeação em concurso público antes de expirar a validade do certame; aprovação de viagem maior que 15 dias do Presidente da República pelo CN
 
@@ -201,11 +201,11 @@ caminho:
 
 -Realizado após a prática/formação do ato
 
--Controle repressivo/corretivo; a posteriori; sucessivo
+-Controle repressivo/corretivo; *a posteriori*; sucessivo
 
   - ex. controle financeiro do TCU ou CN
 
-3.6. Quanto ao Órgão Controlador
+##### 3.6. Quanto ao Órgão Controlador
 
 **a) Controle Administrativo**
 
@@ -213,7 +213,11 @@ caminho:
 
   - Não se confunde com controle da Administração (é gênero para essas três espécies)
 
-  - Autotutela
+  - Autotutela - Princípio implícito na CF onde a administração publica pode rever seus próprios atos independentemente de ser provocada pelo PJud. não precisa para que a administração entendendo ilegal anule o ato, entendendo inoportuno e inconveniente revogue aquele ato.
+	  - Ela deve rever seus próprios atos.
+	  - Fundamenta o controle admnistrativo (a adm rever seus proprios atos)
+	  - Princípio da Autotutela - Controle Administrativo, controlando seus próprios atos. Cuidado para não confundir com Tutela.
+	  - Princípio Tutela, é a administração direta controlando as entidades da indireta à elas vinculadas controle finalístico.
 
 > [!warning] Jurisprudência
 > - **Súmula 473** “A administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial.”
@@ -239,12 +243,12 @@ caminho:
 
 **Bloco 3**
 
-**4. Controle Administrativo**
+#### **4. Controle Administrativo**
 
 > [!attention] Atenção!
 > - Obs. lembre-se que é fundamentado na autotutela: Administração revendo seus próprios atos
 
-4.1. Características e Enquadramento com as demais classificações
+##### 4.1. Características e Enquadramento com as demais classificações
 
 **a) Princípio da Autotutela** : poder-dever da Administração para rever seus próprios atos - S. 473 do STF
 
@@ -254,9 +258,11 @@ caminho:
 
 **d) Quanto a natureza** pode ser controle de legalidade e de mérito;
 
-**e) Quanto ao momento** : pode ser prévio, concomitante ou posterior f **) Quanto a inciativa** : pode ser provocado e de ofício
+**e) Quanto ao momento** : pode ser prévio, concomitante ou posterior 
 
-4.2. Instrumentos de controle administrativo
+f **) Quanto a inciativa** : pode ser provocado e de ofício
+
+##### 4.2. Instrumentos de controle administrativo
 
   - Decorrem do direito de petição
 
@@ -272,9 +278,9 @@ caminho:
 
 4.3. Órgãos de controle interno a) CNJ b) CNMP c) Ouvidorias d) Controladorias e) Corregedorias
 
-**5. Controle Legislativo**
+#### **5. Controle Legislativo**
 
-5.1. Características e Enquadramento com as demais classificações
+##### 5.1. Características e Enquadramento com as demais classificações
 
   - Função típica: fiscalização
 
@@ -293,7 +299,7 @@ caminho:
 
   - Pode ser prévio, concomitante ou posterior
 
-5.2. Espécies
+##### 5.2. Espécies
 
   - Controle Parlamentar direto
 
@@ -312,7 +318,7 @@ caminho:
 > [!warning] Jurisprudência
 > -Súmula Vinculante 3
 
-**6. Controle Judicial**
+#### **6. Controle Judicial**
 
 6.1. Características e Enquadramento com as demais classificações
 
@@ -330,7 +336,7 @@ caminho:
 
   - Pode ser prévio, concomitante e posterior
 
-6.2. Instrumentos de controle judicial
+##### 6.2. Instrumentos de controle judicial
 
 A) Mandado de segurança
 
@@ -349,7 +355,7 @@ F) Ações ordinárias
 
 **Bloco 4**
 
-**INTERVENÇÃO NA PROPRIEDADE PRIVADA**
+#### **INTERVENÇÃO NA PROPRIEDADE PRIVADA**
 
 > [!attention] Atenção!
 > **obs** . Fundamentado no poder de polícia e na supremacia do interesse público sobre o privado
@@ -357,7 +363,7 @@ F) Ações ordinárias
 > [!attention] Atenção!
 > **obs.2** Intervenção administrativa é tarefa precípua da Administração
 
-**1. Intervenções Restritivas**
+#### **1. Intervenções Restritivas**
 
 - Proprietário continua com sua propriedade, mas sofre algumas restrições sobre ela
 
@@ -365,17 +371,17 @@ F) Ações ordinárias
 > LEI
 > - **Art. 5º, XXV, CF**  - “no caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano;”
 
-1.1. Servidão Administrativa
+##### 1.1. Servidão Administrativa
 
   - <mark>Recairá sempre sobre imóveis determinados e deverá ser registrada em cartório para que produza efeito erga omnes</mark>. Trata-se da utilização de um bem imóvel de um particular para a _prestação de um determinado serviço_ _público_ (exemplo: utilização do subsolo de uma fazenda para instalação de tubos para circulação de gás). A servidão tem _caráter perpétuo_ (prazo indeterminado) e atinge o _caráter exclusivo_ da propriedade (já que o proprietário irá dividir a utilização do bem com o Estado).
 
   - ex. colocação de placa com nome da rua em muro de casa
 
-1.2. Limitação Administrativa
+##### 1.2. Limitação Administrativa
 
   - Ao contrário da servidão, que atinge o caráter exclusivo da propriedade, a limitação atinge o _caráter absoluto_ . É dizer, o particular não terá que dividir sua propriedade com ninguém, mas não poderá fazer com ela aquilo que bem entender. Ademais, enquanto a servidão é dirigida a bens determinados, a limitação é dirigida a _bens_ _indeterminados_ (exemplo: uma lei municipal proibindo a construção de prédios acima de 4 andares que estejam situados na orla do município).
 
-1.3. Requisição Administrativa
+##### 1.3. Requisição Administrativa
 
   - Ocorre quando o Poder Público utiliza bem móvel, imóvel ou até mesmo um serviço para conter _iminente perigo_ _público_ . É o caso, por exemplo, quando um policial requisita a moto de um entregador para perseguir um assaltante, ou ainda, quando um bombeiro requisita o apartamento de alguém para verificar o estado em que o incêndio se encontra. Há uma situação de iminente perigo público a ser contida. Ademais, apenas haverá _indenização ulterior_ ao proprietário **se houver dano.**
 
@@ -383,7 +389,7 @@ F) Ações ordinárias
 > LEI
 >   - **Art. 5º, XXV, CF**    - no caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano;
 
-1.4. Ocupação Temporária
+##### 1.4. Ocupação Temporária
 
 ---
 *p. 8*
@@ -392,15 +398,15 @@ F) Ações ordinárias
 
   - Muito se assemelha com a requisição administrativa, com a ressalva de que aqui _não_ há qualquer _iminente perigo_ _público_ . É o que ocorre, por exemplo, quando o Estado utiliza temporariamente bens vizinhos às obras públicas para alocar seu maquinário ou, ainda, quando o Estado solicita escolas particulares para realizar as eleições.
 
-1.5. Tombamento
+##### 1.5. Tombamento
 
   - Trata-se de intervenção que busca preservar o _patrimônio histórico, artístico e cultural_ . Para parte da doutrina, pode incidir não apenas em bens materiais (móveis ou imóveis), como também em _bens imateriais_ (a prática da capoeira, por exemplo, é bem imaterial tombado). Tem disciplinamento no Decreto-Lei 20/37.
 
-**2. Intervenção Supressiva**
+#### **2. Intervenção Supressiva**
 
 - Há **perda** da propriedade
 
-2.1. Desapropriações Comuns
+##### 2.1. Desapropriações Comuns
 
 > [!quote] 
 > LEI
@@ -474,7 +480,7 @@ F) Ações ordinárias
 
 **1. Conceito**
 
-**BENS PÚBLICOS**
+#### **BENS PÚBLICOS**
 
 - São públicos os bens do domínio nacional pertencentes às pessoas jurídicas de direito público interno; todos os outros são particulares, seja qual for a pessoa a que pertencerem. (art. 98, CC/02)
 
@@ -482,13 +488,13 @@ F) Ações ordinárias
 
 - União, estado, municípios, DF, autarquias, fundação pública de direito público
 
-**2. Classificação quanto à Utilidade**
+#### **2. Classificação quanto à Utilidade**
 
 ![[DIR.ADM.A.7-img4-pg11.png]]
 
 ![[DIR.ADM.A.7-img5-pg11.png]]
 
-**3. Afetação X Desafetação**
+#### **3. Afetação X Desafetação**
 
 ![[DIR.ADM.A.7-img6-pg11.png]]
 
@@ -499,7 +505,7 @@ F) Ações ordinárias
 
 ---
 
-**4. Regime Jurídico – Garantias**
+#### **4. Regime Jurídico – Garantias**
 
 ![[DIR.ADM.A.7-img8-pg12.png]]
 
