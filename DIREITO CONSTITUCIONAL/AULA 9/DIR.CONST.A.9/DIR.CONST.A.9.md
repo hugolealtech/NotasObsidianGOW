@@ -61,7 +61,8 @@ caminho:
 
 ![[DIR.CONST.A.9-img2-pg2.png]]
 
--Quando a decisão é prolatada pelo STF, no sentido da inconstitucionalidade do ato normativo, os efeitos poderão ser excepcionados de duas maneiras.
+>[!bug] Quando a decisão é prolatada pelo STF, no sentido da inconstitucionalidade do ato normativo, os efeitos poderão ser excepcionados de duas maneiras.
+
 
 **-1ª Exceção: Quanto a retroatividade**
 
@@ -138,7 +139,7 @@ O Senado Federal, por meio da edição de uma resolução, poderia suspender a e
 
 ---
 
-entendimento de que a utilização do amianto, tipo crisotila e outro, ofende postulados constitucionais e, por isso, não pode ser objeto de normas autorizativas. A ministra Cármen Lúcia, na mesma linha, afirmou que a Corte está caminhando para uma inovação da jurisprudência no sentido de não ser mais declarado inconstitucional cada ato normativo, mas a própria matéria que nele se contém. O ministro Edson Fachin concluiu que a declaração de inconstitucionalidade, ainda que incidental, opera uma preclusão consumativa da matéria. Isso evita que se caia numa dimensão semicircular progressiva e sem fim. E essa afirmação não incide em contradição no sentido de reconhecer a constitucionalidade da lei estadual que também é proibitiva, que significa, por uma simetria, que todas as legislações que são permissivas — dada a preclusão consumativa da matéria, reconhecida a inconstitucionalidade do art. 2º da lei federal — são também inconstitucionais.”
+entendimento de que a utilização do amianto, tipo crisotila e outro, ofende postulados constitucionais e, por isso, não pode ser objeto de normas autorizativas. A ministra Cármen Lúcia, na mesma linha, afirmou que a Corte está caminhando para uma inovação da jurisprudência no sentido de não ser mais declarado inconstitucional cada ato normativo, mas a própria matéria que nele se contém. O ministro Edson Fachin concluiu que a declaração de inconstitucionalidade, ainda que incidental, opera uma preclusão ==consumativa== da matéria. Isso evita que se caia numa dimensão semicircular progressiva e sem fim. E essa afirmação não incide em contradição no sentido de reconhecer a constitucionalidade da lei estadual que também é proibitiva, que significa, por uma simetria, que todas as legislações que são permissivas — dada a preclusão consumativa da matéria, reconhecida a inconstitucionalidade do art. 2º da lei federal — são também inconstitucionais.”
 
   Corroborando este entendimento, temos o julgamento do RE 949.297, de fevereiro de 2023, no qual a Corte confirmou a mutação do art. 52, X, da CF/1988, para as decisões proferidas em recurso extraordinário com repercussão geral. Nas palavras do relator, Min. Barroso: <mark>“Assim, aproveito para afirmar ser necessário que esta Corte reconheça que a declaração de inconstitucionalidade, em sede de recurso extraordinário com repercussão geral, possui os mesmos efeitos vinculantes e eficácia erga omnes atribuídos às ações de controle abstrato”. </mark>E disse mais: ==“Nesse contexto, é inconteste que as decisões proferidas em recursos extraordinários com repercussão geral e as proferidas em controle concentrado gradativamente têm adquirido os mesmos efeitos, seja pela atuação do próprio Poder Judiciário ou do Poder Legislativo. Trata-se do fenômeno da [[objetivação do controle difuso.]]”==
 
