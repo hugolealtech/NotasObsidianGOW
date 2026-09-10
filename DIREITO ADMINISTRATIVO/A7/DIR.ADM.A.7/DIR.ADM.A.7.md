@@ -250,9 +250,16 @@ caminho:
 
 ##### 4.1. Características e Enquadramento com as demais classificações
 
-**a) Princípio da Autotutela** : poder-dever da Administração para rever seus próprios atos - S. 473 do STF
+**a) Princípio da <mark>Autotutela</mark>** : poder-dever da Administração para rever seus próprios atos - S. 473 do STF
+>[!tip] poder-dever. Deve constantemente rever seus atos. Anula atos nulos e revoga aqueles que não mais aderem ao interesse público. 
+>NÃO SE CONFUNDE COM TUTELA EM QUE A ADMINISTRAÇÃO PÚBLICA DIRETA CONTROLANDO A INDIRETA POR VINCULAÇÃO.	
+
 
 **b) Quanto ao âmbito: controle** hierárquico ou finalístico
+
+
+ ![InkWriting](<Ink/Writing/2026.9.10 - 16.24pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
+
 
 **c) Quanto a extensão**, será controle interno;
 
@@ -268,11 +275,23 @@ f **) Quanto a inciativa** : pode ser provocado e de ofício
 
 **a) Reclamação administrativa**    - o direito diz respeito àquele que solicita (obs. diferente da reclamação ao STF por violação de súmula –ação judicial)
 
+ ![InkWriting](<Ink/Writing/2026.9.10 - 16.56pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
+
+
 **b) Representação administrativa**    - o direito diz respeito à coletividade
+
+ ![InkWriting](<Ink/Writing/2026.9.10 - 16.53pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
+
 
 **c) Pedido de reconsideração**    - controlador e controlado se confundem
 
+ ![InkWriting](<Ink/Writing/2026.9.10 - 16.34pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
+
+
 **d) Recurso administrativo**    - controlador está acima do controlado
+
+ ![InkWriting](<Ink/Writing/2026.9.10 - 16.36pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
+
 
 **e) Revisão**    - sanção + fatos novos (art. 65 da Lei 9784/99) – não se admite a reforma em prejuízo
 
@@ -291,25 +310,27 @@ f **) Quanto a inciativa** : pode ser provocado e de ofício
 
 ---
 
-  - Controle externo
+  - Quanto à Extensão: <mark>Controle externo</mark>
 
-  - Pode ser de legalidade (ex. CN sustando ato do PR) ou de mérito (ex. Senado aprovando nomeado para dirigente de autarquia)
+  - Quanto a natureza: Pode ser de legalidade (ex. CN sustando ato do PR) ou de mérito (ex. Senado aprovando nomeado para dirigente de autarquia)
 
-  - Pode ser provocado ou de ofício
+  - Quanto a iniciativa: Pode ser provocado ou de ofício
 
-  - Pode ser prévio, concomitante ou posterior
+  - Quanto ao momento: Pode ser prévio, concomitante ou posterior
 
 ##### 5.2. Espécies
 
-  - Controle Parlamentar direto
+  
 
--Controle político
+##### 5.2.1 Controle político
+
+ Controle Parlamentar direto
 
 > [!quote] 
 > LEI
 > -Art. 48 e 49; 51, 52; 58, §3º; todos da CF/88
 
-  - Controle Financeiro
+##### 5.2.2 Controle Financeiro
 
 -Controle com auxílio do TC
 
@@ -322,31 +343,40 @@ f **) Quanto a inciativa** : pode ser provocado e de ofício
 
 6.1. Características e Enquadramento com as demais classificações
 
-  - Decorre da inafastabilidade da jurisdição e da jurisdição una
+  - Decorre da inafastabilidade da jurisdição e da jurisdição una 
+  - 
+  - ***No Brasil a administração não faz coisa julgada. Por isso jurisdição Una, também chamado de sistema inglês***
 
   - Administração Pública não exerce função jurisdicional
 
-  - Não há classificação quanto ao âmbito
+  - Quanto ao âmbito: Não há classificação quanto ao âmbito
 
-  - Controle externo
+  - Quanto ao controle Controle externo
 
-  - **Sempre** será de legalidade (não há controle de mérito)
+  - Quanto a natureza: **Sempre** será de legalidade (não há controle de mérito).
+  
+ ![InkWriting](<Ink/Writing/2026.9.10 - 17.13pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
 
-  - **Sempre** será provocado (não há controle de ofício)
 
-  - Pode ser prévio, concomitante e posterior
+  Quanto a iniciativa: Sempre** será provocado (não há controle de ofício)
+
+ Quanto ao momento: Pode ser prévio, concomitante e posterior
 
 ##### 6.2. Instrumentos de controle judicial
 
-A) Mandado de segurança
+A) Mandado de segurança (lei do mandado de segurança)
 
 B) Mandado de injunção
 
 C) Ação popular
 
-D) Habeas corpus E)Habeas data
+D) Habeas corpus 
+
+E)Habeas data
 
 F) Ações ordinárias
+
+G) Ação civil Pública (ler lei de ação civil pública) que também é controle judicial.
 
 ---
 *p. 7*
@@ -355,10 +385,10 @@ F) Ações ordinárias
 
 **Bloco 4**
 
-#### **INTERVENÇÃO NA PROPRIEDADE PRIVADA**
+#### **INTERVENÇÃO DO ESTADO NA PROPRIEDADE PRIVADA**
 
 > [!attention] Atenção!
-> **obs** . Fundamentado no poder de polícia e na supremacia do interesse público sobre o privado
+> **obs** . Fundamentado no poder de polícia e na ==supremacia do interesse público sobre o privado==
 
 > [!attention] Atenção!
 > **obs.2** Intervenção administrativa é tarefa precípua da Administração
@@ -373,13 +403,13 @@ F) Ações ordinárias
 
 ##### 1.1. Servidão Administrativa
 
-  - <mark>Recairá sempre sobre imóveis determinados e deverá ser registrada em cartório para que produza efeito erga omnes</mark>. Trata-se da utilização de um bem imóvel de um particular para a _prestação de um determinado serviço_ _público_ (exemplo: utilização do subsolo de uma fazenda para instalação de tubos para circulação de gás). A servidão tem _caráter perpétuo_ (prazo indeterminado) e atinge o _caráter exclusivo_ da propriedade (já que o proprietário irá dividir a utilização do bem com o Estado).
+  - <mark>Recairá sempre sobre imóveis DETERMINADOS e deverá ser registrada em cartório para que produza efeito erga omnes</mark>. Trata-se da utilização de um bem imóvel de um particular para a _prestação de um determinado serviço_ _público_ (exemplo: utilização do subsolo de uma fazenda para instalação de tubos para circulação de gás). A servidão tem ==_caráter perpétuo_ (prazo indeterminado) e atinge o _caráter exclusivo_ da propriedade (já que o proprietário irá dividir a utilização do bem com o Estado)==.
 
   - ex. colocação de placa com nome da rua em muro de casa
 
 ##### 1.2. Limitação Administrativa
 
-  - Ao contrário da servidão, que atinge o caráter exclusivo da propriedade, a limitação atinge o _caráter absoluto_ . É dizer, o particular não terá que dividir sua propriedade com ninguém, mas não poderá fazer com ela aquilo que bem entender. Ademais, enquanto a servidão é dirigida a bens determinados, a limitação é dirigida a _bens_ _indeterminados_ (exemplo: uma lei municipal proibindo a construção de prédios acima de 4 andares que estejam situados na orla do município).
+  - Ao contrário da servidão, que atinge o caráter exclusivo da propriedade, ==a limitação atinge o _caráter absoluto_== . É dizer, o particular não terá que dividir sua propriedade com ninguém, mas não poderá fazer com ela aquilo que bem entender. Ademais, enquanto a servidão é dirigida a bens determinados, a limitação é dirigida a _bens_ <mark>indeterminados</mark> (exemplo: uma lei municipal proibindo a construção de prédios acima de 4 andares que estejam situados na orla do município).
 
 ##### 1.3. Requisição Administrativa
 
@@ -387,7 +417,7 @@ F) Ações ordinárias
 
 > [!quote] 
 > LEI
->   - **Art. 5º, XXV, CF**    - no caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano;
+>   - **Art. 5º, XXV, CF**    - no caso de ==iminente perigo público==, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ==ulterior==, se **houver dano;**
 
 ##### 1.4. Ocupação Temporária
 
