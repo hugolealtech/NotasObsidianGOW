@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIREITO ADMINISTRATIVO/A7/DIR.ADM.A.7/DIR.ADM.A.7.md",
+                "file": "00_inbox/analise-repeticao-dataprev-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DIR.ADM.A.7"
+              "title": "analise-repeticao-dataprev-2026"
+            }
+          },
+          {
+            "id": "3750b9ecf6c762db",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "00_inbox/Prova/Drawing 2026-09-14 16.21.18.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-09-14 16.21.18.excalidraw"
             }
           },
           {
@@ -33,7 +45,8 @@
               "title": "pencil.adm7.1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.68701171875
+    "width": 329.68701171875,
+    "collapsed": true
   },
   "right": {
     "id": "1f21ed8ca2632c5a",
@@ -214,14 +228,22 @@
       "pencil:New whiteboard": false
     }
   },
-  "active": "2e465c9fd992a5f6",
+  "active": "3750b9ecf6c762db",
   "lastOpenFiles": [
+    "00_inbox/analise-repeticao-dataprev-2026.md",
+    "00_inbox/Prova/Drawing 2026-09-14 16.21.18.excalidraw.md",
+    "00_inbox/Prova/gabarito.pdf",
+    "00_inbox/Prova/analista_de_tecnologia_da_informacao_advocacia.pdf",
+    "00_inbox/Prova",
+    "00_inbox/pasta sem título",
+    "DIREITO PENAL/AULA 3/Defesa do Reclamado II-/Conduta (elementos do fato típico) II/Conduta (elementos do fato típico) II.md",
+    "DIREITO ADMINISTRATIVO/A8/DIR.ADM.A.8/DIR.ADM.A.8.md",
+    "DIREITO ADMINISTRATIVO/A7/DIR.ADM.A.7/pencil.adm7.1.pencil",
     "DIREITO ADMINISTRATIVO/A7/DIR.ADM.A.7/DIR.ADM.A.7.md",
     "ENAM Direito Processual Civil.docx",
     "ENAM Direito Penal questões comentadas.docx",
     "ENAM Direito Civil questoes comentadas.docx",
     "ENAM Direito Administrativo 50 questões.docx",
-    "DIREITO ADMINISTRATIVO/A7/DIR.ADM.A.7/pencil.adm7.1.pencil",
     "Pasted image 20260910185507.png",
     "VADE MECUM/Lei.md",
     "Ink/Writing/2026.9.10 - 18.28pm.svg",
@@ -239,13 +261,9 @@
     "VADE MECUM/Vade_mecum_Senado_Federal_3ed-2.md",
     "DIREITO CONSTITUCIONAL/AULA 9/DIR.CONST.A.9/DIR.CONST.A.9.md",
     "DIREITO CONSTITUCIONAL/AULA 9/DIR.CONST.A.9/DIR.CONST.A.9.NOT.2.pencil",
-    "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8.pdf",
     "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/DIR.CONST.A.8.md",
-    "NotasObsidianGOW",
     "DIREITO CONSTITUCIONAL/AULA 2/05 - Excalidraw/Inertia Deliberandi.md",
-    "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/PENC.DIR.CONS.A.8.N.1.pencil",
     "DIREITO ADMINISTRATIVO/AULA 8/DIR.ADM.A.8/DIR.ADM.A.8.md",
-    "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/images",
     "DIREITO PROCESSUAL CIVIL/A13/DIR.PROC.CIVIL.A.13/DIR.PROC.CIVIL.A.13.md",
     "DIREITO PROCESSUAL CIVIL/A12/DIR.PROC.CIVIL.A.12/DIR.PROC.CIVIL.A.12.md",
     "DIREITO PROCESSUAL CIVIL/A11/DIR.PROC.CIVIL.A.11/DIR.PROC.CIVIL.A.11.md",
@@ -258,9 +276,6 @@
     "DIREITO PROCESSUAL CIVIL/A3/DIR.PROC.CIVIL.A.3.md",
     "DIREITO PROCESSUAL CIVIL/A2/DIR.PROC.CIVIL.A.2.md",
     "DIREITO PROCESSUAL CIVIL/itens específicos/Teoria geral do processo/Teoria geral do processo.md",
-    "DIREITO PROCESSUAL CIVIL/itens específicos/Sistema Processual Cooperativo construído por Normas Fundamentais/Sistema Processual Cooperativo construído por Normas Fundamentais.md",
-    "DIREITO PROCESSUAL CIVIL/itens específicos/Princípios da Jurisdição/Princípios da Jurisdição.md",
-    "DIREITO PROCESSUAL CIVIL/itens específicos/Normas fundamentais-/Conceito/Conceito.md",
     "images/Sem título.canvas"
   ]
 }
