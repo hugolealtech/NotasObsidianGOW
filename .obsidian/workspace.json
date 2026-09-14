@@ -11,10 +11,12 @@
             "id": "111d551c5400a781",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "excalidraw",
+              "state": {
+                "file": "00_inbox/Prova/Drawing 2026-09-14 16.21.18.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-09-14 16.21.18.excalidraw"
             }
           }
         ]
@@ -79,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.68701171875,
-    "collapsed": true
+    "width": 329.68701171875
   },
   "right": {
     "id": "1f21ed8ca2632c5a",
@@ -201,9 +202,9 @@
   },
   "active": "111d551c5400a781",
   "lastOpenFiles": [
+    "00_inbox/Prova/Drawing 2026-09-14 16.21.18.excalidraw.md",
     "00_inbox/analise-repeticao-dataprev-2026.md",
     "DIREITO ADMINISTRATIVO/A7/DIR.ADM.A.7/pencil.adm7.1.pencil",
-    "00_inbox/Prova/Drawing 2026-09-14 16.21.18.excalidraw.md",
     "00_inbox/Prova/gabarito.pdf",
     "00_inbox/Prova/analista_de_tecnologia_da_informacao_advocacia.pdf",
     "00_inbox/Prova",
