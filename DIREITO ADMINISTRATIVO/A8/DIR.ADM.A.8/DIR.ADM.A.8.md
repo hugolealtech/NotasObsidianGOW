@@ -56,10 +56,13 @@ caminho:
 
   - Fundamento: princípio da isonomia – teoria da repartição dos encargos sociais
 
+ ![InkWriting](<Ink/Writing/2026.9.19 - 11.19am.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
+
+
   - ônus e bônus devem ser partilhados por toda a sociedade
 
-  - Busca-se evitar a socialização do bônus e a privatização do ônus
-
+  - Busca-se ==evitar a socialização do bônus e a privatização do ônus==
+  
   - ex. obra pública – uma obra em via em frente a uma oficina e um prédio residencial, por 8 meses, em que não se passa carro. Leva a oficina a falência e impede os moradores de pegarem transporte público na porta de casa (agora caminham um pouco para pegar em outro local). No caso da oficina, há responsabilidade do Estado, mas para os moradores do prédio não.
 
 **2) TEORIAS**
@@ -80,11 +83,7 @@ A) Teoria da Irresponsabilidade
 
   - **A erosão da ideia de irresponsabilidade estatal se inicia com as Revoluções Liberais, especialmente a Revolução**
 
-**Francesa de 1789, e o surgimento do Estado de Direito, limitado pela ordem jurídica, com destaque para a**
-
-**atuação submetida à lei (princípio da legalidade), separação de funções estatais (princípio da separação de**
-
-**poderes) e o reconhecimento de direitos fundamentais que deveriam ser promovidos e protegidos pelo Estado.**
+**Francesa de 1789, e o surgimento do Estado de Direito, limitado pela ordem jurídica, com destaque para a** **atuação submetida à lei (princípio da legalidade), separação de funções estatais (princípio da separação de poderes) e o reconhecimento de direitos fundamentais que deveriam ser promovidos e protegidos pelo Estado.**
 
   - Ressalte-se, contudo, que a tese da irresponsabilidade perdurou durante o estágio inicial do Estado Liberal, sendo afastada, posteriormente, pela evolução da legislação e da jurisprudência
 
