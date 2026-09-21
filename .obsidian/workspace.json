@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6fd83533997c3831",
+        "id": "87b41964c74ac971",
         "type": "tabs",
         "children": [
           {
-            "id": "b6d77f3931e44da0",
+            "id": "5c388ad6b1c913bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.68701171875,
-    "collapsed": true
+    "width": 329.68701171875
   },
   "right": {
     "id": "1f21ed8ca2632c5a",
@@ -186,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.7215576171875
+    "width": 447.7215576171875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,43 +207,52 @@
     "type": "floating",
     "children": [
       {
-        "id": "e60f21c0ef909b7e",
+        "id": "7ce4a9bbff86614a",
         "type": "window",
         "children": [
           {
-            "id": "2fb01156fc505c61",
+            "id": "63259ed5a65b867c",
             "type": "tabs",
             "children": [
               {
-                "id": "b3fb01cd0df51b92",
+                "id": "5f066b622d88011b",
                 "type": "leaf",
                 "state": {
                   "type": "pencil-whiteboard",
                   "state": {
-                    "file": "DIREITO ADMINISTRATIVO/A8/DIR.ADM.A.8/Resumo Bloco 2.pencil"
+                    "file": "DIREITO ADMINISTRATIVO/A8/DIR.ADM.A.8/Resumo Bloco 3.pencil"
                   },
                   "icon": "pencil-pencil",
-                  "title": "Resumo Bloco 2"
+                  "title": "Resumo Bloco 3"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": -859,
-        "y": -355,
-        "width": 663,
+        "x": -967,
+        "y": -4,
+        "width": 854,
         "height": 608,
         "maximize": false,
         "zoom": 3
       }
     ]
   },
-  "active": "b6d77f3931e44da0",
+  "active": "a35ddf542990bf1c",
   "lastOpenFiles": [
-    "DIREITO ADMINISTRATIVO/A8/DIR.ADM.A.8/Resumo Bloco 2.pencil",
+    "DIREITO ADMINISTRATIVO/A8/DIR.ADM.A.8/Resumo Bloco 3.pencil",
     "DIREITO ADMINISTRATIVO/A8/DIR.ADM.A.8/DIR.ADM.A.8.md",
+    "Pasted image 20260921152624.png",
+    "Pasted image 20260921133005.png",
+    "Pasted image 20260921132844.png",
+    "Pasted image 20260921122633.png",
+    "Pasted image 20260910185507.png",
+    "DIREITO DO TRABALHO/Outros pontos do art. 8º da CF-88./Outros pontos do art. 8º da CF-88..md",
+    "DIREITO DO TRABALHO/A1/DIR.TRABALHO.A.1/DIR.TRABALHO.A.1.md",
     "DIREITO ADMINISTRATIVO/A8/DIR.ADM.A.8/Resumo Bloco 1.pencil",
+    "Pasted image 20260921132709.png",
+    "DIREITO ADMINISTRATIVO/A8/DIR.ADM.A.8/Resumo Bloco 2.pencil",
     "Ink/Writing/2026.9.21 - 8.19am.svg",
     "Ink/Writing/2026.9.19 - 11.19am.svg",
     "00_inbox/Prova/Drawing 2026-09-14 16.21.18.excalidraw.md",
@@ -257,16 +266,9 @@
     "DIREITO ADMINISTRATIVO/A7/DIR.ADM.A.7/DIR.ADM.A.7.md",
     "ENAM Direito Processual Civil.docx",
     "ENAM Direito Penal questões comentadas.docx",
-    "ENAM Direito Civil questoes comentadas.docx",
-    "Pasted image 20260910185507.png",
     "VADE MECUM/Lei.md",
     "Ink/Writing/2026.9.10 - 18.28pm.svg",
     "Ink/Writing/2026.9.10 - 18.12pm.svg",
-    "Ink/Writing/2026.9.10 - 17.13pm.svg",
-    "Ink/Writing/2026.9.10 - 16.56pm.svg",
-    "Ink/Writing/2026.9.10 - 16.53pm.svg",
-    "Ink/Writing/2026.9.10 - 16.36pm.svg",
-    "Ink/Writing/2026.9.10 - 16.34pm.svg",
     "DIREITO ADMINISTRATIVO/A4/DIR.ADM.A.4/DIR.ADM.A.4.md",
     "reversão jurisprudêncial..md",
     "autodeterminação dos povos;.md",
@@ -284,8 +286,6 @@
     "DIREITO PROCESSUAL CIVIL/A7/DIR.PROC.CIVIL.A.7/DIR.PROC.CIVIL.A.7.md",
     "DIREITO PROCESSUAL CIVIL/A5/DIR.PROC.CIVIL.A.5/DIR.PROC.CIVIL.A.5.md",
     "DIREITO PROCESSUAL CIVIL/A4/DIR.PROC.CIVIL.A.4/DIR.PROC.CIVIL.A.4.md",
-    "DIREITO PROCESSUAL CIVIL/A3/DIR.PROC.CIVIL.A.3.md",
-    "DIREITO PROCESSUAL CIVIL/A2/DIR.PROC.CIVIL.A.2.md",
     "images/Sem título.canvas"
   ]
 }

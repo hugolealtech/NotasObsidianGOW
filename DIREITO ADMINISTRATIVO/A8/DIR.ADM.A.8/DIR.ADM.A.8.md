@@ -160,8 +160,6 @@ iii. [[Danos causados por uma aeronave]] com matrícula no Brasil, por [[atentad
 
   - A Teoria do Risco Social possui como foco da responsabilidade civil a vítima e não o autor do dano, de modo que a reparação estaria a cargo de toda a coletividade, dando ensejo ao que se denomina de socialização dos riscos – sempre com o intuito de que o lesado não deixe de merecer a justa reparação pelo dano sofrido.
 
-
-
   - **LEI Nº 14.125, DE 10 DE MARÇO DE 2021 [revogada]** Art. 1º **Enquanto perdurar a Emergência em Saúde Pública de Importância Nacional** (Espin), declarada em decorrência da infecção humana pelo novo coronavírus (SARS-CoV-2), ficam a União, os Estados, o Distrito Federal e os Municípios autorizados a adquirir vacinas e a **assumir os riscos referentes à responsabilidade civil**, **nos** **termos do instrumento de aquisição ou fornecimento de vacinas celebrado**, em relação a eventos adversos pós vacinação, desde que a Agência Nacional de Vigilância Sanitária (Anvisa) tenha concedido o respectivo registro ou autorização temporária de uso emergencial.
 
   - A previsão, guardadas as devidas diferenças, se assemelharia com o compromisso que a União assumiu com a Fifa, durante a Copa do Mundo de 2014. Na época, mesmo a Copa do Mundo sendo um evento da Fifa, a União assumiu o compromisso de indenizar as vítimas de danos que fossem resultado de incidentes ou acidentes de segurança relacionados aos Eventos.
@@ -186,19 +184,23 @@ c) Teorias do risco administrativo
 
   - Prevista desde a Constituição de 46
 
-  - Estabelece causas excludentes de responsabilidade. Sãos três:
+  - Estabelece causas excludentes de responsabilidade. 
+  - 
+###### Sãos três:
 
-  - Culpa exclusiva da vítima
+  1. Culpa exclusiva da vítima
 
-  - Culpa exclusiva de 3º
+  2. Culpa exclusiva de 3º
 
-  - Caso fortuito e força maior [a diferença entre esses dois institutos não tem relevância para o direito administrativo]
+  3. Caso fortuito e força maior [a diferença entre esses dois institutos não tem relevância para o direito administrativo]
 
-  - Há o rompimento do nexo causal
-
-  - Veja que se fala em culpa exclusiva
-
-  - Culpa concorrente não exclui a responsabilidade. Há atenuação dessa responsabilidade
+   >[!Atenção!]
+   >Há o rompimento do nexo causal
+   >Veja que se fala em culpa exclusiva
+   >Culpa concorrente não exclui a responsabilidade. 
+   >>[!warning] Há atenuação dessa responsabilidade
+   
+   
 
 >[!quote] STJ:
 > Não há falar em culpa concorrente dos pais pelos danos causados ao seu filho. Com efeito, é incontroverso que - município recorrido promoveu queima de fogos nas festividades de ano novo e ==deixou==, nas proximidades do local onde ocorreu o evento, restos de explosivos sem qualquer proteção.
@@ -207,6 +209,11 @@ c) Teorias do risco administrativo
 
 [[Resumo Bloco 1.pencil]]
 
+![[Pasted image 20260921132709.png]]
+
+![[Pasted image 20260921132844.png]]
+
+![[Pasted image 20260921133005.png]]
 **Bloco 2**
 
   - CF/88 - Art. 37 § 6º As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.
@@ -215,7 +222,7 @@ c) Teorias do risco administrativo
 
   - Responsabilidade subjetiva: para o agente público – somente será responsabilizado em ação de regresso e na presença de dolo ou culpa
 
-  - Responsabilidade objetiva:
+##### Responsabilidade objetiva:
 
   - Conduta
 
@@ -233,9 +240,9 @@ c) Teorias do risco administrativo
 
 ---
 
-  - Responsabilidade das PSPs
+#### Responsabilidade das PSPs
 
-  - Responsabilidade direta e objetiva em relação ao usuário ou não usuário do serviço
+  - ==Responsabilidade direta e objetiva em relação ao usuário ou não usuário do serviço==
 
   - Dano causado ao usuário ou não usuário do serviço público
 
@@ -351,10 +358,12 @@ laudos que permitam a identificação das reais circunstâncias da morte de civi
   - Para que fique caracterizada a responsabilidade civil do Estado por danos decorrentes do comércio de fogos de artifício, é necessário que exista a violação de um dever jurídico específico de agir, que ocorrerá quando for concedida a licença para funcionamento sem as cautelas legais ou quando for de conhecimento do poder público eventuais irregularidades praticadas pelo particular. (RE 136861)
 
   - É imprescindível para o reconhecimento da responsabilidade civil do Estado em decorrência da fixação de preços no setor sucroalcooleiro a comprovação de efetivo prejuízo econômico, mediante perícia técnica em cada caso concreto. (ARE 884325)
+- ![[Pasted image 20260921122633.png]]
 
 
-
+[[Resumo Bloco 2.pencil]]
 **Bloco 3**
+
 
   - O Estado responde subsidiariamente por danos **materiais** causados a candidatos em concurso público organizado por pessoa jurídica de direito privado (art. 37, § 6º, da CRFB/88), quando os exames são cancelados por indícios de fraude. (RE 662405)
 
@@ -373,19 +382,18 @@ laudos que permitam a identificação das reais circunstâncias da morte de civi
 
 ---
 
-Ano: 2022 Banca: FGV Órgão: TRT - 13ª Região (PB) Prova: FGV - 2022 - TRT - 13ª Região (PB) - Analista Judiciário - Área Administrativa Francisco, analista judiciário do Tribunal Regional do Trabalho da Yª Região, no exercício da função, praticou ato ilícito que causou danos morais e materiais ao jurisdicionado Cláudio. Com escopo de obter a devida reparação pelos prejuízos que sofreu, Cláudio ajuizou ação indenizatória em face do(a)
-
+>[!question] 
+>Ano: 2022 Banca: FGV Órgão: TRT - 13ª Região (PB) Prova: FGV - 2022 - TRT - 13ª Região (PB) - Analista Judiciário - Área Administrativa
+Francisco, analista judiciário do Tribunal Regional do Trabalho da Yª Região, no exercício da função, praticou ato ilícito que causou danos morais e materiais ao jurisdicionado Cláudio. Com escopo de obter a devida reparação pelos prejuízos que sofreu, Cláudio ajuizou ação indenizatória em face do(a):
 A) Tribunal Regional do Trabalho da Yª Região, com base em sua responsabilidade civil objetiva, sendo desnecessária a comprovação de que Francisco agiu com dolo ou culpa.
-
 B) Tribunal Superior do Trabalho, com base em sua responsabilidade civil subjetiva, sendo necessária a comprovação de que Francisco agiu com dolo ou culpa.
-
 C) Poder Judiciário da União, com base em sua responsabilidade civil objetiva, sendo necessária a comprovação de que Francisco agiu com dolo ou culpa.
-
 D) Francisco, com base em sua responsabilidade civil objetiva, sendo desnecessária a comprovação de que agiu com dolo ou culpa.
+**E) União, com base em sua responsabilidade civil objetiva, sendo desnecessária a comprovação de que Francisco agiu com dolo ou culpa.**
 
-**E) União, com base em sua responsabilidade civil objetiva, sendo desnecessária a comprovação de que Francisco agiu**
+>[!tip] Atenção, TRT é órgão e não possui personalidade jurídica, por isso a União deve ser demandada nesse caso.
 
-**com dolo ou culpa.**
+
 
   - Aplica-se igualmente ao Estado a prescrição do art. 927, parágrafo único, do Código Civil, de responsabilidade civil objetiva por atividade naturalmente perigosa, irrelevante seja a conduta comissiva ou omissiva
 
@@ -395,11 +403,13 @@ D) Francisco, com base em sua responsabilidade civil objetiva, sendo desnecessá
 > LEI
 >   - Art. 927, Parágrafo único. Haverá obrigação de reparar o dano, independentemente de culpa, nos casos especificados em lei, ou quando a atividade normalmente desenvolvida pelo autor do dano implicar, por sua natureza, risco para os direitos de outrem
 
-  - **Teoria da Perda de uma chance e responsabilidade do Estado decorrente de erro médico**
 
--Aplica-se a responsabilidade civil pela perda de uma chance no caso de atuação dos profissionais médicos que não observam orientação do Ministério da Saúde, retirando do paciente uma chance concreta e real de ter um diagnóstico correto e de alçar as consequências normais que dele se poderia esperar. (REsp 1.985.977-DF)
+![[Pasted image 20260921152624.png]]
+##### **Teoria da Perda de uma chance e responsabilidade do Estado decorrente de erro médico**
 
--O caso trata de um bebê prematuro, nascido com 29 semanas, que necessitou de cuidados intensivos e posteriormente, aos nove meses, apresentou grave quadro de febre, tosse e vômitos. Ao ser levado à UPA, foi
+Aplica-se a responsabilidade civil pela perda de uma chance no caso de atuação dos profissionais médicos que não observam orientação do Ministério da Saúde, retirando do paciente uma chance concreta e real de ter um diagnóstico correto e de alçar as consequências normais que dele se poderia esperar. (REsp 1.985.977-DF)
+
+- O caso trata de um bebê prematuro, nascido com 29 semanas, que necessitou de cuidados intensivos e posteriormente, aos nove meses, apresentou grave quadro de febre, tosse e vômitos. Ao ser levado à UPA, foi
 
 ---
 *p. 10*
@@ -408,17 +418,17 @@ D) Francisco, com base em sua responsabilidade civil objetiva, sendo desnecessá
 
 classificado como urgência, mas não foi internado, recebendo apenas medicação. Após a persistência dos sintomas, foi diagnosticado com pneumonia bacteriana e, apesar de receber tratamento, faleceu no dia seguinte.
 
--A Corte estadual reconheceu que a equipe médica não seguiu a recomendação do Ministério da Saúde, que indicava internação para crianças com pneumonia e doenças de base debilitantes, como a prematuridade e a displasia broncopulmonar. Contudo, reformou a sentença, alegando falta de comprovação de falha no serviço e nexo causal com a morte.
+>[!abstract]  Resumo Jurisprudencial
+>A Corte estadual reconheceu que a equipe médica não seguiu a recomendação do Ministério da Saúde, que indicava internação para crianças com pneumonia e doenças de base debilitantes, como a prematuridade e a displasia broncopulmonar. Contudo, reformou a sentença, alegando falta de comprovação de falha no serviço e nexo causal com a morte.
+Aplicou-se a teoria da perda de uma chance, afirmando que, se o bebê tivesse sido internado oportunamente, sua morte poderia ter sido evitada, responsabilizando-se a instituição pela perda da chance de tratamento adequado.
 
--Aplicou-se a teoria da perda de uma chance, afirmando que, se o bebê tivesse sido internado oportunamente, sua morte poderia ter sido evitada, responsabilizando-se a instituição pela perda da chance de tratamento adequado.
 
-- Responsabilidade Objetiva das Concessionárias de Rodovias por Acidentes Envolvendo Animais nas Pistas: Aplicação do CDC e da Lei das Concessões As concessionárias de rodovias respondem, **independentemente da existência de culpa,** pelos danos oriundos de acidentes causados pela presença de animais domésticos nas pistas de rolamento, aplicando-se as regras do Código de Defesa do Consumidor e da Lei das Concessões. (REsp n. 1.908.738/SP)
+###### Responsabilidade Objetiva das Concessionárias de Rodovias por Acidentes Envolvendo Animais nas Pistas: Aplicação do CDC e da Lei das Concessões As concessionárias de rodovias respondem, **independentemente da existência de culpa,** pelos danos oriundos de acidentes causados pela presença de animais domésticos nas pistas de rolamento, aplicando-se as regras do Código de Defesa do Consumidor e da Lei das Concessões. (REsp n. 1.908.738/SP)
+1. ==Aplicam-se as regras do Código de Defesa do Consumidor aos casos de reparação de danos oriundos de acidentes causados pelo ingresso de animais domésticos nas faixas de rolamento das rodovias objeto de contrato de concessão.==
 
-1. Aplicam-se as regras do Código de Defesa do Consumidor aos casos de reparação de danos oriundos de acidentes causados pelo ingresso de animais domésticos nas faixas de rolamento das rodovias objeto de contrato de concessão.
+2. A concessionária responde, independentemente da existência de culpa, pelos danos sofridos pelo usuário, sem prejuízo da observância dos padrões mínimos de segurança previstos no contrato, sendo inaplicável a [[teoria da culpa administrativa.]]
 
-2. A concessionária responde, independentemente da existência de culpa, pelos danos sofridos pelo usuário, sem prejuízo da observância dos padrões mínimos de segurança previstos no contrato, sendo inaplicável a teoria da culpa administrativa.
-
-3. O princípio da primazia do interesse da vítima, decorrente do princípio da solidariedade, impõe a reparação dos danos independentemente da identificação do proprietário do animal cujo ingresso na rodovia causou o acidente.
+3. ==O princípio da primazia do interesse da vítima==, decorrente do princípio da solidariedade, impõe a reparação dos danos independentemente da identificação do proprietário do animal cujo ingresso na rodovia causou o acidente.
 
 4. O dever de fiscalização dos entes públicos não afasta a responsabilidade civil das concessionárias, nos termos do art. 25 da Lei das Concessões
 
@@ -427,20 +437,24 @@ classificado como urgência, mas não foi internado, recebendo apenas medicaçã
 
 - O adiamento de exame de concurso público por motivo de biossegurança relacionado à pandemia do COVID-19 não impõe ao Estado o dever de indenizar. (RE 1.455.038/DF)
 
-**-A imprevisibilidade inerente à pandemia do Covid-19 afasta a responsabilidade civil estatal (CF/1988, art. 37,**
+>[!abstract] Julgado STF 
+>A imprevisibilidade inerente à pandemia do Covid-19 afasta a responsabilidade civil estatal (CF/1988, art. 37, **§ 6º)** **por danos decorrentes do adiamento de prova de certame em virtude de medidas urgentes de proteção à saúde, inclusive dos candidatos.**
 
-**§ 6º)** **por danos decorrentes do adiamento de prova de certame em virtude de medidas urgentes de proteção**
-
-**à saúde, inclusive dos candidatos.**
-
--A responsabilização civil do Estado, pela aplicação da teoria do risco administrativo, exige que haja nexo de causalidade entre a ação ou omissão administrativa e o dano causado ao particular. Porém, a responsabilidade objetiva estatal é afastada diante de fato exclusivo da vítima ou de terceiro e de caso fortuito ou força maior.
+-A responsabilização civil do Estado, pela aplicação da teoria do risco administrativo, exige que haja nexo de causalidade entre a ação ou omissão administrativa e o dano causado ao particular. Porém, ==a responsabilidade objetiva estatal é afastada diante de fato exclusivo da vítima ou de terceiro e de caso fortuito ou força maior.==
 
 ---
 *p. 11*
 
 ---
 
--Na espécie, a emergência sanitária provocada pela pandemia remove a responsabilidade civil do Estado pela imposição de medidas restritivas, como o adiamento de prova de concurso público, notadamente porque a finalidade era mitigar riscos à saúde coletiva. Trata-se de um fato imprevisível que rompe o nexo de causalidade. RE 632115: Tese de julgamento: “1. A imunidade material parlamentar (art. 53, caput, c/c art. 27, § 1º, e art. 29, VIII, CF/1988) configura excludente da responsabilidade civil objetiva do Estado (art. 37, § 6º, CF/1988), afastando qualquer pretensão indenizatória em face do ente público por opiniões, palavras e votos cobertos por essa garantia. 2. Nas hipóteses em que a conduta do parlamentar extrapolar os limites da imunidade material, eventual responsabilização recairá de forma pessoal, direta e exclusiva sobre o próprio parlamentar, sob o regime de responsabilidade civil subjetiva.” d) Teoria da Interrupção do Nexo Causal/ Teoria da Causalidade Direta, Imediata
+-Na espécie, a emergência sanitária provocada pela pandemia remove a responsabilidade civil do Estado pela imposição de medidas restritivas, como o adiamento de prova de concurso público, **notadamente porque a finalidade era mitigar riscos à saúde coletiva**. Trata-se de um fato imprevisível que rompe o nexo de causalidade. RE 632115: 
+
+Tese de julgamento: 
+
+1. A imunidade material parlamentar (art. 53, caput, c/c art. 27, § 1º, e art. 29, VIII, CF/1988) configura excludente da responsabilidade civil objetiva do Estado (art. 37, § 6º, CF/1988), afastando qualquer pretensão indenizatória em face do ente público por opiniões, palavras e votos cobertos por essa garantia. 
+2. Nas hipóteses em que a conduta do parlamentar extrapolar os limites da imunidade material, eventual responsabilização recairá de forma pessoal, direta e exclusiva sobre o próprio parlamentar, sob o regime de responsabilidade civil subjetiva.” 
+3. 
+##### d) Teoria da Interrupção do Nexo Causal/ Teoria da Causalidade Direta, Imediata
 
   - O Estado somente será responsabilizado quando o dano decorrer direta e imediatamente após a conduta estatal
 
@@ -448,17 +462,26 @@ classificado como urgência, mas não foi internado, recebendo apenas medicaçã
 
   - Não há definição objetiva quanto ao que é lapso temporal razoável
 
-  - “Nos termos do artigo 37, § 6º, da Constituição Federal, não se caracteriza a responsabilidade civil objetiva do Estado por danos decorrentes de crime praticado por pessoa foragida do sistema prisional, quando não demonstrado o nexo causal direto entre o momento da fuga e a conduta praticada” - RE 608880 - 08/09/2020 Ano: 2023 Banca: CESPE / CEBRASPE Órgão: TJ-ES Prova: CESPE / CEBRASPE - 2023 - TJ-ES - Analista Judiciário Segundo entendimento do Supremo Tribunal Federal (STF), nos termos da Constituição Federal de 1988 (CF), a responsabilidade civil objetiva do Estado por danos decorrentes de crime praticado por pessoa foragida do sistema prisional é caracterizada independentemente da demonstração do nexo causal direto entre o momento da fuga e a conduta delituosa praticada. Certo
+  >[!abstract]
+  >Nos termos do artigo 37, § 6º, da Constituição Federal, não se caracteriza a responsabilidade civil objetiva do Estado por danos decorrentes de crime praticado por pessoa foragida do sistema prisional, quando não demonstrado o nexo causal direto entre o momento da fuga e a conduta praticada” - RE 608880 
+  
+  >[!question]
+  >08/09/2020 Ano: 2023 Banca: CESPE / CEBRASPE Órgão: TJ-ES Prova: CESPE / CEBRASPE - 2023 - TJ-ES - Analista Judiciário Segundo entendimento do Supremo Tribunal Federal (STF), nos termos da Constituição Federal de 1988 (CF), a responsabilidade civil objetiva do Estado por danos decorrentes de crime praticado por pessoa foragida do sistema prisional é caracterizada independentemente da demonstração do nexo causal direto entre o momento da fuga e a conduta delituosa praticada.   
+  Certo
+  **Errado**
 
-**Errado**
 
-**3 ) Elementos configuradores da Responsabilidade Civil**
+##### **3 ) Elementos configuradores da Responsabilidade Civil**
 
-  - A configuração da responsabilidade objetiva do Estado é baseada **em três elementos fundamentais que devem**
+  A configuração da responsabilidade objetiva do Estado é baseada **em três elementos fundamentais que devem ser considerados** .
 
-**ser considerados** .
-
-  - Em primeiro lugar, é necessário identificar a conduta estatal, que pode ser uma ação ou omissão cometida pelo Poder Público. Além disso, é preciso comprovar a existência de um dano sofrido pela parte prejudicada, que pode ser de natureza material ou moral. Por fim, é imprescindível estabelecer um nexo causal entre o fato administrativo e o dano causado, ou seja, demonstrar que a ação ou omissão do Estado foi diretamente responsável pela ocorrência do prejuízo. Ao cumprir esses três requisitos, é possível configurar a responsabilidade objetiva do Estado e garantir que as vítimas de seus atos sejam devidamente ressarcidas.
+  Em primeiro lugar, é necessário identificar a conduta estatal, que pode ser uma ação ou omissão cometida pelo Poder Público. 
+  
+  Além disso, é preciso comprovar a existência de um dano sofrido pela parte prejudicada, que pode ser de natureza material ou moral. 
+  
+  Por fim, é imprescindível estabelecer um nexo causal entre o fato administrativo e o dano causado, ou seja, demonstrar que a ação ou omissão do Estado foi diretamente responsável pela ocorrência do prejuízo. 
+  
+  Ao cumprir esses três requisitos, é possível configurar a responsabilidade objetiva do Estado e garantir que as vítimas de seus atos sejam devidamente ressarcidas.
 
 ---
 *p. 12*
