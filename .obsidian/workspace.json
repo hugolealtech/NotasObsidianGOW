@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.68701171875
+    "width": 329.68701171875,
+    "collapsed": true
   },
   "right": {
     "id": "1f21ed8ca2632c5a",
@@ -185,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.7215576171875,
-    "collapsed": true
+    "width": 447.7215576171875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,10 +239,13 @@
       }
     ]
   },
-  "active": "a35ddf542990bf1c",
+  "active": "5c388ad6b1c913bb",
   "lastOpenFiles": [
+    "Ink/Writing/2026.9.21 - 16.56pm.svg",
     "DIREITO ADMINISTRATIVO/A8/DIR.ADM.A.8/Resumo Bloco 3.pencil",
     "DIREITO ADMINISTRATIVO/A8/DIR.ADM.A.8/DIR.ADM.A.8.md",
+    "Ink/Writing/2026.9.21 - 16.41pm.svg",
+    "Pasted image 20260921162915.png",
     "Pasted image 20260921152624.png",
     "Pasted image 20260921133005.png",
     "Pasted image 20260921132844.png",
@@ -267,8 +270,6 @@
     "ENAM Direito Processual Civil.docx",
     "ENAM Direito Penal questões comentadas.docx",
     "VADE MECUM/Lei.md",
-    "Ink/Writing/2026.9.10 - 18.28pm.svg",
-    "Ink/Writing/2026.9.10 - 18.12pm.svg",
     "DIREITO ADMINISTRATIVO/A4/DIR.ADM.A.4/DIR.ADM.A.4.md",
     "reversão jurisprudêncial..md",
     "autodeterminação dos povos;.md",

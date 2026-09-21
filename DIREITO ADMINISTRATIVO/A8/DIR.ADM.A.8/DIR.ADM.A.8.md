@@ -405,18 +405,19 @@ D) Francisco, com base em sua responsabilidade civil objetiva, sendo desnecessá
 
 
 ![[Pasted image 20260921152624.png]]
+
+
+![[Pasted image 20260921162915.png]]
+
+>[!abstract] Em resumo
+>Com base no art. 32, § 6ª da CF e por equiparação a pessoa jurídica prestadora de serviço equipara-se a estado.
+
+
 ##### **Teoria da Perda de uma chance e responsabilidade do Estado decorrente de erro médico**
 
 Aplica-se a responsabilidade civil pela perda de uma chance no caso de atuação dos profissionais médicos que não observam orientação do Ministério da Saúde, retirando do paciente uma chance concreta e real de ter um diagnóstico correto e de alçar as consequências normais que dele se poderia esperar. (REsp 1.985.977-DF)
 
-- O caso trata de um bebê prematuro, nascido com 29 semanas, que necessitou de cuidados intensivos e posteriormente, aos nove meses, apresentou grave quadro de febre, tosse e vômitos. Ao ser levado à UPA, foi
-
----
-*p. 10*
-
----
-
-classificado como urgência, mas não foi internado, recebendo apenas medicação. Após a persistência dos sintomas, foi diagnosticado com pneumonia bacteriana e, apesar de receber tratamento, faleceu no dia seguinte.
+- O caso trata de um bebê prematuro, nascido com 29 semanas, que necessitou de cuidados intensivos e posteriormente, aos nove meses, apresentou grave quadro de febre, tosse e vômitos. Ao ser levado à UPA, foi classificado como urgência, mas não foi internado, recebendo apenas medicação. Após a persistência dos sintomas, foi diagnosticado com pneumonia bacteriana e, apesar de receber tratamento, faleceu no dia seguinte.
 
 >[!abstract]  Resumo Jurisprudencial
 >A Corte estadual reconheceu que a equipe médica não seguiu a recomendação do Ministério da Saúde, que indicava internação para crianças com pneumonia e doenças de base debilitantes, como a prematuridade e a displasia broncopulmonar. Contudo, reformou a sentença, alegando falta de comprovação de falha no serviço e nexo causal com a morte.
@@ -424,7 +425,7 @@ Aplicou-se a teoria da perda de uma chance, afirmando que, se o bebê tivesse si
 
 
 ###### Responsabilidade Objetiva das Concessionárias de Rodovias por Acidentes Envolvendo Animais nas Pistas: Aplicação do CDC e da Lei das Concessões As concessionárias de rodovias respondem, **independentemente da existência de culpa,** pelos danos oriundos de acidentes causados pela presença de animais domésticos nas pistas de rolamento, aplicando-se as regras do Código de Defesa do Consumidor e da Lei das Concessões. (REsp n. 1.908.738/SP)
-1. ==Aplicam-se as regras do Código de Defesa do Consumidor aos casos de reparação de danos oriundos de acidentes causados pelo ingresso de animais domésticos nas faixas de rolamento das rodovias objeto de contrato de concessão.==
+1. ==Aplicam-se as regras do Código de Defesa do Consumidor aos casos de reparação de danos oriundos de acidentes causados pelo ingresso de __animais domésticos nas faixas de rolamento das rodovias objeto de contrato de concessão__.==
 
 2. A concessionária responde, independentemente da existência de culpa, pelos danos sofridos pelo usuário, sem prejuízo da observância dos padrões mínimos de segurança previstos no contrato, sendo inaplicável a [[teoria da culpa administrativa.]]
 
@@ -433,7 +434,7 @@ Aplicou-se a teoria da perda de uma chance, afirmando que, se o bebê tivesse si
 4. O dever de fiscalização dos entes públicos não afasta a responsabilidade civil das concessionárias, nos termos do art. 25 da Lei das Concessões
 
 > [!attention] Atenção!
->   - obs. STJ entende que as concessionárias NÃO respondem por furtos ou roubos nas praças de pedágio
+>   - obs. STJ entende que as concessionárias <strong>NÃO</strong> respondem por furtos ou roubos nas praças de pedágio
 
 - O adiamento de exame de concurso público por motivo de biossegurança relacionado à pandemia do COVID-19 não impõe ao Estado o dever de indenizar. (RE 1.455.038/DF)
 
@@ -453,14 +454,19 @@ Tese de julgamento:
 
 1. A imunidade material parlamentar (art. 53, caput, c/c art. 27, § 1º, e art. 29, VIII, CF/1988) configura excludente da responsabilidade civil objetiva do Estado (art. 37, § 6º, CF/1988), afastando qualquer pretensão indenizatória em face do ente público por opiniões, palavras e votos cobertos por essa garantia. 
 2. Nas hipóteses em que a conduta do parlamentar extrapolar os limites da imunidade material, eventual responsabilização recairá de forma pessoal, direta e exclusiva sobre o próprio parlamentar, sob o regime de responsabilidade civil subjetiva.” 
-3. 
+
+ ![InkWriting](<Ink/Writing/2026.9.21 - 16.41pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
+
 ##### d) Teoria da Interrupção do Nexo Causal/ Teoria da Causalidade Direta, Imediata
 
   - O Estado somente será responsabilizado quando o dano decorrer direta e imediatamente após a conduta estatal
 
-  - Quando houver um lapso temporal razoável entre a conduta estatal e o evento danoso, rompe-se o nexo
+ ![InkWriting](<Ink/Writing/2026.9.21 - 16.56pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
+
+  - Quando houver um [[lapso temporal]] [^2] razoável entre a conduta estatal e o evento danoso, rompe-se o nexo
 
   - Não há definição objetiva quanto ao que é lapso temporal razoável
+  - A jurisprudência ainda não definiu ainda qual seria esse prazo razoável. Ficar atendo aos termos "tempos depois" podem indicar o afastamento da responsabilidade objetiva do Estado.
 
   >[!abstract]
   >Nos termos do artigo 37, § 6º, da Constituição Federal, não se caracteriza a responsabilidade civil objetiva do Estado por danos decorrentes de crime praticado por pessoa foragida do sistema prisional, quando não demonstrado o nexo causal direto entre o momento da fuga e a conduta praticada” - RE 608880 
@@ -510,7 +516,7 @@ Tese de julgamento:
 
   - Pessoas e bens para as quais o Estado tem dever de guarda/proteção
 
-  - Nexo causal mais robusto – difícil o rompimento, mas ainda possível
+  >[!danger] mais robusto – difícil o rompimento, mas ainda possível
 
   - Estado como garante
 
@@ -520,14 +526,9 @@ Tese de julgamento:
 
   - Decisão STF: RE 841526/RS, rel. Min. Luiz Fux, 30.3.2016 – situação imprevisível e inesperada, rompe o nexo causal (quando o Estado não tem possibilidade de atuar para evitar o evento danoso) RESPONSABILIDADE CIVIL – SERVIÇO PÚBLICO – FURTO – POSTO DE PESAGEM – VEÍCULO. A teor do disposto no artigo 37, § 6º, da Constituição Federal, há responsabilidade civil de pessoa jurídica prestadora de serviço público em razão de dano decorrente de crime de furto praticado em posto de pesagem, considerada a omissão no dever de vigilância e falha na prestação e organização do serviço. (RE 598356)
 
-**5) DANOS DECORRENTES DE OBRAS**
+##### **5) DANOS DECORRENTES DE OBRAS**
 
 5.1) Dano pelo simples fato da obra
-
----
-*p. 13*
-
----
 
   - Responsabilidade objetiva do Estado
 
@@ -538,6 +539,10 @@ Tese de julgamento:
   - Responsabilidade subjetiva da contratada
 
   - Lei 14.133 – licitações
+>[!abstract] VEJA A DIFERENÇA ENTRE CONCESSIONÁRIA E CONTRATADA.
+>A principal diferença entre um **contratado via Lei nº 14.133/2021 (Nova Lei de Licitações)** e uma **concessionária de serviço público** está em **quem paga pelo serviço** e em **quem assume o risco** do negócio. 
+>No contrato administrativo comum (Lei 14.133), a empresa vende um bem ou serviço diretamente para a Administração Pública e é paga por ela. Na concessão (regulada pela Lei 8.987/1995), a empresa passa a gerir um serviço público por sua conta e risco, sendo remunerada, em geral, pelas tarifas pagas pelos usuários.
+
 
 5.3) Dano Resultante de uma Conduta do Estado e da Contratada
 
@@ -898,3 +903,5 @@ DEFERIR PARCIALMENTE A MEDIDA CAUTELAR, ad referendum do Plenário desta SUPREMA
 - Segundo o relator, o tratamento diferenciado dado a esses casos desrespeita o princípio constitucional da isonomia.
 
 [^1]: EM RELAÇÃO AO NEXO CAUSAL
+
+[^2]: Nos termos do art. 37,§6ª da Constituição Federal, ==não se caracteriza a responsabilidade civil objetiva do Estado== por danos decorrentes de crime praticado por pessoa foragida do sistema prisional, ==quando não demonstrado o nexo causal direito entre <strong>o momento da fuga e conduta praticada</strong> - RE 608880 - 08/09/2020.==
