@@ -81,13 +81,11 @@ A) Teoria da Irresponsabilidade
 
   - Nesse período, a figura do Monarca se confundia com o próprio Estado, como demonstra a célebre frase atribuída a Luis XIV (“L’État c’est moi”: o Estado sou eu), bem como o poder estatal era normalmente encarado como poder divino, o que justificava a impossibilidade de atribuir falhas aos governantes (“The king can do no wrong”: o rei não erra; “Le roi ne peut mal faire”: o rei não pode fazer mal).
 
-  - **A erosão da ideia de irresponsabilidade estatal se inicia com as Revoluções Liberais, especialmente a Revolução**
-
-**Francesa de 1789, e o surgimento do Estado de Direito, limitado pela ordem jurídica, com destaque para a** **atuação submetida à lei (princípio da legalidade), separação de funções estatais (princípio da separação de poderes) e o reconhecimento de direitos fundamentais que deveriam ser promovidos e protegidos pelo Estado.**
+  - **A erosão da ideia de irresponsabilidade estatal se inicia com as Revoluções Liberais, especialmente a Revolução Francesa** de 1789, e o surgimento do Estado de Direito, limitado pela ordem jurídica, com destaque para a** **atuação submetida à lei (princípio da legalidade), separação de funções estatais (princípio da separação de poderes) e o reconhecimento de direitos fundamentais que deveriam ser promovidos e protegidos pelo Estado.**
 
   - Ressalte-se, contudo, que a tese da irresponsabilidade perdurou durante o estágio inicial do Estado Liberal, sendo afastada, posteriormente, pela evolução da legislação e da jurisprudência
 
-  - **A teoria da irresponsabilidade civil do Estado jamais vigorou no Brasil.**
+  >[!attention] **A teoria da irresponsabilidade civil do Estado jamais vigorou no Brasil.**
 
 ---
 *p. 2*
@@ -108,11 +106,11 @@ C) Teoria da Culpa Civil
 
   - Teoria não aplicada no direito brasileiro
 
-2.2) Teorias Administrativas
+#### 2.2) Teorias Administrativas
 
   - São as teorias aplicadas no Brasil
 
-A) Teoria da Culpa Anônima ou Culpa do Serviço ( _Faute du service_ )
+###### A) Teoria da Culpa Anônima ou Culpa do Serviço ( _Faute du service_ )
 
   - Responsabilidade subjetiva – negligência estatal
 
@@ -128,43 +126,50 @@ A) Teoria da Culpa Anônima ou Culpa do Serviço ( _Faute du service_ )
 
   - genérica: regulada na teoria em estudo
 
-  - específica: Estado como garante (violando deve específico e legal de agir) – teoria do risco administrativo e responsabilidade objetiva ex. aluno que agride outro dentro de uma escolha pública; um preso mata o outro; b) Teoria do Risco Integral
-
-  -  - Estado atuando como segurador universal
+  - específica: Estado como garante (violando deve específico e legal de agir) – teoria do risco administrativo e responsabilidade objetiva 
+  
+  >[!example] ex. aluno que agride outro dentro de uma escolha pública; um preso mata o outro; 
+  >
+  >
+ 
+###### B) Teoria do Risco Integral
+  
+  -  Estado atuando como ==segurador universal==
 
   - responde por todo e qualquer dano gerado ao particular
 
   - não se fala em causa excludente de responsabilidade
 
-  - em regra, não é aplicada no direito brasileiro
+>[!warning] em regra, não é aplicada no direito brasileiro
 
   - aplicada em casos excepcionais, citados abaixo:
 
-i. Danos Nucleares – Art. 21, XXIII, _d_, CR/88.
-
-ii. Dano Ambiental – Art. 225, § 3º, CR/88.
-
-iii. Danos causados por uma aeronave com matrícula no Brasil, por atentados terroristas ou atos de guerra no Brasil ou no exterior – Lei nº 10.309/02.
+i. [[Danos Nucleares]] – Art. 21, XXIII, _d_, CR/88.
+ii. [[Dano Ambiental]] – Art. 225, § 3º, CR/88.
+iii. [[Danos causados por uma aeronave]] com matrícula no Brasil, por [[atentados terroristas]] ou [[atos de guerra]] no Brasil ou no exterior – Lei nº 10.309/02.
 
 ---
 *p. 3*
 
 ---
 
+
+
 > [!attention] Atenção!
 > - **OBS: Teoria do Risco Social**
 
-  - A Teoria do Risco Social possui como foco da responsabilidade civil a vítima e não o autor do dano, de modo que a reparação estaria a cargo de toda a coletividade, dando ensejo ao que se denomina de socialização dos riscos – sempre com o intuito de que o lesado não deixe de merecer a justa reparação pelo dano sofrido
+  - A Teoria do Risco Social possui como foco da responsabilidade civil a vítima e não o autor do dano, de modo que a reparação estaria a cargo de toda a coletividade, dando ensejo ao que se denomina de socialização dos riscos – sempre com o intuito de que o lesado não deixe de merecer a justa reparação pelo dano sofrido.
 
-  - **LEI Nº 14.125, DE 10 DE MARÇO DE 2021 [revogada]** Art. 1º **Enquanto perdurar a Emergência em Saúde Pública de Importância Nacional** (Espin), declarada em decorrência da infecção humana pelo novo coronavírus (SARS-CoV-2), ficam a União, os Estados, o Distrito Federal e os Municípios autorizados a adquirir vacinas e a **assumir os riscos referentes à responsabilidade civil**, **nos**
 
-**termos do instrumento de aquisição ou fornecimento de vacinas celebrado**, em relação a eventos adversos pós vacinação, desde que a Agência Nacional de Vigilância Sanitária (Anvisa) tenha concedido o respectivo registro ou autorização temporária de uso emergencial.
+
+  - **LEI Nº 14.125, DE 10 DE MARÇO DE 2021 [revogada]** Art. 1º **Enquanto perdurar a Emergência em Saúde Pública de Importância Nacional** (Espin), declarada em decorrência da infecção humana pelo novo coronavírus (SARS-CoV-2), ficam a União, os Estados, o Distrito Federal e os Municípios autorizados a adquirir vacinas e a **assumir os riscos referentes à responsabilidade civil**, **nos** **termos do instrumento de aquisição ou fornecimento de vacinas celebrado**, em relação a eventos adversos pós vacinação, desde que a Agência Nacional de Vigilância Sanitária (Anvisa) tenha concedido o respectivo registro ou autorização temporária de uso emergencial.
 
   - A previsão, guardadas as devidas diferenças, se assemelharia com o compromisso que a União assumiu com a Fifa, durante a Copa do Mundo de 2014. Na época, mesmo a Copa do Mundo sendo um evento da Fifa, a União assumiu o compromisso de indenizar as vítimas de danos que fossem resultado de incidentes ou acidentes de segurança relacionados aos Eventos.
 
 > [!quote] 
 > LEI
-> -Art. 23 da Lei nº 12.663/2012: Art. 23. A União assumirá os efeitos da responsabilidade civil perante a FIFA, seus representantes legais, empregados ou consultores por todo e qualquer dano resultante ou que tenha surgido em função de qualquer incidente ou acidente de segurança relacionado aos Eventos, exceto se e na medida em que a FIFA ou a vítima houver concorrido para a ocorrência do dano.
+> -Art. 23 da Lei nº 12.663/2012: Art. 23. 
+> A União assumirá os efeitos da responsabilidade civil perante a FIFA, seus representantes legais, empregados ou consultores por todo e qualquer dano resultante ou que tenha surgido em função de qualquer incidente ou acidente de segurança relacionado aos Eventos, exceto se e na medida em que a FIFA ou a vítima houver concorrido para a ocorrência do dano.
 
 > [!quote] 
 > LEI
@@ -195,13 +200,12 @@ c) Teorias do risco administrativo
 
   - Culpa concorrente não exclui a responsabilidade. Há atenuação dessa responsabilidade
 
-  - STJ:
+>[!quote] STJ:
+> Não há falar em culpa concorrente dos pais pelos danos causados ao seu filho. Com efeito, é incontroverso que - município recorrido promoveu queima de fogos nas festividades de ano novo e ==deixou==, nas proximidades do local onde ocorreu o evento, restos de explosivos sem qualquer proteção.
+> Nesta situação, não se pode imputar aos pais responsabilidade por ter permitido que o filho brincasse em logradouro público, especialmente naquele onde ocorreu as festividades de ano novo.
 
-  - Não há falar em culpa concorrente dos pais pelos danos causados ao seu filho. Com efeito, é incontroverso que
 
-  - município recorrido promoveu queima de fogos nas festividades de ano novo e deixou, nas proximidades do local onde ocorreu o evento, restos de explosivos sem qualquer proteção.
-
-  - Nesta situação, não se pode imputar aos pais responsabilidade por ter permitido que o filho brincasse em logradouro público, especialmente naquele onde ocorreu as festividades de ano novo.
+[[Resumo Bloco 1.pencil]]
 
 **Bloco 2**
 
@@ -238,16 +242,16 @@ c) Teorias do risco administrativo
   - ex. motorista de ônibus faz uma manobra brusca batendo em carro particular e derrubando passageiro dentro do transporte; há responsabilidade em relação a ambos
 
 > [!quote] 
-> LEI
+> LEI Geral de Serviços Públicos
 >   - art. 25 da lei 8987/95 – não há atenuação ou exclusão por ausência de fiscalização do Poder Público
 
   - Estado tem responsabilidade **subsidiária** e objetiva
 
-  - Teoria da dupla garantia
+##### Teoria da dupla garantia
 
   - Assegura garantia para a vítima e agente público
 
-  - Vítima – assegura ajuizar ação contra o Estado ou contra PSPs
+  - Vítima – assegura ajuizar ação contra o Estado ou contra Pessoa Jurídica Prestadora de Serviço Público
 
   - Agente público – será responsabilizado apenas em ação de regresso e desde que comprovado dolo ou culpa
 
@@ -258,17 +262,13 @@ c) Teorias do risco administrativo
 
   - **Vedada**
 
-  - Estado não pode denunciar a lide ao agente público sob pena de violar a teoria da dupla garantia Ano: 2023 Banca: FCC Órgão: TRT - 21ª Região (RN) Prova: FCC - 2023 - TRT - 21ª Região (RN) - Analista Judiciário - Área Judiciária Considere que tenha ocorrido acidente com trem de passageiros em linha operada por uma concessionária privada, resultando em ferimentos graves em alguns ocupantes. À concessionária negou-se a indenizar os passageiros pelos danos sofridos no acidente, afirmando que não houve comprovação de culpa de seus agentes e que a responsabilização deveria recair sobre o Poder Concedente. Diante de tal cenário,
+  Estado não pode denunciar a lide ao agente público sob pena de violar a teoria da dupla garantia Ano: 2023 Banca: FCC Órgão: TRT - 21ª Região (RN) Prova: FCC - 2023 - TRT - 21ª Região (RN) - Analista Judiciário - Área Judiciária Considere que tenha ocorrido acidente com trem de passageiros em linha operada por uma concessionária privada, resultando em ferimentos graves em alguns ocupantes. À concessionária negou-se a indenizar os passageiros pelos danos sofridos no acidente, afirmando que não houve comprovação de culpa de seus agentes e que a responsabilização deveria recair sobre o Poder Concedente. Diante de tal cenário,
 
 A) a concessionária, dada sua natureza de pessoa jurídica de direito privado, responde pelos danos nos termos da legislação civil, inexistindo, por outro lado, responsabilidade extracontratual do poder público quando delega a prestação dos serviços.
 
 B) está correto o entendimento da concessionária, eis que apenas o titular do serviço, pessoa jurídica de direito público, responde objetivamente pelos danos decorrentes da prestação direta ou por terceiros, e a concessionária somente será responsável em caso de comprovação de culpa.
 
-**C) a concessionária possui responsabilidade objetiva, que independe de comprovação de culpa, demandando**
-
-**comprovação de nexo de causalidade e ausência de excludentes de responsabilização, respondendo o Poder**
-
-**Concedente apenas em caráter subsidiário.**
+>[!success] **C) a concessionária possui responsabilidade objetiva, que independe de comprovação de culpa, demandando comprovação de nexo de causalidade e ausência de excludentes de responsabilização, respondendo o Poder <mark>Concedente apenas em caráter subsidiário.</mark>**
 
 D) tanto o poder concedente como a concessionária poderão ser responsabilizados pelos danos, sempre em caráter solidário, se não houver comprovação de caso fortuito, força maior ou culpa exclusiva de terceiros.
 
@@ -277,7 +277,10 @@ D) tanto o poder concedente como a concessionária poderão ser responsabilizado
 
 ---
 
-E) trata-se de hipótese de responsabilidade subjetiva, que recai sobre o poder concedente ou, subsidiariamente, sobre a concessionária e seus agentes, condicionada à comprovação do nexo de causalidade e da culpabilidade de cada qual. Ano: 2022 Banca: FCC Órgão: TRT - 23ª REGIÃO (MT) Prova: FCC - 2022 - TRT - 23ª REGIÃO (MT) - Analista Judiciário - Área Administrativa Joaquim, policial civil, conduzia a viatura policial na via pública, em velocidade compatível com as regras de trânsito, ocasião em que se envolveu em um acidente de trânsito com o automóvel conduzido por Jeferson, particular, que ultrapassou, em alta velocidade, indevidamente o sinal semafórico que lhe era desfavorável e, em razão dessa sua conduta, causou o referido acidente. Do sinistro, Jeferson sofreu lesões graves, fraturando uma de suas pernas. Joaquim não sofreu qualquer lesão. Diante dessa situação hipotética,
+E) trata-se de hipótese de responsabilidade subjetiva, que recai sobre o poder concedente ou, subsidiariamente, sobre a concessionária e seus agentes, condicionada à comprovação do nexo de causalidade e da culpabilidade de cada qual. 
+
+
+Ano: 2022 Banca: FCC Órgão: TRT - 23ª REGIÃO (MT) Prova: FCC - 2022 - TRT - 23ª REGIÃO (MT) - Analista Judiciário - Área Administrativa Joaquim, policial civil, conduzia a viatura policial na via pública, em velocidade compatível com as regras de trânsito, ocasião em que se envolveu em um acidente de trânsito com o automóvel conduzido por Jeferson, particular, que ultrapassou, em alta velocidade, indevidamente o sinal semafórico que lhe era desfavorável e, em razão dessa sua conduta, causou o referido acidente. Do sinistro, Jeferson sofreu lesões graves, fraturando uma de suas pernas. Joaquim não sofreu qualquer lesão. Diante dessa situação hipotética,
 
 A) o Estado poderá ser responsabilizado, contudo, de forma mitigada, em razão da culpa recíproca dos envolvidos.
 
@@ -287,15 +290,16 @@ C) diante do nexo causal havido entre as lesões sofridas por Jeferson e o acide
 
 D) não há qualquer responsabilidade do Estado, no caso em questão, pois o policial civil está amparado pelo princípio da supremacia do interesse público.
 
-**E) não há, para o Estado, o dever de indenizar Jeferson, diante da culpa exclusiva da vítima, que ultrapassou**
-
-**indevidamente o sinal, excluindo-se, assim, a responsabilidade civil do Estado.**
+**E) não há, para o Estado, o dever de indenizar Jeferson, diante da culpa exclusiva da vítima, que ultrapassou indevidamente o sinal, excluindo-se, assim, a responsabilidade civil do Estado.**
 
   - Concessionária de rodovia não responde civilmente por roubo e sequestro - A ocorrência de roubo e sequestro, com emprego de arma de fogo, é evento capaz e suficiente para romper com a existência de nexo causal, afastando-se, assim, a responsabilidade da recorrente.
 
 **Abaixo serão expostos julgados do STJ nos temas abordados até aqui:**
 
-  - No caso de vítima atingida por projétil de arma de fogo durante uma operação policial, é dever do Estado, em decorrência de sua responsabilidade civil objetiva, provar a exclusão do nexo causal entre o ato e o dano, pois ele é presumido. (ARE 1.382.159 AgR/RJ)
+  - No caso de vítima atingida por projétil de arma de fogo durante uma operação policial, é dever do Estado, em decorrência de sua responsabilidade civil objetiva, provar a exclusão do nexo causal entre o ato e o dano, pois ele é presumido[^1]. (ARE 1.382.159 AgR/RJ)
+  
+>[!tip] aqui aplica-se a [[teoria do risco administrativo]].
+
 
   - No contexto de incursões policiais, comprovado o confronto armado entre agentes estatais e criminosos (ação), e a lesão ou morte de cidadão (dano) por disparo de arma de fogo (nexo), o Estado deve comprovar a ocorrência de hipóteses interruptivas da relação de causalidade.
 
@@ -314,21 +318,16 @@ laudos que permitam a identificação das reais circunstâncias da morte de civi
 
   - Perícia inconclusiva não afasta a responsabilidade do Estado
 
-- É objetiva a Responsabilidade Civil do Estado em relação a profissional da imprensa ferido por agentes policiais durante cobertura jornalística, em manifestações em que haja tumulto ou conflitos entre policiais e manifestantes.
-
+- É objetiva a Responsabilidade Civil do Estado em relação a profissional da imprensa ferido por agentes policiais durante cobertura jornalística, em manifestações em que haja tumulto ou conflitos entre policiais e manifestantes. 
   - Cabe a excludente da responsabilidade da culpa exclusiva da vítima, nas hipóteses em que o profissional de imprensa descumprir ostensiva e clara advertência sobre acesso a áreas delimitadas, em que haja grave risco à sua integridade física (RE 1209429/SP)
 
-  - O Superior Tribunal de Justiça, alinhando-se ao entendimento do Excelso Pretório, firmou compreensão de que
-
-  - Poder Público, inclusive por atos omissivos, responde de forma objetiva quando constatada a precariedade/vício no serviço decorrente da falha no dever legal e específico de agir.
+  - O Superior Tribunal de Justiça, alinhando-se ao entendimento do Excelso Pretório, firmou compreensão de que - Poder Público, inclusive por atos omissivos, responde de forma objetiva quando constatada a precariedade/vício no serviço decorrente da falha no dever legal e específico de agir.
 
   - A atividade exercida pelos hospitais, por sua natureza, inclui, além do serviço técnico-médico, o serviço auxiliar de estadia e, por tal razão, está o ente público obrigado a disponibilizar equipe/pessoal e equipamentos necessários e eficazes para o alcance dessa finalidade.
 
   - Afasta-se fato de terceiro
 
-- O hospital que deixa de fornecer o mínimo serviço de segurança, contribuindo de forma determinante e específica para homicídio praticado em suas dependências, responde objetivamente pela conduta omissiva (REsp n.
-
-1.708.325/RS)
+- O hospital que deixa de fornecer o mínimo serviço de segurança, contribuindo de forma determinante e específica para homicídio praticado em suas dependências, responde objetivamente pela conduta omissiva (REsp n. 1.708.325/RS)
 
   - Estado com dever legal e específico de agir
 
@@ -352,6 +351,8 @@ laudos que permitam a identificação das reais circunstâncias da morte de civi
   - Para que fique caracterizada a responsabilidade civil do Estado por danos decorrentes do comércio de fogos de artifício, é necessário que exista a violação de um dever jurídico específico de agir, que ocorrerá quando for concedida a licença para funcionamento sem as cautelas legais ou quando for de conhecimento do poder público eventuais irregularidades praticadas pelo particular. (RE 136861)
 
   - É imprescindível para o reconhecimento da responsabilidade civil do Estado em decorrência da fixação de preços no setor sucroalcooleiro a comprovação de efetivo prejuízo econômico, mediante perícia técnica em cada caso concreto. (ARE 884325)
+
+
 
 **Bloco 3**
 
@@ -872,3 +873,5 @@ DEFERIR PARCIALMENTE A MEDIDA CAUTELAR, ad referendum do Plenário desta SUPREMA
 - exceção: comunicabilidade – condenação penal transitada em julgado afeta civil e administrativo; absolvição penal por negativa de fato ou de autoria afeta civil e a administrativo DEFERIR PARCIALMENTE A MEDIDA CAUTELAR, ad referendum do Plenário desta SUPREMA CORTE, com fundamento no art. 10, § 3º, da Lei 9.868/1999, e no art. 21, V, do RISTF, para CONFERIR INTERPRETAÇÃO CONFORME ao artigo 23-C, da Lei 8.429/1992, incluído pela Lei 14.230/2021, no sentido de que os atos que ensejem enriquecimento ilícito, perda patrimonial, desvio, apropriação, malbaratamento ou dilapidação de recursos públicos dos partidos políticos, ou de suas fundações, poderão ser responsabilizados nos termos da Lei 9.096/1995, mas sem prejuízo da incidência da Lei de Improbidade Administrativa.
 
 - Segundo o relator, o tratamento diferenciado dado a esses casos desrespeita o princípio constitucional da isonomia.
+
+[^1]: EM RELAÇÃO AO NEXO CAUSAL

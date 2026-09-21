@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ca8d35a22eef9944",
+        "id": "6fd83533997c3831",
         "type": "tabs",
         "children": [
           {
-            "id": "111d551c5400a781",
+            "id": "b6d77f3931e44da0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -186,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.7215576171875,
-    "collapsed": true
+    "width": 447.7215576171875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,11 +202,50 @@
       "pencil:New whiteboard": false
     }
   },
-  "active": "111d551c5400a781",
+  "floating": {
+    "id": "21d0874eac7f67f3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e60f21c0ef909b7e",
+        "type": "window",
+        "children": [
+          {
+            "id": "2fb01156fc505c61",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b3fb01cd0df51b92",
+                "type": "leaf",
+                "state": {
+                  "type": "pencil-whiteboard",
+                  "state": {
+                    "file": "DIREITO ADMINISTRATIVO/A8/DIR.ADM.A.8/Resumo Bloco 2.pencil"
+                  },
+                  "icon": "pencil-pencil",
+                  "title": "Resumo Bloco 2"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -859,
+        "y": -355,
+        "width": 663,
+        "height": 608,
+        "maximize": false,
+        "zoom": 3
+      }
+    ]
+  },
+  "active": "b6d77f3931e44da0",
   "lastOpenFiles": [
+    "DIREITO ADMINISTRATIVO/A8/DIR.ADM.A.8/Resumo Bloco 2.pencil",
     "DIREITO ADMINISTRATIVO/A8/DIR.ADM.A.8/DIR.ADM.A.8.md",
+    "DIREITO ADMINISTRATIVO/A8/DIR.ADM.A.8/Resumo Bloco 1.pencil",
+    "Ink/Writing/2026.9.21 - 8.19am.svg",
     "Ink/Writing/2026.9.19 - 11.19am.svg",
-    "DIREITO ADMINISTRATIVO/A8/DIR.ADM.A.8/Whiteboard.pencil",
     "00_inbox/Prova/Drawing 2026-09-14 16.21.18.excalidraw.md",
     "00_inbox/analise-repeticao-dataprev-2026.md",
     "DIREITO ADMINISTRATIVO/A7/DIR.ADM.A.7/pencil.adm7.1.pencil",
@@ -220,7 +258,6 @@
     "ENAM Direito Processual Civil.docx",
     "ENAM Direito Penal questões comentadas.docx",
     "ENAM Direito Civil questoes comentadas.docx",
-    "ENAM Direito Administrativo 50 questões.docx",
     "Pasted image 20260910185507.png",
     "VADE MECUM/Lei.md",
     "Ink/Writing/2026.9.10 - 18.28pm.svg",
@@ -230,7 +267,6 @@
     "Ink/Writing/2026.9.10 - 16.53pm.svg",
     "Ink/Writing/2026.9.10 - 16.36pm.svg",
     "Ink/Writing/2026.9.10 - 16.34pm.svg",
-    "Ink/Writing/2026.9.10 - 16.24pm.svg",
     "DIREITO ADMINISTRATIVO/A4/DIR.ADM.A.4/DIR.ADM.A.4.md",
     "reversão jurisprudêncial..md",
     "autodeterminação dos povos;.md",

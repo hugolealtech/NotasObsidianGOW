@@ -1,4 +1,6 @@
 {
-  "customColors": [],
+  "customColors": [
+    "#7b6b6b"
+  ],
   "pressureEnabled": false
 }
