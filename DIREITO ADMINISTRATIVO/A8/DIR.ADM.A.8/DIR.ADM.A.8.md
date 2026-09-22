@@ -562,34 +562,36 @@ Tese de julgamento:
 
 **Bloco 4**. #PareiAqui
 
-**7) PRESCRIÇÃO**
+##### **7) PRESCRIÇÃO**
 
   - Perda da pretensão
 
 7.1) Ação de Indenização
 
-  - Regra: prescritível em 5 anos da ocorrência do fato – decreto 20910/32
+  >[!success] Regra: prescritível em 5 anos da ocorrência do fato – art.1ª decreto 20910/32
 
   - Enunciado 40 do CJF, nas ações indenizatórias ajuizadas contra a Fazenda Pública aplica-se o prazo prescricional quinquenal previsto no Decreto nº 20.910/1932 (art. 1º), em detrimento do prazo trienal estabelecido no Código Civil de 2002 (art. 206, § 3º, V), por se tratar de norma especial que prevalece sobre a geral.
 
-  - Exceção: súmula 647 do STJ: São imprescritíveis as ações indenizatórias por danos morais e materiais decorrentes de atos de perseguição política com violação de direitos fundamentais ocorridos durante o regime militar.
+  - Exceção: súmula 647 do STJ: São [[imprescritíveis]] as ações indenizatórias por danos morais e materiais decorrentes de atos de perseguição política com violação de direitos fundamentais ocorridos durante o regime militar.
 
-7.2) Ação de Regresso
+###### 7.2) Ação de Regresso
 
   - Em regra, é prescritível no prazo de 5 anos do trânsito em julgado da ação de indenização – dec 20910/32
 
-  - Exceção: ação de ressarcimento por atos dolosos de improbidade são IMPRESCRITÍVEIS
+  - Exceção: ação de ressarcimento por atos #dolosos de improbidade são IMPRESCRITÍVEIS
 
-  - É obrigatória em razão do princípio da indisponibilidade do interesse público Aspecto complementar:
+  - É obrigatória em razão do princípio da [[indisponibilidade do interesse público]] 
+  
+  Aspecto complementar:
 
 ---
 *p. 14*
 
 ---
 
-  - E a anistia?
-
-  - Declaração como anistiado político é imprescritível
+  >[!E a anistia?]-
+  Declaração como anistiado político é imprescritível.
+  
 
   - a pretensão reparatória é prescritível em 5 anos. Contados da publicação da lei 10559/02
 
@@ -599,27 +601,29 @@ Tese de julgamento:
 
 -EDcl no AgRg nos EMBARGOS À EXECUÇÃO EM MANDADO DE SEGURANÇA Nº 11.311 - DF
 
-**8) RESPONSABILIDADE DO ATOS LEGISLATIVOS**
+###### **8) RESPONSABILIDADE DO ATOS LEGISLATIVOS**
 
-  - Regra: Não há responsabilidade
+  >[!success] Regra: Não há responsabilidade
+  >  - Caráter genérico e abstrato das normas – afasta a configuração de danos individualizados.
+  
+  
+>[!abstract] Abaixo estão expostas as três situações excepcionais em que há responsabilidade do Estado:
+>
+>1. Leis de efeitos concretos:
+>2. Leis inconstitucionais:
+>3. Omissão Constitucional quanto ao dever de Legislar:
 
-  - Caráter genérico e abstrato das normas – afasta a configuração de danos individualizados
+###### 8.1) Lei de efeitos concretos
 
-  - Abaixo estão expostas as três situações excepcionais em que há responsabilidade do Estado
-
-8.1) Lei de efeitos concretos
-
-  - Lei que possui forma de lei (devido processo legislativo), mas matéria de ato administrativo (afasta a abstratividade e generalidade)
+  - Lei que possui forma de lei (devido processo legislativo), mas matéria de [[ato administrativo]] (afasta a abstratividade e generalidade)
 
   - Ex: lei municipal que proíba a circulação de carros em uma rua, que tenha um posto de gasolina
 
   - se o fundamento da irresponsabilidade estatal é o caráter genérico e abstrato das leis, deve ser reconhecida a possibilidade de responsabilidade civil nos casos em que as leis não possuem tais atributos.
 
-  - A lei de efeitos concretos é uma lei em sentido formal, uma vez que a sua produção pelo Poder Legislativo observa
+  - A lei de efeitos concretos é uma lei em sentido formal, uma vez que a sua produção pelo Poder Legislativo observa  processo de criação de normas jurídicas, mas é um ato administrativo em sentido material, em virtude dos efeitos individualizados
 
-  - processo de criação de normas jurídicas, mas é um ato administrativo em sentido material, em virtude dos efeitos individualizados
-
-8.2) Leis inconstitucionais
+##### 8.2) Leis inconstitucionais
 
   - Além de inconstitucional, deve gerar dano
 
@@ -637,7 +641,7 @@ Tese de julgamento:
 > [!attention] Atenção!
 >   - Obs: modulação de efeitos pode impactar na responsabilidade civil do Estado – Efeitos ex nunc ou prospectivos impediriam a responsabilidade
 
-8.3) Omissão inconstitucional quanto ao dever de legislar
+##### 8.3) Omissão inconstitucional quanto ao dever de legislar
 
   - Omissão deve gerar dano
 
@@ -647,7 +651,7 @@ Tese de julgamento:
 
   - Nos demais casos, a inexistência de prazo para o exercício do dever de legislar por parte do Poder Legislativo impõe a necessidade de configuração da mora legislativa por decisão proferida em sede de mandado de injunção ou ação direta de inconstitucionalidade por omissão
 
-**9) RESPONSABILIDADE POR ATOS DO PODER JUDICIÁRIO**
+##### **9) RESPONSABILIDADE POR ATOS DO PODER JUDICIÁRIO**
 
   - Atividade Judiciária X Atividade Jurisdicional
 
@@ -674,11 +678,6 @@ Tese de julgamento:
 **- Primeiro entendimento:** a responsabilidade restringe-se ao erro judiciário oriundo da jurisdição penal, inexistindo responsabilidade por eventuais erros cometidos na jurisdição cível
 
 **- Segundo entendimento:** a responsabilidade estatal abrange a jurisdição penal e a civil, uma vez que o art. 5.º, LXXV, da CRFB não estabeleceu qualquer distinção - PREVALECE
-
----
-*p. 16*
-
----
 
   - Prisão além do tempo fixado em sentença
 
