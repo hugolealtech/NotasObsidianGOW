@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.68701171875,
-    "collapsed": true
+    "width": 329.68701171875
   },
   "right": {
     "id": "1f21ed8ca2632c5a",
@@ -186,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.7215576171875,
-    "collapsed": true
+    "width": 447.7215576171875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,13 +235,45 @@
         "height": 1037,
         "maximize": false,
         "zoom": 3
+      },
+      {
+        "id": "73e2e355abcaca57",
+        "type": "window",
+        "children": [
+          {
+            "id": "8690bb6b9935cdd0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "10a47e208e47a53e",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "RACIOCÍNIO LÓGICO/A2/RACIOCINIO LOGICO A2 DRAW.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "RACIOCINIO LOGICO A2 DRAW"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 224,
+        "y": 31,
+        "width": 600,
+        "height": 1071,
+        "maximize": false,
+        "zoom": 3
       }
     ]
   },
-  "active": "64e2ed81a4f22a16",
+  "active": "3ec4419ac0785747",
   "lastOpenFiles": [
-    "RACIOCÍNIO LÓGICO/A2/RACIOCÍNIO LOGICO A2.pdf",
+    "RACIOCÍNIO LÓGICO/A2/RACIOCINIO LOGICO A2 DRAW.md",
     "RACIOCÍNIO LÓGICO/A2/RACIOCNIO_LOGICO_A2.md",
+    "RACIOCÍNIO LÓGICO/A2/RACIOCÍNIO LOGICO A2.pdf",
     "RACIOCÍNIO LÓGICO/A2/images/RACIOCNIO_LOGICO_A2-img9-pg4.png",
     "RACIOCÍNIO LÓGICO/A2/images/RACIOCNIO_LOGICO_A2-img8-pg4.png",
     "RACIOCÍNIO LÓGICO/A2/images/RACIOCNIO_LOGICO_A2-img7-pg3.png",

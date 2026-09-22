@@ -49,7 +49,7 @@
   "height": "",
   "overrideObsidianFontSize": false,
   "dynamicStyling": "colorful",
-  "isLeftHanded": false,
+  "isLeftHanded": true,
   "desktopUIMode": "tray",
   "tabletUIMode": "compact",
   "phoneUIMode": "mobile",

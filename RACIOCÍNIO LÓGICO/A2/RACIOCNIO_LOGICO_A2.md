@@ -22,7 +22,7 @@ assunto: |-
   9.5.1 a primeira lei de Augustus Demorgan
 caminho:
 ---
-
+ 
 - [[8. Tabela-verdade de proposições compostas]]
   - [[8.1 tautologia]]
   - [[8.2 forma mais simples de tautologia]]
