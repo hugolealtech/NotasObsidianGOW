@@ -287,17 +287,14 @@ D) tanto o poder concedente como a concessionária poderão ser responsabilizado
 E) trata-se de hipótese de responsabilidade subjetiva, que recai sobre o poder concedente ou, subsidiariamente, sobre a concessionária e seus agentes, condicionada à comprovação do nexo de causalidade e da culpabilidade de cada qual. 
 
 
-Ano: 2022 Banca: FCC Órgão: TRT - 23ª REGIÃO (MT) Prova: FCC - 2022 - TRT - 23ª REGIÃO (MT) - Analista Judiciário - Área Administrativa Joaquim, policial civil, conduzia a viatura policial na via pública, em velocidade compatível com as regras de trânsito, ocasião em que se envolveu em um acidente de trânsito com o automóvel conduzido por Jeferson, particular, que ultrapassou, em alta velocidade, indevidamente o sinal semafórico que lhe era desfavorável e, em razão dessa sua conduta, causou o referido acidente. Do sinistro, Jeferson sofreu lesões graves, fraturando uma de suas pernas. Joaquim não sofreu qualquer lesão. Diante dessa situação hipotética,
-
+>[!question] 
+>Ano: 2022 Banca: FCC Órgão: TRT - 23ª REGIÃO (MT) Prova: FCC - 2022 - TRT - 23ª REGIÃO (MT) - Analista Judiciário - Área Administrativa Joaquim, policial civil, conduzia a viatura policial na via pública, em velocidade compatível com as regras de trânsito, ocasião em que se envolveu em um acidente de trânsito com o automóvel conduzido por Jeferson, particular, que ultrapassou, em alta velocidade, indevidamente o sinal semafórico que lhe era desfavorável e, em razão dessa sua conduta, causou o referido acidente. Do sinistro, Jeferson sofreu lesões graves, fraturando uma de suas pernas. Joaquim não sofreu qualquer lesão. Diante dessa situação hipotética,
 A) o Estado poderá ser responsabilizado, contudo, de forma mitigada, em razão da culpa recíproca dos envolvidos.
-
 B) caracterizada a responsabilidade civil do Estado diante da teoria do risco integral ao qual se submete a Administração nos casos de sinistros envolvendo particulares.
-
 C) diante do nexo causal havido entre as lesões sofridas por Jeferson e o acidente em que se envolveu o agente estatal, a responsabilidade civil do Estado está plenamente caracterizada.
-
 D) não há qualquer responsabilidade do Estado, no caso em questão, pois o policial civil está amparado pelo princípio da supremacia do interesse público.
-
 **E) não há, para o Estado, o dever de indenizar Jeferson, diante da culpa exclusiva da vítima, que ultrapassou indevidamente o sinal, excluindo-se, assim, a responsabilidade civil do Estado.**
+
 
   - Concessionária de rodovia não responde civilmente por roubo e sequestro - A ocorrência de roubo e sequestro, com emprego de arma de fogo, é evento capaz e suficiente para romper com a existência de nexo causal, afastando-se, assim, a responsabilidade da recorrente.
 
@@ -725,25 +722,27 @@ E) procedente, pois a responsabilidade da concessionária por danos causados a p
 
 **Bloco 5**
 
-**Improbidade Administrativa**
+#### **Improbidade Administrativa**
 
 1) Conceito e comentários iniciais
 
-  - A improbidade administrativa é uma imoralidade qualificada, isto é, uma situação de enorme gravidade.
+>[!abstract] A improbidade administrativa é uma ==imoralidade qualificada==, isto é, uma situação de enorme gravidade.
 
   - Nem toda ilegalidade é improbidade
 
-> [!quote] 
-> LEI
->   - Art. 37 §4º da CF – disciplinado pela lei 8429/92, que sofreu alterações pela lei 14230/21
+> [!quote] Improbidade Administrativa na CF
+> Art. 37 §4º da CF – disciplinado pela lei 8429/92, que sofreu alterações pela lei 14230/21
 
-  - O art. 37, § 4º da CR/88 é o dispositivo constitucional que consagra a improbidade administrativa. De acordo com
 
-  - dispositivo citado, os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível. Ademais, observe que, no caso concreto, o juiz não precisa aplicar todas as sanções previstas constitucionalmente. Ainda, a Lei nº 8.429/92, lei que regula a improbidade administrativa, elenca outras sanções.
+
+  - O art. 37, § 4º da CR/88 é o dispositivo constitucional que consagra a improbidade administrativa. 
+  
+  - De acordo com o dispositivo citado, os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível. Ademais, observe que, no caso concreto, o juiz não precisa aplicar todas as sanções previstas constitucionalmente. 
+  - Ainda, a Lei nº 8.429/92, lei que regula a improbidade administrativa, elenca outras sanções.
 
   - A doutrina preocupa-se em diferenciar a moralidade da probidade. Contudo, a melhor doutrina entende que essas expressões se equivalem, de modo que a moralidade seria o princípio e a improbidade seria a lesão ao princípio.
 
-  - **Natureza jurídica** da ação de improbidade: ação civil
+  >[!success] **Natureza jurídica** da ação de improbidade: ação civil
 
   - Repito: observe-se ainda que a ação de improbidade administrativa não se configura como uma ação penal. Sempre se pontuou que a ação de improbidade era uma ação civil. Todavia, o art 17-D estabelece que a ação seria repressiva, de caráter sancionatório.
 
@@ -752,17 +751,12 @@ E) procedente, pois a responsabilidade da concessionária por danos causados a p
 >   - Art. 17-D diz ainda que não seria uma ação civil
 
   - STF - Observe que a ação de improbidade administrativa consiste em ação de natureza civil, e não penal. Assim,
-
-**não há** que se falar em foro por prerrogativa de função nessas ações. Isso ocorre pelo fato de a Constituição Federal prever foro apenas para as ações penais, como se depreende da leitura dos arts. 102 (competência do STF) e 105 (competência do STJ) da CR/88.
+>[!danger] Não há foro por prerrogativa de função de improbidade administrativa.
+>**não há** que se falar em foro por prerrogativa de função nessas ações. Isso ocorre pelo fato de a Constituição Federal prever foro **==apenas para as ações penais==**, como se depreende da leitura dos arts. 102 (competência do STF) e 105 (competência do STJ) da CR/88.
 
   - Nem mesmo emenda à CE pode trazer esse fora para improbidade
 
   - Foro por prerrogativa é estabelecido pela CF, podendo a CE, por assimetria, adequar ao âmbito estadual
-
----
-*p. 19*
-
----
 
 > [!quote] 
 > LEI
@@ -774,11 +768,7 @@ E) procedente, pois a responsabilidade da concessionária por danos causados a p
 
 1) É necessária a comprovação de responsabilidade subjetiva para a tipificação dos atos de improbidade administrativa, exigindo-se nos artigos 9º, 10 e 11 da LIA a presença do elemento subjetivo dolo;
 
-2) A norma benéfica da Lei 14.230/2021 revogação da modalidade culposa do ato de improbidade administrativa, é
-
-**irretroativa**, em virtude do artigo 5º, inciso XXXVI, da Constituição Federal, **não tendo incidência em relação à**
-
-**eficácia da coisa julgad** a; nem tampouco durante o processo de execução das penas e seus incidentes;
+2) A norma benéfica da Lei 14.230/2021 revogação da modalidade culposa do ato de improbidade administrativa, é **irretroativa**, em virtude do artigo 5º, inciso XXXVI, da Constituição Federal, **não tendo incidência em relação à eficácia da coisa julgada** ; nem tampouco durante o processo de execução das penas e seus incidentes;
 
 3) A nova Lei 14.230/2021 aplica-se aos atos de improbidade administrativa culposos praticados na vigência do texto anterior, **porém sem condenação transitada em julgado**, em virtude da revogação expressa do tipo culposo, devendo o juízo competente analisar eventual dolo por parte do agente.
 
@@ -787,11 +777,10 @@ E) procedente, pois a responsabilidade da concessionária por danos causados a p
 > [!attention] Atenção!
 >   - Obs. a nova LIA revogou os tipos culposos da lei anterior
 
-  - Agora é necessário o dolo específico (quer atingir o resultado pretendido)
-
-  - A aplicação retroativa não é automática, já que deve analisar o dolo do agente (se não houver, extingue-se o processo)
-
-  - A partir de 26/10/2021- publicação da nova LIA
+>[!abstract] Em resumo
+> - Agora é necessário o dolo específico (quer atingir o resultado pretendido).
+> - A aplicação retroativa não é automática, já que deve analisar o dolo do agente (se não houver, extingue-se o processo).
+> - A partir de 26/10/2021- publicação da nova LIA
 
 > [!attention] Atenção!
 > -Obs. a) O dolo é necessário para a configuração de qualquer ato de improbidade administrativa (art. 37, § 4º, da Constituição Federal), de modo que é inconstitucional a modalidade culposa de ato de improbidade administrativa prevista nos artigos 5º e 10 da Lei 8.429/92, em sua redação originária. (RE) 656558) RE não transitado em julgado até o momento dessa aula (está com ED para que o STF enfrente o conflito entre este julgado e o anterior)
@@ -803,14 +792,8 @@ E) procedente, pois a responsabilidade da concessionária por danos causados a p
 > [!warning] Jurisprudência
 > - ADI 7236 – julgamento apenas em caráter cautelar
 
----
-*p. 20*
 
----
-
-DEFERIR PARCIALMENTE A MEDIDA CAUTELAR, ad referendum do Plenário desta SUPREMA CORTE, com fundamento no art. 10, § 3º, da Lei 9.868/1999, e no art. 21, V, do RISTF, para SUSPENDER A EFICÁCIA dos artigos, todos da Lei
-
-8.429/1992, incluídos ou alterados pela Lei 14.230/2021:
+DEFERIR PARCIALMENTE A MEDIDA CAUTELAR, ad referendum do Plenário desta SUPREMA CORTE, com fundamento no art. 10, § 3º, da Lei 9.868/1999, e no art. 21, V, do RISTF, para SUSPENDER A EFICÁCIA dos artigos, todos da Lei 8.429/1992, incluídos ou alterados pela Lei 14.230/2021:
 
 (a) 1º, § 8º: Não configura improbidade a ação ou omissão decorrente de divergência interpretativa da lei, baseada em jurisprudência, ainda que não pacificada, mesmo que não venha a ser posteriormente prevalecente nas decisões dos órgãos de controle ou dos tribunais do Poder Judiciário.
 
@@ -818,11 +801,11 @@ DEFERIR PARCIALMENTE A MEDIDA CAUTELAR, ad referendum do Plenário desta SUPREMA
 
 -O ministro assinala que há muitos juízes e tribunais competentes para julgar os casos de improbidade administrativa, além de vários tipos de procedimentos. Assim, haverá diversas sentenças que não servem para definir o entendimento do Poder Judiciário como um todo.
 
-(b) 12, § 1º: A sanção de perda da função pública, nas hipóteses dos incisos I e II do caput deste artigo, atinge apenas
+>[!danger] 
+>(b) 12, § 1º: A sanção de perda da função pública, nas hipóteses dos incisos I e II do caput deste artigo, atinge apenas vínculo de mesma qualidade e natureza que o agente público ou político detinha com o poder público na época do cometimento da infração, podendo o magistrado, na hipótese do inciso I do caput deste artigo, e em caráter excepcional, estendê-la aos demais vínculos, consideradas as circunstâncias do caso e a gravidade da infração
 
-- vínculo de mesma qualidade e natureza que o agente público ou político detinha com o poder público na época do cometimento da infração, podendo o magistrado, na hipótese do inciso I do caput deste artigo, e em caráter excepcional, estendê-la aos demais vínculos, consideradas as circunstâncias do caso e a gravidade da infração
-
-- ex. pratica ato como prefeito, mas no momento do trânsito em julgado está atuando como deputado federal – para a literalidade do artigo não perderia o cargo; somente perderia se estivesse, ainda, como prefeito
+>[!example] 
+> pratica ato como prefeito, mas no momento do trânsito em julgado está atuando como deputado federal – para a literalidade do artigo não perderia o cargo; somente perderia se estivesse, ainda, como prefeito
 
 -No entendimento do relator, a defesa da probidade administrativa impõe a perda da função pública independentemente do cargo ocupado no momento da condenação.
 
@@ -834,7 +817,8 @@ DEFERIR PARCIALMENTE A MEDIDA CAUTELAR, ad referendum do Plenário desta SUPREMA
 > [!attention] Atenção!
 > - Atenção, pois o dispositivo acima está com eficácia suspensa – no exemplo, perderá o cargo de deputado federal
 
-(c) 12, § 10: Para efeitos de contagem do prazo da sanção de suspensão dos direitos políticos, computar-se-á retroativamente o intervalo de tempo entre a decisão colegiada e o trânsito em julgado da sentença condenatória
+>[!abstract]
+>(c) 12, § 10: Para efeitos de contagem do prazo da sanção de suspensão dos direitos políticos, computar-se-á retroativamente o intervalo de tempo entre a decisão colegiada e o trânsito em julgado da sentença condenatória
 
 - ex. decisão colegiada em 2024; trânsito em julgado em 2032 com condenação em suspensão dos direitos políticos por 7 anos; o tempo de 6 anos entre 2024 e 2030 seriam computados na sanção (ou seja, cumpriria 1 ano apenas)
 
@@ -847,15 +831,15 @@ DEFERIR PARCIALMENTE A MEDIDA CAUTELAR, ad referendum do Plenário desta SUPREMA
 
 ---
 
-(d) 17-B, § 3º: Para fins de apuração do valor do dano a ser ressarcido, deverá ser realizada a oitiva do Tribunal de Contas competente, que se manifestará, com indicação dos parâmetros utilizados, no prazo de 90 (noventa) dias
+>[!abstract] 
+>(d) 17-B, § 3º: Para fins de apuração do valor do dano a ser ressarcido, deverá ser realizada a oitiva do Tribunal de Contas competente, que se manifestará, com indicação dos parâmetros utilizados, no prazo de 90 (noventa) dias
 
 - Esse dispositivo está no bojo do ANPC
 
 -Para o relator, entre outros pontos, a medida condiciona o exercício da atividade-fim do Ministério Público à atuação da Corte de Contas, em possível interferência na autonomia funcional do MP.
 
-(e) 21, § 4º: A absolvição criminal em ação que discuta os mesmos fatos, confirmada por decisão colegiada, impede
-
-- trâmite da ação da qual trata esta Lei, havendo comunicação com todos os fundamentos de absolvição previstos no art. 386 do Decreto-Lei nº 3.689, de 3 de outubro de 1941
+>[!danger] 
+>(e) 21, § 4º: A absolvição criminal em ação que discuta os mesmos fatos, confirmada por decisão colegiada, impede trâmite da ação da qual trata esta Lei, havendo comunicação com todos os fundamentos de absolvição previstos no art. 386 do Decreto-Lei nº 3.689, de 3 de outubro de 1941.
 
 - se o sujeito foi absolvido, penalmente e por qualquer fator, por decisão colegiada, será absolvido da improbidade
 
