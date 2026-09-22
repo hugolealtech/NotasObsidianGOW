@@ -512,11 +512,11 @@ Tese de julgamento:
 
   - Teoria da causalidade direta Não é possível a condenação de prefeito ao ressarcimento de valores despendidos na realização dos trabalhos desenvolvidos com vista à elaboração de Projeto de Lei, na hipótese em que o ato administrativo encaminhado à Câmara Municipal desconsidera a legislação vigente, e é praticado com desvio de finalidade. (AREsp 1.408.660-SP)
 
-**4) Relação de Custódia**
+##### **4) Relação de Custódia**
 
   - Pessoas e bens para as quais o Estado tem dever de guarda/proteção
 
-  >[!danger] mais robusto – difícil o rompimento, mas ainda possível
+  >[!danger]  nexo causal mais robusto – difícil o rompimento, mas ainda possível
 
   - Estado como garante
 
@@ -524,27 +524,29 @@ Tese de julgamento:
 
   - Ex. preso, estudante de escola pública, bens apreendidos
 
-  - Decisão STF: RE 841526/RS, rel. Min. Luiz Fux, 30.3.2016 – situação imprevisível e inesperada, rompe o nexo causal (quando o Estado não tem possibilidade de atuar para evitar o evento danoso) RESPONSABILIDADE CIVIL – SERVIÇO PÚBLICO – FURTO – POSTO DE PESAGEM – VEÍCULO. A teor do disposto no artigo 37, § 6º, da Constituição Federal, há responsabilidade civil de pessoa jurídica prestadora de serviço público em razão de dano decorrente de crime de furto praticado em posto de pesagem, considerada a omissão no dever de vigilância e falha na prestação e organização do serviço. (RE 598356)
-
+  >[!abstract] Furto em posto de pesagem - Responsabilidade do Estado - art. 6.ª, § 6 CF.
+  >Decisão STF: RE 841526/RS, rel. Min. Luiz Fux, 30.3.2016 – situação imprevisível e inesperada, rompe o nexo causal (quando o Estado não tem possibilidade de atuar para evitar o evento danoso) RESPONSABILIDADE CIVIL – SERVIÇO PÚBLICO – FURTO – POSTO DE PESAGEM – VEÍCULO. A teor do disposto no artigo 37, § 6º, da Constituição Federal, há responsabilidade civil de pessoa jurídica prestadora de serviço público em razão de dano decorrente de crime de furto praticado em posto de pesagem, considerada a omissão no dever de vigilância e falha na prestação e organização do serviço. (RE 598356).
+  
 ##### **5) DANOS DECORRENTES DE OBRAS**
 
-5.1) Dano pelo simples fato da obra
+###### 5.1) Dano pelo simples fato da obra
 
   - Responsabilidade objetiva do Estado
 
   - Ex. obra que interdita rua e prejudica a oficina
 
-5.2) Dano Resultante pelo Comportamento Doloso ou Culposo de um Empregado da Contratada
+###### 5.2) Dano Resultante pelo Comportamento Doloso ou Culposo de um Empregado da Contratada
 
   - Responsabilidade subjetiva da contratada
 
   - Lei 14.133 – licitações
+  
 >[!abstract] VEJA A DIFERENÇA ENTRE CONCESSIONÁRIA E CONTRATADA.
 >A principal diferença entre um **contratado via Lei nº 14.133/2021 (Nova Lei de Licitações)** e uma **concessionária de serviço público** está em **quem paga pelo serviço** e em **quem assume o risco** do negócio. 
 >No contrato administrativo comum (Lei 14.133), a empresa vende um bem ou serviço diretamente para a Administração Pública e é paga por ela. Na concessão (regulada pela Lei 8.987/1995), a empresa passa a gerir um serviço público por sua conta e risco, sendo remunerada, em geral, pelas tarifas pagas pelos usuários.
 
 
-5.3) Dano Resultante de uma Conduta do Estado e da Contratada
+###### 5.3) Dano Resultante de uma Conduta do Estado e da Contratada
 
   - Responsabilidade objetiva do Estado
 
@@ -552,13 +554,13 @@ Tese de julgamento:
 
   - Proporcional a cada conduta
 
-**6) DANOS DECORRENTES DE ATOS DE MULTIDÕES**
+###### **6) DANOS DECORRENTES DE ATOS DE MULTIDÕES**
 
-  - Em regra, o Estado não é responsável
+ >[!success] Em regra, o Estado não é responsável
 
   - Fato de terceiro
 
-  - Exceção: Estado responde quando souber da animosidade do evento e nada fizer
+  >[!danger] Exceção: Estado responde quando souber da animosidade do evento e nada fizer
 
 **Bloco 4**. #PareiAqui
 
@@ -576,7 +578,7 @@ Tese de julgamento:
 
 ###### 7.2) Ação de Regresso
 
-  - Em regra, é prescritível no prazo de 5 anos do trânsito em julgado da ação de indenização – dec 20910/32
+  - Em regra, é prescritível no prazo de 5 anos do trânsito em julgado da ação de indenização art. 1 do dec 20910/32
 
   - Exceção: ação de ressarcimento por atos #dolosos de improbidade são IMPRESCRITÍVEIS
 
@@ -584,10 +586,6 @@ Tese de julgamento:
   
   Aspecto complementar:
 
----
-*p. 14*
-
----
 
   >[!E a anistia?]-
   Declaração como anistiado político é imprescritível.
@@ -595,11 +593,10 @@ Tese de julgamento:
 
   - a pretensão reparatória é prescritível em 5 anos. Contados da publicação da lei 10559/02
 
-  - **Anistia** regulada pela Lei nº 10.559/02. De acordo com o STJ, o direito ao reconhecimento da condição de anistiado político, por violação de direitos fundamentais ocorridos durante a ditadura militar, é imprescritível. Porém, a propositura de ação reparatória ou indenizatória prescreve em cinco anos. Portanto, de acordo com o STJ, embora o prazo para o reconhecimento da condição de anistiado político seja imprescritível, os efeitos patrimoniais decorrentes desse reconhecimento, considerados direitos disponíveis, estão sujeitos às regras de prescrição estabelecidas pelo Decreto nº 20.910/32.
+  - **Anistia** regulada pela Lei nº 10.559/02. De acordo com o STJ, o direito ao reconhecimento da condição de ==anistiado político, por violação de direitos fundamentais ocorridos durante a ditadura militar, é imprescritível==. Porém, a propositura de ação reparatória ou indenizatória prescreve em cinco anos. Portanto, de acordo com o STJ, embora o prazo para o reconhecimento da condição de anistiado político seja imprescritível, os efeitos patrimoniais decorrentes desse reconhecimento, considerados direitos disponíveis, estão sujeitos às regras de prescrição estabelecidas pelo Decreto nº 20.910/32.
 
-  - Nesses casos, para o STJ, o termo inicial do prazo prescricional seria a publicação da Lei nº 10.559/02. Isso porque, a jurisprudência do Superior Tribunal de Justiça é uníssona em reconhecer que houve renúncia tácita à prescrição, com o advento da Lei 10.559 de 13/11/2002, regulamentadora do art. 8º do Ato das Disposições Constitucionais Transitórias.
-
--EDcl no AgRg nos EMBARGOS À EXECUÇÃO EM MANDADO DE SEGURANÇA Nº 11.311 - DF
+  - Nesses casos, para o STJ, o termo inicial do prazo prescricional seria a publicação da Lei nº 10.559/02. Isso porque, a jurisprudência do Superior Tribunal de Justiça é uníssona em reconhecer que houve renúncia tácita à prescrição, com o advento da Lei 10.559 de 13/11/2002, regulamentadora do art. 8º do Ato das Disposições Constitucionais Transitórias.-EDcl no AgRg nos EMBARGOS À EXECUÇÃO EM MANDADO DE SEGURANÇA Nº 11.311 - DF
+![[Pasted image 20260922105551.png]]
 
 ###### **8) RESPONSABILIDADE DO ATOS LEGISLATIVOS**
 
@@ -627,19 +624,18 @@ Tese de julgamento:
 
   - Além de inconstitucional, deve gerar dano
 
-  - O ente federado será responsabilizado.
+  - O [[ente federado]] será responsabilizado.
 
   - Não a Casa Legislativa
 
-  - A Lei precisa ser declarada inconstitucional – Controle Concentrado e Incidental
+  - A Lei precisa ser declarada [[inconstitucional]] – [[Controle Concentrado e Incidental]]
 
----
-*p. 15*
-
----
 
 > [!attention] Atenção!
 >   - Obs: modulação de efeitos pode impactar na responsabilidade civil do Estado – Efeitos ex nunc ou prospectivos impediriam a responsabilidade
+
+
+ ![InkWriting](<Ink/Writing/2026.9.22 - 10.13am.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
 
 ##### 8.3) Omissão inconstitucional quanto ao dever de legislar
 
@@ -671,7 +667,7 @@ Tese de julgamento:
 
   - Erro judiciário – art. 5º, LXXV, CR/88
 
-  - Erro substancial e inescusável
+  - Erro substancial e inescusável (ERRO GROSSEIRO)
 
   - Esfera Penal e Civil
 
@@ -689,74 +685,42 @@ Tese de julgamento:
 
 **- Primeiro entendimento:** possibilidade de responsabilização do Estado, com fundamento no princípio da dignidade humana (art. 1.º, III, da CRFB
 
-**10) RESPONSABILIDADE DE NOTÁRIOS E REGISTRADORES**
+##### **10) RESPONSABILIDADE DE NOTÁRIOS E REGISTRADORES**
 
-  - Estado possui responsabilidade civil direta e primária pelos danos que tabeliães e oficiais de registro, no exercício de serviço público por delegação, causem a terceiros.
+  - Estado possui responsabilidade civil ==direta e primária== pelos danos que tabeliães e oficiais de registro, no exercício de serviço público por delegação, causem a terceiros.
 
-  - Ademais, o Estado responde, objetivamente, pelos atos dos tabeliães e registradores oficiais que, no exercício de suas funções, causem danos a terceiros, assentado o dever de regresso contra o responsável, nos casos de dolo ou culpa, sob pena de improbidade administrativa Ano: 2022 Banca: FCC Órgão: TRT - 17ª Região (ES) Prova: FCC - 2022 - TRT - 17ª Região (ES) - Analista Judiciário - Área Judiciária De acordo com a jurisprudência dos Tribunais Superiores sobre a responsabilidade civil do Estado,
+  - Ademais, o Estado responde, objetivamente, pelos atos dos tabeliães e registradores oficiais que, no exercício de suas funções, causem danos a terceiros, assentado o dever de regresso contra o responsável, nos casos de dolo ou culpa, sob pena de improbidade administrativa Ano: 
+  - 
+  >[!question] 2022 Banca: FCC Órgão: TRT - 17ª Região (ES) Prova: FCC - 2022 - TRT - 17ª Região (ES) - Analista Judiciário - Área Judiciária De acordo com a jurisprudência dos Tribunais Superiores sobre a responsabilidade civil do Estado:
+  >
+  A) é subjetiva a Responsabilidade Civil do Estado em relação a profissional da imprensa ferido por agentes policiais durante cobertura jornalística, em manifestações em que haja tumulto ou conflitos entre policiais e manifestantes.
+  B) a queda de passageiro em via férrea de metrô, ainda que em decorrência de mal súbito, enseja o dever de reparação do dano por parte da concessionária de serviço público, haja vista que não houve adoção, por parte do transportador, de tecnologia moderna para impedir o evento.
+  C) caracteriza-se, nos termos da Constituição Federal, a responsabilidade civil objetiva do Estado por danos decorrentes de crime praticado por pessoa foragida do sistema prisional, ainda que não demonstrado o nexo causal direto entre o momento da fuga e a conduta praticada.
+  D) prescrevem em 20 anos as ações indenizatórias por danos morais e materiais decorrentes de atos de perseguição política com violação de direitos fundamentais ocorridos durante o regime militar.
+  **E) a responsabilização objetiva do Estado em caso de morte de detento somente ocorre quando houver inobservância do dever específico de proteção previsto na Constituição Federal.** 
+  
+  
+  
+  >[!question] Ano: 2022 Banca: CONSULPLAN Órgão: MPE-PA Prova: CONSULPLAN - 2022 - MPE-PA - Analista Jurídico  Durante fiscalização sanitária, os agentes públicos municipais competentes tomaram as medidas cabíveis; todavia, durante a atividade fiscal, proferiram, publicamente, adjetivos injuriosos em desfavor do comerciante. Pessoas que transitaram próximo ao local ouviram a fala do agente, espalhando a notícia de que o estabelecimento estava irregular, que afetou severamente a reputação do comerciante. Diante do exposto, supondo que a conduta do agente tenha causado danos financeiros comprováveis, assinale a afirmativa correta.  
+  A) A responsabilidade civil estatal para o caso é subjetiva, em razão da conduta praticada pelo fiscal.
+  B) Em eventual condenação da fazenda pública pelos atos praticados pelo fiscal, este poderá ser demandado regressivamente, devendo a responsabilidade, nesse caso, ser apurada objetivamente.
+  **C) São pressupostos à configuração da responsabilidade civil estatal na situação descrita: a conduta, o nexo causal e o dano, não se exigindo a culpa na relação entre o Estado e o particular.**
+  D) A fazenda pública poderá suscitar a culpa exclusiva de terceiro como causa excludente de sua responsabilidade, vez que a conduta fora praticada pelo fiscal e não pelo chefe do Poder Executivo. 
+  
+  
+  
+  >[!question] De acordo com o que estabelece a doutrina, o ordenamento jurídico, e, ainda, o entendimento do Supremo Tribunal Federal e do Superior Tribunal de Justiça, sobre a responsabilidade civil estatal:
+  A) a condenação do Estado ao pagamento de indenização em face da ocorrência de erro judiciário implica mudança automática na decisão judicial.
+  B) o Estado responde subjetivamente pelos danos causados por policiais a repórter fotográfico na cobertura de manifestação pública, desde que o profissional tenha respeitado as advertências sobre o acesso a áreas de risco.
+  C) o Estado responde por danos decorrentes de crime praticado por presidiário foragido, independentemente da comprovação do nexo causal direto entre o momento da fuga e a conduta praticada.
+  **D) o Estado responde, objetivamente, pelos atos dos tabeliães e registradores oficiais que, no exercício de suas funções,**causem dano a terceiros, assentado o dever de regresso contra o responsável, nos casos de dolo ou culpa, sob pena de improbidade administrativa.**
+  E) as ações que visam discutir a responsabilidade civil do Estado prescrevem em 10 anos. 
 
-A) é subjetiva a Responsabilidade Civil do Estado em relação a profissional da imprensa ferido por agentes policiais durante cobertura jornalística, em manifestações em que haja tumulto ou conflitos entre policiais e manifestantes.
-
-B) a queda de passageiro em via férrea de metrô, ainda que em decorrência de mal súbito, enseja o dever de reparação do dano por parte da concessionária de serviço público, haja vista que não houve adoção, por parte do transportador, de tecnologia moderna para impedir o evento.
-
-C) caracteriza-se, nos termos da Constituição Federal, a responsabilidade civil objetiva do Estado por danos decorrentes de crime praticado por pessoa foragida do sistema prisional, ainda que não demonstrado o nexo causal direto entre o momento da fuga e a conduta praticada.
-
-D) prescrevem em 20 anos as ações indenizatórias por danos morais e materiais decorrentes de atos de perseguição política com violação de direitos fundamentais ocorridos durante o regime militar.
-
-**E) a responsabilização objetiva do Estado em caso de morte de detento somente ocorre quando houver inobservância**
-
-**do dever específico de proteção previsto na Constituição Federal.** Ano: 2022 Banca: CONSULPLAN Órgão: MPE-PA Prova: CONSULPLAN - 2022 - MPE-PA - Analista Jurídico
-
----
-*p. 17*
-
----
-
-Durante fiscalização sanitária, os agentes públicos municipais competentes tomaram as medidas cabíveis; todavia, durante a atividade fiscal, proferiram, publicamente, adjetivos injuriosos em desfavor do comerciante. Pessoas que transitaram próximo ao local ouviram a fala do agente, espalhando a notícia de que o estabelecimento estava irregular,
-
-- que afetou severamente a reputação do comerciante. Diante do exposto, supondo que a conduta do agente tenha causado danos financeiros comprováveis, assinale a afirmativa correta.
-
-A) A responsabilidade civil estatal para o caso é subjetiva, em razão da conduta praticada pelo fiscal.
-
-B) Em eventual condenação da fazenda pública pelos atos praticados pelo fiscal, este poderá ser demandado regressivamente, devendo a responsabilidade, nesse caso, ser apurada objetivamente.
-
-**C) São pressupostos à configuração da responsabilidade civil estatal na situação descrita: a conduta, o nexo causal e o**
-
-**dano, não se exigindo a culpa na relação entre o Estado e o particular.**
-
-D) A fazenda pública poderá suscitar a culpa exclusiva de terceiro como causa excludente de sua responsabilidade, vez que a conduta fora praticada pelo fiscal e não pelo chefe do Poder Executivo. De acordo com o que estabelece a doutrina, o ordenamento jurídico, e, ainda, o entendimento do Supremo Tribunal Federal e do Superior Tribunal de Justiça, sobre a responsabilidade civil estatal,
-
-A) a condenação do Estado ao pagamento de indenização em face da ocorrência de erro judiciário implica mudança automática na decisão judicial.
-
-B) o Estado responde subjetivamente pelos danos causados por policiais a repórter fotográfico na cobertura de manifestação pública, desde que o profissional tenha respeitado as advertências sobre o acesso a áreas de risco.
-
-C) o Estado responde por danos decorrentes de crime praticado por presidiário foragido, independentemente da comprovação do nexo causal direto entre o momento da fuga e a conduta praticada.
-
-**D) o Estado responde, objetivamente, pelos atos dos tabeliães e registradores oficiais que, no exercício de suas funções,**
-
-**causem dano a terceiros, assentado o dever de regresso contra o responsável, nos casos de dolo ou culpa, sob pena de**
-
-**improbidade administrativa.**
-
-E) as ações que visam discutir a responsabilidade civil do Estado prescrevem em 10 anos. Suponha que uma empresa concessionária de serviços públicos de saneamento esteja sendo demandada judicialmente por moradores que sofreram danos em seus imóveis em razão do rompimento de uma rede coletora de esgotos. Em sua defesa, a concessionária alegou que, não obstante a comprovação dos danos e da sua correlação com o rompimento, não restou provada a ocorrência de dolo ou culpa, o que afastaria sua responsabilização civil. Referida alegação afigura-se
-
-**A) improcedente, eis que a responsabilidade civil da concessionária é objetiva, prescindindo da comprovação de dolo**
-
-**ou culpa de seus agentes, havendo, ainda, responsabilidade subsidiária do poder concedente pelos danos causados a**
-
-**particulares.**
-
+>[!question] Suponha que uma empresa concessionária de serviços públicos de saneamento esteja sendo demandada judicialmente por moradores que sofreram danos em seus imóveis em razão do rompimento de uma rede coletora de esgotos. Em sua defesa, a concessionária alegou que, não obstante a comprovação dos danos e da sua correlação com o rompimento, não restou provada a ocorrência de dolo ou culpa, o que afastaria sua responsabilização civil. Referida alegação afigura-se
+**A) improcedente, eis que a responsabilidade civil da concessionária é objetiva, prescindindo da comprovação de dolo ou culpa de seus agentes, havendo, ainda, responsabilidade subsidiária do poder concedente pelos danos causados a particulares.**
 B) procedente, pois apenas entidades da Administração direta e indireta possuem responsabilidade extracontratual de natureza objetiva, cuja incidência somente é afastada nas hipóteses de caso fortuito ou força maior.
-
----
-*p. 18*
-
----
-
 C) procedente, pois a responsabilidade pelos danos causados a particulares em razão da prestação de serviços públicos concedidos somente é imputável à concessionária caso comprovada falha na prestação dos serviços.
-
 D) improcedente, pois, embora a responsabilidade da concessionária não seja de natureza objetiva, cabe a ela comprovar a ausência de culpa, a qual sempre é presumida quando presente o nexo de causalidade entre a ação ou omissão e o dano ao particular.
-
 E) procedente, pois a responsabilidade da concessionária por danos causados a particulares em decorrência da prestação dos serviços concedidos é subsidiária à do poder concedente, esta sim objetiva e decorrente da presumida falha de fiscalização.
 
 **Bloco 5**
