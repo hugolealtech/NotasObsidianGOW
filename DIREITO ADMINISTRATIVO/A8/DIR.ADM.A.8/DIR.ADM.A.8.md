@@ -560,7 +560,7 @@ Tese de julgamento:
 
   - Exceção: Estado responde quando souber da animosidade do evento e nada fizer
 
-**Bloco 4**
+**Bloco 4**. #PareiAqui
 
 **7) PRESCRIÇÃO**
 
