@@ -229,7 +229,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 8,
+        "x": 363,
         "y": 39,
         "width": 1065,
         "height": 1037,
@@ -260,16 +260,16 @@
           }
         ],
         "direction": "vertical",
-        "x": 224,
+        "x": 596,
         "y": 31,
         "width": 600,
-        "height": 1071,
+        "height": 1053,
         "maximize": false,
         "zoom": 3
       }
     ]
   },
-  "active": "3ec4419ac0785747",
+  "active": "64e2ed81a4f22a16",
   "lastOpenFiles": [
     "RACIOCÍNIO LÓGICO/A2/RACIOCINIO LOGICO A2 DRAW.md",
     "RACIOCÍNIO LÓGICO/A2/RACIOCNIO_LOGICO_A2.md",
