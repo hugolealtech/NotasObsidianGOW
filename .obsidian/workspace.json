@@ -11,30 +11,29 @@
             "id": "64e2ed81a4f22a16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "RACIOCÍNIO LÓGICO/A2/RACIOCNIO_LOGICO_A2.md",
-                "mode": "source",
-                "source": false
+                "file": "RACIOCÍNIO LÓGICO/A2/RACIOCINIO LOGICO A2 DRAW.md"
               },
-              "icon": "lucide-file",
-              "title": "RACIOCNIO_LOGICO_A2"
+              "icon": "excalidraw-icon",
+              "title": "RACIOCINIO LOGICO A2 DRAW"
             }
           },
           {
             "id": "a6e21c74ffca1a1c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "0 - Desenho Helena/Drawing 2026-09-24 07.58.26.excalidraw.md"
+                "file": "RACIOCÍNIO LÓGICO/A2/Caderno.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-24 07.58.26.excalidraw"
+              "icon": "lucide-file",
+              "title": "Caderno"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.68701171875
+    "width": 329.68701171875,
+    "collapsed": true
   },
   "right": {
     "id": "1f21ed8ca2632c5a",
@@ -215,11 +215,14 @@
       "pencil:New whiteboard": false
     }
   },
-  "active": "0d98dacd932fa6ce",
+  "active": "64e2ed81a4f22a16",
   "lastOpenFiles": [
-    "0 - Desenho Helena/Drawing 2026-09-24 07.58.26.excalidraw.md",
     "RACIOCÍNIO LÓGICO/A2/RACIOCINIO LOGICO A2 DRAW.md",
     "RACIOCÍNIO LÓGICO/A2/RACIOCNIO_LOGICO_A2.md",
+    "RACIOCÍNIO LÓGICO/A2/Caderno.md",
+    "Ink/Writing/2026.9.24 - 9.40am.svg",
+    "RACIOCÍNIO LÓGICO/A2/Whiteboard.pencil",
+    "0 - Desenho Helena/Drawing 2026-09-24 07.58.26.excalidraw.md",
     "0 - Desenho Helena",
     "Sem título",
     "RACIOCÍNIO LÓGICO/A2/RACIOCÍNIO LOGICO A2.pdf",
@@ -232,7 +235,6 @@
     "RACIOCÍNIO LÓGICO/A2/images/RACIOCNIO_LOGICO_A2-img3-pg3.png",
     "RACIOCÍNIO LÓGICO/A2/images/RACIOCNIO_LOGICO_A2-img29-pg16.png",
     "RACIOCÍNIO LÓGICO/A2/images/RACIOCNIO_LOGICO_A2-img28-pg16.png",
-    "RACIOCÍNIO LÓGICO/A2/images/RACIOCNIO_LOGICO_A2-img27-pg16.png",
     "RACIOCÍNIO LÓGICO/A2/images",
     "DIREITO ADMINISTRATIVO/A8/DIR.ADM.A.8/DIR.ADM.A.8.md",
     "RACIOCÍNIO LÓGICO/A6",
@@ -240,7 +242,6 @@
     "RACIOCÍNIO LÓGICO/A4",
     "RACIOCÍNIO LÓGICO/A3",
     "RACIOCÍNIO LÓGICO/A2",
-    "RACIOCÍNIO LÓGICO/A1",
     "00_inbox/vavilov_sliconst3.md",
     "DIREITO DO TRABALHO/Outros pontos do art. 8º da CF-88./Outros pontos do art. 8º da CF-88..md",
     "DIREITO DO TRABALHO/A1/DIR.TRABALHO.A.1/DIR.TRABALHO.A.1.md",
@@ -261,8 +262,6 @@
     "DIREITO PROCESSUAL CIVIL/A12/DIR.PROC.CIVIL.A.12/DIR.PROC.CIVIL.A.12.md",
     "DIREITO PROCESSUAL CIVIL/A11/DIR.PROC.CIVIL.A.11/DIR.PROC.CIVIL.A.11.md",
     "DIREITO PROCESSUAL CIVIL/A10/DIR.PROC.CIVIL.A.10/DIR.PROC.CIVIL.A.10.md",
-    "DIREITO PROCESSUAL CIVIL/A9/DIR.PROC.CIVIL.A.9/DIR.PROC.CIVIL.A.9.md",
-    "DIREITO PROCESSUAL CIVIL/A8/DIR.PROC.CIVIL.A.8/DIR.PROC.CIVIL.A.8.md",
     "images/Sem título.canvas"
   ]
 }
