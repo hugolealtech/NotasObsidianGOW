@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "RACIOCNIO_LOGICO_A2"
             }
+          },
+          {
+            "id": "a6e21c74ffca1a1c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0 - Desenho Helena/Drawing 2026-09-24 07.58.26.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-09-24 07.58.26.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.7215576171875
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,78 +215,13 @@
       "pencil:New whiteboard": false
     }
   },
-  "floating": {
-    "id": "21d0874eac7f67f3",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7ce4a9bbff86614a",
-        "type": "window",
-        "children": [
-          {
-            "id": "63259ed5a65b867c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "006774f59ae7556a",
-                "type": "leaf",
-                "state": {
-                  "type": "pencil-whiteboard",
-                  "state": {
-                    "file": "DIREITO ADMINISTRATIVO/A8/DIR.ADM.A.8/Resumo Bloco 4.pencil"
-                  },
-                  "icon": "pencil-pencil",
-                  "title": "Resumo Bloco 4"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 363,
-        "y": 39,
-        "width": 1065,
-        "height": 1037,
-        "maximize": false,
-        "zoom": 3
-      },
-      {
-        "id": "73e2e355abcaca57",
-        "type": "window",
-        "children": [
-          {
-            "id": "8690bb6b9935cdd0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "10a47e208e47a53e",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "RACIOCÍNIO LÓGICO/A2/RACIOCINIO LOGICO A2 DRAW.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "RACIOCINIO LOGICO A2 DRAW"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 596,
-        "y": 31,
-        "width": 600,
-        "height": 1053,
-        "maximize": false,
-        "zoom": 3
-      }
-    ]
-  },
-  "active": "64e2ed81a4f22a16",
+  "active": "0d98dacd932fa6ce",
   "lastOpenFiles": [
+    "0 - Desenho Helena/Drawing 2026-09-24 07.58.26.excalidraw.md",
     "RACIOCÍNIO LÓGICO/A2/RACIOCINIO LOGICO A2 DRAW.md",
     "RACIOCÍNIO LÓGICO/A2/RACIOCNIO_LOGICO_A2.md",
+    "0 - Desenho Helena",
+    "Sem título",
     "RACIOCÍNIO LÓGICO/A2/RACIOCÍNIO LOGICO A2.pdf",
     "RACIOCÍNIO LÓGICO/A2/images/RACIOCNIO_LOGICO_A2-img9-pg4.png",
     "RACIOCÍNIO LÓGICO/A2/images/RACIOCNIO_LOGICO_A2-img8-pg4.png",
@@ -292,8 +241,6 @@
     "RACIOCÍNIO LÓGICO/A3",
     "RACIOCÍNIO LÓGICO/A2",
     "RACIOCÍNIO LÓGICO/A1",
-    "PROVAS DE CONCURSOS/A4",
-    "PROVAS DE CONCURSOS/A3",
     "00_inbox/vavilov_sliconst3.md",
     "DIREITO DO TRABALHO/Outros pontos do art. 8º da CF-88./Outros pontos do art. 8º da CF-88..md",
     "DIREITO DO TRABALHO/A1/DIR.TRABALHO.A.1/DIR.TRABALHO.A.1.md",
@@ -316,7 +263,6 @@
     "DIREITO PROCESSUAL CIVIL/A10/DIR.PROC.CIVIL.A.10/DIR.PROC.CIVIL.A.10.md",
     "DIREITO PROCESSUAL CIVIL/A9/DIR.PROC.CIVIL.A.9/DIR.PROC.CIVIL.A.9.md",
     "DIREITO PROCESSUAL CIVIL/A8/DIR.PROC.CIVIL.A.8/DIR.PROC.CIVIL.A.8.md",
-    "DIREITO PROCESSUAL CIVIL/A7/DIR.PROC.CIVIL.A.7/DIR.PROC.CIVIL.A.7.md",
     "images/Sem título.canvas"
   ]
 }
