@@ -11,12 +11,12 @@
             "id": "04d8767dce31b59f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "RACIOCÍNIO LÓGICO/A2/RACIOCINIO LOGICO A2 DRAW.md"
+                "file": "RACIOCÍNIO LÓGICO/A3/Slide R.Log.Au.3.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "RACIOCINIO LOGICO A2 DRAW"
+              "icon": "lucide-file-text",
+              "title": "Slide R.Log.Au.3"
             }
           }
         ]
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.68701171875,
-    "collapsed": true
+    "width": 329.68701171875
   },
   "right": {
     "id": "1f21ed8ca2632c5a",
@@ -201,8 +200,47 @@
       "pencil:New whiteboard": false
     }
   },
-  "active": "dbb99e1e5547fba0",
+  "floating": {
+    "id": "87c7f818aab72ca0",
+    "type": "floating",
+    "children": [
+      {
+        "id": "dbc74180dfa219b4",
+        "type": "window",
+        "children": [
+          {
+            "id": "a08c77cb937a28f0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e5f25d8e54f46630",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "RACIOCÍNIO LÓGICO/A3/Drawing 2026-09-25 16.38.26.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Drawing 2026-09-25 16.38.26.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1091,
+        "y": -442,
+        "width": 1080,
+        "height": 1053,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e5f25d8e54f46630",
   "lastOpenFiles": [
+    "RACIOCÍNIO LÓGICO/A3/Drawing 2026-09-25 16.38.26.excalidraw.md",
+    "RACIOCÍNIO LÓGICO/A3/Slide R.Log.Au.3.pdf",
     "RACIOCÍNIO LÓGICO/A2/RACIOCINIO LOGICO A2 DRAW.md",
     "Pasted Image 20260924163507_392.png",
     "RACIOCÍNIO LÓGICO/A2/Caderno.md",
@@ -227,7 +265,6 @@
     "RACIOCÍNIO LÓGICO/A5",
     "RACIOCÍNIO LÓGICO/A4",
     "RACIOCÍNIO LÓGICO/A3",
-    "RACIOCÍNIO LÓGICO/A2",
     "00_inbox/vavilov_sliconst3.md",
     "DIREITO DO TRABALHO/Outros pontos do art. 8º da CF-88./Outros pontos do art. 8º da CF-88..md",
     "DIREITO DO TRABALHO/A1/DIR.TRABALHO.A.1/DIR.TRABALHO.A.1.md",
@@ -247,7 +284,6 @@
     "DIREITO PROCESSUAL CIVIL/A13/DIR.PROC.CIVIL.A.13/DIR.PROC.CIVIL.A.13.md",
     "DIREITO PROCESSUAL CIVIL/A12/DIR.PROC.CIVIL.A.12/DIR.PROC.CIVIL.A.12.md",
     "DIREITO PROCESSUAL CIVIL/A11/DIR.PROC.CIVIL.A.11/DIR.PROC.CIVIL.A.11.md",
-    "DIREITO PROCESSUAL CIVIL/A10/DIR.PROC.CIVIL.A.10/DIR.PROC.CIVIL.A.10.md",
     "images/Sem título.canvas"
   ]
 }
