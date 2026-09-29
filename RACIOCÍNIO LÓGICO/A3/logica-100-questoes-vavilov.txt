@@ -1,0 +1,869 @@
+LÓGICA PROPOSICIONAL — BANCO DE 100 QUESTÕES (VAVILOV)
+Legenda: ~p = não p | ∧ = E | ∨ = OU | ⊻ = OU exclusivo | → = SE...ENTÃO | ↔ = SE E SOMENTE SE
+Alternativas de A a E. Gabarito ao final, no formato 1A,2E,3D...
+
+======================================================================
+BLOCO 1 — CONJUNÇÃO (E)
+======================================================================
+
+1. A conjunção p ∧ q só é verdadeira quando:
+   A) pelo menos uma componente é verdadeira
+   B) pelo menos uma componente é falsa
+   C) as componentes têm o mesmo valor lógico
+   D) todas as componentes são verdadeiras
+   E) a primeira é verdadeira, independentemente da segunda
+
+2. Se p é falsa, a proposição p ∧ q é:
+   A) falsa, qualquer que seja o valor de q
+   B) verdadeira, qualquer que seja o valor de q
+   C) verdadeira, se q for verdadeira
+   D) verdadeira, se q for falsa
+   E) indeterminada
+
+3. Sabendo que p ∧ q ∧ r é verdadeira, conclui-se que p, q e r são:
+   A) todas verdadeiras
+   B) todas falsas
+   C) exatamente uma verdadeira
+   D) pelo menos duas verdadeiras, apenas
+   E) de valores indeterminados
+
+4. Na tabela-verdade de p ∧ q ∧ r (8 linhas), o número de linhas com resultado verdadeiro é:
+   A) 2
+   B) 1
+   C) 4
+   D) 7
+   E) 8
+
+5. Sabe-se que é falsa a proposição 'Ana é advogada e Bia é médica'. Logo:
+   A) as duas afirmações são necessariamente falsas
+   B) as duas afirmações são verdadeiras
+   C) ao menos uma das duas afirmações é falsa
+   D) Ana é advogada e Bia não é médica, necessariamente
+   E) Ana não é advogada e Bia é médica, necessariamente
+
+6. Sendo p = V, q = F e r = V, considere: I. p ∧ r é V; II. p ∧ q é F; III. q ∧ r é V; IV. ~q ∧ p é V. Estão corretas:
+   A) I e II, apenas
+   B) II e III, apenas
+   C) I, III e IV, apenas
+   D) I, II, III e IV
+   E) I, II e IV, apenas
+
+7. Sendo A = {1, 2, 3} e B = {2, 3, 4}, o conjunto dos x que satisfazem 'x ∈ A e x ∈ B' é:
+   A) {1, 2, 3, 4}
+   B) {1, 4}
+   C) {2, 3}
+   D) {1}
+   E) {4}
+
+======================================================================
+BLOCO 2 — DISJUNÇÃO INCLUSIVA (OU)
+======================================================================
+
+8. A disjunção inclusiva p ∨ q só é falsa quando:
+   A) pelo menos uma componente é falsa
+   B) todas as componentes são falsas
+   C) todas as componentes são verdadeiras
+   D) as componentes têm valores diferentes
+   E) a primeira componente é falsa
+
+9. Se p é verdadeira, a proposição p ∨ q é:
+   A) falsa, qualquer que seja o valor de q
+   B) verdadeira apenas se q for verdadeira
+   C) verdadeira, qualquer que seja o valor de q
+   D) falsa se q for falsa
+   E) indeterminada
+
+10. Sabendo que p ∨ q ∨ r é falsa, conclui-se que:
+   A) apenas uma delas é falsa
+   B) pelo menos uma delas é verdadeira
+   C) p é falsa e q e r são indeterminadas
+   D) duas são falsas e uma é verdadeira
+   E) p, q e r são todas falsas
+
+11. Na tabela-verdade de p ∨ q ∨ r (8 linhas), o número de linhas com resultado verdadeiro é:
+   A) 7
+   B) 1
+   C) 4
+   D) 6
+   E) 8
+
+12. É verdadeira a proposição 'Ana é advogada ou Bia é médica', e Ana não é advogada. Logo:
+   A) Bia é médica
+   B) Bia não é médica
+   C) nada se pode concluir sobre Bia
+   D) Ana é advogada
+   E) as duas afirmações são falsas
+
+13. Sendo A = {1, 2, 3} e B = {2, 3, 4}, o conjunto dos x que satisfazem 'x ∈ A ou x ∈ B' é:
+   A) {2, 3}
+   B) {1, 4}
+   C) {1, 2, 3}
+   D) {2, 3, 4}
+   E) {1, 2, 3, 4}
+
+14. Sobre o OU inclusivo, é correto afirmar que:
+   A) é falso quando ambas as componentes são verdadeiras
+   B) exige que exatamente uma componente seja verdadeira
+   C) é verdadeiro somente se ambas forem verdadeiras
+   D) é falso quando ao menos uma componente é verdadeira
+   E) é verdadeiro inclusive quando ambas as componentes são verdadeiras
+
+======================================================================
+BLOCO 3 — DISJUNÇÃO EXCLUSIVA (OU ... OU)
+======================================================================
+
+15. A disjunção exclusiva p ⊻ q é verdadeira quando:
+   A) as componentes têm valores lógicos diferentes
+   B) as componentes têm valores lógicos iguais
+   C) ambas são verdadeiras
+   D) ambas são falsas
+   E) ao menos uma é verdadeira
+
+16. A disjunção exclusiva p ⊻ q é falsa quando:
+   A) as componentes têm valores diferentes
+   B) as componentes têm o mesmo valor (VV ou FF)
+   C) apenas quando ambas são verdadeiras
+   D) apenas quando ambas são falsas
+   E) apenas quando p é falsa
+
+17. A negação de p ⊻ q é:
+   A) p ∧ q
+   B) p ∨ q
+   C) p ↔ q
+   D) ~p ∨ ~q
+   E) p → q
+
+18. 'Ou Ana é professora, ou Ana é juíza' (exclusivo) é verdadeira, e Ana é professora. Logo:
+   A) Ana é juíza
+   B) Ana é juíza e professora
+   C) nada se pode concluir
+   D) Ana não é juíza
+   E) Ana não é professora
+
+19. A disjunção exclusiva p ⊻ q é equivalente a:
+   A) (p ∧ q) ∨ (~p ∧ ~q)
+   B) (p → q) ∧ (q → p)
+   C) (p ∧ ~q) ∨ (~p ∧ q)
+   D) ~p ∨ q
+   E) p ∧ q
+
+20. Na tabela-verdade de p ⊻ q (4 linhas), o número de linhas verdadeiras é:
+   A) 0
+   B) 1
+   C) 3
+   D) 4
+   E) 2
+
+======================================================================
+BLOCO 4 — CONDICIONAL (SE ... ENTÃO)
+======================================================================
+
+21. A condicional p → q é falsa somente quando:
+   A) p é falsa e q é verdadeira
+   B) p é falsa e q é falsa
+   C) p é verdadeira e q é verdadeira
+   D) p e q têm valores diferentes
+   E) p é verdadeira e q é falsa
+
+22. Se o antecedente p é falso, a condicional p → q é:
+   A) verdadeira, qualquer que seja o valor de q
+   B) falsa, qualquer que seja o valor de q
+   C) verdadeira apenas se q for verdadeira
+   D) falsa se q for verdadeira
+   E) indeterminada
+
+23. Se o consequente q é verdadeiro, a condicional p → q é:
+   A) falsa, qualquer que seja o valor de p
+   B) falsa se p for verdadeira
+   C) verdadeira, qualquer que seja o valor de p
+   D) verdadeira apenas se p for verdadeira
+   E) indeterminada
+
+24. Sabendo que p → q é falsa, conclui-se que:
+   A) p é falsa e q é verdadeira
+   B) p é falsa e q é falsa
+   C) p é verdadeira e q é verdadeira
+   D) p é verdadeira e q é falsa
+   E) p e q têm o mesmo valor lógico
+
+25. A contrapositiva de 'Se dirijo, então não bebo' é:
+   A) Se não dirijo, então bebo
+   B) Se não bebo, então dirijo
+   C) Se bebo, então não dirijo
+   D) Dirijo e bebo
+   E) Se bebo, então dirijo
+
+26. A recíproca de 'Se chove, então a rua molha' é:
+   A) Se não chove, então a rua não molha
+   B) Se a rua molha, então chove
+   C) Se a rua não molha, então não chove
+   D) Chove e a rua não molha
+   E) Não chove ou a rua molha
+
+27. A inversa de 'Se chove, então a rua molha' é:
+   A) Se a rua molha, então chove
+   B) Se a rua não molha, então não chove
+   C) Chove e a rua não molha
+   D) Não chove ou a rua molha
+   E) Se não chove, então a rua não molha
+
+28. É equivalente a p → q:
+   A) p ∨ ~q
+   B) ~p ∨ q
+   C) q → p
+   D) ~p → ~q
+   E) p ∧ ~q
+
+29. A negação de p → q é:
+   A) ~p ∨ q
+   B) ~p → ~q
+   C) p ∧ ~q
+   D) q → p
+   E) ~p ∧ q
+
+30. A negação de 'Se x é par, então x² é par' é:
+   A) x não é par e x² é par
+   B) Se x não é par, então x² não é par
+   C) x é par e x² não é par
+   D) x não é par ou x² é par
+   E) Se x² é par, então x é par
+
+31. Em p → q, é correto afirmar que:
+   A) p é condição necessária e q é condição suficiente
+   B) p é condição suficiente e necessária, e q também
+   C) p não é suficiente nem necessária
+   D) p é condição suficiente e q é condição necessária
+   E) p é condição necessária e q é irrelevante
+
+32. A disjunção p ∨ q é equivalente a:
+   A) p → q
+   B) p → ~q
+   C) ~p → ~q
+   D) ~p → q
+   E) q → ~p
+
+33. Sendo p = V, q = F e r = V, considere: I. p → q é F; II. q → p é V; III. (p → r) ∧ q é V; IV. ~p → q é V. Estão corretas:
+   A) I, II e IV, apenas
+   B) I e II, apenas
+   C) II e III, apenas
+   D) I, III e IV, apenas
+   E) I, II, III e IV
+
+34. A recíproca e a inversa de uma mesma condicional são:
+   A) negações uma da outra
+   B) equivalentes à condicional original
+   C) contrapositivas uma da outra (logo, equivalentes entre si)
+   D) contraditórias entre si
+   E) sempre falsas
+
+35. Se p → q é verdadeira e p é verdadeira, então q é:
+   A) verdadeira (modus ponens)
+   B) falsa
+   C) indeterminada
+   D) verdadeira ou falsa, conforme uma terceira proposição
+   E) necessariamente igual a ~p
+
+36. Se p → q é verdadeira e q é falsa, então p é:
+   A) verdadeira
+   B) indeterminada
+   C) verdadeira ou falsa, conforme o contexto
+   D) necessariamente igual a ~q
+   E) falsa (modus tollens)
+
+======================================================================
+BLOCO 5 — BICONDICIONAL (SE E SOMENTE SE)
+======================================================================
+
+37. A bicondicional p ↔ q é verdadeira quando:
+   A) as componentes têm o mesmo valor lógico
+   B) as componentes têm valores lógicos diferentes
+   C) apenas quando ambas são verdadeiras
+   D) apenas quando ambas são falsas
+   E) ao menos uma é verdadeira
+
+38. A bicondicional p ↔ q é falsa quando:
+   A) as componentes têm o mesmo valor lógico
+   B) ambas são verdadeiras
+   C) ambas são falsas
+   D) as componentes têm valores lógicos diferentes
+   E) p é verdadeira, independentemente de q
+
+39. Se p ↔ q é verdadeira e p é verdadeira, então q é:
+   A) falsa
+   B) indeterminada
+   C) igual a ~p
+   D) verdadeira
+   E) dependente de uma terceira proposição
+
+40. Se p ↔ q é falsa e p é falsa, então q é:
+   A) falsa
+   B) verdadeira
+   C) indeterminada
+   D) igual a p
+   E) dependente de uma terceira proposição
+
+41. A bicondicional p ↔ q é equivalente a:
+   A) (p → q) ∨ (q → p)
+   B) p ∧ ~q
+   C) (p → q) ∧ (q → p)
+   D) ~p ∨ q
+   E) (p ∧ ~q) ∨ (~p ∧ q)
+
+42. A bicondicional p ↔ q é equivalente a:
+   A) (p ∧ q) ∧ (~p ∧ ~q)
+   B) (p ∧ q) ∨ (~p ∧ ~q)
+   C) (p ∨ q) ∧ (~p ∨ ~q)
+   D) (p ∧ ~q) ∨ (~p ∧ q)
+   E) p → q
+
+43. A negação de p ↔ q é:
+   A) ~p ↔ ~q
+   B) p ∧ ~q
+   C) ~p ∧ ~q
+   D) p → ~q
+   E) p ⊻ q
+
+44. A proposição ~p ↔ ~q é equivalente a:
+   A) p ⊻ q
+   B) p ↔ q
+   C) p → q
+   D) ~(p ↔ q)
+   E) p ∧ q
+
+45. A proposição p ↔ ~q é equivalente a:
+   A) p ↔ q
+   B) ~p ↔ ~q
+   C) p ∧ q
+   D) p ⊻ q
+   E) p ∨ q
+
+46. Na tabela-verdade de p ↔ q (4 linhas), o número de linhas verdadeiras é:
+   A) 0
+   B) 2
+   C) 1
+   D) 3
+   E) 4
+
+47. Em teoria dos conjuntos, p ↔ q (como 'Todo A é B e todo B é A') representa conjuntos:
+   A) disjuntos
+   B) com A contido propriamente em B
+   C) iguais (A = B)
+   D) com interseção vazia
+   E) com A ∪ B = ∅
+
+48. É verdadeira a proposição 'João viaja se e somente se chove', e João não viajou. Logo:
+   A) não choveu
+   B) choveu
+   C) choveu ou não choveu, indiferentemente
+   D) João viaja apesar de não chover
+   E) nada se pode concluir
+
+======================================================================
+BLOCO 6 — CONJUNTOS E DIAGRAMAS
+======================================================================
+
+49. A proposição 'Todo A é B', isto é, A → B, indica que:
+   A) B está contido em A (o antecedente é o conjunto maior)
+   B) A e B são disjuntos
+   C) A e B sempre coincidem
+   D) A está contido em B (o antecedente é o conjunto menor)
+   E) A ∪ B = ∅
+
+50. Sabendo que 'todo gato é felino', é correto afirmar que:
+   A) ser felino é condição suficiente para ser gato
+   B) gato e felino são conjuntos disjuntos
+   C) todo felino é gato
+   D) nenhum gato é felino
+   E) ser gato é condição suficiente para ser felino
+
+51. Em teoria dos conjuntos, a negação de uma proposição corresponde ao:
+   A) interseção
+   B) união
+   C) complemento
+   D) diferença simétrica
+   E) conjunto vazio
+
+52. Se A ⊂ B, então o conjunto A ∩ B é igual a:
+   A) B
+   B) ∅
+   C) A
+   D) A ∪ B
+   E) B − A
+
+53. Se A ⊂ B, então o conjunto A ∪ B é igual a:
+   A) A
+   B) ∅
+   C) A ∩ B
+   D) o complemento de B
+   E) B
+
+54. O OU exclusivo (p ⊻ q) corresponde, em conjuntos, à:
+   A) interseção
+   B) diferença simétrica
+   C) união
+   D) complemento
+   E) conjunto vazio
+
+======================================================================
+BLOCO 7 — PROPRIEDADES
+======================================================================
+
+55. Entre os conectivos abaixo, o único que NÃO é comutativo é:
+   A) p ∧ q
+   B) p ∨ q
+   C) p → q
+   D) p ⊻ q
+   E) p ↔ q
+
+56. Quanto à comutatividade do bicondicional, é correto afirmar que:
+   A) p ↔ q é equivalente a q ↔ p
+   B) o bicondicional não é comutativo
+   C) o bicondicional é o único conectivo não comutativo
+   D) só é comutativo se p e q forem verdadeiras
+   E) p ↔ q equivale a q → p
+
+57. A proposição p → q é equivalente a q → p?
+   A) Sim, pois o condicional é comutativo
+   B) Sim, sempre que p for verdadeira
+   C) Não; q → p é a contrapositiva de p → q
+   D) Não; q → p é a recíproca e pode ter valor diferente
+   E) Sim, pois as tabelas-verdade são idênticas
+
+58. A proposição (p ∧ q) ∧ r é equivalente a:
+   A) (p ∨ q) ∧ r
+   B) p ∧ (q ∨ r)
+   C) (p ∧ q) ∨ r
+   D) p ∨ (q ∧ r)
+   E) p ∧ (q ∧ r)
+
+59. Sobre (p → q) → r e p → (q → r), é correto afirmar que:
+   A) são equivalentes, pois o condicional é associativo
+   B) não são equivalentes; com p, q e r falsas, os valores diferem
+   C) são equivalentes, pois vale a propriedade comutativa
+   D) não são equivalentes; o primeiro é sempre verdadeiro
+   E) não são equivalentes; o segundo é sempre falso
+
+60. A dupla negação ~(~p) é equivalente a:
+   A) p
+   B) ~p
+   C) V (verdadeiro)
+   D) F (falso)
+   E) p ∧ ~p
+
+======================================================================
+BLOCO 8 — PRECEDÊNCIA E AGRUPADORES
+======================================================================
+
+61. Da mais forte (resolvida primeiro) à mais fraca (resolvida por último), a ordem de resolução é:
+   A) ↔, →, ∧/∨, ~
+   B) ~, ↔, →, ∧/∨
+   C) ∧/∨, ~, →, ↔
+   D) ~, ∧/∨, →, ↔
+   E) →, ~, ∧/∨, ↔
+
+62. Sem parênteses, o conectivo resolvido por último é:
+   A) ~
+   B) ∧
+   C) ∨
+   D) ↔
+   E) →
+
+63. Sem parênteses, p ∨ q → r deve ser lida como:
+   A) p ∨ (q → r)
+   B) (p → r) ∨ q
+   C) p ∨ q ∧ r
+   D) (p ∨ q) → r
+   E) ~(p ∨ q) → r
+
+64. Sem parênteses, p → q ↔ r deve ser lida como:
+   A) p → (q ↔ r)
+   B) (p → q) ↔ r
+   C) (p ↔ r) → q
+   D) p ↔ (q → r)
+   E) ~p → (q ↔ r)
+
+65. A ordem de resolução dos agrupadores, de dentro para fora, é:
+   A) { }, depois [ ], depois ( )
+   B) [ ], depois ( ), depois { }
+   C) ( ), depois [ ], depois { }
+   D) ( ), depois { }, depois [ ]
+   E) { }, depois ( ), depois [ ]
+
+66. Na expressão { [ (p ∧ q) → r ] ↔ s }, a primeira operação a ser resolvida é:
+   A) o condicional
+   B) p ∧ q
+   C) o bicondicional
+   D) a negação de s
+   E) r ↔ s
+
+67. Sendo p = V, q = F e r = F, os valores de 'p ∨ q → r' e de 'p ∧ q → r' são, respectivamente:
+   A) V e F
+   B) V e V
+   C) F e F
+   D) não se pode determinar
+   E) F e V
+
+68. Sendo p = F, q = V e r = F, considere: I. ~p ∧ q é V; II. ~p ∧ q ↔ r é F; III. ~p ∧ (q ↔ r) é V. Estão corretas:
+   A) I, apenas
+   B) II e III, apenas
+   C) I e III, apenas
+   D) I, II e III
+   E) I e II, apenas
+
+======================================================================
+BLOCO 9 — TAUTOLOGIA, CONTRADIÇÃO E CONTINGÊNCIA
+======================================================================
+
+69. Tautologia é a proposição que:
+   A) é sempre falsa
+   B) é sempre verdadeira, quaisquer que sejam os valores das componentes
+   C) tem V e F na tabela-verdade
+   D) só é verdadeira quando todas as componentes são V
+   E) só ocorre com o conectivo OU
+
+70. Assinale a tautologia:
+   A) p ∧ ~p
+   B) p → ~p
+   C) p ↔ ~p
+   D) p ⊻ p
+   E) p ∨ ~p
+
+71. Assinale a contradição:
+   A) p ∧ ~p
+   B) p ∨ ~p
+   C) p → p
+   D) p ↔ p
+   E) p ∨ p
+
+72. A proposição p ↔ ~p é:
+   A) uma tautologia
+   B) uma contingência
+   C) uma contradição
+   D) equivalente a p
+   E) equivalente a ~p ∨ p
+
+73. A proposição p → (p ∨ q) é:
+   A) uma tautologia
+   B) uma contradição
+   C) uma contingência
+   D) equivalente a p ∧ q
+   E) equivalente a ~p
+
+74. Assinale a tautologia:
+   A) p → (p ∧ q)
+   B) (p ∨ q) → p
+   C) p ↔ (p ∧ q)
+   D) p ∧ q
+   E) (p ∧ q) → p
+
+75. A proposição p → q é:
+   A) uma tautologia
+   B) uma contingência
+   C) uma contradição
+   D) uma tautologia quando p é falsa, sempre
+   E) uma contradição quando q é verdadeira
+
+76. Se A é uma tautologia e B é uma contradição, A ∧ B é:
+   A) uma contradição
+   B) uma tautologia
+   C) uma contingência
+   D) equivalente a A
+   E) indeterminada
+
+77. Se A é uma tautologia e B é uma contradição, A ∨ B é:
+   A) uma contradição
+   B) uma contingência
+   C) equivalente a B
+   D) uma tautologia
+   E) indeterminada
+
+78. Sobre contingência, é correto afirmar que:
+   A) o bicondicional é o único conectivo que nunca é contingência
+   B) é sempre verdadeira
+   C) é sempre falsa
+   D) não pode ocorrer com o conectivo E
+   E) apresenta V e F na tabela-verdade, e p ↔ q é um exemplo
+
+======================================================================
+BLOCO 10 — LEIS DE DE MORGAN
+======================================================================
+
+79. A negação da conjunção, ~(p ∧ q), é equivalente a:
+   A) ~p ∧ ~q
+   B) ~p ∨ ~q
+   C) p ∨ q
+   D) p ∧ ~q
+   E) ~p → q
+
+80. A negação da disjunção, ~(p ∨ q), é equivalente a:
+   A) ~p ∨ ~q
+   B) p ∧ q
+   C) p ∧ ~q
+   D) ~p ∧ ~q
+   E) ~p → ~q
+
+81. A regra geral de De Morgan consiste em:
+   A) negar somente a primeira parte e manter o conectivo
+   B) manter as partes e negar o conectivo
+   C) negar cada parte e manter o conectivo
+   D) negar cada parte e trocar E por OU (ou OU por E)
+   E) manter a primeira parte e negar a segunda
+
+82. As Leis de De Morgan aplicam-se a:
+   A) condicional e bicondicional
+   B) somente ao bicondicional
+   C) todos os conectivos, sem distinção
+   D) conjunção e disjunção (E e OU)
+   E) somente à negação simples
+
+83. A negação de 'Estudo e trabalho' é:
+   A) Não estudo ou não trabalho
+   B) Não estudo e não trabalho
+   C) Estudo ou trabalho
+   D) Não estudo ou trabalho
+   E) Estudo e não trabalho
+
+84. A negação de 'Chove ou venta' é:
+   A) Não chove ou não venta
+   B) Não chove e não venta
+   C) Chove e venta
+   D) Não chove ou venta
+   E) Chove e não venta
+
+85. A proposição ~(~p ∧ q) é equivalente a:
+   A) ~p ∨ q
+   B) p ∨ ~q
+   C) p ∧ ~q
+   D) ~p ∨ ~q
+   E) p ∨ q
+
+86. A proposição ~(p ∨ ~q) é equivalente a:
+   A) ~p ∧ q
+   B) ~p ∨ q
+   C) p ∧ ~q
+   D) p ∧ q
+   E) ~p ∧ ~q
+
+87. A proposição p ∧ q é equivalente a:
+   A) ~(~p ∧ ~q)
+   B) ~p ∨ ~q
+   C) ~(p ∨ q)
+   D) ~(p ∨ ~q)
+   E) ~(~p ∨ ~q)
+
+88. Como p → q ≡ ~p ∨ q, aplicando De Morgan a ~(~p ∨ q) obtém-se:
+   A) ~p ∧ q
+   B) p ∧ ~q
+   C) p ∨ ~q
+   D) ~p ∧ ~q
+   E) p ∨ q
+
+89. A proposição ~(p ∧ q ∧ r) é equivalente a:
+   A) ~p ∧ ~q ∧ ~r
+   B) ~p ∨ q ∨ r
+   C) p ∨ q ∨ r
+   D) (~p ∧ ~q) ∨ ~r
+   E) ~p ∨ ~q ∨ ~r
+
+======================================================================
+BLOCO 11 — NEGAÇÕES DIVERSAS
+======================================================================
+
+90. A negação de 'Se o réu foi condenado, então recorre' é:
+   A) O réu não foi condenado ou recorre
+   B) Se o réu não foi condenado, então não recorre
+   C) O réu não foi condenado e não recorre
+   D) O réu foi condenado e não recorre
+   E) Se recorre, então foi condenado
+
+91. A negação de 'Todo advogado é honesto' é:
+   A) Nenhum advogado é honesto
+   B) Todo advogado é desonesto
+   C) Algum advogado é honesto
+   D) Nenhum advogado é desonesto
+   E) Algum advogado não é honesto
+
+92. A negação de 'Algum servidor é aposentado' é:
+   A) Algum servidor não é aposentado
+   B) Todo servidor é aposentado
+   C) Ao menos um servidor é aposentado
+   D) Nenhum servidor é aposentado
+   E) Alguns servidores são aposentados e outros não
+
+93. A negação de 'Nenhum A é B' é:
+   A) Algum A é B
+   B) Todo A é B
+   C) Algum A não é B
+   D) Todo A não é B
+   E) Nenhum A não é B
+
+94. A negação de 'João é médico se e somente se Maria é juíza' é:
+   A) João não é médico se e somente se Maria não é juíza
+   B) João é médico e Maria é juíza
+   C) João é médico ou Maria é juíza, mas não ambos
+   D) João não é médico e Maria não é juíza
+   E) Se João é médico, então Maria é juíza
+
+95. A negação de 'Ou estudo, ou trabalho' (exclusivo) é:
+   A) Não estudo e não trabalho
+   B) Estudo e não trabalho
+   C) Estudo se e somente se trabalho
+   D) Ou não estudo, ou não trabalho
+   E) Se estudo, então não trabalho
+
+======================================================================
+BLOCO 12 — TERMO EM EVIDÊNCIA, DISTRIBUTIVA E ABSORÇÃO
+======================================================================
+
+96. Colocando o termo comum em evidência, (p ∧ q) ∨ (p ∧ r) é equivalente a:
+   A) p ∨ (q ∧ r)
+   B) (p ∧ q) ∧ r
+   C) p → (q ∨ r)
+   D) p ∧ (q ∨ r)
+   E) q ∨ r
+
+97. A proposição (p ∨ q) ∧ (p ∨ r) é equivalente a:
+   A) p ∧ (q ∨ r)
+   B) (p ∨ q) ∨ r
+   C) p ∨ (q ∧ r)
+   D) p → (q ∧ r)
+   E) q ∧ r
+
+98. Pela absorção, p ∧ (p ∨ q) é equivalente a:
+   A) q
+   B) p
+   C) p ∨ q
+   D) p ∧ q
+   E) V (verdadeiro)
+
+99. A proposição (p → q) ∧ (p → r) é equivalente a:
+   A) p → (q ∧ r)
+   B) p → (q ∨ r)
+   C) (p ∧ q) → r
+   D) (p ∨ q) → r
+   E) p ∧ (q → r)
+
+100. A proposição (p → r) ∧ (q → r) é equivalente a:
+   A) (p ∨ q) → r
+   B) (p ∧ q) → r
+   C) p → (q ∨ r)
+   D) (p → q) → r
+   E) p ∨ (q → r)
+
+======================================================================
+GABARITO
+======================================================================
+1D,2A,3A,4B,5C,6E,7C,8B,9C,10E,
+11A,12A,13E,14E,15A,16B,17C,18D,19C,20E,
+21E,22A,23C,24D,25C,26B,27E,28B,29C,30C,
+31D,32D,33A,34C,35A,36E,37A,38D,39D,40B,
+41C,42B,43E,44B,45D,46B,47C,48A,49D,50E,
+51C,52C,53E,54B,55C,56A,57D,58E,59B,60A,
+61D,62D,63D,64B,65C,66B,67E,68E,69B,70E,
+71A,72C,73A,74E,75B,76A,77D,78E,79B,80D,
+81D,82D,83A,84B,85B,86A,87E,88B,89E,90D,
+91E,92D,93A,94C,95C,96D,97C,98B,99A,100A
+
+======================================================================
+GABARITO COMENTADO
+======================================================================
+1D — E: só V se todos V.
+2A — Basta um F para o E ser F.
+3A — E verdadeiro exige todos V.
+4B — Só a linha VVV.
+5C — Negação do E: ~p ∨ ~q.
+6E — III: F ∧ V = F.
+7C — E = interseção.
+8B — OU: só F se todos F.
+9C — Basta um V.
+10E — OU falso exige todos F.
+11A — Só FFF é falsa.
+12A — Se um lado é F, o outro é V.
+13E — OU = união.
+14E — Inclusivo aceita VV.
+15A — ⊻: V se diferentes.
+16B — ⊻: F se iguais.
+17C — Negação do ⊻ = bicondicional.
+18D — Exatamente uma é V.
+19C — Uma V e a outra F.
+20E — VF e FV.
+21E — Só V→F é F.
+22A — F→qualquer = V.
+23C — qualquer→V = V.
+24D — Único caso de F.
+25C — Contrapositiva: ~q → ~p (nega e inverte).
+26B — Recíproca: q → p (só inverte).
+27E — Inversa: ~p → ~q (só nega).
+28B — Nega a 1ª OU mantém a 2ª.
+29C — Mantém a 1ª E nega a 2ª.
+30C — p ∧ ~q.
+31D — Suficiente = antecedente; necessária = consequente.
+32D — ~p → q ≡ ~~p ∨ q ≡ p ∨ q.
+33A — III: V ∧ F = F.
+34C — q→p e ~p→~q: uma é a contrapositiva da outra.
+35A — Modus ponens.
+36E — Modus tollens.
+37A — ↔: iguais (VV ou FF).
+38D — ↔: F se diferentes.
+39D — Iguais.
+40B — Diferentes.
+41C — Ida e volta com E.
+42B — Ambos V ou ambos F.
+43E — Negação do ↔ = ⊻.
+44B — Negar os dois lados não muda o ↔.
+45D — Negar um só lado = ⊻.
+46B — VV e FF.
+47C — Ida e volta = identidade.
+48A — Valores iguais: F ↔ F.
+49D — Menor dentro do maior.
+50E — Gato ⊂ felino.
+51C — ~p = complemento.
+52C — Interseção fica com o menor.
+53E — União fica com o maior.
+54B — Elementos em um, mas não em ambos.
+55C — Só o condicional.
+56A — ↔ é comutativo.
+57D — Recíproca ≠ original.
+58E — Associativa do E.
+59B — FFF: (V)→F = F; F→(V) = V.
+60A — Dupla negação.
+61D — ↔ é o mais fraco.
+62D — Bicondicional por último.
+63D — ∨ antes de →.
+64B — → antes de ↔.
+65C — Parênteses, colchetes, chaves.
+66B — Mais interno primeiro.
+67E — (V→F)=F; (F→F)=V.
+68E — III: q↔r = F, logo F.
+69B — Sempre V.
+70E — Terceiro excluído.
+71A — Sempre F.
+72C — Nunca têm o mesmo valor.
+73A — Adição: sempre V.
+74E — Simplificação.
+75B — Tem V e F.
+76A — V ∧ F = F.
+77D — V ∨ F = V.
+78E — p ∧ q e p ↔ q são contingências.
+79B — Nega e troca E por OU.
+80D — Nega e troca OU por E.
+81D — Nega tudo e troca.
+82D — Só E e OU.
+83A — ~p ∨ ~q.
+84B — ~p ∧ ~q.
+85B — Nega ~p→p, q→~q, troca.
+86A — ~p ∧ ~~q.
+87E — De Morgan ao contrário.
+88B — Origem da regra 'mantém e nega'.
+89E — Vale para vários termos.
+90D — p ∧ ~q. A 1ª alternativa errada é equivalente, não negação.
+91E — Todo → Algum não.
+92D — Algum → Nenhum.
+93A — Nenhum → Algum.
+94C — Negação do ↔ = ⊻.
+95C — Negação do ⊻ = ↔.
+96D — Distributiva.
+97C — Distributiva do OU sobre o E.
+98B — Absorção.
+99A — Mesmo antecedente: junta consequentes com E.
+100A — Mesmo consequente: junta antecedentes com OU.

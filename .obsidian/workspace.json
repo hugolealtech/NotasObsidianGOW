@@ -11,12 +11,12 @@
             "id": "04d8767dce31b59f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "RACIOCÍNIO LÓGICO/A3/Slide R.Log.Au.3.pdf"
+                "file": "0 - Desenho Helena/Drawing 2026-09-24 07.58.26.excalidraw.md"
               },
-              "icon": "lucide-file-text",
-              "title": "Slide R.Log.Au.3"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-09-24 07.58.26.excalidraw"
             }
           }
         ]
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.68701171875
+    "width": 329.68701171875,
+    "collapsed": true
   },
   "right": {
     "id": "1f21ed8ca2632c5a",
@@ -213,15 +214,13 @@
             "type": "tabs",
             "children": [
               {
-                "id": "e5f25d8e54f46630",
+                "id": "6f37978549f7bf48",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "RACIOCÍNIO LÓGICO/A3/Drawing 2026-09-25 16.38.26.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Drawing 2026-09-25 16.38.26.excalidraw"
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Nova aba"
                 }
               }
             ]
@@ -237,19 +236,20 @@
       }
     ]
   },
-  "active": "e5f25d8e54f46630",
+  "active": "6f37978549f7bf48",
   "lastOpenFiles": [
-    "Pasted Image 20260929083527_038.png",
     "RACIOCÍNIO LÓGICO/A3/Drawing 2026-09-25 16.38.26.excalidraw.md",
-    "Pasted Image 20260926070600_786.png",
+    "0 - Desenho Helena/Drawing 2026-09-24 07.58.26.excalidraw.md",
+    "RACIOCÍNIO LÓGICO/A3/logica-proposicional-vavilov.md.pdf",
     "RACIOCÍNIO LÓGICO/A3/Slide R.Log.Au.3.pdf",
+    "Pasted Image 20260929083527_038.png",
+    "Pasted Image 20260926070600_786.png",
     "RACIOCÍNIO LÓGICO/A2/RACIOCINIO LOGICO A2 DRAW.md",
     "Pasted Image 20260924163507_392.png",
     "RACIOCÍNIO LÓGICO/A2/Caderno.md",
     "RACIOCÍNIO LÓGICO/A2/RACIOCNIO_LOGICO_A2.md",
     "Ink/Writing/2026.9.24 - 9.40am.svg",
     "RACIOCÍNIO LÓGICO/A2/Whiteboard.pencil",
-    "0 - Desenho Helena/Drawing 2026-09-24 07.58.26.excalidraw.md",
     "0 - Desenho Helena",
     "Sem título",
     "RACIOCÍNIO LÓGICO/A2/RACIOCÍNIO LOGICO A2.pdf",
@@ -259,13 +259,11 @@
     "RACIOCÍNIO LÓGICO/A2/images/RACIOCNIO_LOGICO_A2-img6-pg3.png",
     "RACIOCÍNIO LÓGICO/A2/images/RACIOCNIO_LOGICO_A2-img5-pg3.png",
     "RACIOCÍNIO LÓGICO/A2/images/RACIOCNIO_LOGICO_A2-img4-pg3.png",
-    "RACIOCÍNIO LÓGICO/A2/images/RACIOCNIO_LOGICO_A2-img3-pg3.png",
     "RACIOCÍNIO LÓGICO/A2/images",
     "DIREITO ADMINISTRATIVO/A8/DIR.ADM.A.8/DIR.ADM.A.8.md",
     "RACIOCÍNIO LÓGICO/A6",
     "RACIOCÍNIO LÓGICO/A5",
     "RACIOCÍNIO LÓGICO/A4",
-    "RACIOCÍNIO LÓGICO/A3",
     "00_inbox/vavilov_sliconst3.md",
     "DIREITO DO TRABALHO/Outros pontos do art. 8º da CF-88./Outros pontos do art. 8º da CF-88..md",
     "DIREITO DO TRABALHO/A1/DIR.TRABALHO.A.1/DIR.TRABALHO.A.1.md",
