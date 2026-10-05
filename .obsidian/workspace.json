@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.68701171875,
-    "collapsed": true
+    "width": 329.68701171875
   },
   "right": {
     "id": "1f21ed8ca2632c5a",
@@ -184,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,7 +234,7 @@
       }
     ]
   },
-  "active": "6f37978549f7bf48",
+  "active": "04d8767dce31b59f",
   "lastOpenFiles": [
     "RACIOCÍNIO LÓGICO/A3/Drawing 2026-09-25 16.38.26.excalidraw.md",
     "0 - Desenho Helena/Drawing 2026-09-24 07.58.26.excalidraw.md",
