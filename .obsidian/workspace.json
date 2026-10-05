@@ -11,12 +11,14 @@
             "id": "04d8767dce31b59f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "0 - Desenho Helena/Drawing 2026-09-24 07.58.26.excalidraw.md"
+                "file": "00_inbox/Manual de Petições de Rotina - CPC.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-24 07.58.26.excalidraw"
+              "icon": "lucide-file",
+              "title": "Manual de Petições de Rotina - CPC"
             }
           }
         ]
@@ -236,8 +238,13 @@
   },
   "active": "04d8767dce31b59f",
   "lastOpenFiles": [
-    "RACIOCÍNIO LÓGICO/A3/Drawing 2026-09-25 16.38.26.excalidraw.md",
     "0 - Desenho Helena/Drawing 2026-09-24 07.58.26.excalidraw.md",
+    "00_inbox/VAVILOV_REVISAO_Arena Mode_08-07-2026.md",
+    "00_inbox/vavilov_sliconst3.md",
+    "00_inbox/Manual de Petições de Rotina - CPC.md",
+    "00_inbox/analise-repeticao-dataprev-2026.md",
+    "00_inbox/Prova/analista_de_tecnologia_da_informacao_advocacia.pdf",
+    "RACIOCÍNIO LÓGICO/A3/Drawing 2026-09-25 16.38.26.excalidraw.md",
     "RACIOCÍNIO LÓGICO/A3/logica-proposicional-vavilov.md.pdf",
     "RACIOCÍNIO LÓGICO/A3/Slide R.Log.Au.3.pdf",
     "Pasted Image 20260929083527_038.png",
@@ -261,12 +268,9 @@
     "DIREITO ADMINISTRATIVO/A8/DIR.ADM.A.8/DIR.ADM.A.8.md",
     "RACIOCÍNIO LÓGICO/A6",
     "RACIOCÍNIO LÓGICO/A5",
-    "RACIOCÍNIO LÓGICO/A4",
-    "00_inbox/vavilov_sliconst3.md",
     "DIREITO DO TRABALHO/Outros pontos do art. 8º da CF-88./Outros pontos do art. 8º da CF-88..md",
     "DIREITO DO TRABALHO/A1/DIR.TRABALHO.A.1/DIR.TRABALHO.A.1.md",
     "00_inbox/Prova/Drawing 2026-09-14 16.21.18.excalidraw.md",
-    "00_inbox/analise-repeticao-dataprev-2026.md",
     "DIREITO PENAL/AULA 3/Defesa do Reclamado II-/Conduta (elementos do fato típico) II/Conduta (elementos do fato típico) II.md",
     "DIREITO ADMINISTRATIVO/A7/DIR.ADM.A.7/DIR.ADM.A.7.md",
     "VADE MECUM/Lei.md",
@@ -280,7 +284,6 @@
     "DIREITO ADMINISTRATIVO/AULA 8/DIR.ADM.A.8/DIR.ADM.A.8.md",
     "DIREITO PROCESSUAL CIVIL/A13/DIR.PROC.CIVIL.A.13/DIR.PROC.CIVIL.A.13.md",
     "DIREITO PROCESSUAL CIVIL/A12/DIR.PROC.CIVIL.A.12/DIR.PROC.CIVIL.A.12.md",
-    "DIREITO PROCESSUAL CIVIL/A11/DIR.PROC.CIVIL.A.11/DIR.PROC.CIVIL.A.11.md",
     "images/Sem título.canvas"
   ]
 }
