@@ -202,43 +202,10 @@
       "pencil:New whiteboard": false
     }
   },
-  "floating": {
-    "id": "87c7f818aab72ca0",
-    "type": "floating",
-    "children": [
-      {
-        "id": "dbc74180dfa219b4",
-        "type": "window",
-        "children": [
-          {
-            "id": "a08c77cb937a28f0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6f37978549f7bf48",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "Nova aba"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -967,
-        "y": -227,
-        "width": 854,
-        "height": 1053,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6f37978549f7bf48",
+  "active": "04d8767dce31b59f",
   "lastOpenFiles": [
+    "RACIOCÍNIO LÓGICO/A4/RACIOCINIO_LOGICO_A3.md",
+    "RACIOCÍNIO LÓGICO/A4/RACIOCINIO LOGICO A3.pdf",
     "RACIOCÍNIO LÓGICO/A4/RACIOCINIO_LOGICO_A4.md",
     "00_inbox/Manual de Petições de Rotina - CPC.md",
     "RACIOCÍNIO LÓGICO/A4/images/RACIOCINIO_LOGICO_A3-img32-pg9.png",
@@ -251,7 +218,6 @@
     "RACIOCÍNIO LÓGICO/A4/images/RACIOCINIO_LOGICO_A3-img37-pg11.png",
     "RACIOCÍNIO LÓGICO/A4/images/RACIOCINIO_LOGICO_A3-img19-pg6.png",
     "RACIOCÍNIO LÓGICO/A4/images/RACIOCINIO_LOGICO_A3-img4-pg2.png",
-    "RACIOCÍNIO LÓGICO/A4/RACIOCINIO_LOGICO_A3.md",
     "RACIOCÍNIO LÓGICO/A4/images",
     "0 - Desenho Helena/Drawing 2026-09-24 07.58.26.excalidraw.md",
     "00_inbox/VAVILOV_REVISAO_Arena Mode_08-07-2026.md",
@@ -270,7 +236,6 @@
     "RACIOCÍNIO LÓGICO/A2/RACIOCÍNIO LOGICO A2.pdf",
     "RACIOCÍNIO LÓGICO/A2/images",
     "DIREITO ADMINISTRATIVO/A8/DIR.ADM.A.8/DIR.ADM.A.8.md",
-    "RACIOCÍNIO LÓGICO/A6",
     "DIREITO DO TRABALHO/Outros pontos do art. 8º da CF-88./Outros pontos do art. 8º da CF-88..md",
     "DIREITO DO TRABALHO/A1/DIR.TRABALHO.A.1/DIR.TRABALHO.A.1.md",
     "00_inbox/Prova/Drawing 2026-09-14 16.21.18.excalidraw.md",
@@ -284,7 +249,6 @@
     "DIREITO CONSTITUCIONAL/AULA 9/DIR.CONST.A.9/DIR.CONST.A.9.md",
     "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/DIR.CONST.A.8.md",
     "DIREITO CONSTITUCIONAL/AULA 2/05 - Excalidraw/Inertia Deliberandi.md",
-    "DIREITO ADMINISTRATIVO/AULA 8/DIR.ADM.A.8/DIR.ADM.A.8.md",
     "images/Sem título.canvas"
   ]
 }
