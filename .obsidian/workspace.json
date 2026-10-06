@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RACIOCÍNIO LÓGICO/A4/RACIOCINIO_LOGICO_A4.md",
+                "file": "DIREITO CONSTITUCIONAL/DCA7_exemplo_regerado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RACIOCINIO_LOGICO_A4"
+              "title": "DCA7_exemplo_regerado"
             }
           }
         ]
@@ -202,23 +202,69 @@
       "pencil:New whiteboard": false
     }
   },
+  "floating": {
+    "id": "87c7f818aab72ca0",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6466234123c64a77",
+        "type": "window",
+        "children": [
+          {
+            "id": "e65a4f8dc037ac3f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cb03f352fdbf670d",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "DIREITO CONSTITUCIONAL/AULA 10/DIR.CONST.A.10.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "DIR.CONST.A.10"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1230,
+        "y": 12,
+        "width": 600,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "04d8767dce31b59f",
   "lastOpenFiles": [
+    "DIREITO CONSTITUCIONAL/decreto-lei 201-1967.md",
+    "DIREITO CONSTITUCIONAL/princípio da simetria.md",
+    "DIREITO CONSTITUCIONAL/AULA 11/DIR.CONST.A.11/DIR.CONST.A.11.md",
+    "DIREITO CONSTITUCIONAL/AULA 7/DCA7.md",
+    "RACIOCÍNIO LÓGICO/A4/RAC.LOGICO.A.4.pdf",
+    "RACIOCÍNIO LÓGICO/A4/RAC.LOGICO.A.4.md",
+    "DIREITO CONSTITUCIONAL/AULA 10/DIR.CONST.A.10.md",
+    "DIREITO CONSTITUCIONAL/AULA 10/DIR.CONST.A.10.pdf",
+    "RACIOCÍNIO LÓGICO/A4/images/RAC.LOGICO.A.4-pg14-fig1.png",
+    "RACIOCÍNIO LÓGICO/A4/images/RAC.LOGICO.A.4-pg15-fig1.png",
+    "RACIOCÍNIO LÓGICO/A4/images/RAC.LOGICO.A.4-pg1-fig1.png",
+    "RACIOCÍNIO LÓGICO/A4/images/RAC.LOGICO.A.4-pg15-fig2.png",
+    "RACIOCÍNIO LÓGICO/A4/images/RAC.LOGICO.A.4-pg14-fig2.png",
+    "RACIOCÍNIO LÓGICO/A4/images/RAC.LOGICO.A.4-pg1-fig2.png",
+    "RACIOCÍNIO LÓGICO/A4/images/RAC.LOGICO.A.4-pg13-fig1.png",
+    "RACIOCÍNIO LÓGICO/A4/images/RAC.LOGICO.A.4-pg12-fig1.png",
+    "RACIOCÍNIO LÓGICO/A4/images/RAC.LOGICO.A.4-pg6-fig1.png",
+    "RACIOCÍNIO LÓGICO/A4/images/RAC.LOGICO.A.4-pg7-fig1.png",
+    "RACIOCÍNIO LÓGICO/A4/images",
+    "RACIOCÍNIO LÓGICO/A4/RACIOCINIO_LOGICO_A4.md",
+    "DIREITO CONSTITUCIONAL/AULA 10/images",
     "RACIOCÍNIO LÓGICO/A4/RACIOCINIO_LOGICO_A3.md",
     "RACIOCÍNIO LÓGICO/A4/RACIOCINIO LOGICO A3.pdf",
-    "RACIOCÍNIO LÓGICO/A4/RACIOCINIO_LOGICO_A4.md",
     "00_inbox/Manual de Petições de Rotina - CPC.md",
-    "RACIOCÍNIO LÓGICO/A4/images/RACIOCINIO_LOGICO_A3-img32-pg9.png",
-    "RACIOCÍNIO LÓGICO/A4/images/RACIOCINIO_LOGICO_A3-img10-pg3.png",
-    "RACIOCÍNIO LÓGICO/A4/images/RACIOCINIO_LOGICO_A3-img11-pg4.png",
-    "RACIOCÍNIO LÓGICO/A4/images/RACIOCINIO_LOGICO_A3-img18-pg6.png",
-    "RACIOCÍNIO LÓGICO/A4/images/RACIOCINIO_LOGICO_A3-img5-pg2.png",
-    "RACIOCÍNIO LÓGICO/A4/images/RACIOCINIO_LOGICO_A3-img40-pg11.png",
-    "RACIOCÍNIO LÓGICO/A4/images/RACIOCINIO_LOGICO_A3-img36-pg10.png",
-    "RACIOCÍNIO LÓGICO/A4/images/RACIOCINIO_LOGICO_A3-img37-pg11.png",
-    "RACIOCÍNIO LÓGICO/A4/images/RACIOCINIO_LOGICO_A3-img19-pg6.png",
-    "RACIOCÍNIO LÓGICO/A4/images/RACIOCINIO_LOGICO_A3-img4-pg2.png",
-    "RACIOCÍNIO LÓGICO/A4/images",
     "0 - Desenho Helena/Drawing 2026-09-24 07.58.26.excalidraw.md",
     "00_inbox/VAVILOV_REVISAO_Arena Mode_08-07-2026.md",
     "00_inbox/vavilov_sliconst3.md",
@@ -232,9 +278,6 @@
     "RACIOCÍNIO LÓGICO/A2/RACIOCNIO_LOGICO_A2.md",
     "RACIOCÍNIO LÓGICO/A2/Whiteboard.pencil",
     "0 - Desenho Helena",
-    "Sem título",
-    "RACIOCÍNIO LÓGICO/A2/RACIOCÍNIO LOGICO A2.pdf",
-    "RACIOCÍNIO LÓGICO/A2/images",
     "DIREITO ADMINISTRATIVO/A8/DIR.ADM.A.8/DIR.ADM.A.8.md",
     "DIREITO DO TRABALHO/Outros pontos do art. 8º da CF-88./Outros pontos do art. 8º da CF-88..md",
     "DIREITO DO TRABALHO/A1/DIR.TRABALHO.A.1/DIR.TRABALHO.A.1.md",
@@ -244,11 +287,6 @@
     "VADE MECUM/Lei.md",
     "DIREITO ADMINISTRATIVO/A4/DIR.ADM.A.4/DIR.ADM.A.4.md",
     "reversão jurisprudêncial..md",
-    "autodeterminação dos povos;.md",
-    "VADE MECUM/Vade_mecum_Senado_Federal_3ed-2.md",
-    "DIREITO CONSTITUCIONAL/AULA 9/DIR.CONST.A.9/DIR.CONST.A.9.md",
-    "DIREITO CONSTITUCIONAL/AULA 8/DIR.CONST.A.8/DIR.CONST.A.8.md",
-    "DIREITO CONSTITUCIONAL/AULA 2/05 - Excalidraw/Inertia Deliberandi.md",
     "images/Sem título.canvas"
   ]
 }
