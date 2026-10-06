@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Manual de Petições de Rotina - CPC"
             }
-          },
-          {
-            "id": "82cbbf59f1c473c4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.14.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,12 +238,12 @@
       }
     ]
   },
-  "active": "82cbbf59f1c473c4",
+  "active": "04d8767dce31b59f",
   "lastOpenFiles": [
+    "00_inbox/Manual de Petições de Rotina - CPC.md",
     "0 - Desenho Helena/Drawing 2026-09-24 07.58.26.excalidraw.md",
     "00_inbox/VAVILOV_REVISAO_Arena Mode_08-07-2026.md",
     "00_inbox/vavilov_sliconst3.md",
-    "00_inbox/Manual de Petições de Rotina - CPC.md",
     "00_inbox/analise-repeticao-dataprev-2026.md",
     "00_inbox/Prova/analista_de_tecnologia_da_informacao_advocacia.pdf",
     "RACIOCÍNIO LÓGICO/A3/Drawing 2026-09-25 16.38.26.excalidraw.md",
