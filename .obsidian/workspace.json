@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Manual de Petições de Rotina - CPC"
             }
+          },
+          {
+            "id": "82cbbf59f1c473c4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.14.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.68701171875
+    "width": 329.68701171875,
+    "collapsed": true
   },
   "right": {
     "id": "1f21ed8ca2632c5a",
@@ -185,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,7 +251,7 @@
       }
     ]
   },
-  "active": "04d8767dce31b59f",
+  "active": "82cbbf59f1c473c4",
   "lastOpenFiles": [
     "0 - Desenho Helena/Drawing 2026-09-24 07.58.26.excalidraw.md",
     "00_inbox/VAVILOV_REVISAO_Arena Mode_08-07-2026.md",
