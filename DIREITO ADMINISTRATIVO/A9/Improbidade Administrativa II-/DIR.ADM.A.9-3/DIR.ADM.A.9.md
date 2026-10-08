@@ -12,9 +12,9 @@ caminho:
 
 **ANALISTA DOS TRIBUNAIS** BRUNO BETTI DIREITO ADMINISTRATIVO AULA 9
 
-# ROTEIRO DE AULA
-#### Sumário
-#### Tema: Improbidade Administrativa
+### ROTEIRO DE AULA
+### Sumário
+### Tema: Improbidade Administrativa
 
 2) Sujeitos do ato de improbidade
 
@@ -205,17 +205,17 @@ A utilização conjunta das Leis n. 8.429/1992 (Lei de Improbidade Administrativ
 > LEI
 > - Art. 1º, §3º - O mero exercício da função ou desempenho de competências públicas, sem comprovação de ato doloso com fim ilícito, afasta a responsabilidade por ato de improbidade administrativa.
 
-|Art. 9º Constitui ato de improbidade Art. 10. Constitui ato de improbidade Art. 11. Constitui ato de administrativa importando em administrativa que causa lesão ao improbidade administrativa que enriquecimento ilícito auferir, erário qualquer ação ou omissão atenta contra os princípios da mediante a prática de ato doloso, dolosa, que enseje, efetiva e administração pública a ação ou qualquer tipo de vantagem comprovadamente, perda omissão dolosa que viole os deveres patrimonial indevida em razão do patrimonial, desvio, apropriação, de honestidade, de imparcialidade e exercício de cargo, de mandato, de malbaratamento ou dilapidação dos de legalidade, caracterizada por função, de emprego ou de atividade bens ou haveres das entidades uma das seguintes condutas: nas entidades referidas no art. 1º referidas no art. 1º desta Lei, e desta Lei, e notadamente: notadamente:|Col2|Col3|
+|Art. 9º Constitui ato de improbidade Art. 10. Constitui ato de improbidade Art. 11. Constitui ato de<br>administrativa importando em administrativa que causa lesão ao improbidade administrativa que<br>enriquecimento ilícito auferir, erário qualquer ação ou omissão atenta contra os princípios da<br>mediante a prática de ato doloso, dolosa, que enseje, efetiva e administração pública a ação ou<br>qualquer tipo de vantagem comprovadamente, perda omissão dolosa que viole os deveres<br>patrimonial indevida em razão do patrimonial, desvio, apropriação, de honestidade, de imparcialidade e<br>exercício de cargo, de mandato, de malbaratamento ou dilapidação dos de legalidade, caracterizada por<br>função, de emprego ou de atividade bens ou haveres das entidades uma das seguintes condutas:<br>nas entidades referidas no art. 1º referidas no art. 1º desta Lei, e<br>desta Lei, e notadamente: notadamente:|Col2|Col3|
 
 |---|---|---|
 
-|Enriquecimento ilícito Lesão ao erário Violação a princípio|Enriquecimento ilícito Lesão ao erário Violação a princípio|Enriquecimento ilícito Lesão ao erário Violação a princípio|
+|Enriquecimento ilícito<br>Lesão ao erário<br>Violação a princípio|Enriquecimento ilícito<br>Lesão ao erário<br>Violação a princípio|Enriquecimento ilícito<br>Lesão ao erário<br>Violação a princípio|
 
-|Ação + dolo Ação ou omissão + dolo Ação ou omissão + dolo|Ação + dolo Ação ou omissão + dolo Ação ou omissão + dolo|Ação + dolo Ação ou omissão + dolo Ação ou omissão + dolo|
+|Ação + dolo<br>Ação ou omissão + dolo<br>Ação ou omissão + dolo|Ação + dolo<br>Ação ou omissão + dolo<br>Ação ou omissão + dolo|Ação + dolo<br>Ação ou omissão + dolo<br>Ação ou omissão + dolo|
 
-|Rol exemplificativo Rol exemplificativo Rol taxativo|Rol exemplificativo Rol exemplificativo Rol taxativo|Rol exemplificativo Rol exemplificativo Rol taxativo|
+|Rol exemplificativo<br>Rol exemplificativo<br>Rol taxativo|Rol exemplificativo<br>Rol exemplificativo<br>Rol taxativo|Rol exemplificativo<br>Rol exemplificativo<br>Rol taxativo|
 
-|O  agente público está se enriquecendo (verbos que possuem conotação de enriquecimento) Ex. Adquirir, receber, utilizar, auferir|O agente está agindo para o dano ao erário – ex. Permitir; facilitar; concorrer; doar; conceder;|Hipóteses: estudadas a seguir|
+|O <br>agente<br>público<br>está<br>se<br>enriquecendo (verbos que possuem<br>conotação de enriquecimento)<br>Ex. Adquirir, receber, utilizar, auferir|O agente está agindo para o dano ao<br>erário – ex. Permitir; facilitar;<br>concorrer; doar; conceder;|Hipóteses: estudadas a seguir|
 
 - Era: Art. 9º VII - adquirir, para si ou para outrem, no exercício de mandato, cargo, emprego ou função pública, bens de qualquer natureza cujo valor seja desproporcional à evolução do patrimônio ou à renda do agente público; Passou: Art. 9º VII - adquirir, para si ou para outrem, no exercício de mandato, de cargo, de emprego ou de função pública, e em razão deles, bens de qualquer natureza, decorrentes dos atos descritos no caput deste artigo, cujo valor seja desproporcional à evolução do patrimônio ou à renda do agente público, assegurada a demonstração pelo agente da licitude da origem dessa evolução;     (Redação dada pela Lei nº , de 2021) 5
 
@@ -252,14 +252,14 @@ XXII - conceder, aplicar ou manter benefício financeiro ou tributário contrár
 
 > [!quote] 
 > LEI
->   - Art. 11 (lembre-se que não há verbos, mas sim hipóteses relevantes): ¬¬I - praticar ato visando fim proibido em lei ou regulamento ou diverso daquele previsto, na regra de competência;¬¬ ¬¬II - retardar ou deixar de praticar, indevidamente, ato de ofício;¬¬ ¬¬IX - deixar de cumprir a exigência de requisitos de acessibilidade previstos na legislação.¬¬ 6
+>   - Art. 11 (lembre-se que não há verbos, mas sim hipóteses relevantes): ~~I - praticar ato visando fim proibido em lei ou regulamento ou diverso daquele previsto, na regra de competência;~~ ~~II - retardar ou deixar de praticar, indevidamente, ato de ofício;~~ ~~IX - deixar de cumprir a exigência de requisitos de acessibilidade previstos na legislação.~~ 6
 
 ---
 *p. 6*
 
 ---
 
-¬¬X - transferir recurso a entidade privada, em razão da prestação de serviços na área de saúde sem a prévia¬¬ ¬¬celebração de contrato, convênio ou instrumento congênere, nos termos do parágrafo único do art. 24 da Lei nº¬¬ ¬¬8.080, de 19 de setembro de 1990¬¬
+~~X - transferir recurso a entidade privada, em razão da prestação de serviços na área de saúde sem a prévia~~ ~~celebração de contrato, convênio ou instrumento congênere, nos termos do parágrafo único do art. 24 da Lei nº~~ ~~8.080, de 19 de setembro de 1990~~
 
 > [!attention] Atenção!
 > **Obs** . sobre os dois primeiros incisos e sua revogação: é necessário analisar o trânsito em julgado para a aplicação retroativa da revogação
@@ -451,7 +451,7 @@ E) considerando que a conduta em cotejo não pode ser caracterizada como ato de 
 
   - Cabe esclarecer que o acordo de colaboração premiada deve ser regido pelos princípios da boa-fé objetiva e da proteção à legítima confiança, pilares que sustentam a relação jurídica estabelecida no ajuste firmado entre o particular e a Administração. Destarte, a tentativa de ajuizar uma nova ação, ainda que com escopo exclusivamente declaratório (da existência do ato ímprobo), coloca em risco os referidos primados abalando a segurança jurídica e a estabilidade das relações firmadas, que devem ser preservadas especialmente em um cenário de colaboração premiada, em que a reciprocidade e o cumprimento fiel das condições são fundamentais para a credibilidade do instituto. Permitir que uma ação de improbidade seja ajuizada e admitida apenas para declarar a prática do ato ímprobo, mesmo sem imposição de sanções adicionais (àquelas já acordadas), acabaria por enfraquecer os objetivos da colaboração premiada, gerando incertezas quanto à extensão dos efeitos do ajuste consensualmente firmado, o que pode desestimular potenciais colaboradores. A essência do instituto da colaboração premiada está na segurança e previsibilidade que oferece tanto ao colaborador quanto ao Estado, como forma de incentivar o desvendamento de esquemas ilícitos complexos. Admitir a judicialização de questões já abarcadas pelo acordo resultaria em falta de confiança no sistema comprometendo a adesão a esse mecanismo consensual e o seu papel na eficiência das investigações. Além disso, consentir com a existência de uma ação de improbidade exclusivamente declaratória esvaziaria uma das finalidades essenciais da solução consensual por meio da colaboração premiada, que é o de evitar (se possível) justamente o ajuizamento de ação. Ademais, a ação de improbidade administrativa, prevista na Lei n. 8.429/1992, tem como objetivo central a apuração de atos lesivos à administração pública e a imposição de sanções proporcionais ao ilícito. O ajuizamento de ação com a finalidade exclusiva de declarar a prática de ato de improbidade, sem a pretensão de imposição de novas sanções ou reparações concretas, revela-se incompatível com a finalidade normativa do instituto.
 
-5) Procedimento Judicial - arts. 17 a 18-A ¬¬●¬¬ ¬¬Ação será proposta pelo MP – Rito Comum do CPC¬¬ ¬¬- Fazenda Pública não tem mais legitimidade ativa¬¬ ¬¬- No prazo de 1 ano a partir da data de publicação da Lei nº 14.230/21, o MP manifestará interesse no¬¬ ¬¬prosseguimento das ações por improbidade administrativa em curso ajuizadas pela Fazenda Pública, inclusive em¬¬ ¬¬grau de recurso, de modo que, nesse prazo de 1 ano, suspende-se o processo, sendo vedado praticar qualquer¬¬ ¬¬ato processual, podendo o juiz, todavia, determinar a realização de atos urgentes a fim de evitar dano irreparável,¬¬ ¬¬salvo no caso de arguição de impedimento e de suspeição, nos termos do art. 314 do Código de Processo Civil.¬¬ ¬¬- Caso o Ministério Público, nesse prazo de 1 ano, não se manifeste, o processo em questão será extinto sem¬¬ ¬¬resolução do mérito.¬¬
+5) Procedimento Judicial - arts. 17 a 18-A ~~●~~ ~~Ação será proposta pelo MP – Rito Comum do CPC~~ ~~- Fazenda Pública não tem mais legitimidade ativa~~ ~~- No prazo de 1 ano a partir da data de publicação da Lei nº 14.230/21, o MP manifestará interesse no~~ ~~prosseguimento das ações por improbidade administrativa em curso ajuizadas pela Fazenda Pública, inclusive em~~ ~~grau de recurso, de modo que, nesse prazo de 1 ano, suspende-se o processo, sendo vedado praticar qualquer~~ ~~ato processual, podendo o juiz, todavia, determinar a realização de atos urgentes a fim de evitar dano irreparável,~~ ~~salvo no caso de arguição de impedimento e de suspeição, nos termos do art. 314 do Código de Processo Civil.~~ ~~- Caso o Ministério Público, nesse prazo de 1 ano, não se manifeste, o processo em questão será extinto sem~~ ~~resolução do mérito.~~
 
 > [!warning] Jurisprudência
 >   - ADI 7042 – STF deferiu cautelar EXISTÊNCIA DE LEGITIMIDADE ATIVA CONCORRENTE ENTRE O MP E AS PJ DE DREITO PÚBLICO 13
@@ -590,7 +590,7 @@ III - de homologação judicial, independente do acordo ocorrer antes ou depois 
 
 ---
 
-¬¬●¬¬ ¬¬Para fins de apuração do valor do dano a ser ressarcido, deverá ser realizada a oitiva do Tribunal de Contas¬¬ ¬¬competente, para que se manifeste com indicação de parâmetros, no prazo de 90 dias.¬¬ [ **dispositivo com a eficácia**
+~~●~~ ~~Para fins de apuração do valor do dano a ser ressarcido, deverá ser realizada a oitiva do Tribunal de Contas~~ ~~competente, para que se manifeste com indicação de parâmetros, no prazo de 90 dias.~~ [ **dispositivo com a eficácia**
 
 **suspensa]**
 
@@ -716,7 +716,7 @@ V - pela publicação de decisão ou acórdão do Supremo Tribunal Federal confi
 
 -É em razão do inciso I que o STJ não aplica o Princípio da Insignificância nos casos de improbidade administrativa.
 
-II - da aprovação ou rejeição das contas pelo órgão de controle interno ou pelo Tribunal ou Conselho de Contas. § 3º - As sentenças civis e penais produzirão efeitos em relação à ação de improbidade quando decidirem pela inexistência da conduta ou pela negativa da autoria. ¬¬§ 4º - A absolvição criminal em ação que discuta os mesmos fatos, confirmada por decisão colegiada, impede o¬¬ ¬¬trâmite da ação da qual trata esta lei, havendo comunicação com todos os fundamentos de absolvição previstos¬¬ ¬¬no art. 386, do Decreto-Lei nº 3.689, de 3 de outubro de 1941.¬¬ **Suspenso** § 5º - Eventuais outras sanções aplicadas em outras esferas deverão ser compensadas com as sanções aplicadas nos termos desta lei.
+II - da aprovação ou rejeição das contas pelo órgão de controle interno ou pelo Tribunal ou Conselho de Contas. § 3º - As sentenças civis e penais produzirão efeitos em relação à ação de improbidade quando decidirem pela inexistência da conduta ou pela negativa da autoria. ~~§ 4º - A absolvição criminal em ação que discuta os mesmos fatos, confirmada por decisão colegiada, impede o~~ ~~trâmite da ação da qual trata esta lei, havendo comunicação com todos os fundamentos de absolvição previstos~~ ~~no art. 386, do Decreto-Lei nº 3.689, de 3 de outubro de 1941.~~ **Suspenso** § 5º - Eventuais outras sanções aplicadas em outras esferas deverão ser compensadas com as sanções aplicadas nos termos desta lei.
 
 **Bloco 5**
 

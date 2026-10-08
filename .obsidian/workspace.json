@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIREITO ADMINISTRATIVO/A9/Improbidade Administrativa II-/DIR.ADM.A.9/DIR.ADM.A.9.md",
+                "file": "DIREITO ADMINISTRATIVO/A9/Improbidade Administrativa II-/DIR.ADM.A.9-3/DIR.ADM.A.9.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.68701171875,
-    "collapsed": true
+    "width": 329.68701171875
   },
   "right": {
     "id": "1f21ed8ca2632c5a",
@@ -203,76 +202,41 @@
       "pencil:New whiteboard": false
     }
   },
-  "floating": {
-    "id": "87c7f818aab72ca0",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6466234123c64a77",
-        "type": "window",
-        "children": [
-          {
-            "id": "e65a4f8dc037ac3f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cb03f352fdbf670d",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "DIREITO CONSTITUCIONAL/AULA 10/DIR.CONST.A.10.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "DIR.CONST.A.10"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 980,
-        "y": 238,
-        "width": 600,
-        "height": 600,
-        "maximize": false,
-        "zoom": 2.5
-      }
-    ]
-  },
   "active": "04d8767dce31b59f",
   "lastOpenFiles": [
+    "DIREITO ADMINISTRATIVO/A9/Improbidade Administrativa II-/DIR.ADM.A.9-3/DIR.ADM.A.9.md",
+    "DIREITO ADMINISTRATIVO/A9/Improbidade Administrativa II-/DIR.ADM.A.9-3/DIR.ADM.A.9.pdf",
+    "DIREITO CONSTITUCIONAL/AULA 10/DIR.CONST.A.10.pdf",
     "DIREITO ADMINISTRATIVO/A9/DIR.ADM.A.9-2/DIR.ADM.A.9.md",
-    "DIREITO ADMINISTRATIVO/A9/Improbidade Administrativa II-/DIR.ADM.A.9/images/DIR.ADM.A.9-img4-pg10.png",
-    "DIREITO ADMINISTRATIVO/A9/Improbidade Administrativa II-/DIR.ADM.A.9/images/DIR.ADM.A.9-img3-pg10.png",
-    "DIREITO ADMINISTRATIVO/A9/Improbidade Administrativa II-/DIR.ADM.A.9/images/DIR.ADM.A.9-img2-pg10.png",
-    "DIREITO ADMINISTRATIVO/A9/Improbidade Administrativa II-/DIR.ADM.A.9/images/DIR.ADM.A.9-img1-pg1.png",
+    "00_inbox/DIR.CONST.A.1/DIR.CONST.A.1.md",
+    "00_inbox/DIR.CONST.A.1/DIR.CONST.A.1.pdf",
+    "00_inbox/DIR.CONST.A.1/images/DIR.CONST.A.1-img4-pg4.png",
+    "00_inbox/DIR.CONST.A.1/images/DIR.CONST.A.1-img5-pg6.png",
+    "00_inbox/DIR.CONST.A.1/images/DIR.CONST.A.1-img28-pg46.png",
+    "00_inbox/DIR.CONST.A.1/images/DIR.CONST.A.1-img29-pg47.png",
+    "00_inbox/DIR.CONST.A.1/images/DIR.CONST.A.1-img30-pg48.png",
+    "00_inbox/DIR.CONST.A.1/images/DIR.CONST.A.1-img22-pg37.png",
+    "00_inbox/DIR.CONST.A.1/images/DIR.CONST.A.1-img17-pg34.png",
+    "00_inbox/DIR.CONST.A.1/images/DIR.CONST.A.1-img9-pg13.png",
+    "00_inbox/DIR.CONST.A.1/images/DIR.CONST.A.1-img8-pg13.png",
+    "00_inbox/DIR.CONST.A.1/images/DIR.CONST.A.1-img6-pg7.png",
+    "00_inbox/DIR.CONST.A.1/images",
+    "00_inbox/DIR.CONST.A.1",
+    "DIREITO ADMINISTRATIVO/A9/Improbidade Administrativa II-/DIR.ADM.A.9-3/images",
+    "DIREITO ADMINISTRATIVO/A9/Improbidade Administrativa II-/DIR.ADM.A.9-3",
+    "DIREITO ADMINISTRATIVO/A9/Improbidade Administrativa II-/DIR.ADM.A.9/DIR.ADM.A.9.md",
     "DIREITO ADMINISTRATIVO/A9/Improbidade Administrativa II-/DIR.ADM.A.9/images",
     "DIREITO ADMINISTRATIVO/A9/Improbidade Administrativa II-/DIR.ADM.A.9/DIR.ADM.A.9.pdf",
-    "DIREITO ADMINISTRATIVO/A9/Improbidade Administrativa II-/DIR.ADM.A.9/DIR.ADM.A.9.md",
     "DIREITO ADMINISTRATIVO/A9/Improbidade Administrativa II-/DIR.ADM.A.9",
-    "DIREITO ADMINISTRATIVO/A9/Improbidade Administrativa II-/DIR.ADM.A.9.zip",
-    "DIREITO ADMINISTRATIVO/A9/DIR.ADM.A.9.zip",
     "DIREITO CONSTITUCIONAL/DCA7_exemplo_regerado.md",
-    "DIREITO CONSTITUCIONAL/AULA 10/DIR.CONST.A.10.pdf",
     "DIREITO CONSTITUCIONAL/decreto-lei 201-1967.md",
     "DIREITO CONSTITUCIONAL/princípio da simetria.md",
     "DIREITO CONSTITUCIONAL/AULA 11/DIR.CONST.A.11/DIR.CONST.A.11.md",
     "DIREITO CONSTITUCIONAL/AULA 7/DCA7.md",
-    "RACIOCÍNIO LÓGICO/A4/RAC.LOGICO.A.4.pdf",
     "RACIOCÍNIO LÓGICO/A4/RAC.LOGICO.A.4.md",
     "DIREITO CONSTITUCIONAL/AULA 10/DIR.CONST.A.10.md",
-    "RACIOCÍNIO LÓGICO/A4/images/RAC.LOGICO.A.4-pg14-fig1.png",
-    "RACIOCÍNIO LÓGICO/A4/images/RAC.LOGICO.A.4-pg15-fig1.png",
-    "RACIOCÍNIO LÓGICO/A4/images/RAC.LOGICO.A.4-pg1-fig1.png",
-    "RACIOCÍNIO LÓGICO/A4/images/RAC.LOGICO.A.4-pg15-fig2.png",
-    "RACIOCÍNIO LÓGICO/A4/images/RAC.LOGICO.A.4-pg14-fig2.png",
-    "RACIOCÍNIO LÓGICO/A4/images/RAC.LOGICO.A.4-pg1-fig2.png",
-    "RACIOCÍNIO LÓGICO/A4/images",
     "RACIOCÍNIO LÓGICO/A4/RACIOCINIO_LOGICO_A4.md",
-    "DIREITO CONSTITUCIONAL/AULA 10/images",
     "RACIOCÍNIO LÓGICO/A4/RACIOCINIO_LOGICO_A3.md",
-    "RACIOCÍNIO LÓGICO/A4/RACIOCINIO LOGICO A3.pdf",
     "00_inbox/Manual de Petições de Rotina - CPC.md",
     "0 - Desenho Helena/Drawing 2026-09-24 07.58.26.excalidraw.md",
     "00_inbox/VAVILOV_REVISAO_Arena Mode_08-07-2026.md",
@@ -285,9 +249,6 @@
     "DIREITO ADMINISTRATIVO/A8/DIR.ADM.A.8/DIR.ADM.A.8.md",
     "DIREITO DO TRABALHO/Outros pontos do art. 8º da CF-88./Outros pontos do art. 8º da CF-88..md",
     "DIREITO DO TRABALHO/A1/DIR.TRABALHO.A.1/DIR.TRABALHO.A.1.md",
-    "00_inbox/Prova/Drawing 2026-09-14 16.21.18.excalidraw.md",
-    "DIREITO PENAL/AULA 3/Defesa do Reclamado II-/Conduta (elementos do fato típico) II/Conduta (elementos do fato típico) II.md",
-    "DIREITO ADMINISTRATIVO/A7/DIR.ADM.A.7/DIR.ADM.A.7.md",
     "images/Sem título.canvas"
   ]
 }
