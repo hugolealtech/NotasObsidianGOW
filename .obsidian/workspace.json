@@ -230,17 +230,18 @@
           }
         ],
         "direction": "vertical",
-        "x": -1230,
-        "y": 12,
+        "x": -840,
+        "y": 0,
         "width": 600,
         "height": 600,
         "maximize": false,
-        "zoom": 0
+        "zoom": 2.5
       }
     ]
   },
-  "active": "04d8767dce31b59f",
+  "active": "9fdda24d793192a0",
   "lastOpenFiles": [
+    "DIREITO CONSTITUCIONAL/AULA 10/DIR.CONST.A.10.pdf",
     "DIREITO CONSTITUCIONAL/decreto-lei 201-1967.md",
     "DIREITO CONSTITUCIONAL/princípio da simetria.md",
     "DIREITO CONSTITUCIONAL/AULA 11/DIR.CONST.A.11/DIR.CONST.A.11.md",
@@ -248,7 +249,6 @@
     "RACIOCÍNIO LÓGICO/A4/RAC.LOGICO.A.4.pdf",
     "RACIOCÍNIO LÓGICO/A4/RAC.LOGICO.A.4.md",
     "DIREITO CONSTITUCIONAL/AULA 10/DIR.CONST.A.10.md",
-    "DIREITO CONSTITUCIONAL/AULA 10/DIR.CONST.A.10.pdf",
     "RACIOCÍNIO LÓGICO/A4/images/RAC.LOGICO.A.4-pg14-fig1.png",
     "RACIOCÍNIO LÓGICO/A4/images/RAC.LOGICO.A.4-pg15-fig1.png",
     "RACIOCÍNIO LÓGICO/A4/images/RAC.LOGICO.A.4-pg1-fig1.png",
@@ -286,7 +286,6 @@
     "DIREITO ADMINISTRATIVO/A7/DIR.ADM.A.7/DIR.ADM.A.7.md",
     "VADE MECUM/Lei.md",
     "DIREITO ADMINISTRATIVO/A4/DIR.ADM.A.4/DIR.ADM.A.4.md",
-    "reversão jurisprudêncial..md",
     "images/Sem título.canvas"
   ]
 }

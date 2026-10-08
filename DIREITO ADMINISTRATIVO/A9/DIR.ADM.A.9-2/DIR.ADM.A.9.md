@@ -2,7 +2,7 @@
 disciplina:
 tags:
 excalidraw-plugin: parsed
-data_criacao: 2026-08-31
+data_criacao: 2026-10-08
 professora:
 assunto:
 caminho:
@@ -12,9 +12,9 @@ caminho:
 
 **ANALISTA DOS TRIBUNAIS** BRUNO BETTI DIREITO ADMINISTRATIVO AULA 9
 
-- [[ROTEIRO DE AULA]]
-- [[Sumário]]
-- [[Tema: Improbidade Administrativa]]
+# ROTEIRO DE AULA
+#### Sumário
+#### Tema: Improbidade Administrativa
 
 2) Sujeitos do ato de improbidade
 
@@ -24,13 +24,13 @@ caminho:
 
 3) Tipologia da improbidade
 
-4) Sanções da improbidade (art. 12)
+4) Sanções da improbidade ()
 
 5) Procedimento Judicial - arts. 17 a 18-A
 
 6) Prescrição – art. 23
 
-7) Indisponibilidade de Bens – art. 16
+7) Indisponibilidade de Bens – 
 
 **Tema: Lei Anticorrupção**
 
@@ -50,7 +50,7 @@ caminho:
 
 8) Responsabilização Judicial
 
-9) Disposições Finais
+9) Disposições Finais 1
 
 ---
 *p. 1*
@@ -96,7 +96,7 @@ caminho:
 
   - Agente político incluso
 
-  - Os agentes políticos, **com exceção do Presidente da República**, encontram-se sujeitos a duplo regime sancionatório, de modo que se submetem tanto à responsabilização civil pelos atos de improbidade administrativa quanto à responsabilização político-administrativa por crimes de responsabilidade. (o presidente responde apenas por crime de responsabilidade)
+  - Os agentes políticos, **com exceção do Presidente da República**, encontram-se sujeitos a duplo regime sancionatório, de modo que se submetem tanto à responsabilização civil pelos atos de improbidade administrativa quanto à responsabilização político-administrativa por crimes de responsabilidade. (o presidente responde apenas por crime de responsabilidade) 2
 
 ---
 *p. 2*
@@ -137,7 +137,7 @@ caminho:
 
   - Vedação ao bis in idem
 
-  - Pode haver o processamento pelas duas Leis:
+  - Pode haver o processamento pelas duas Leis: 3
 
 ---
 *p. 3*
@@ -182,7 +182,7 @@ A utilização conjunta das Leis n. 8.429/1992 (Lei de Improbidade Administrativ
 
 > [!quote] 
 > LEI
->   - Art. 1º, § 1º - Consideram-se atos de improbidade administrativa as condutas dolosas tipificadas nos arts. 9º (enriquecimento ilícito), 10 (lesão ao erário) e 11 (violação a princípios) da Lei, ressalvados tipos previstos em leis especiais.
+>   - Art. 1º, § 1º - Consideram-se atos de improbidade administrativa as condutas dolosas tipificadas nos arts. 9º (enriquecimento ilícito), 10 (lesão ao erário) e 11 (violação a princípios) da Lei, ressalvados tipos previstos em leis especiais. 4
 
 ---
 *p. 4*
@@ -217,7 +217,7 @@ A utilização conjunta das Leis n. 8.429/1992 (Lei de Improbidade Administrativ
 
 |O  agente público está se enriquecendo (verbos que possuem conotação de enriquecimento) Ex. Adquirir, receber, utilizar, auferir|O agente está agindo para o dano ao erário – ex. Permitir; facilitar; concorrer; doar; conceder;|Hipóteses: estudadas a seguir|
 
-- Era: Art. 9º VII - adquirir, para si ou para outrem, no exercício de mandato, cargo, emprego ou função pública, bens de qualquer natureza cujo valor seja desproporcional à evolução do patrimônio ou à renda do agente público; Passou: Art. 9º VII - adquirir, para si ou para outrem, no exercício de mandato, de cargo, de emprego ou de função pública, e em razão deles, bens de qualquer natureza, decorrentes dos atos descritos no caput deste artigo, cujo valor seja desproporcional à evolução do patrimônio ou à renda do agente público, assegurada a demonstração pelo agente da licitude da origem dessa evolução;     (Redação dada pela Lei nº 14.230, de 2021)
+- Era: Art. 9º VII - adquirir, para si ou para outrem, no exercício de mandato, cargo, emprego ou função pública, bens de qualquer natureza cujo valor seja desproporcional à evolução do patrimônio ou à renda do agente público; Passou: Art. 9º VII - adquirir, para si ou para outrem, no exercício de mandato, de cargo, de emprego ou de função pública, e em razão deles, bens de qualquer natureza, decorrentes dos atos descritos no caput deste artigo, cujo valor seja desproporcional à evolução do patrimônio ou à renda do agente público, assegurada a demonstração pelo agente da licitude da origem dessa evolução;     (Redação dada pela Lei nº , de 2021) 5
 
 ---
 *p. 5*
@@ -252,14 +252,14 @@ XXII - conceder, aplicar ou manter benefício financeiro ou tributário contrár
 
 > [!quote] 
 > LEI
->   - Art. 11 (lembre-se que não há verbos, mas sim hipóteses relevantes): ~~I - praticar ato visando fim proibido em lei ou regulamento ou diverso daquele previsto, na regra de competência;~~ ~~II - retardar ou deixar de praticar, indevidamente, ato de ofício;~~ ~~IX - deixar de cumprir a exigência de requisitos de acessibilidade previstos na legislação.~~
+>   - Art. 11 (lembre-se que não há verbos, mas sim hipóteses relevantes): ¬¬I - praticar ato visando fim proibido em lei ou regulamento ou diverso daquele previsto, na regra de competência;¬¬ ¬¬II - retardar ou deixar de praticar, indevidamente, ato de ofício;¬¬ ¬¬IX - deixar de cumprir a exigência de requisitos de acessibilidade previstos na legislação.¬¬ 6
 
 ---
 *p. 6*
 
 ---
 
-~~X - transferir recurso a entidade privada, em razão da prestação de serviços na área de saúde sem a prévia~~ ~~celebração de contrato, convênio ou instrumento congênere, nos termos do parágrafo único do art. 24 da Lei nº~~ ~~8.080, de 19 de setembro de 1990~~
+¬¬X - transferir recurso a entidade privada, em razão da prestação de serviços na área de saúde sem a prévia¬¬ ¬¬celebração de contrato, convênio ou instrumento congênere, nos termos do parágrafo único do art. 24 da Lei nº¬¬ ¬¬8.080, de 19 de setembro de 1990¬¬
 
 > [!attention] Atenção!
 > **Obs** . sobre os dois primeiros incisos e sua revogação: é necessário analisar o trânsito em julgado para a aplicação retroativa da revogação
@@ -284,11 +284,7 @@ XII - praticar, no âmbito da administração pública e com recursos do erário
 > LEI
 > - Art. 11, §1º - somente haverá improbidade administrativa, no caso de violação a princípios, quando, na conduta funcional do agente público, for comprovado o fim de obter um proveito ou benefício indevido para si mesmo ou para outra pessoa ou entidade.
 
-> [!quote] 
-> LEI
-> - Art. 11, §2º - Essa disposição também se aplicará a todo e qualquer ato de improbidade, previstos na Lei nº
-
-8.429/92, bem como em qualquer outra que institua ato de improbidade.
+- , §2º - Essa disposição também se aplicará a todo e qualquer ato de improbidade, previstos na Lei nº , bem como em qualquer outra que institua ato de improbidade. 7
 
 ---
 *p. 7*
@@ -332,7 +328,7 @@ A) permitir ou facilitar a aquisição, permuta ou locação de bem ou serviço 
 
 **B) deixar de prestar contas quando esteja obrigado a fazê-lo, desde que disponha das condições para isso, com vistas**
 
-**a ocultar irregularidades;**
+**a ocultar irregularidades;** 8
 
 ---
 *p. 8*
@@ -357,7 +353,7 @@ C) considerando que o rol atinente aos atos de improbidade que atentam contra os
 
 D) considerando que a negativa de publicidade não consta do rol taxativo das condutas que configuram o ato de improbidade que atenta contra os princípios da Administração Pública, a conduta em apreço não poderia ser assim caracterizada ainda que a informação não estivesse gravada de sigilo;
 
-E) considerando que a conduta em cotejo não pode ser caracterizada como ato de improbidade que atenta contra os princípios da Administração Pública, para tanto, é imprescindível o enriquecimento sem causa ou a lesão ao erário.
+E) considerando que a conduta em cotejo não pode ser caracterizada como ato de improbidade que atenta contra os princípios da Administração Pública, para tanto, é imprescindível o enriquecimento sem causa ou a lesão ao erário. 9
 
 ---
 *p. 9*
@@ -366,7 +362,7 @@ E) considerando que a conduta em cotejo não pode ser caracterizada como ato de 
 
 **Bloco 3**
 
-4) Sanções da improbidade (art. 12)
+4) Sanções da improbidade ()
 
 ![[DIR.ADM.A.9-img2-pg10.png]]
 
@@ -389,7 +385,7 @@ E) considerando que a conduta em cotejo não pode ser caracterizada como ato de 
 
 4. Em se tratando de atos de menor ofensa aos bens jurídicos tutelados pela Lei, a sanção se limitará à aplicação de multa, sem prejuízo do ressarcimento do dano e da perda dos valores obtidos, quando for o caso. (art. 12, §5º)
 
-5. Ocorrendo lesão ao patrimônio público, a reparação do dano **deve** deduzir o ressarcimento ocorrido nas instâncias criminal, cível e administrativa tendo por objeto os mesmos fatos. (art. 12, §6º)
+5. Ocorrendo lesão ao patrimônio público, a reparação do dano **deve** deduzir o ressarcimento ocorrido nas instâncias criminal, cível e administrativa tendo por objeto os mesmos fatos. (, §6º) 10
 
 ---
 *p. 10*
@@ -431,9 +427,7 @@ E) considerando que a conduta em cotejo não pode ser caracterizada como ato de 
 
 14. A posse e o exercício de agente público ficam condicionados à apresentação de Declaração de Imposto de Renda e Proventos de qualquer natureza, que tenha sido apresentada à Secretaria da Receita Federal, a fim de ser arquivada no serviço de pessoal competente. (art. 13, caput) [declarada constitucional pelo STF]
 
-15. A declaração de bens será atualizada anualmente e na data em que o agente público deixar o exercício do mandato, cargo, emprego ou função. (art. 13, §1º) [declarada constitucional pelo STF]
-
-16. Será apenado com a pena de demissão, sem prejuízo de outras sanções cabíveis, o agente público que se recusar a prestar declaração dos bens, dentro do prazo determinado, ou que a prestar falsa. (art. 13, §2º)
+15. A declaração de bens será atualizada anualmente e na data em que o agente público deixar o exercício do mandato, cargo, emprego ou função. (art. 13, §1º) [declarada constitucional pelo STF] á apenado com a pena de demissão, sem prejuízo de outras sanções cabíveis, o agente público que se recusar a prestar declaração dos bens, dentro do prazo determinado, ou que a prestar falsa. (, §2º) 11
 
 ---
 *p. 11*
@@ -448,7 +442,7 @@ E) considerando que a conduta em cotejo não pode ser caracterizada como ato de 
 
   - Trata-se de controvérsia repetitiva assim delimitada: "definir o termo inicial dos juros e da correção monetária da multa civil prevista na Lei de Improbidade Administrativa, isto é, se devem ser contados a partir do trânsito em julgado, da data do evento danoso - nos termos das Súmulas 43 e 54/STJ -, ou de outro marco processual". Nos termos do art. 12, I, II e III, da Lei 8.429/1992 (Lei de Improbidade Administrativa), a multa civil tem como base de cálculo o proveito econômico obtido, o dano causado ao erário ou o valor da remuneração percebida. Assim, em qualquer dos casos, o critério legal para a fixação da multa civil remete a um fator relacionado à data da efetivação do ato ímprobo. Ainda que o montante da multa civil somente venha a ser definido ao final da ação, a incidência de correção monetária apenas após a sua fixação ou do trânsito em julgado, resultaria em quantia desvinculada do proveito econômico obtido, do dano causado ao erário ou do valor da remuneração percebida pelo agente, critérios que remetem à data do ato ímprobo. Desse modo, é o caso de incidência da Súmula 43/STJ: "Incide correção monetária sobre dívida por ato ilícito a partir da data do efetivo prejuízo", sendo lícito concluir que o valor devido a título de multa civil seja corrigido monetariamente desde a data do ato ímprobo. Além disso, conforme ensinamento doutrinário, haverá responsabilidade extracontratual se o dever jurídico violado não estiver previsto no contrato, mas sim na lei ou na ordem jurídica. Nesse contexto, é possível afirmar que as sanções e o ressarcimento do dano, previstos na Lei 8.429/1992, inserem-se no âmbito da responsabilidade extracontratual por ato ilícito. Sendo assim, em se tratando de responsabilidade extracontratual, é aplicável o disposto no art. 398 do Código Civil (Nas obrigações provenientes de ato ilícito, considera-se o devedor em mora, desde que o praticou) e na Súmula 54/STJ (Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual). Dessa forma, deve ser fixada a seguinte tese jurídica: Na multa civil prevista na Lei 8.429/1992, a correção monetária e os juros de mora devem incidir a partir da data do ato ímprobo, nos termos das Súmulas 43 e 54/STJ.
 
-19. A execução fiscal é cabível para a cobrança de multas civis fixadas em sentença decorrentes de atos de improbidade administrativa, desde que instruída com a respectiva CDA; sendo a Fazenda Pública lesada parte legítima para propor tal execução. (REsp 2.123.875-MG)
+19. A execução fiscal é cabível para a cobrança de multas civis fixadas em sentença decorrentes de atos de improbidade administrativa, desde que instruída com a respectiva CDA; sendo a Fazenda Pública lesada parte legítima para propor tal execução. (REsp 2.123.875-MG) 12
 
 ---
 *p. 12*
@@ -457,10 +451,10 @@ E) considerando que a conduta em cotejo não pode ser caracterizada como ato de 
 
   - Cabe esclarecer que o acordo de colaboração premiada deve ser regido pelos princípios da boa-fé objetiva e da proteção à legítima confiança, pilares que sustentam a relação jurídica estabelecida no ajuste firmado entre o particular e a Administração. Destarte, a tentativa de ajuizar uma nova ação, ainda que com escopo exclusivamente declaratório (da existência do ato ímprobo), coloca em risco os referidos primados abalando a segurança jurídica e a estabilidade das relações firmadas, que devem ser preservadas especialmente em um cenário de colaboração premiada, em que a reciprocidade e o cumprimento fiel das condições são fundamentais para a credibilidade do instituto. Permitir que uma ação de improbidade seja ajuizada e admitida apenas para declarar a prática do ato ímprobo, mesmo sem imposição de sanções adicionais (àquelas já acordadas), acabaria por enfraquecer os objetivos da colaboração premiada, gerando incertezas quanto à extensão dos efeitos do ajuste consensualmente firmado, o que pode desestimular potenciais colaboradores. A essência do instituto da colaboração premiada está na segurança e previsibilidade que oferece tanto ao colaborador quanto ao Estado, como forma de incentivar o desvendamento de esquemas ilícitos complexos. Admitir a judicialização de questões já abarcadas pelo acordo resultaria em falta de confiança no sistema comprometendo a adesão a esse mecanismo consensual e o seu papel na eficiência das investigações. Além disso, consentir com a existência de uma ação de improbidade exclusivamente declaratória esvaziaria uma das finalidades essenciais da solução consensual por meio da colaboração premiada, que é o de evitar (se possível) justamente o ajuizamento de ação. Ademais, a ação de improbidade administrativa, prevista na Lei n. 8.429/1992, tem como objetivo central a apuração de atos lesivos à administração pública e a imposição de sanções proporcionais ao ilícito. O ajuizamento de ação com a finalidade exclusiva de declarar a prática de ato de improbidade, sem a pretensão de imposição de novas sanções ou reparações concretas, revela-se incompatível com a finalidade normativa do instituto.
 
-5) Procedimento Judicial - arts. 17 a 18-A ~~●~~ ~~Ação será proposta pelo MP – Rito Comum do CPC~~ ~~- Fazenda Pública não tem mais legitimidade ativa~~ ~~- No prazo de 1 ano a partir da data de publicação da Lei nº 14.230/21, o MP manifestará interesse no~~ ~~prosseguimento das ações por improbidade administrativa em curso ajuizadas pela Fazenda Pública, inclusive em~~ ~~grau de recurso, de modo que, nesse prazo de 1 ano, suspende-se o processo, sendo vedado praticar qualquer~~ ~~ato processual, podendo o juiz, todavia, determinar a realização de atos urgentes a fim de evitar dano irreparável,~~ ~~salvo no caso de arguição de impedimento e de suspeição, nos termos do art. 314 do Código de Processo Civil.~~ ~~- Caso o Ministério Público, nesse prazo de 1 ano, não se manifeste, o processo em questão será extinto sem~~ ~~resolução do mérito.~~
+5) Procedimento Judicial - arts. 17 a 18-A ¬¬●¬¬ ¬¬Ação será proposta pelo MP – Rito Comum do CPC¬¬ ¬¬- Fazenda Pública não tem mais legitimidade ativa¬¬ ¬¬- No prazo de 1 ano a partir da data de publicação da Lei nº 14.230/21, o MP manifestará interesse no¬¬ ¬¬prosseguimento das ações por improbidade administrativa em curso ajuizadas pela Fazenda Pública, inclusive em¬¬ ¬¬grau de recurso, de modo que, nesse prazo de 1 ano, suspende-se o processo, sendo vedado praticar qualquer¬¬ ¬¬ato processual, podendo o juiz, todavia, determinar a realização de atos urgentes a fim de evitar dano irreparável,¬¬ ¬¬salvo no caso de arguição de impedimento e de suspeição, nos termos do art. 314 do Código de Processo Civil.¬¬ ¬¬- Caso o Ministério Público, nesse prazo de 1 ano, não se manifeste, o processo em questão será extinto sem¬¬ ¬¬resolução do mérito.¬¬
 
 > [!warning] Jurisprudência
->   - ADI 7042 – STF deferiu cautelar EXISTÊNCIA DE LEGITIMIDADE ATIVA CONCORRENTE ENTRE O MP E AS PJ DE DREITO PÚBLICO
+>   - ADI 7042 – STF deferiu cautelar EXISTÊNCIA DE LEGITIMIDADE ATIVA CONCORRENTE ENTRE O MP E AS PJ DE DREITO PÚBLICO 13
 
 ---
 *p. 13*
@@ -493,7 +487,7 @@ I - deverá individualizar a conduta do réu e apontar os elementos probatórios
 
   - Apontar a conduta do réu e os elementos probatórios mínimos
 
-II - será instruída com documentos ou justificação que contenham indícios suficientes da veracidade dos fatos e do dolo imputado ou com razões fundamentadas da impossibilidade de apresentação de qualquer dessas provas, observada a legislação vigente, inclusive as disposições constantes dos arts. 77 e 80 da Lei nº 13.105, de 16 de março de 2015
+II - será instruída com documentos ou justificação que contenham indícios suficientes da veracidade dos fatos e do dolo imputado ou com razões fundamentadas da impossibilidade de apresentação de qualquer dessas provas, observada a legislação vigente, inclusive as disposições constantes dos arts. 77 e 80 da Lei nº 13.105, de 16 de março de 2015 14
 
 ---
 *p. 14*
@@ -510,7 +504,7 @@ II - será instruída com documentos ou justificação que contenham indícios s
 
   - No caso em discussão, por se tratar de processo ainda em curso, em que se imputa a prática de ato de improbidade administrativa, são aplicáveis, retroativamente, as alterações introduzidas pela Lei n. 14.230/2021. A petição inicial da ação de improbidade pode ser rejeitada tão somente quando não houver indícios mínimos da existência de ato de improbidade administrativa. Havendo a sua presença, deve ser a exordial recebida e realizada a instrução processual, sendo a sentença o momento adequado para aferir a responsabilidade do agente, incluindo a existência de conduta dolosa, bem como a ocorrência de dano efetivo ao erário. O Superior Tribunal de Justiça entende que, em fase inaugural do processamento de ação civil pública por improbidade administrativa, vige o princípio do _in dubio pro societate_ . Significa dizer que, caso haja apenas indícios da prática de ato de improbidade administrativa, ainda assim se impõe o recebimento da exordial. No caso em análise, o fato de que o réu se utilizou das imagens publicitárias de específico programa de recapeamento de Município para publicá-las em suas contas pessoais em redes sociais, fatos incontroversos constantes do acórdão recorrido, constitui indício mínimo suficiente de que a contratação da aludida campanha publicitária poderia ter ocorrido objetivando a promoção pessoal do requerido, como inclusive, entendeu o Juízo de primeiro grau. Tal indício, por si só, seria suficiente para justificar o processamento da ação de improbidade. Ademais, a circunstância de que o valor empregado na campanha publicitária para divulgação do referido programa correspondia a mais de 20% (vinte por cento) do montante total utilizado no referido programa evidencia uma desproporcionalidade que constitui indício de intenção de promoção pessoal, mormente quando, como narrou a petição inicial, e é fato notório, no ano seguinte, o requerido renunciou ao mandado de prefeito para candidatar-se ao cargo de Governador do Estado. Sendo assim, no caso concreto, os fatos narrados no acórdão recorrido constituem indícios mínimos da prática de ato de improbidade, suficientes para determinar o recebimento da peça inicial.
 
-- Ainda que na fase de recebimento da inicial em ações de improbidade administrativa prevaleça o princípio do in dubio pro societate, o autor da ação deve indicar expressamente elementos que evidenciem a existência do
+- Ainda que na fase de recebimento da inicial em ações de improbidade administrativa prevaleça o princípio do in dubio pro societate, o autor da ação deve indicar expressamente elementos que evidenciem a existência do 15
 
 ---
 *p. 15*
@@ -539,7 +533,7 @@ I - condena o requerido por tipo diverso daquele definido na petição inicial;
 
 II - condene o requerido sem a produção das provas por ele tempestivamente especificadas.
 
-  - § 16. **A qualquer momento**, se o magistrado identificar a existência de ilegalidades ou de irregularidades administrativas a serem sanadas sem que estejam presentes todos os requisitos para a imposição das sanções
+  - § 16. **A qualquer momento**, se o magistrado identificar a existência de ilegalidades ou de irregularidades administrativas a serem sanadas sem que estejam presentes todos os requisitos para a imposição das sanções 16
 
 ---
 *p. 16*
@@ -589,14 +583,14 @@ I - da oitiva do ente federativo lesado, seja em momento anterior ou posterior d
 
 II - de aprovação, no prazo de até 60 dias, pelo órgão do Ministério Público competente para apreciar as promoções de arquivamento de inquéritos civis, se anterior ao ajuizamento da ação;
 
-III - de homologação judicial, independente do acordo ocorrer antes ou depois do ajuizamento da ação de improbidade administrativa. **(Condição de Eficácia)**
+III - de homologação judicial, independente do acordo ocorrer antes ou depois do ajuizamento da ação de improbidade administrativa. **(Condição de Eficácia)** 17
 
 ---
 *p. 17*
 
 ---
 
-~~●~~ ~~Para fins de apuração do valor do dano a ser ressarcido, deverá ser realizada a oitiva do Tribunal de Contas~~ ~~competente, para que se manifeste com indicação de parâmetros, no prazo de 90 dias.~~ [ **dispositivo com a eficácia**
+¬¬●¬¬ ¬¬Para fins de apuração do valor do dano a ser ressarcido, deverá ser realizada a oitiva do Tribunal de Contas¬¬ ¬¬competente, para que se manifeste com indicação de parâmetros, no prazo de 90 dias.¬¬ [ **dispositivo com a eficácia**
 
 **suspensa]**
 
@@ -618,7 +612,7 @@ III - de homologação judicial, independente do acordo ocorrer antes ou depois 
 
 (5) Os acordos já firmados somente pelo Ministério Público ficam preservados até a data deste julgamento, desde que haja previsão de total ressarcimento do dano, tenham sido devidamente homologados em Juízo e regularmente cumpridos pelo beneficiado. (ARE 1.175.650/PR)
 
-(continuando) Procedimento Judicial - arts. 17 a 18-A
+(continuando) Procedimento Judicial -  a 18-A 18
 
 ---
 *p. 18*
@@ -649,7 +643,7 @@ III - de homologação judicial, independente do acordo ocorrer antes ou depois 
 
 > [!quote] 
 > LEI
-> - Art. 18. A sentença que julgar procedente a ação fundada nos arts. 9º e 10 desta Lei condenará ao ressarcimento dos danos e à perda ou à reversão dos bens e valores ilicitamente adquiridos, conforme o caso, em favor da pessoa jurídica prejudicada pelo ilícito. § 1º Se houver necessidade de liquidação do dano, a pessoa jurídica prejudicada procederá a essa determinação e ao ulterior procedimento para cumprimento da sentença referente ao ressarcimento do patrimônio público ou à perda ou à reversão dos bens. § 2º Caso a pessoa jurídica prejudicada não adote as providências a que se refere o § 1º deste artigo no prazo de 6 (seis) meses, contado do trânsito em julgado da sentença de procedência da ação, caberá ao Ministério Público
+> - Art. 18. A sentença que julgar procedente a ação fundada nos arts. 9º e 10 desta Lei condenará ao ressarcimento dos danos e à perda ou à reversão dos bens e valores ilicitamente adquiridos, conforme o caso, em favor da pessoa jurídica prejudicada pelo ilícito. § 1º Se houver necessidade de liquidação do dano, a pessoa jurídica prejudicada procederá a essa determinação e ao ulterior procedimento para cumprimento da sentença referente ao ressarcimento do patrimônio público ou à perda ou à reversão dos bens. § 2º Caso a pessoa jurídica prejudicada não adote as providências a que se refere o § 1º deste artigo no prazo de 6 (seis) meses, contado do trânsito em julgado da sentença de procedência da ação, caberá ao Ministério Público 19
 
 ---
 *p. 19*
@@ -686,7 +680,7 @@ II - pela publicação da sentença condenatória;
 
 III - pela publicação de decisão ou acórdão de Tribunal de Justiça ou Tribunal Regional Federal confirmando sentença condenatória ou reformando sentença de improcedência;
 
-IV - pela publicação de decisão ou acórdão do Superior Tribunal de Justiça confirmando acórdão condenatório ou reformando acórdão de improcedência;
+IV - pela publicação de decisão ou acórdão do Superior Tribunal de Justiça confirmando acórdão condenatório ou reformando acórdão de improcedência; 20
 
 ---
 *p. 20*
@@ -722,15 +716,15 @@ V - pela publicação de decisão ou acórdão do Supremo Tribunal Federal confi
 
 -É em razão do inciso I que o STJ não aplica o Princípio da Insignificância nos casos de improbidade administrativa.
 
-II - da aprovação ou rejeição das contas pelo órgão de controle interno ou pelo Tribunal ou Conselho de Contas. § 3º - As sentenças civis e penais produzirão efeitos em relação à ação de improbidade quando decidirem pela inexistência da conduta ou pela negativa da autoria. ~~§ 4º - A absolvição criminal em ação que discuta os mesmos fatos, confirmada por decisão colegiada, impede o~~ ~~trâmite da ação da qual trata esta lei, havendo comunicação com todos os fundamentos de absolvição previstos~~ ~~no art. 386, do Decreto-Lei nº 3.689, de 3 de outubro de 1941.~~ **Suspenso** § 5º - Eventuais outras sanções aplicadas em outras esferas deverão ser compensadas com as sanções aplicadas nos termos desta lei.
+II - da aprovação ou rejeição das contas pelo órgão de controle interno ou pelo Tribunal ou Conselho de Contas. § 3º - As sentenças civis e penais produzirão efeitos em relação à ação de improbidade quando decidirem pela inexistência da conduta ou pela negativa da autoria. ¬¬§ 4º - A absolvição criminal em ação que discuta os mesmos fatos, confirmada por decisão colegiada, impede o¬¬ ¬¬trâmite da ação da qual trata esta lei, havendo comunicação com todos os fundamentos de absolvição previstos¬¬ ¬¬no art. 386, do Decreto-Lei nº 3.689, de 3 de outubro de 1941.¬¬ **Suspenso** § 5º - Eventuais outras sanções aplicadas em outras esferas deverão ser compensadas com as sanções aplicadas nos termos desta lei.
 
 **Bloco 5**
 
-7) Indisponibilidade de Bens – art. 16
+7) Indisponibilidade de Bens – 
 
   - Poderá ser formulado, em caráter antecedente ou incidente, a fim de garantir a integral recomposição do erário ou do acréscimo patrimonial resultante de enriquecimento ilícito.
 
-  - Poder ser formulado independentemente da representação da autoridade junto ao Ministério Público.
+  - Poder ser formulado independentemente da representação da autoridade junto ao Ministério Público. 21
 
 ---
 *p. 21*
@@ -772,7 +766,7 @@ II - da aprovação ou rejeição das contas pelo órgão de controle interno ou
 
   - Deverá priorizar veículos de via terrestre, bens imóveis, bens móveis em geral, semoventes, navios e aeronaves, ações e quotas de sociedades simples e empresárias, pedras e metais preciosos e, apenas na inexistência destes,
 
-  - bloqueio de contas bancárias, de forma a garantir a subsistência do acusado e a manutenção da atividade empresária ao longo do processo
+  - bloqueio de contas bancárias, de forma a garantir a subsistência do acusado e a manutenção da atividade empresária ao longo do processo 22
 
 ---
 *p. 22*
@@ -783,7 +777,7 @@ II - da aprovação ou rejeição das contas pelo órgão de controle interno ou
 
   - É vedada a decretação de indisponibilidade da quantia de até 40 salários-mínimos depositados em caderneta de poupança, em outras aplicações financeiras ou em conta corrente.
 
-  - É vedada a decretação de indisponibilidade do bem de família do réu, salvo se comprovado que o imóvel seja fruto de vantagem patrimonial indevida, conforme descrito no art. 9º da Lei. Trata-se aqui de superação de entendimento do STJ Ano: 2023 Banca: FCC Órgão: TRT - 12ª Região (SC) Prova: FCC - 2023 - TRT - 12ª Região (SC) - Analista Judiciário - Área Judiciária Nos termos da Lei de Improbidade Administrativa (Lei nº 8.429/1992, com redação dada pela Lei nº 14.230/2021),
+  - É vedada a decretação de indisponibilidade do bem de família do réu, salvo se comprovado que o imóvel seja fruto de vantagem patrimonial indevida, conforme descrito no art. 9º da Lei. Trata-se aqui de superação de entendimento do STJ Ano: 2023 Banca: FCC Órgão: TRT - 12ª Região (SC) Prova: FCC - 2023 - TRT - 12ª Região (SC) - Analista Judiciário - Área Judiciária Nos termos da Lei de Improbidade Administrativa (Lei nº 8.429/1992, com redação dada pela Lei nº ),
 
 **A- será nula a decisão de mérito total ou parcial da ação de improbidade administrativa que, dentre outra hipótese,**
 
@@ -803,7 +797,7 @@ B) extensão da responsabilização solidária aos sucessores, herdeiros e outro
 
 D) exclusão da previsão de responsabilização de pessoas jurídicas, restringindo-se os efeitos da lei aos limites da participação dos respectivos representantes legais, em razão da exigência do aspecto volitivo dolo.
 
-E) exclusão da previsão de responsabilidade dos servidores públicos que não detenham vínculo funcional em razão de cargo efetivo ou emprego público.
+E) exclusão da previsão de responsabilidade dos servidores públicos que não detenham vínculo funcional em razão de cargo efetivo ou emprego público. 23
 
 ---
 *p. 23*
@@ -824,7 +818,7 @@ C- pode figurar como sujeito ativo, desde que solicitada e deferida a desconside
 
 **D- pode figurar como sujeito ativo se recebeu recursos de origem pública, ao celebrar, com a administração pública,**
 
-**convênio, contrato de repasse, contrato de gestão ou ajuste equivalente.** E- sempre figurará como sujeito ativo do ato quando tiver celebrado contrato administrativo com a administração pública ou mesmo ajuste que caracterize convergência de interesses entre ambos.
+**convênio, contrato de repasse, contrato de gestão ou ajuste equivalente.** E- sempre figurará como sujeito ativo do ato quando tiver celebrado contrato administrativo com a administração pública ou mesmo ajuste que caracterize convergência de interesses entre ambos. 24
 
 ---
 *p. 24*
@@ -853,7 +847,7 @@ II - comprovadamente, financiar, custear, patrocinar ou de qualquer modo subvenc
 
 III - comprovadamente, utilizar-se de interposta pessoa física ou jurídica para ocultar ou dissimular seus reais interesses ou a identidade dos beneficiários dos atos praticados;
 
-IV - no tocante a licitações e contratos:
+IV - no tocante a licitações e contratos: 25
 
 ---
 *p. 25*
@@ -874,7 +868,7 @@ II - publicação extraordinária da decisão condenatória.
 
 -Serão precedidas da manifestação jurídica elaborada pela Advocacia Pública ou pelo órgão de assistência jurídica, ou equivalente, do ente público.
 
--A aplicação das sanções não exclui, em qualquer hipótese, a obrigação da reparação integral do dano causado
+-A aplicação das sanções não exclui, em qualquer hipótese, a obrigação da reparação integral do dano causado 26
 
 ---
 *p. 26*
@@ -917,7 +911,7 @@ I - a pessoa jurídica seja a primeira a se manifestar sobre seu interesse em co
 
 II - a pessoa jurídica cesse completamente seu envolvimento na infração investigada a partir da data de propositura do acordo;
 
-III - a pessoa jurídica admita sua participação no ilícito e coopere plena e permanentemente com as investigações e o processo administrativo, comparecendo, sob suas expensas, sempre que solicitada, a todos os atos processuais, até seu encerramento.
+III - a pessoa jurídica admita sua participação no ilícito e coopere plena e permanentemente com as investigações e o processo administrativo, comparecendo, sob suas expensas, sempre que solicitada, a todos os atos processuais, até seu encerramento. 27
 
 ---
 *p. 27*
@@ -968,7 +962,7 @@ I - perdimento dos bens, direitos ou valores que representem vantagem ou proveit
 
 II - suspensão ou interdição parcial de suas atividades;
 
-III - dissolução compulsória da pessoa jurídica;
+III - dissolução compulsória da pessoa jurídica; 28
 
 ---
 *p. 28*
@@ -991,4 +985,4 @@ II - ter sido constituída para ocultar ou dissimular interesses ilícitos ou a 
 
 -A multa e o perdimento de bens, direitos ou valores aplicados com fundamento nesta Lei serão destinados preferencialmente aos órgãos ou entidades públicas lesadas.
 
--Prescrevem em 5 anos as infrações previstas nesta Lei, contados da data da ciência da infração ou, no caso de infração permanente ou continuada, do dia em que tiver cessado.
+-Prescrevem em 5 anos as infrações previstas nesta Lei, contados da data da ciência da infração ou, no caso de infração permanente ou continuada, do dia em que tiver cessado. 29
