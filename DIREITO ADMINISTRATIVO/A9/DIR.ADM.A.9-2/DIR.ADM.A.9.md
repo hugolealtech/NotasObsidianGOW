@@ -69,18 +69,19 @@ caminho:
 > LEI
 >   - Art. 1º, §5º, da LIA estabelece quem são os sujeitos passivos do ato de improbidade, violando o seu patrimônio público e social: Poder Executivo, Legislativo, Judiciário, Administrações direta e indiretas
 
-  - Também serão considerados sujeitos passivos, nos termos do art. 1º, §6º, a entidade privada que receba subvenção, benefício ou incentivo, fiscal ou creditício, de entes públicos ou governamentais.
+  >[!QUOTE] 
+  >- Também serão considerados sujeitos passivos, nos termos do art. 1º, §6º, a entidade privada que receba subvenção, benefício ou incentivo, fiscal ou creditício, de entes públicos ou governamentais.
 
   - Por sua vez, o art. 1º, §7º estabelece que também serão considerados **sujeitos passivos secundários** aqueles que, independentemente de integrar a Administração Indireta, são entidades privadas para cuja criação ou custeio o Erário haja concorrido ou concorra no seu patrimônio ou receita atual.
 
+
+
   - Sujeito passivo secundários
 
-  - Nesse caso, limitando-se o ressarcimento de prejuízos à repercussão do ilícito sobre a contribuição dos cofres públicos.
+  - Nesse caso, limitando-se o ressarcimento de prejuízos ==🟢à repercussão do ilícito== sobre a contribuição dos cofres públicos.
 
 > [!attention] Atenção!
-> **- ATENÇÃO!!! Não há mais a diferença se a contribuição estatal foi superior ou inferior a 50% do patrimônio ou**
-
-**receita atual da entidade.**
+> **- ATENÇÃO!!! Não há mais a diferença se a contribuição estatal foi superior ou inferior a 50% do patrimônio ou receita atual da entidade.**
 
 **2.2) Sujeitos Ativos**
 
@@ -96,7 +97,8 @@ caminho:
 
   - Agente político incluso
 
-  - Os agentes políticos, **com exceção do Presidente da República**, encontram-se sujeitos a duplo regime sancionatório, de modo que se submetem tanto à responsabilização civil pelos atos de improbidade administrativa quanto à responsabilização político-administrativa por crimes de responsabilidade. (o presidente responde apenas por crime de responsabilidade) 2
+  >[!JURISPRUDENCIA DO STF] 
+  >Os agentes políticos, **com exceção do Presidente da República[^1]**, encontram-se sujeitos a duplo regime sancionatório, de modo que se submetem tanto à responsabilização civil pelos atos de improbidade administrativa quanto à responsabilização político-administrativa por crimes de responsabilidade. (o presidente responde apenas por crime de responsabilidade) 2
 
 ---
 *p. 2*
@@ -109,11 +111,11 @@ caminho:
 
   - A grande novidade foi a previsão expressa do Agente Político – Trata-se de concretização da juris do STF e STJ, além de estar de acordo com o Direito Administrativo sancionador moderno, pois constitucionaliza este último ao trazer uma leitura pautada no princípio da legalidade no afastamento dos tipos sancionadores abertos.
 
-- Particular - pessoa física ou jurídica, que celebra com a Administração Pública convênio, contrato de repasse, contrato de gestão, termo de parceria, termo de cooperação ou ajuste administrativo equivalente. (art. 2º, parágrafo único) – **agente público por equiparação**
+- Particular - pessoa física ou jurídica, que celebra com a Administração Pública convênio, contrato de repasse, contrato de gestão, termo de parceria, termo de cooperação ou ajuste administrativo equivalente. (art. 2º, parágrafo único) – ==🟢**agente público por equiparação**==
 
 > [!quote] 
 > LEI
-> - Art. 3º- Àquele que, mesmo não sendo agente público **, induza ou concorra** dolosamente para a prática do ato de improbidade.
+> - Art. 3º- Àquele que, mesmo não sendo agente público[^2] **, induza ou concorra** dolosamente para a prática do ato de improbidade.
 
   - Induzir – Aquele que faz nascer a vontade no autor.
 
@@ -121,17 +123,26 @@ caminho:
 
 - Ano: 2023 Banca: CESPE / CEBRASPE Órgão: TJ-ES Provas: CESPE / CEBRASPE - 2023 - TJ-ES - Analista Judiciário  Área Administrativa Com base nas regras estabelecidas nas Leis n.º 8.429/1992 — Lei de Improbidade Administrativa — e na Lei n.°
 
-12.846/2013 — que dispõe sobre a responsabilização administrativa e civil de pessoas jurídicas pela prática de atos contra a administração pública —, julgue o item a seguir. O agente político está excluído do conceito de agente público adotado pela Lei n.º 8.429/1992. Certo
+12.846/2013 — que dispõe sobre a responsabilização administrativa e civil de pessoas jurídicas pela prática de atos contra a administração pública —, julgue o item a seguir. 
+O agente político está excluído do conceito de agente público adotado pela Lei n.º 8.429/1992. Certo
 
-**Errado**
+**Errado** ( está incluído )
 
 > [!quote] 
 > LEI
 > - Art. 3º, §1º - Os sócios, cotistas, diretores e colaboradores de pessoa jurídica de direito privado não respondem pelo ato de improbidade a que venha ser imputado à pessoa jurídica, salvo se, comprovadamente, houver participação e benefícios diretos, hipótese em que responderão nos limites da sua participação.
 
-> [!quote] 
+
+
+
+> [!danger] CUIDADO 
 > LEI
 > - Art. 3º, §2º- As sanções de improbidade não se aplicarão à pessoa jurídica, caso o ato de improbidade administrativa seja também sancionado como ato lesivo à administração pública de que trata Lei nº 12.846, de 1º de agosto de 2013 (Lei Anticorrupção)
+> - 
+> >[!atention] - O que ele veda é o ==🟢duplo sancionamento tanto pela lei de improbidade, como pela lei de anti-corrupção==
+> >O que se veda é o _bis in idem_ , mas posso processar a pessoa jurídica pelas duas leis, mas o sancionamento, não.
+
+
 
   - Responde apenas nos termos da Lei Anticorrupção – aplica-se a sanção desta (veda-se o duplo sancionamento)
 
@@ -152,7 +163,7 @@ A utilização conjunta das Leis n. 8.429/1992 (Lei de Improbidade Administrativ
 
   - O particular não pode responder sozinho pelo ato de improbidade
 
-  - O particular que é agente público por equiparação (citado acima), pode responder sozinho
+  - O particular que é agente público por equiparação (citado acima), pode responder sozinho. Responde concomitantemente com o agente público
 
   - Dirigente de entidade privada que administra recursos públicos
 
@@ -164,32 +175,36 @@ A utilização conjunta das Leis n. 8.429/1992 (Lei de Improbidade Administrativ
 
   - Não é ato de improbidade
 
-  - Estagiário
+  - Estagiário --> Agente público para fins de improbidade
 
-  - Agente público para fins de improbidade
-
-  - Responsabilidade Sucessória
+#### Responsabilidade Sucessória
 
 > [!quote] 
 > LEI
 > -art. 8º - o sucessor ou herdeiro daquele que causar dano ao erário ou se enriquecer ilicitamente está sujeito apenas à obrigação de repará-lo, até o limite do valor da herança ou do patrimônio transferido.
 
--Outra novidade refere-se ao art. 8º-A, segundo o qual a responsabilidade sucessória também será aplicada na hipótese de alteração contratual, transformação, incorporação, fusão ou cisão societária.
+- Outra novidade refere-se ao art. 8º-A, segundo o qual a responsabilidade sucessória também será aplicada na hipótese de alteração contratual, transformação, incorporação, fusão ou cisão societária.
 
--Atente-se que, nos termos do parágrafo único, especificamente nas hipóteses de **fusão e incorporação**, a responsabilidade da sucessora **será restrita à obrigação de reparação integral do dano causado**, até o limite do patrimônio transferido, não lhe sendo aplicáveis as demais sanções decorrentes de atos e fatos ocorridos antes da data da fusão ou incorporação, exceto no caso de simulação ou evidente intuito de fraude, devidamente comprovados.
+- Atente-se que, nos termos do parágrafo único, especificamente nas hipóteses de **fusão e incorporação**, a responsabilidade da sucessora **será restrita à obrigação de reparação integral do dano causado**, até o limite do patrimônio transferido, não lhe sendo aplicáveis as demais sanções decorrentes de atos e fatos ocorridos antes da data da fusão ou incorporação, ==🔵exceto no caso de simulação ou evidente intuito de fraude, devidamente comprovados==.
 
-3) Tipologia da improbidade
+#### 3) Tipologia da improbidade
 
 > [!quote] 
 > LEI
->   - Art. 1º, § 1º - Consideram-se atos de improbidade administrativa as condutas dolosas tipificadas nos arts. 9º (enriquecimento ilícito), 10 (lesão ao erário) e 11 (violação a princípios) da Lei, ressalvados tipos previstos em leis especiais. 4
+>   - Art. 1º, § 1º - Consideram-se atos de improbidade administrativa as condutas dolosas tipificadas nos arts. 9º (enriquecimento ilícito), 10 (lesão ao erário) e 11 (violação a princípios) da Lei, ressalvados tipos previstos em leis especiais. 
 
 ---
 *p. 4*
 
 ---
 
-- O dolo é elemento necessário para a configuração de qualquer dos três atos de improbidade administrativa, de modo a não mais se admitir a figura da culpa, como era possível no caso de lesão ao erário.
+>[!Atenção Hugão!] 
+>O dolo é elemento necessário para a configuração de qualquer dos três atos de improbidade administrativa, de modo a não mais se admitir a figura da culpa, como era possível no caso de lesão ao erário.
+
+>[!attention] Atenção! É dolo específico, afastando o dolo genérito. Não há mais a modalidade culposa.
+
+
+
 
 > [!quote] 
 > LEI
@@ -986,3 +1001,8 @@ II - ter sido constituída para ocultar ou dissimular interesses ilícitos ou a 
 -A multa e o perdimento de bens, direitos ou valores aplicados com fundamento nesta Lei serão destinados preferencialmente aos órgãos ou entidades públicas lesadas.
 
 -Prescrevem em 5 anos as infrações previstas nesta Lei, contados da data da ciência da infração ou, no caso de infração permanente ou continuada, do dia em que tiver cessado. 29
+
+[^1]: RESPONDERÁ NOS TERMOS DA LEI DE RESPONSABILIDADE
+
+[^2]: Particular propriamente dito
+	
