@@ -25,30 +25,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIREITO PENAL/A1/DIR.PENAL.A.1.md",
+                "file": "DIREITO ADMINISTRATIVO/A2/DIR.ADM.A.2/DIR.ADM.A.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DIR.PENAL.A.1"
+              "title": "DIR.ADM.A.2"
+            }
+          },
+          {
+            "id": "927a9662682b93cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VADE MECUM/Lei.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lei"
             }
           },
           {
             "id": "331fd07bcbfa9cbb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "DIREITO ADMINISTRATIVO/A9/DIR.ADM.A.9.md",
-                "mode": "source",
-                "source": false
+                "file": "VADE MECUM/Vade_mecum_Senado_Federal_3ed.pdf"
               },
-              "icon": "lucide-file",
-              "title": "DIR.ADM.A.9"
+              "icon": "lucide-file-text",
+              "title": "Vade_mecum_Senado_Federal_3ed"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,7 +225,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,37 +242,43 @@
       "pencil:New whiteboard": false
     }
   },
-  "active": "b9680d7993fdf3ef",
+  "active": "331fd07bcbfa9cbb",
   "lastOpenFiles": [
-    "DIREITO PENAL/A1/DIR.PENAL.A.1.md",
+    "VADE MECUM/Whiteboard.pencil",
+    "VADE MECUM/Vade_mecum_Senado_Federal_3ed.pdf",
     "DIREITO ADMINISTRATIVO/A9/DIR.ADM.A.9.md",
-    "DIREITO ADMINISTRATIVO/A9/images/dir-adm-a-9-img1-pg1.png",
-    "DIREITO ADMINISTRATIVO/A9/images/dir-adm-a-9-img2-pg10.png",
+    "VADE MECUM/Lei.md",
+    "00_inbox/Drawing 2026-10-09 11.30.58.excalidraw.md",
+    "DIREITO ADMINISTRATIVO/A2/DIR.ADM.A.2/DIR.ADM.A.2.md",
+    "DIREITO ADMINISTRATIVO/A1/DIR.ADM.A.1.md",
+    "DIREITO ADMINISTRATIVO/A1/DIR.ADM.A.1/DIR.ADM.A.1.md",
+    "DIREITO ADMINISTRATIVO/A1/images/dir-adm-a-1-img12-pg17.png",
+    "DIREITO ADMINISTRATIVO/A1/images/dir-adm-a-1-img13-pg17.png",
+    "DIREITO ADMINISTRATIVO/A1/images/dir-adm-a-1-img9-pg14.png",
+    "DIREITO ADMINISTRATIVO/A1/images/dir-adm-a-1-img4-pg7.png",
+    "DIREITO ADMINISTRATIVO/A1/images/dir-adm-a-1-img8-pg13.png",
+    "DIREITO ADMINISTRATIVO/A1/images/dir-adm-a-1-img14-pg18.png",
+    "DIREITO ADMINISTRATIVO/A1/images/dir-adm-a-1-img5-pg9.png",
+    "DIREITO ADMINISTRATIVO/A1/images/dir-adm-a-1-img1-pg1.png",
+    "DIREITO ADMINISTRATIVO/A1/images/dir-adm-a-1-img10-pg15.png",
+    "DIREITO ADMINISTRATIVO/A1/images/dir-adm-a-1-img7-pg12.png",
+    "DIREITO ADMINISTRATIVO/A1/DIR.ADM.A.1.pdf",
+    "DIREITO ADMINISTRATIVO/A1/images",
+    "DIREITO PENAL/A1/DIR.PENAL.A.1.md",
     "DIREITO ADMINISTRATIVO/A10/DIR.ADM.A.10.md",
     "00_inbox/DIR.ADM.A.10.md",
-    "00_inbox/images/dir-adm-a-10-img1-pg1.png",
     "00_inbox/DIR.ADM.A.10.pdf",
     "DIREITO PENAL/A1/DIR.PENAL.A.1.pdf",
     "00_inbox/DIR.CRIANC.ADOLESC.A.1.md",
     "DIREITO CONSTITUCIONAL/AULA 10/DIR.CONST.A.10.md",
-    "00_inbox/images/DIR.CRIANC.ADOLESC.A.1-img6-pg9.png",
-    "00_inbox/images/DIR.CRIANC.ADOLESC.A.1-img2-pg1.png",
-    "00_inbox/images/dir-crianc-adolesc-a-1-figure-pg30.png",
-    "00_inbox/images/DIR.CRIANC.ADOLESC.A.1-img3-pg2.png",
-    "00_inbox/images/DIR.CRIANC.ADOLESC.A.1-img7-pg9.png",
-    "00_inbox/images/DIR.CRIANC.ADOLESC.A.1-img1-pg1.png",
-    "00_inbox/images/DIR.CRIANC.ADOLESC.A.1-img11-pg37.png",
     "00_inbox/DIR.CRIANC.ADOLESC.A.1.pdf",
     "DIREITO CONSTITUCIONAL/AULA 10/DIR.CONST.A.10.pdf",
     "DIREITO CONSTITUCIONAL/AULA 10/images",
     "file:/Users/hugodeoliveiraleal/Downloads/prompt_coder_docintel.md",
     "DIREITO PENAL/A1/images",
     "DIREITO PENAL/A1",
-    "DIREITO PENAL/pasta sem título",
     "00_inbox/DIR.ADM.A.6.md",
     "DIREITO DA CRIANÇA E DO ADOLESCENTE/A1/DIR.CRIANC.ADOLESC.A.1.md",
-    "00_inbox/DIR.ADM.A.6.pdf",
-    "00_inbox/images",
     "DIREITO DA CRIANÇA E DO ADOLESCENTE/A2/DIR.CRIANC.ADOLSC.A.2.md",
     "DIREITO ADMINISTRATIVO/A9/Improbidade Administrativa II-/DIR.ADM.A.9-3/DIR.ADM.A.9.md",
     "00_inbox/criança/DIR.CRIANC.ADOLSC.A.2.md",
@@ -271,11 +290,6 @@
     "DIREITO CONSTITUCIONAL/princípio da simetria.md",
     "DIREITO CONSTITUCIONAL/AULA 11/DIR.CONST.A.11/DIR.CONST.A.11.md",
     "DIREITO CONSTITUCIONAL/AULA 7/DCA7.md",
-    "RACIOCÍNIO LÓGICO/A4/RAC.LOGICO.A.4.md",
-    "RACIOCÍNIO LÓGICO/A4/RACIOCINIO_LOGICO_A4.md",
-    "RACIOCÍNIO LÓGICO/A4/RACIOCINIO_LOGICO_A3.md",
-    "00_inbox/Manual de Petições de Rotina - CPC.md",
-    "0 - Desenho Helena/Drawing 2026-09-24 07.58.26.excalidraw.md",
     "images/Sem título.canvas"
   ]
 }

@@ -213,7 +213,11 @@ E) do serviço público.
 
 -O Critério Funcional tem predominância na doutrina, no que tange a definição do Direito Administrativo
 
-  - Conjunto harmônico de princípios jurídicos que regem os órgãos, os agentes e as atividades públicas tendentes a realizar concreta, direta e imediatamente os fins desejados pelo Estado. **(Hely Lopes Meirelles)** 🡪 função Administrativa: busca interesse público de forma concreta/direta/imediata 🡪 função legislativa: busca interesse público de forma abstrata 🡪 função judiciária: busca interesse público de forma indireta (quando provocado) 🡪 função política: busca interesse público de forma mediata (define o programa de governo)
+  - Conjunto harmônico de princípios jurídicos que regem os órgãos, os agentes e as atividades públicas tendentes a realizar concreta, direta e imediatamente os fins desejados pelo Estado. **(Hely Lopes Meirelles)**
+  - 🡪 função Administrativa: busca interesse público de forma concreta/direta/imediata
+  - 🡪 função legislativa: busca interesse público de forma abstrata 
+  - 🡪 função judiciária: busca interesse público de forma indireta (quando provocado)
+  - 🡪 função política: busca interesse público de forma mediata (define o programa de governo)
 
   - Conjunto de normas e princípios que, visando sempre ao interesse público, regem as relações jurídicas entre as pessoas e os órgãos do Estado e entre as coletividades a que devem seguir. **(José dos Santos Carvalho Filho)**
 
