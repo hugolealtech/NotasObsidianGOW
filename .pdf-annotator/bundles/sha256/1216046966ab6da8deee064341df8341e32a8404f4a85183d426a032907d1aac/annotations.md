@@ -21,6 +21,14 @@ pdf: "VADE MECUM/Vade_mecum_Senado_Federal_3ed.pdf"
 - **p.726** 🟪 ^4301f02d — "É uma especie de modelo 3D substitutivo dos modelos 2D antigos que permitiam aditivos. No BIM, isso é bem mais difícil de acontecer, além de permitir à administração a manutenção da obra por muito mais tempo, por forn…"
   - 📝 É uma especie de modelo 3D substitutivo dos modelos 2D antigos que permitiam aditivos. No BIM, isso é bem mais difícil de acontecer, além de permitir à administração a manutenção da obra por muito mais tempo, por fornecer um esqueleto com todas as tubulações, onde se encontram e calbre e etc...
 - **p.727** 🟪 ^23360bbe — "O valor previamente estimado da contratação deverá ser compatível com os valores praticados pelo mercado, considerados os preços constantes de bancos de dados públicos e as quan- tidades a serem contratadas, observa- …"
+- **p.738** 🟨 _(underline)_ ^5c6306cd — "I de impossível a licitação. Por isso, inexigível."
+  - 📝 I de impossível a licitação. Por isso, inexigível.
+- **p.739** 🟦 _(underline)_ ^959c562c — "Aqui tem-se uma dispensa, mas não trata de medicamento de alto custo. Isso deve ser alinhado com a lei 8080/90"
+  - 📝 Aqui tem-se uma dispensa, mas não trata de medicamento de alto custo. Isso deve ser alinhado com a lei 8080/90
+- **p.739** 🟦 _(underline)_ ^10a1c493 — "Supondo que o Venclexta deseje transferir a tecnologia de sua invenção, haveria a dispensa de licitação."
+  - 📝 Supondo que o Venclexta deseje transferir a tecnologia de sua invenção, haveria a dispensa de licitação.
+- **p.742** 🟦 _(underline)_ ^8d4cf2fc — "A pré-qualificação não é obrigatória e obedece discricionariedade, conveniência e oportunidade, porém, se ela houver sido criada e os pré-qualificados restarem, logo ela torna-se de observância obrigatória apenas aos …"
+  - 📝 A pré-qualificação não é obrigatória e obedece discricionariedade, conveniência e oportunidade, porém, se ela houver sido criada e os pré-qualificados restarem, logo ela torna-se de observância obrigatória apenas aos que se pré-qualificaram
 
 ```json
 {
@@ -819,6 +827,330 @@ pdf: "VADE MECUM/Vade_mecum_Senado_Federal_3ed.pdf"
       "source": "manual",
       "marginSide": "auto",
       "isPinned": false
+    },
+    {
+      "id": "5c6306cd",
+      "type": "highlight",
+      "page": 737,
+      "color": "#FBF719",
+      "style": "underline",
+      "text": "Inexigibilidade",
+      "rects": [
+        {
+          "x1": 78.45527655907004,
+          "y1": 106.48471927811863,
+          "x2": 125.2415200195676,
+          "y2": 96.67384311209912
+        }
+      ],
+      "created": "2026-10-09T17:34:59.839Z",
+      "source": "manual",
+      "marginSide": "auto",
+      "isPinned": false,
+      "note": "I de impossível a licitação. Por isso, inexigível."
+    },
+    {
+      "id": "959c562c",
+      "type": "highlight",
+      "page": 738,
+      "color": "rgba(72, 158, 255, 0.42)",
+      "style": "underline",
+      "text": "m) aquisição de medicamentos des-\ntinados exclusivamente ao tratamento\nde doenças raras definidas pelo Minis-\ntério da Saú",
+      "rects": [
+        {
+          "x1": 204.08027737557498,
+          "y1": 316.5227562518911,
+          "x2": 212.62843095104,
+          "y2": 306.7722462262449
+        },
+        {
+          "x1": 212.6566063909141,
+          "y1": 315.8093009465799,
+          "x2": 215.0198614973631,
+          "y2": 307.3073491586301
+        },
+        {
+          "x1": 212.6566063909141,
+          "y1": 316.5227562518911,
+          "x2": 215.0198614973631,
+          "y2": 306.7722462262449
+        },
+        {
+          "x1": 216.80160301304448,
+          "y1": 315.8093009465799,
+          "x2": 320.3728706962347,
+          "y2": 307.3073491586301
+        },
+        {
+          "x1": 216.80160301304448,
+          "y1": 316.5227562518911,
+          "x2": 320.3728706962347,
+          "y2": 306.7722462262449
+        },
+        {
+          "x1": 195.59690440495876,
+          "y1": 305.76091084675824,
+          "x2": 320.3675104906001,
+          "y2": 297.25895905880844
+        },
+        {
+          "x1": 195.59690440495876,
+          "y1": 306.47432033846223,
+          "x2": 320.3675104906001,
+          "y2": 296.7238561264232
+        },
+        {
+          "x1": 195.59690440495876,
+          "y1": 295.7868304178551,
+          "x2": 320.3567442656076,
+          "y2": 287.2848786299053
+        },
+        {
+          "x1": 195.59690440495876,
+          "y1": 296.50028572316637,
+          "x2": 320.3567442656076,
+          "y2": 286.7497756975201
+        },
+        {
+          "x1": 195.59690440495876,
+          "y1": 286.52249439207804,
+          "x2": 234.27541524456421,
+          "y2": 276.772030180039
+        }
+      ],
+      "created": "2026-10-09T17:36:36.093Z",
+      "source": "manual",
+      "marginSide": "auto",
+      "isPinned": false,
+      "note": "Aqui tem-se uma dispensa, mas não trata de medicamento de alto custo. Isso deve ser alinhado com a lei 8080/90"
+    },
+    {
+      "id": "10a1c493",
+      "type": "highlight",
+      "page": 738,
+      "color": "rgba(72, 158, 255, 0.42)",
+      "style": "underline",
+      "text": "XII – para contratação em que houver\ntransferência de tecnologia de produtos\nestratégicos para o Sistema Único de\nSaúde (SUS), conforme elencados em\nato da direção nacional do SUS, inclusive\npor ocasião da aquisição desses pro-\ndutos durante as etapas de absorção\ntecnológica, e em valores compatíveis\ncom aqueles definidos no instrumento\nfirmado para a transferência de tecno-\nlogia;",
+      "rects": [
+        {
+          "x1": 337.3196418540768,
+          "y1": 396.467658343377,
+          "x2": 453.52908326681535,
+          "y2": 386.7171712245344
+        },
+        {
+          "x1": 328.8400256087771,
+          "y1": 385.78014551596635,
+          "x2": 453.63051485036215,
+          "y2": 377.2781937280165
+        },
+        {
+          "x1": 328.8400256087771,
+          "y1": 386.49360082127754,
+          "x2": 453.63051485036215,
+          "y2": 376.7431137024349
+        },
+        {
+          "x1": 328.8400256087771,
+          "y1": 375.8023770916816,
+          "x2": 453.57810395082396,
+          "y2": 367.3004023969282
+        },
+        {
+          "x1": 328.8400256087771,
+          "y1": 376.5158094901892,
+          "x2": 453.57810395082396,
+          "y2": 366.7653223713466
+        },
+        {
+          "x1": 328.8400256087771,
+          "y1": 365.75767498724156,
+          "x2": 453.6860410830897,
+          "y2": 357.2557231992917
+        },
+        {
+          "x1": 328.8400256087771,
+          "y1": 366.47113029255274,
+          "x2": 453.6860410830897,
+          "y2": 356.72064317371013
+        },
+        {
+          "x1": 328.8400256087771,
+          "y1": 355.7799065629568,
+          "x2": 453.519691453524,
+          "y2": 347.27793186820344
+        },
+        {
+          "x1": 328.8400256087771,
+          "y1": 356.4933389614644,
+          "x2": 453.519691453524,
+          "y2": 346.74285184262175
+        },
+        {
+          "x1": 328.8400256087771,
+          "y1": 345.80584904085737,
+          "x2": 453.6131972629274,
+          "y2": 337.3038743461039
+        },
+        {
+          "x1": 328.8400256087771,
+          "y1": 346.519281439365,
+          "x2": 453.6131972629274,
+          "y2": 336.7687943205223
+        },
+        {
+          "x1": 328.8400256087771,
+          "y1": 335.757436034232,
+          "x2": 453.6821927303264,
+          "y2": 327.25546133947864
+        },
+        {
+          "x1": 328.8400256087771,
+          "y1": 336.4708684327397,
+          "x2": 453.6821927303264,
+          "y2": 326.72038131389706
+        },
+        {
+          "x1": 328.8400256087771,
+          "y1": 325.7833785121326,
+          "x2": 453.53916228595733,
+          "y2": 317.2814038173791
+        },
+        {
+          "x1": 328.8400256087771,
+          "y1": 326.4968109106402,
+          "x2": 453.53916228595733,
+          "y2": 316.7463237917975
+        },
+        {
+          "x1": 328.8400256087771,
+          "y1": 315.80929808322946,
+          "x2": 453.6016980183608,
+          "y2": 307.3073462952796
+        },
+        {
+          "x1": 328.8400256087771,
+          "y1": 316.52275338854065,
+          "x2": 453.6016980183608,
+          "y2": 306.77226626969804
+        },
+        {
+          "x1": 328.8400256087771,
+          "y1": 305.7609079834078,
+          "x2": 453.6086158905901,
+          "y2": 297.25893328865436
+        },
+        {
+          "x1": 328.8400256087771,
+          "y1": 306.4743403819154,
+          "x2": 453.6086158905901,
+          "y2": 296.7238532630727
+        },
+        {
+          "x1": 328.8400256087771,
+          "y1": 295.78682755450467,
+          "x2": 346.66362561824616,
+          "y2": 287.2848757665549
+        },
+        {
+          "x1": 328.8400256087771,
+          "y1": 296.50028285981585,
+          "x2": 346.66362561824616,
+          "y2": 286.74979574097324
+        }
+      ],
+      "created": "2026-10-09T17:38:00.981Z",
+      "source": "manual",
+      "marginSide": "auto",
+      "isPinned": false,
+      "note": "Supondo que o Venclexta deseje transferir a tecnologia de sua invenção, haveria a dispensa de licitação.\n"
+    },
+    {
+      "id": "8d4cf2fc",
+      "type": "highlight",
+      "page": 741,
+      "color": "rgba(72, 158, 255, 0.42)",
+      "style": "underline",
+      "text": "Art. 80. A pré-qualificação é o proce-\ndimento técnico-administrativo para\nselecionar previamente:",
+      "rects": [
+        {
+          "x1": 28.333011018666635,
+          "y1": 196.47767776542207,
+          "x2": 41.57971858940913,
+          "y2": 186.66684391240517
+        },
+        {
+          "x1": 41.586507676585875,
+          "y1": 195.74552177509702,
+          "x2": 43.94923691291946,
+          "y2": 187.2456998938909
+        },
+        {
+          "x1": 41.586507676585875,
+          "y1": 196.47767776542207,
+          "x2": 43.94923691291946,
+          "y2": 186.66684391240517
+        },
+        {
+          "x1": 44.428505577976146,
+          "y1": 195.74552177509702,
+          "x2": 55.33834307309566,
+          "y2": 187.2456998938909
+        },
+        {
+          "x1": 44.428505577976146,
+          "y1": 196.47767776542207,
+          "x2": 55.33834307309566,
+          "y2": 186.66684391240517
+        },
+        {
+          "x1": 55.32053493788438,
+          "y1": 195.74552177509702,
+          "x2": 57.683271224152726,
+          "y2": 187.2456998938909
+        },
+        {
+          "x1": 55.32053493788438,
+          "y1": 196.47767776542207,
+          "x2": 57.683271224152726,
+          "y2": 186.66684391240517
+        },
+        {
+          "x1": 59.60870005707361,
+          "y1": 195.74552177509702,
+          "x2": 152.64475744195377,
+          "y2": 187.2456998938909
+        },
+        {
+          "x1": 59.60870005707361,
+          "y1": 196.47767776542207,
+          "x2": 152.64475744195377,
+          "y2": 186.66684391240517
+        },
+        {
+          "x1": 28.333011018666635,
+          "y1": 185.7702172805241,
+          "x2": 153.00436756427848,
+          "y2": 177.27038129498374
+        },
+        {
+          "x1": 28.333011018666635,
+          "y1": 186.5023591665148,
+          "x2": 153.00436756427848,
+          "y2": 176.6915253134979
+        },
+        {
+          "x1": 28.333011018666635,
+          "y1": 176.52704056760751,
+          "x2": 106.16927510580827,
+          "y2": 166.71622081892497
+        }
+      ],
+      "created": "2026-10-09T17:52:04.217Z",
+      "source": "manual",
+      "marginSide": "auto",
+      "isPinned": false,
+      "note": "A pré-qualificação não é obrigatória e obedece discricionariedade, conveniência e oportunidade, porém, se ela houver sido criada e os pré-qualificados restarem, logo ela torna-se de observância obrigatória apenas aos que se pré-qualificaram"
     }
   ]
 }
