@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_inbox/VAVILOV_REVISAO_Arena Mode_10-10-2026.md",
+                "file": "DIREITO PENAL/A2/DIR.PENAL.A.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VAVILOV_REVISAO_Arena Mode_10-10-2026"
+              "title": "DIR.PENAL.A.2"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.68701171875
+    "width": 329.68701171875,
+    "collapsed": true
   },
   "right": {
     "id": "1f21ed8ca2632c5a",
@@ -204,8 +205,8 @@
   },
   "active": "c6d2bf16d72d3d61",
   "lastOpenFiles": [
-    "DIREITO CONSTITUCIONAL/A0/Whiteboard.pencil",
     "00_inbox/VAVILOV_REVISAO_Arena Mode_10-10-2026.md",
+    "DIREITO CONSTITUCIONAL/A0/Whiteboard.pencil",
     "DIREITO CONSTITUCIONAL/A0/Eficácia Constitucional.md",
     "Pasted image 20261009191709.png",
     "cláusula de reserva de plenário.md",

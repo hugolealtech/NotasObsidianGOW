@@ -69,27 +69,18 @@ doutrina e pela jurisprudência:
 
 3º - *Princípio da consunção ou da absorção *
 
-O fato mais grave e mais amplo absorve o fato menos grave e menos amplo (ou os fatos menos graves e menos amplos) que constituem preparação, execução ou exaurimento do fato mais grave. Consequentemente a lei que tipifica o fato
-
-mais grave prevalece sobre a lei que tipifica o fato menos grave.
+>[!SUCCESS] ATENÇÃO
+>O fato mais grave e mais amplo absorve o fato menos grave e menos amplo (ou os fatos menos graves e menos amplos) que constituem preparação, execução ou exaurimento do fato mais grave. Consequentemente a lei que tipifica o fato mais grave prevalece sobre a lei que tipifica o fato menos grave.
 
 A lei consuntiva prevalece sobre a lei consumida. Existem entre ambas uma relação de continente e conteúdo.
 
-A comparação não é entre as leis e sim entre os fatos, sobrando apenas a aplicação da norma que regula o fato mais
+A comparação não é entre as leis e sim entre os fatos, sobrando apenas a aplicação da norma que regula o fato mais grave. Por exemplo o fato consumado absorve o fato tentado, o delito de dano absorve o de perigo.
 
-grave. Por exemplo o fato consumado absorve o fato tentado, o delito de dano absorve o de perigo.
+É necessário um nexo de dependência entre os fatos, pois se eles são absolutamente independentes entre si haverá concurso material de crimes.
 
-É necessário um nexo de dependência entre os fatos, pois se eles são absolutamente independentes entre si haverá
+No princípio da subsidiariedade comparam se às leis para saber qual é aplicável. No princípio da consunção comparam se os fatos para verificar qual é o mais grave sendo mera consequência lógica a aplicação da lei que o tipifica.
 
-concurso material de crimes.
-
-No princípio da subsidiariedade comparam se às leis para saber qual é aplicável. No princípio da consunção comparam se
-
-os fatos para verificar qual é o mais grave sendo mera consequência lógica a aplicação da lei que o tipifica.
-
-Além disso nos princípios da especialidade da subsidiariedade há um só fato enquanto no princípio da consunção há dois
-
-ou mais fatos.
+Além disso nos princípios da especialidade da subsidiariedade há um só fato enquanto no princípio da consunção há dois ou mais fatos.
 
 *a) Hipóteses de incidência do princípio da consunção*
 
@@ -97,9 +88,7 @@ ou mais fatos.
 
 É o crime que decorre da fusão de dois ou mais crimes que passam a funcionar como elementares ou circunstâncias dele.
 
-Existe um entendimento de que o crime complexo na verdade é uma hipótese de concurso de crimes tipificado em um
-
-único dispositivo por escolha do legislador.
+Existe um entendimento de que o crime complexo na verdade é uma hipótese de concurso de crimes tipificado em um único dispositivo por escolha do legislador.
 
 Seja como for, o tipo complexo prevalece sobre os tipos simples.
 
@@ -108,45 +97,38 @@ Seja como for, o tipo complexo prevalece sobre os tipos simples.
 
 ---
 
-2 – *Crime progressivo*
+#### 2 – *Crime progressivo*
 
-O agente, desde o início, pretende determinado resultado mais grave, mas para alcançá-lo necessita praticar atos menos graves que apesar de típicos ficam absorvidos pelo crime-fim. Esses atos mais brandos que ficam absorvidos pelo crime enfim são denominados crimes de ação de passagem. Em suma, desde o início o crime mais grave é desejado pelo agente
+O agente, desde o início, pretende determinado resultado mais grave, mas para alcançá-lo necessita praticar atos menos graves que apesar de típicos ficam absorvidos pelo crime-fim. Esses atos mais brandos que ficam absorvidos pelo crime enfim são denominados ==crimes de ação de passagem==. Em suma, desde o início o crime mais grave é desejado pelo agente
 
 (unidade de elemento subjetivo)
 
-3 – *Progressão criminosa*
+#### 3 – *Progressão criminosa*
 
-O agente inicialmente pretendo determinado resultado e depois de alcançá-lo altera o dolo e passar a pretender outro resultado que inicialmente não era pretendido. Há uma alteração do dolo com pluralidade de elementos subjetivos ou
-
-pluralidade de desígnios.
+O agente inicialmente pretendo determinado resultado e depois de alcançá-lo altera o dolo e passar a pretender outro resultado que inicialmente não era pretendido. Há uma alteração do dolo com pluralidade de elementos subjetivos ou pluralidade de desígnios.
 
 Cada uma das condutas corresponde a uma vontade autônoma. A punição, entretanto, será do ato final (mais grave).
 
-4 – *Fatos impuníveis*
+#### 4 – *Fatos impuníveis*
 
 Os fatos impuníveis podem ser anteriores, simultâneos ou posteriores (impunível).
 
-Esses fatos só podem ficar absorvidos quando forem menos graves do que o fato principal. Obs.: o STJ excepcional essa regra na súmula 17 que dispõe que o falso fica absorvido pelo estelionato quando neles se exaure. a doutrina crítica essa súmula por considerá-la violadora do princípio da consunção ou da absorção, mesmo porque trata-se de crimes que
+Esses fatos só podem ficar absorvidos quando forem menos graves do que o fato principal. 
 
-tutelam bens jurídicos diferentes de tal forma que um não pode absorver o outro.
+Obs.: o STJ excepcional essa regra na súmula 17 que dispõe que o falso fica absorvido pelo estelionato quando neles se exaure. a doutrina crítica essa súmula por considerá-la violadora do princípio da consunção ou da absorção, mesmo porque trata-se de crimes que tutelam bens jurídicos diferentes de tal forma que um não pode absorver o outro.
 
-Os atos anteriores impuníveis ou atos prévios ou preliminares impuníveis são aqueles que funcionam como meio de execução do fato principal. Por exemplo, o crime de dano é ato prévio impunível no delito de furto qualificado pelo
+Os atos anteriores impuníveis ou atos prévios ou preliminares impuníveis são aqueles que funcionam como meio de execução do fato principal. Por exemplo, o crime de dano é ato prévio impunível no delito de furto qualificado pelo rompimento de obstáculo.
 
-rompimento de obstáculo.
-
-O *ante factum *impunível não se confunde com o crime progressivo. Neste o ato menos grave deve obrigatoriamente ser praticado para se alcançar o ato mais grave. Por exemplo, é impossível matar sem antes ferir. No *ante factum *impunível o fato menos grave não é necessário para o alcance do resultado mais grave. Por exemplo, é possível ao ladrão furtar sem
-
+O *ante factum *impunível não se confunde com o crime progressivo. Neste o ato menos grave deve obrigatoriamente ser praticado para se alcançar o ato mais grave. Por exemplo, é impossível matar sem antes ferir. No *ante factum *impunível o fato menos grave não é necessário para o alcance do resultado mais grave. Por exemplo, é possível ao ladrão furtar sem 
 danificar o obstáculo.
 
-Os atos concomitantes ou simultâneos impuníveis são aqueles praticados no mesmo momento em que se executa o fato
-
-principal. Por exemplo, o constrangimento ilegal praticado durante a execução da extorsão.
+Os atos concomitantes ou simultâneos impuníveis são aqueles praticados no mesmo momento em que se executa o fato principal. Por exemplo, o constrangimento ilegal praticado durante a execução da extorsão.
 
 E os fatos posteriores não puníveis são aqueles nos quais o agente pratica nova ofensa contra o mesmo bem jurídico
 
 (exaurimento). Por exemplo, a venda da coisa subtraída.
 
-4º - *Princípio da alternatividade*
+#### 4º - *Princípio da alternatividade*
 
 A alternatividade ocorre quando o mesmo tipo penal descreve várias condutas – vários fatos – como modalidades ou figuras da mesma infração penal. São os chamados tipos mistos alternativos, de ação múltipla ou de conteúdo variado.
 
@@ -161,17 +143,11 @@ Por isso mesmo grande parcela da doutrina não aceita esse princípio dentre os 
 
 aparente de normas.
 
-Além disso, grande parte da doutrina diz que esse princípio nada mais é do que o princípio da consunção com uma
+Além disso, grande parte da doutrina diz que esse princípio nada mais é do que o princípio da consunção com uma nomenclatura diferente.
 
-nomenclatura diferente.
+E falta nesse caso o requisito essencial para a ocorrência do conflito aparente de normas que é a existência de duas ou mais normas simultaneamente vigentes.
 
-E falta nesse caso o requisito essencial para a ocorrência do conflito aparente de normas que é a existência de duas ou
-
-mais normas simultaneamente vigentes.
-
-Pelo princípio da alternatividade se o agente, no mesmo contexto fático, praticar diversas condutas descritas no mesmo
-
-tipo penal, deve responder por apenas uma delas ficando absorvidas nas demais.
+Pelo princípio da alternatividade se o agente, no mesmo contexto fático, praticar diversas condutas descritas no mesmo tipo penal, deve responder por apenas uma delas ficando absorvidas nas demais.
 
 #### Bloco 2
 
@@ -183,15 +159,13 @@ tipo penal, deve responder por apenas uma delas ficando absorvidas nas demais.
 > [!attention] Atenção!
 > Obs. a analogia só cabe quando há uma lacuna involuntária da lei
 
-A analogia, também conhecida como integração analógica ou suplemento analógico, não é fonte do direito, mas apenas
-
-mecanismo de integração ou colmatação do ordenamento jurídico.
+A analogia, também conhecida como integração analógica ou suplemento analógico, não é fonte do direito, mas apenas mecanismo de integração ou colmatação do ordenamento jurídico.
 
 Em razão do princípio da reserva legal não é possível o uso da analogia no caso de normas incriminadoras.
 
 A doutrina aponta as seguintes espécies de analogia
 
-a) Analogia *in malam partem: *é vedada no nosso ordenamento jurídico em razão do princípio da reserva legal.
+a) Analogia *in malam partem: ==🟢*é vedada no nosso ordenamento jurídico em razão do princípio da reserva legal.*==
 
 b) Analogia *in bonam partem: *É a aplicação de uma lei favorável ao réu que regula caso semelhante para o qual não existe
 
@@ -201,13 +175,9 @@ c) Analogia legal: É aquela na qual se aplica há um caso não regulado por lei
 
 d) Analogia jurídica: é aquela na qual se aplica a um caso não regulado em lei um princípio geral de direito.
 
-Não cabe analogia nos casos de silêncio eloquente da lei, que ocorre quando o legislador propositalmente deixa de incluir
+Não cabe analogia nos casos de silêncio eloquente da lei, que ocorre quando o legislador propositalmente deixa de incluir determinada situação no âmbito da norma.
 
-determinada situação no âmbito da norma.
-
-Também não pode o juiz afastar uma norma vigente para aplicar em lugar dela outra norma que ele reputa melhor. Não
-
-pode o legislador se substituir na função do legislador.
+Também não pode o juiz afastar uma norma vigente para aplicar em lugar dela outra norma que ele reputa melhor. Não pode o legislador se substituir na função do legislador.
 
 #### 11. Classificação da Lei Penal
 
