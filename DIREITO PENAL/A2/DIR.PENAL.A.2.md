@@ -139,9 +139,7 @@ Não se trata de um conflito entre normas, mas um conflito interno na própria n
 
 ---
 
-Por isso mesmo grande parcela da doutrina não aceita esse princípio dentre os princípios de solução dos conflitos
-
-aparente de normas.
+Por isso mesmo grande parcela da doutrina não aceita esse princípio dentre os princípios de solução dos conflitos aparente de normas.
 
 Além disso, grande parte da doutrina diz que esse princípio nada mais é do que o princípio da consunção com uma nomenclatura diferente.
 
@@ -157,7 +155,7 @@ Pelo princípio da alternatividade se o agente, no mesmo contexto fático, prati
 > Obs. Trata-se de regular um caso não regulado por lei através de um outro caso, semelhante, regulado por lei
 
 > [!attention] Atenção!
-> Obs. a analogia só cabe quando há uma lacuna involuntária da lei
+> Obs. a analogia só cabe quando há uma lacuna ==involuntária da lei==
 
 A analogia, também conhecida como integração analógica ou suplemento analógico, não é fonte do direito, mas apenas mecanismo de integração ou colmatação do ordenamento jurídico.
 
@@ -175,7 +173,7 @@ c) Analogia legal: É aquela na qual se aplica há um caso não regulado por lei
 
 d) Analogia jurídica: é aquela na qual se aplica a um caso não regulado em lei um princípio geral de direito.
 
-Não cabe analogia nos casos de silêncio eloquente da lei, que ocorre quando o legislador propositalmente deixa de incluir determinada situação no âmbito da norma.
+Não cabe analogia nos casos de [[silêncio eloquente da lei]], que ocorre quando o legislador propositalmente deixa de incluir determinada situação no âmbito da norma.
 
 Também não pode o juiz afastar uma norma vigente para aplicar em lugar dela outra norma que ele reputa melhor. Não pode o legislador se substituir na função do legislador.
 
@@ -211,9 +209,9 @@ b.3.) Interpretativas: esclarecem o significado de outras leis penais   (ex. art
 
 > [!quote] 
 > LEI
-> Art. 327 - Considera-se funcionário público, para os efeitos penais, quem, embora transitoriamente ou sem
+> Art. 327 - Considera-se funcionário público, para os efeitos penais, quem, embora transitoriamente ou sem remuneração, exerce cargo, emprego ou função pública.
 
-remuneração, exerce cargo, emprego ou função pública.
+
 
 b.4.) De aplicação (finais ou complementares): Definem o campo de validade das leis incriminadoras. por exemplo os
 
@@ -221,27 +219,15 @@ artigos 2º e 5º do CP.
 
 > [!quote] 
 > LEI
-> Art. 2º - Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando em virtude dela a
-
-execução e os efeitos penais da sentença condenatória.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
-
-Parágrafo único - A lei posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores, ainda que
-
-decididos por sentença condenatória transitada em julgado.
+> Art. 2º - Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando em virtude dela a execução e os efeitos penais da sentença condenatória.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+> Parágrafo único - A lei posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores, ainda que  decididos por sentença condenatória transitada em julgado.
 
 > [!quote] 
 > LEI
-> Art. 5º - Aplica-se a lei brasileira, sem prejuízo de convenções, tratados e regras de direito internacional, ao crime
-
-cometido no território nacional. (Redação dada pela Lei nº 7.209, de 1984)
-
-§ 1º - Para os efeitos penais, consideram-se como extensão do território nacional as embarcações e aeronaves brasileiras, de natureza pública ou a serviço do governo brasileiro onde quer que se encontrem, bem como as aeronaves e as embarcações brasileiras, mercantes ou de propriedade privada, que se achem, respectivamente, no espaço aéreo
-
-correspondente ou em alto-mar. (Redação dada pela Lei nº 7.209, de 1984)
-
-§ 2º - É também aplicável a lei brasileira aos crimes praticados a bordo de aeronaves ou embarcações estrangeiras de propriedade privada, achando-se aquelas em pouso no território nacional ou em vôo no espaço aéreo correspondente,
-
-e estas em porto ou mar territorial do Brasil.(Redação dada pela Lei nº 7.209, de 1984)
+> Art. 5º - Aplica-se a lei brasileira, sem prejuízo de convenções, tratados e regras de direito internacional, ao crime cometido no território nacional. (Redação dada pela Lei nº 7.209, de 1984).
+> § 1º - Para os efeitos penais, consideram-se como extensão do território nacional as embarcações e aeronaves brasileiras, de natureza pública ou a serviço do governo brasileiro onde quer que se encontrem, bem como as aeronaves e as embarcações brasileiras, mercantes ou de propriedade privada, que se achem, respectivamente, no espaço aéreo correspondente ou em alto-mar. (Redação dada pela Lei nº 7.209, de 1984)
+> 
+> § 2º - É também aplicável a lei brasileira aos crimes praticados a bordo de aeronaves ou embarcações estrangeiras de propriedade privada, achando-se aquelas em pouso no território nacional ou em vôo no espaço aéreo correspondente, e estas em porto ou mar territorial do Brasil.(Redação dada pela Lei nº 7.209, de 1984)
 
 b.5.) Diretivas: estabelecem os princípios. Por exemplo, art. 1º do CP.
 
@@ -251,9 +237,7 @@ b.5.) Diretivas: estabelecem os princípios. Por exemplo, art. 1º do CP.
 
 7.209, de 11.7.1984)
 
-b.6.) Integrativas ou de extensão: são as que permitem a tipicidade da conduta nos casos de crimes omissivos impróprios,
-
-tentativa e participação
+b.6.) Integrativas ou de extensão: são as que permitem a tipicidade da conduta nos casos de crimes omissivos impróprios, tentativa e participação
 
 *c) Completas ou perfeitas: *apresentam todos os elementos da conduta criminosa
 
@@ -262,43 +246,37 @@ tentativa e participação
 
 ---
 
-*d)* *Incompletas ou imperfeitas*: que necessitam de complementação por uma outra norma jurídica (normas penais em
-
-branco ) ou que precisam ser complementadas por decisão judicial (tipos penais abertos).
+*d)* *Incompletas ou imperfeitas*: que necessitam de complementação por uma outra norma jurídica (normas penais em branco ) ou que precisam ser complementadas por decisão judicial (tipos penais abertos).
 
 **11.1 Normas penais em branco**:
 
-A norma penal em branco também denominada de norma penal cega ou aberta é aquela que depende de
-
-complementação por outra norma jurídica (outra lei ou outro ato normativo ou administrativo).
-
-tráfico de droga como ex de norma penal em branco (o complemento está em portaria)
+A norma penal em branco também denominada de norma penal cega ou aberta é aquela que depende de complementação por outra norma jurídica (outra lei ou outro ato normativo ou administrativo). tráfico de droga como ex de norma penal em branco (o complemento está em portaria)
 
 São divididas em:
 
-**a) Lei penal em branco em sentido lato ou homogênea**: o complemento tem a mesma natureza jurídica da lei penal e provendo o mesmo órgão que a elaborou. Pode ser homovitelina (quando o complemento está no mesmo diploma legislativo da lei em branco) ou heterovitelina (quando a norma em branco e o complemento estão em diplomas
+**a) Lei penal em branco em sentido lato ou homogênea**: o complemento tem a mesma natureza jurídica da lei penal e provendo o mesmo órgão que a elaborou. Pode ser homovitelina (quando o complemento está no mesmo diploma legislativo da lei em branco) ou heterovitelina (quando a norma em branco e o complemento estão em diplomas legislativos diferentes).
 
-legislativos diferentes).
+>[!example] A norma penal em branco será complementada por lei.
+>* Homovitelina -> Ele busca a complementação dentro da própria norma como o art. 312 CP + 327 do CP;
+>* Heterovitelina -> Ele busca a complementação dentro de outra lei, como o art. 236 do CP + Definição do Código Civil que vai definir o impedimento do casamento do exemplo do art. 236 do CP.
 
-**b) Lei penal em branco em sentido estrito ou heterogênea**: quando o complemento tem natureza jurídica diversa e
 
-emana de órgão distinto daquele que elaborou a lei penal incriminadora.
 
-**c) Lei penal em branco e inversa ou ao avesso**: A pena tem de ser complementada por outra norma penal. o preceito
+**b) Lei penal em branco em sentido estrito ou heterogênea**: quando o complemento tem natureza jurídica diversa e emana de órgão distinto daquele que elaborou a lei penal incriminadora.
 
-primário é completo, mas o preceito secundário é incompleto. (genocídio como exemplo)
+>[!example] É complementada por outra norma que não lei.
+>* Artigo 33 da Lei de drogas é uma pena penal em branco heterogênea , onde é complementada por uma portaria do Ministério da Saúde, que define o que é droga.
 
-**d) Lei penal em branco de fundo constitucional**: O complemento está numa norma constitucional. por exemplo o crime de abandono intelectual (art. 246 do CP) é complementado pelo artigo 208 , I, da CF que define o conceito de instrução primária. outro exemplo é o homicídio qualificado contra integrantes dos órgãos de segurança pública que estão definidos
 
-nos artigos 142 e 144 da Constituição.
+**c) Lei penal em branco e inversa ou ao avesso**: A pena tem de ser complementada por outra norma penal. o preceito primário é completo, mas o preceito secundário é incompleto. (genocídio como exemplo).
 
-**e) Lei penal em branco ao quadrado**: é aquela cujo complemento também depende de uma complementação. Por exemplo muitos tipos penais ambientais trazem conceitos como “Floresta de preservação permanente“, cujo conceito
 
-está em uma outra lei que estabelece a regulamentação por um ato do Poder Executivo.
 
-*Pergunta*: Como a competência para legislar em matéria penal é privativa da União (art. 22, I, CF), o complemento da
+**d) Lei penal em branco de fundo constitucional**: O complemento está numa norma constitucional. por exemplo o crime de abandono intelectual (art. 246 do CP) é complementado pelo artigo 208 , I, da CF que define o conceito de instrução primária. outro exemplo é o homicídio qualificado contra integrantes dos órgãos de segurança pública que estão definidos nos artigos 142 e 144 da Constituição.
 
-norma penal pode advir de outros órgãos legislativos ou administrativos?
+**e) Lei penal em branco ao quadrado**: é aquela cujo complemento também depende de uma complementação. Por exemplo muitos tipos penais ambientais trazem conceitos como “Floresta de preservação permanente“, cujo conceito está em uma outra lei que estabelece a regulamentação por um ato do Poder Executivo.
+
+*Pergunta*: Como a competência para legislar em matéria penal é privativa da União (art. 22, I, CF), o complemento da norma penal pode advir de outros órgãos legislativos ou administrativos?
 
 A doutrina diz que isso é possível desde que o complemento não aumente o âmbito de incidência da norma.
 
@@ -315,29 +293,21 @@ A doutrina diz que isso é possível desde que o complemento não aumente o âmb
 
 ⮚ Aspecto formal
 
-- Crime é conduta/comportamento que se amolda/ajusta/encaixa ao tipo penal e se sujeita à respectiva sanção
-
-penal
+- Crime é conduta/comportamento que se amolda/ajusta/encaixa ao tipo penal e se sujeita à respectiva sanção penal
 
 - Sob o aspecto formal, crime é conduta que se amolda ao modelo legal, sujeita a sanção penal.
 
 ⮚ Aspecto material
 
-- Crime é uma ação ou omissão humana que causa lesão ou perigo de lesão a um bem fundamental da coletividade
+- Crime é uma ação ou omissão humana que causa lesão ou perigo de lesão a um bem fundamental da coletividade (um bem jurídico)
 
-(um bem jurídico)
-
-- Sob o aspecto material ou substancial, crime é toda ação ou omissão humana que lesa ou expõe a perigo relevante
-
-um bem jurídico penalmente tutelado.
+- Sob o aspecto material ou substancial, crime é toda ação ou omissão humana que lesa ou expõe a perigo relevante um bem jurídico penalmente tutelado.
 
 ⮚ Aspecto analítico (dogmático)
 
 - Analisa o crime a partir de seus elementos estruturais
 
-- Sob o aspecto analítico ou dogmático (alguns denominam esse critério formal), o crime é analisado a partir dos
-
-seus elementos. E aqui não há consenso na doutrina sobre quais são os elementos do crime
+- Sob o aspecto analítico ou dogmático (alguns denominam esse critério formal), o crime é analisado a partir dos seus elementos. E aqui não há consenso na doutrina sobre quais são os elementos do crime
 
 - Quais são os elementos do crime?
 
@@ -347,7 +317,7 @@ seus elementos. E aqui não há consenso na doutrina sobre quais são os element
 
 -Ilicitude
 
--Veja que a culpabilidade não integra o conceito de crime, atuando apenas como pressuposto para aplicação da pena
+-Veja que a ==🟠culpabilidade não integra o conceito de crime==, atuando apenas como pressuposto para aplicação da pena
 
 - Corrente tripartida:
 
@@ -381,9 +351,7 @@ O CP não contém a definição do que é crime, mas a LICP possui dispositivo q
 
 > [!quote] 
 > LEI
-> Art. 1º: *“Considera-se crime a infração penal a que a lei comina pena de reclusão ou de detenção, quer * *isoladamente, quer alternativa ou cumulativamente com a pena de multa; contravenção, a infração penal que a lei *
-
-*comina, isoladamente, pena de prisão simples ou de multa, ou ambas, alternativa ou cumulativamente*.
+> Art. 1º: *“Considera-se crime a infração penal a que a lei comina pena de reclusão ou de detenção, quer * *isoladamente, quer alternativa ou cumulativamente com a pena de multa; contravenção, a infração penal que a lei comina, isoladamente, pena de prisão simples ou de multa, ou ambas, alternativa ou cumulativamente*.
 
 Como se vê, não existe diferença ontológica entre crime e contravenção. A diferença não é de qualidade (ambos são ilícitos penais), mas de quantidade (o crime é infração mais grave do que a contravenção).
 
