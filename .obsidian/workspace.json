@@ -20,8 +20,35 @@
               "icon": "lucide-file",
               "title": "DIR.PENAL.A.2"
             }
+          },
+          {
+            "id": "62a3a309f88e6535",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TESTETESTE/TESTE TESTE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TESTE TESTE"
+            }
+          },
+          {
+            "id": "3cc52ecca5399207",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.14.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,8 +229,12 @@
       "pencil:New whiteboard": false
     }
   },
-  "active": "c6d2bf16d72d3d61",
+  "active": "3cc52ecca5399207",
   "lastOpenFiles": [
+    "TESTE TESTE.md",
+    "TESTETESTE/TESTE TESTE.md",
+    "DIREITO PENAL/A2/DIR.PENAL.A.2.md",
+    "TESTETESTE",
     "00_inbox/VAVILOV_REVISAO_Arena Mode_10-10-2026.md",
     "DIREITO CONSTITUCIONAL/A0/Whiteboard.pencil",
     "DIREITO CONSTITUCIONAL/A0/Eficácia Constitucional.md",
@@ -239,7 +270,6 @@
     "DIREITO ADMINISTRATIVO/A1/images/dir-adm-a-1-img4-pg7.png",
     "DIREITO ADMINISTRATIVO/A1/images/dir-adm-a-1-img8-pg13.png",
     "DIREITO ADMINISTRATIVO/A1/images/dir-adm-a-1-img14-pg18.png",
-    "DIREITO ADMINISTRATIVO/A1/DIR.ADM.A.1.pdf",
     "DIREITO PENAL/A1/DIR.PENAL.A.1.md",
     "DIREITO ADMINISTRATIVO/A10/DIR.ADM.A.10.md",
     "00_inbox/DIR.ADM.A.10.md",
@@ -247,8 +277,6 @@
     "DIREITO CONSTITUCIONAL/AULA 10/DIR.CONST.A.10.md",
     "file:/Users/hugodeoliveiraleal/Downloads/prompt_coder_docintel.md",
     "00_inbox/DIR.ADM.A.6.md",
-    "DIREITO DA CRIANÇA E DO ADOLESCENTE/A1/DIR.CRIANC.ADOLESC.A.1.md",
-    "DIREITO DA CRIANÇA E DO ADOLESCENTE/A2/DIR.CRIANC.ADOLSC.A.2.md",
     "images/Sem título.canvas"
   ]
 }
